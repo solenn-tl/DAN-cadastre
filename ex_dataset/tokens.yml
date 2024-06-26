@@ -1,0 +1,22 @@
+---
+ancien_numero_parcelle:
+  start: Ⓐ
+  end: Ⓑ
+ancienne_nature:
+  start: Ⓒ
+  end: Ⓓ
+identite:
+  start: Ⓔ
+  end: Ⓕ
+lieu-dit:
+  start: Ⓖ
+  end: Ⓗ
+nature:
+  start: Ⓘ
+  end: Ⓙ
+numero_parcelle:
+  start: Ⓚ
+  end: Ⓛ
+numero_proprietaire:
+  start: Ⓜ
+  end: Ⓝ

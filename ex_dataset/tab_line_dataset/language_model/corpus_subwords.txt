@@ -1,0 +1,1823 @@
+▁ Ⓖ le ▁ B ou v y Ⓗ ▁ Ⓔ M ar b ot ▁ ( le ▁ B ar on ) Ⓕ ▁ Ⓚ 141 Ⓛ ▁ Ⓘ re s e r voi r Ⓙ ▁ Ⓐ p . ▁ 134 Ⓑ ▁ Ⓒ B ois Ⓓ
+▁ Ⓖ § Ⓗ ▁ Ⓔ § Ⓕ ▁ Ⓚ 142 Ⓛ ▁ Ⓘ ( pavillon ) → bâtiment Ⓙ ▁ Ⓐ 140 Ⓑ ▁ Ⓒ pavillon Ⓓ
+▁ Ⓖ § Ⓗ ▁ Ⓔ § Ⓕ ▁ Ⓚ 143 Ⓛ ▁ Ⓘ Terre Ⓙ ▁ Ⓐ p . 134 → p . 139 Ⓑ ▁ Ⓒ B ois → pré Ⓓ
+▁ Ⓖ § Ⓗ ▁ Ⓔ § Ⓕ ▁ Ⓚ 144 Ⓛ ▁ Ⓘ B ois → taill is Ⓙ ▁ Ⓐ p . 134 Ⓑ ▁ Ⓒ B ois Ⓓ
+▁ Ⓖ § Ⓗ ▁ Ⓔ § Ⓕ ▁ Ⓚ 145 Ⓛ ▁ Ⓘ pré Ⓙ ▁ Ⓐ p . ▁ 141 ↑ bis ↓→ p . ▁ 139 → p . ▁ 140 ↑ bis ↓→ p . ▁ 141 Ⓑ ▁ Ⓒ Terre → pré → Terre → Terre Ⓓ
+▁ Ⓖ § Ⓗ ▁ Ⓔ § Ⓕ ▁ Ⓚ 146 Ⓛ ▁ Ⓘ Terre Ⓙ ▁ Ⓐ p . ▁ 141 → p . ▁ 141 ↑ bis ↓ Ⓑ ▁ Ⓒ T → T Ⓓ
+▁ Ⓖ § Ⓗ ▁ Ⓔ § Ⓕ ▁ Ⓚ 147 Ⓛ ▁ Ⓘ Terre Ⓙ ▁ Ⓐ p . 134 Ⓑ ▁ Ⓒ B ois Ⓓ
+▁ Ⓖ § Ⓗ ▁ Ⓔ § Ⓕ ▁ Ⓚ 148 Ⓛ ▁ Ⓘ B ois ▁ taill is Ⓙ ▁ Ⓐ p . ▁ 134 Ⓑ ▁ Ⓒ B ois Ⓓ
+▁ Ⓖ § Ⓗ ▁ Ⓔ § Ⓕ ▁ Ⓚ 149 Ⓛ ▁ Ⓘ Terre Ⓙ ▁ Ⓐ p . ▁ 140 ↑ bis ↓→ p . ▁ 141 ↑ bis ↓→ p . 141 Ⓑ ▁ Ⓒ T → T → T Ⓓ
+▁ Ⓖ § Ⓗ ▁ Ⓔ § Ⓕ ▁ Ⓚ 150 Ⓛ ▁ Ⓘ Ru ▁ ou → fossé Ⓙ ▁ Ⓐ 142 Ⓑ ▁ Ⓒ fossé Ⓓ
+▁ Ⓖ § Ⓗ ▁ Ⓔ D e la ville ▁ L e r oux Ⓕ ▁ Ⓚ 151 Ⓛ ▁ Ⓘ Terre Ⓙ ▁ Ⓐ 143 Ⓑ ▁ Ⓒ T Ⓓ
+▁ Ⓖ Pont ▁ J a p h e t Ⓗ ▁ Ⓔ B e rt rand ▁ achil le Ⓕ ▁ Ⓚ 52 ▁ s ui t e Ⓛ ▁ Ⓘ terre Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ B e s val ▁ Jean ▁ françois ▁ antoine Ⓕ ▁ Ⓚ § Ⓛ ▁ Ⓘ § Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ B l on de au ▁ émile ▁ pierre Ⓕ ▁ Ⓚ § Ⓛ ▁ Ⓘ § Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ B ou lot ▁ is id or e Ⓕ ▁ Ⓚ § Ⓛ ▁ Ⓘ § Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ B ro d in ▁ charles ▁ guillaume Ⓕ ▁ Ⓚ § Ⓛ ▁ Ⓘ § Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ C as ter on ▁ victor Ⓕ ▁ Ⓚ § Ⓛ ▁ Ⓘ § Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ C aud y ▁ ma t h i as Ⓕ ▁ Ⓚ § Ⓛ ▁ Ⓘ § Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ Ch oquet ▁ pierre Ⓕ ▁ Ⓚ § Ⓛ ▁ Ⓘ § Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ C ↑ i e ↓ ▁ an on y m e ▁ du ▁ ch ↑ in ↓ ▁ de ▁ fer ▁ de ▁ Paris ▁ à ▁ L y on Ⓕ ▁ Ⓚ § Ⓛ ▁ Ⓘ § Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ C or b ier ▁ émile ▁ Joseph Ⓕ ▁ Ⓚ § Ⓛ ▁ Ⓘ § Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ C oud r ay ▁ Jean ▁ françois Ⓕ ▁ Ⓚ § Ⓛ ▁ Ⓘ § Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ Cour b assier ▁ henri ▁ c lément Ⓕ ▁ Ⓚ § Ⓛ ▁ Ⓘ § Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ D an i e l ▁ Joseph Ⓕ ▁ Ⓚ § Ⓛ ▁ Ⓘ § Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ D au not Ⓕ ▁ Ⓚ § Ⓛ ▁ Ⓘ § Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ D e f e ux ▁ françois ▁ alphonse Ⓕ ▁ Ⓚ § Ⓛ ▁ Ⓘ § Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ D e u nou g e ot ▁ françois ▁ x avier Ⓕ ▁ Ⓚ § Ⓛ ▁ Ⓘ § Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ D e s c or p s ▁ Jean Ⓕ ▁ Ⓚ § Ⓛ ▁ Ⓘ § Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ D e v id al ▁ B e n o ï t Ⓕ ▁ Ⓚ § Ⓛ ▁ Ⓘ § Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ D e vin ▁ louis ▁ Joseph Ⓕ ▁ Ⓚ § Ⓛ ▁ Ⓘ § Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ Dieu d on né ▁ Jean ▁ B ↑ t e ↓ Ⓕ ▁ Ⓚ § Ⓛ ▁ Ⓘ § Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ D o b y ▁ augustin ▁ françois ▁ joseph Ⓕ ▁ Ⓚ § Ⓛ ▁ Ⓘ § Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ Dominique ▁ michel Ⓕ ▁ Ⓚ § Ⓛ ▁ Ⓘ § Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ D r om e r ▁ veuve ▁ né e ▁ V ivier Ⓕ ▁ Ⓚ § Ⓛ ▁ Ⓘ § Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ D u vern y ▁ françois ▁ gust ave Ⓕ ▁ Ⓚ § Ⓛ ▁ Ⓘ § Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ F il i p p i ▁ a mbroise Ⓕ ▁ Ⓚ § Ⓛ ▁ Ⓘ § Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ François ▁ t héodore ▁ adolphe Ⓕ ▁ Ⓚ § Ⓛ ▁ Ⓘ § Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ G e f f rier ▁ henri ▁ louis Ⓕ ▁ Ⓚ § Ⓛ ▁ Ⓘ § Ⓙ
+▁ Ⓖ × les ▁ G ir ou ette s ± Ⓗ ▁ Ⓔ × B lain ▁ des ▁ C or mier s ± Ⓕ ▁ Ⓚ × 15 ± Ⓛ ▁ Ⓘ × Terre ± Ⓙ ▁ Ⓐ × 33 ± Ⓑ ▁ Ⓒ × T ± Ⓓ
+▁ Ⓖ × § ± Ⓗ ▁ Ⓔ × B al e stre ▁ à ▁ S c e aux ± Ⓕ ▁ Ⓚ × 1 6 ± Ⓛ ▁ Ⓘ × T ± Ⓙ ▁ Ⓐ 23 Ⓑ ▁ Ⓒ T Ⓓ
+▁ Ⓖ § Ⓗ ▁ Ⓔ M e vot h on ▁ les ▁ h ↑ ers ↓ Ⓕ ▁ Ⓚ 1 7 p Ⓛ ▁ Ⓘ T Ⓙ ▁ Ⓐ 24→25 Ⓑ ▁ Ⓒ T Ⓓ
+▁ Ⓖ § Ⓗ ▁ Ⓔ C or n u ▁ pierre Ⓕ ▁ Ⓚ 18 p Ⓛ ▁ Ⓘ T Ⓙ ▁ Ⓐ 26 Ⓑ ▁ Ⓒ T Ⓓ
+▁ Ⓖ § Ⓗ ▁ Ⓔ T ri é ▁ p h il i bert Ⓕ ▁ Ⓚ 19 p Ⓛ ▁ Ⓘ T Ⓙ ▁ Ⓐ 27 Ⓑ ▁ Ⓒ T Ⓓ
+▁ Ⓖ § Ⓗ ▁ Ⓔ L aven ant ▁ Louis ▁ f ↑ ois ↓ Ⓕ ▁ Ⓚ 20 p Ⓛ ▁ Ⓘ T Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ P les ▁ ma t ins ▁ S c é v o la Ⓕ ▁ Ⓚ 21 p Ⓛ ▁ Ⓘ T Ⓙ ▁ Ⓐ 29 → 30 Ⓑ ▁ Ⓒ T Ⓓ
+▁ Ⓖ § Ⓗ ▁ Ⓔ L e v é ▁ claude Ⓕ ▁ Ⓚ 22 Ⓛ ▁ Ⓘ T Ⓙ ▁ Ⓐ 3 1 Ⓑ ▁ Ⓒ T Ⓓ
+▁ Ⓖ § Ⓗ ▁ Ⓔ C ous in ▁ de m ▁ ricour t ▁ V ↑ e ↓ Ⓕ ▁ Ⓚ 53 p Ⓛ ▁ Ⓘ T Ⓙ ▁ Ⓐ 42 Ⓑ ▁ Ⓒ T Ⓓ
+▁ Ⓖ § Ⓗ ▁ Ⓔ B lain ▁ des ▁ c or mier s Ⓕ ▁ Ⓚ 24 p Ⓛ ▁ Ⓘ T Ⓙ ▁ Ⓐ 43 Ⓑ ▁ Ⓒ T Ⓓ
+▁ Ⓖ § Ⓗ ▁ Ⓔ C ous in ▁ de ▁ m eric ard ▁ V ↑ e ↓ Ⓕ ▁ Ⓚ 25 Ⓛ ▁ Ⓘ T Ⓙ ▁ Ⓐ 47 Ⓑ ▁ Ⓒ T Ⓓ
+▁ Ⓖ § Ⓗ ▁ Ⓔ N ouvi al ▁ jean ▁ joseph Ⓕ ▁ Ⓚ 26 Ⓛ ▁ Ⓘ T Ⓙ ▁ Ⓐ 46 Ⓑ ▁ Ⓒ T Ⓓ
+▁ Ⓖ § Ⓗ ▁ Ⓔ Ren ard ▁ ch ↑ e s ↓ ▁ nicolas Ⓕ ▁ Ⓚ 27 Ⓛ ▁ Ⓘ T Ⓙ ▁ Ⓐ 45 Ⓑ ▁ Ⓒ T Ⓓ
+▁ Ⓖ § Ⓗ ▁ Ⓔ N ouvi al ▁ jean ▁ joseph Ⓕ ▁ Ⓚ 28 p Ⓛ ▁ Ⓘ T Ⓙ ▁ Ⓐ 41 → 44 → 48 Ⓑ ▁ Ⓒ T Ⓓ
+▁ Ⓖ L e s ▁ G rand e s → Terre s Ⓗ ▁ Ⓔ M e n tienne ▁ Clément ▁ Charles ▁ g ↑ dre ↓ ▁ Q ui re Ⓕ ▁ Ⓚ 1 Ⓛ ▁ Ⓘ T Ⓙ ▁ Ⓐ P ↑ tie ↓ ▁ 20 50 Ⓑ ▁ Ⓒ T Ⓓ
+▁ Ⓖ id Ⓗ ▁ Ⓔ Q u é ru ▁ pierre ▁ françois Ⓕ ▁ Ⓚ 2 Ⓛ ▁ Ⓘ T Ⓙ ▁ Ⓐ P ↑ tie ↓ ▁ 20 50 Ⓑ ▁ Ⓒ T Ⓓ
+▁ Ⓖ § Ⓗ ▁ Ⓔ M or t ier ▁ Vincent ▁ noël Ⓕ ▁ Ⓚ 3 Ⓛ ▁ Ⓘ T Ⓙ ▁ Ⓐ 20 49 Ⓑ ▁ Ⓒ T Ⓓ
+▁ Ⓖ § Ⓗ ▁ Ⓔ M e n tienne ▁ A rmand ▁ Louis Ⓕ ▁ Ⓚ 4 Ⓛ ▁ Ⓘ T Ⓙ ▁ Ⓐ 20 48 Ⓑ ▁ Ⓒ T Ⓓ
+▁ Ⓖ § Ⓗ ▁ Ⓔ M e n tienne ▁ Louis ▁ Alexandre → fils , ▁ dit ▁ B e au la id Ⓕ ▁ Ⓚ 5 Ⓛ ▁ Ⓘ T Ⓙ ▁ Ⓐ 20 45 → 20 46 → 20 47 Ⓑ ▁ Ⓒ Vig . → T → T Ⓓ
+▁ Ⓖ § Ⓗ ▁ Ⓔ D e s n y au ▁ Pierre ▁ henri Ⓕ ▁ Ⓚ 6 Ⓛ ▁ Ⓘ T ▁ e t ▁ vig n e Ⓙ ▁ Ⓐ 20 43 → 20 44 Ⓑ ▁ Ⓒ Vig → T Ⓓ
+▁ Ⓖ § Ⓗ ▁ Ⓔ M or t ier ▁ Rose ▁ h y ac in t h e Ⓕ ▁ Ⓚ 7 Ⓛ ▁ Ⓘ T Ⓙ ▁ Ⓐ 20 42 Ⓑ ▁ Ⓒ Vig Ⓓ
+▁ Ⓖ § Ⓗ ▁ Ⓔ P ique t ▁ Joseph ▁ M au r ice → à ▁ Vill ier s Ⓕ ▁ Ⓚ 8 Ⓛ ▁ Ⓘ Vigne Ⓙ ▁ Ⓐ 20 44 ↑ bis ↓→ 20 45 ↑ bis ↓ Ⓑ ▁ Ⓒ T → T Ⓓ
+▁ Ⓖ § Ⓗ ▁ Ⓔ Grang e r ▁ August e ▁ A bel ▁ à → Vill ers Ⓕ ▁ Ⓚ 9 Ⓛ ▁ Ⓘ T Ⓙ ▁ Ⓐ 20 42 ↑ bis ↓→ 20 46 ↑ bis ↓ Ⓑ ▁ Ⓒ T → T Ⓓ
+▁ Ⓖ § Ⓗ ▁ Ⓔ M e n tienne ▁ A rmand ▁ Louis Ⓕ ▁ Ⓚ 10 Ⓛ ▁ Ⓘ T Ⓙ ▁ Ⓐ P ↑ tie ↓ ▁ 2041↑ bis ↓→ 2041↑ 3 ↓ Ⓑ ▁ Ⓒ T → T Ⓓ
+▁ Ⓖ § Ⓗ ▁ Ⓔ M e n tienne ▁ françois Ⓕ ▁ Ⓚ 1 1 Ⓛ ▁ Ⓘ T Ⓙ ▁ Ⓐ P ↑ tie ↓ ▁ 2041↑ bis ↓ Ⓑ ▁ Ⓒ T Ⓓ
+▁ Ⓖ § Ⓗ ▁ Ⓔ D e s n y au ▁ Pierre ▁ henri Ⓕ ▁ Ⓚ 12 Ⓛ ▁ Ⓘ Vigne Ⓙ ▁ Ⓐ P ↑ tie ↓ ▁ 2041↑ bis ↓ Ⓑ ▁ Ⓒ T Ⓓ
+▁ Ⓖ § Ⓗ ▁ Ⓔ M or t ier ▁ Rose ▁ h y ac in t h e Ⓕ ▁ Ⓚ 13 Ⓛ ▁ Ⓘ Vigne Ⓙ ▁ Ⓐ P ↑ tie ↓ ▁ 2041↑ bis ↓ Ⓑ ▁ Ⓒ T Ⓓ
+▁ Ⓖ § Ⓗ ▁ Ⓔ Q u é ru ▁ Pierre ▁ françois Ⓕ ▁ Ⓚ 1 4 Ⓛ ▁ Ⓘ T . ▁ e t ▁ vig n e Ⓙ ▁ Ⓐ 20 41 Ⓑ ▁ Ⓒ T Ⓓ
+▁ Ⓖ L e s → C la m ard s Ⓗ ▁ Ⓔ Rameau ▁ Ro ch ▁ Q u e n t in Ⓕ ▁ Ⓚ 6 73 Ⓛ ▁ Ⓘ T Ⓙ ▁ Ⓐ 37 47 Ⓑ ▁ Ⓒ T ▁ . Vig Ⓓ
+▁ Ⓖ id Ⓗ ▁ Ⓔ S oud ieux ▁ Saturnin ▁ d i ❌ → m andre Ⓕ ▁ Ⓚ 6 74 Ⓛ ▁ Ⓘ T Ⓙ ▁ Ⓐ 97 49 Ⓑ ▁ Ⓒ Vig Ⓓ
+▁ Ⓖ § Ⓗ ▁ Ⓔ S oud ieux ▁ Louis ▁ jacques , ▁ H ↑ ers ↓ Ⓕ ▁ Ⓚ 6 75 Ⓛ ▁ Ⓘ Vigne Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ J o sset ▁ françois ▁ marie Ⓕ ▁ Ⓚ 6 76 Ⓛ ▁ Ⓘ T Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ A n c e le t ▁ nicolas , ▁ dit ▁ ancel e t ▁ Veuve Ⓕ ▁ Ⓚ 6 77 Ⓛ ▁ Ⓘ T Ⓙ ▁ Ⓐ 37 51 Ⓑ ▁ Ⓒ T Ⓓ
+▁ Ⓖ § Ⓗ ▁ Ⓔ A n c e le t ▁ Saturnin ▁ Dominique Ⓕ ▁ Ⓚ 67 8 Ⓛ ▁ Ⓘ T Ⓙ ▁ Ⓐ 3 57 2 Ⓑ ▁ Ⓒ Vig Ⓓ
+▁ Ⓖ § Ⓗ ▁ Ⓔ A n c e le t ▁ Alexandre Ⓕ ▁ Ⓚ 67 9 Ⓛ ▁ Ⓘ T Ⓙ ▁ Ⓐ 37 55 Ⓑ ▁ Ⓒ T Ⓓ
+▁ Ⓖ § Ⓗ ▁ Ⓔ F ou c ault ▁ Pierre Ⓕ ▁ Ⓚ 6 80 Ⓛ ▁ Ⓘ T Ⓙ ▁ Ⓐ 9 753 → 97 54 Ⓑ ▁ Ⓒ T → Vig Ⓓ
+▁ Ⓖ § Ⓗ ▁ Ⓔ L e b la n c ▁ Victor Ⓕ ▁ Ⓚ 68 1 Ⓛ ▁ Ⓘ Jardin Ⓙ ▁ Ⓐ P ↑ tie ↓ ▁ 97 89 ↑ bis ↓→ Chemin Ⓑ ▁ Ⓒ Chemin → → " Ⓓ
+▁ Ⓖ § Ⓗ ▁ Ⓔ D a m pierre ▁ ( L e ▁ Comte ) Ⓕ ▁ Ⓚ 68 2 Ⓛ ▁ Ⓘ Jardin Ⓙ ▁ Ⓐ 37 67 ↑ bis ↓ Ⓑ ▁ Ⓒ Jardin Ⓓ
+▁ Ⓖ § Ⓗ ▁ Ⓔ L e s ain t ▁ Jean ▁ Bapt iste Ⓕ ▁ Ⓚ 68 3 Ⓛ ▁ Ⓘ Jardin Ⓙ ▁ Ⓐ 37 68 Ⓑ ▁ Ⓒ V erger Ⓓ
+▁ Ⓖ § Ⓗ ▁ Ⓔ M é rillon ▁ félix Ⓕ ▁ Ⓚ 68 4 Ⓛ ▁ Ⓘ Jardin Ⓙ ▁ Ⓐ 37 69 Ⓑ ▁ Ⓒ Vig Ⓓ
+▁ Ⓖ § Ⓗ ▁ Ⓔ M é rillon ▁ Jean ▁ Denis , ▁ V ↑ v e ↓ Ⓕ ▁ Ⓚ 6 85 Ⓛ ▁ Ⓘ Jardin Ⓙ ▁ Ⓐ 37 70 Ⓑ ▁ Ⓒ V erger Ⓓ
+▁ Ⓖ § Ⓗ ▁ Ⓔ M é rillon ▁ Dominique Ⓕ ▁ Ⓚ 68 6 Ⓛ ▁ Ⓘ Jardin Ⓙ ▁ Ⓐ 37 71 Ⓑ ▁ Ⓒ V erger Ⓓ
+▁ Ⓜ 7 Ⓝ ▁ Ⓔ A n c e le t ▁ × f ↑ ois ↓ ▁ V ↑ e ↓± ▁ nicolas Ⓕ ▁ Ⓚ 6 22 Ⓛ ▁ Ⓘ Terre Ⓙ
+▁ Ⓜ 116 Ⓝ ▁ Ⓔ M ↑ r ↓ ▁ D hau sson ville Ⓕ ▁ Ⓚ 6 23 Ⓛ ▁ Ⓘ id Ⓙ
+▁ Ⓜ 33 2 Ⓝ ▁ Ⓔ M on t m arthe ▁ V ↑ e ↓ ▁ ant ↑ e ↓ Ⓕ ▁ Ⓚ 25 Ⓛ ▁ Ⓘ § Ⓙ
+▁ Ⓜ 18 Ⓝ ▁ Ⓔ ancel e t ▁ f ↑ re ↓ Ⓕ ▁ Ⓚ 26 Ⓛ ▁ Ⓘ § Ⓙ
+▁ Ⓜ 1 93 Ⓝ ▁ Ⓔ h e ricour t ▁ D ↑ que ↓ ▁ andré Ⓕ ▁ Ⓚ 27 Ⓛ ▁ Ⓘ § Ⓙ
+▁ Ⓜ 123 Ⓝ ▁ Ⓔ D u val ▁ sat ↑ in ↓ ▁ veuve Ⓕ ▁ Ⓚ 28 Ⓛ ▁ Ⓘ § Ⓙ
+▁ Ⓜ 116 Ⓝ ▁ Ⓔ M ↑ r ↓ ▁ D hau sson ville Ⓕ ▁ Ⓚ 29 Ⓛ ▁ Ⓘ § Ⓙ
+▁ Ⓜ 105 Ⓝ ▁ Ⓔ M ↑ r ↓ ▁ C ury Ⓕ ▁ Ⓚ 6 30 Ⓛ ▁ Ⓘ § Ⓙ
+▁ Ⓜ 21 7 Ⓝ ▁ Ⓔ L al le ger i e ▁ E t ↑ e ↓ ▁ J ↑ n ↓ Ⓕ ▁ Ⓚ 3 1 Ⓛ ▁ Ⓘ § Ⓙ
+▁ Ⓜ 49 Ⓝ ▁ Ⓔ B euze ville ▁ J ↑ n ↓ ▁ marie Ⓕ ▁ Ⓚ 32 Ⓛ ▁ Ⓘ § Ⓙ
+▁ Ⓜ 40 Ⓝ ▁ Ⓔ B erger ▁ Louis Ⓕ ▁ Ⓚ 33 Ⓛ ▁ Ⓘ § Ⓙ
+▁ Ⓜ 21 7 Ⓝ ▁ Ⓔ L al le ger i e ▁ E t ↑ e ↓ ▁ J ↑ n ↓ Ⓕ ▁ Ⓚ 34 Ⓛ ▁ Ⓘ § Ⓙ
+▁ Ⓜ 43 6 Ⓝ ▁ Ⓔ S oud ieux ▁ sat ↑ n ↓ ▁ ba lot Ⓕ ▁ Ⓚ 3 5 Ⓛ ▁ Ⓘ § Ⓙ
+▁ Ⓜ × 30 6 ± Ⓝ ▁ Ⓔ × M e rillon ▁ D ↑ que ↓± ▁ in con n us Ⓕ ▁ Ⓚ 36 Ⓛ ▁ Ⓘ § Ⓙ
+▁ Ⓜ 135 Ⓝ ▁ Ⓔ F ou c ault ▁ michel Ⓕ ▁ Ⓚ 37 Ⓛ ▁ Ⓘ § Ⓙ
+▁ Ⓜ 43 4 Ⓝ ▁ Ⓔ S oud ieux ▁ J ↑ n ↓ ▁ louis Ⓕ ▁ Ⓚ 3 8 Ⓛ ▁ Ⓘ § Ⓙ
+▁ Ⓜ 409 Ⓝ ▁ Ⓔ Rameau ▁ J ↑ n ↓ ▁ louis ▁ fils ▁ veuve Ⓕ ▁ Ⓚ 3 9 Ⓛ ▁ Ⓘ § Ⓙ
+▁ Ⓜ × 3 24±→10 2 ↑ bis ↓ Ⓝ ▁ Ⓔ × Mezard ▁ n ↑ as ↓± ▁ Courtois ▁ louis Ⓕ ▁ Ⓚ 6 40 Ⓛ ▁ Ⓘ § Ⓙ
+▁ Ⓜ 40 Ⓝ ▁ Ⓔ B erger ▁ louis Ⓕ ▁ Ⓚ 41 Ⓛ ▁ Ⓘ § Ⓙ
+▁ Ⓜ 116 Ⓝ ▁ Ⓔ M ↑ r ↓ ▁ D hau sson ville Ⓕ ▁ Ⓚ 42 Ⓛ ▁ Ⓘ § Ⓙ
+▁ Ⓜ 116 Ⓝ ▁ Ⓔ L e ▁ même Ⓕ ▁ Ⓚ 43 Ⓛ ▁ Ⓘ § Ⓙ
+▁ Ⓖ L a → C or n e il le Ⓗ ▁ Ⓔ Cour ière ▁ françois e Ⓕ ▁ Ⓚ 1 103 Ⓛ ▁ Ⓘ T Ⓙ ▁ Ⓐ 280 1 Ⓑ ▁ Ⓒ Vig Ⓓ
+▁ Ⓖ id Ⓗ ▁ Ⓔ M é rillon Ⓕ ▁ Ⓚ 1 104 Ⓛ ▁ Ⓘ T Ⓙ ▁ Ⓐ 280 2 Ⓑ ▁ Ⓒ T Ⓓ
+▁ Ⓖ § Ⓗ ▁ Ⓔ A n c e le t ▁ André Ⓕ ▁ Ⓚ 1 105 Ⓛ ▁ Ⓘ Vigne Ⓙ ▁ Ⓐ 280 3 Ⓑ ▁ Ⓒ T Ⓓ
+▁ Ⓖ § Ⓗ ▁ Ⓔ S u bt il ▁ Denis ▁ Pierre Ⓕ ▁ Ⓚ 1 106 Ⓛ ▁ Ⓘ T Ⓙ ▁ Ⓐ 208 6 ↑ bis ↓ Ⓑ ▁ Ⓒ T . ▁ Vig . Ⓓ
+▁ Ⓖ § Ⓗ ▁ Ⓔ M é rillon ▁ félix Ⓕ ▁ Ⓚ 1 107 Ⓛ ▁ Ⓘ Vigne Ⓙ ▁ Ⓐ 280 6 Ⓑ ▁ Ⓒ T Ⓓ
+▁ Ⓖ § Ⓗ ▁ Ⓔ A n c e le t ▁ nicolas , ▁ dit ▁ A n c e l on → Veuve Ⓕ ▁ Ⓚ 1 108 Ⓛ ▁ Ⓘ T Ⓙ ▁ Ⓐ 28 20 Ⓑ ▁ Ⓒ Vig Ⓓ
+▁ Ⓖ § Ⓗ ▁ Ⓔ L ameau ▁ Mari e ▁ Saturnin , ▁ f ↑ dre ↓→ Vitry Ⓕ ▁ Ⓚ 1 109 Ⓛ ▁ Ⓘ T Ⓙ ▁ Ⓐ 280 9 Ⓑ ▁ Ⓒ T Ⓓ
+▁ Ⓖ § Ⓗ ▁ Ⓔ M ous c adet ▁ Pierre ▁ Grégoire → à ▁ font enay Ⓕ ▁ Ⓚ 1 110 Ⓛ ▁ Ⓘ T Ⓙ ▁ Ⓐ P ↑ tie ↓ ▁ 281 1 ↑ bis ↓→ 281 1 Ⓑ ▁ Ⓒ T → T Ⓓ
+▁ Ⓖ § Ⓗ ▁ Ⓔ B erger ▁ Bapt iste Ⓕ ▁ Ⓚ 1 111 Ⓛ ▁ Ⓘ Vigne Ⓙ ▁ Ⓐ 281 3 Ⓑ ▁ Ⓒ T Ⓓ
+▁ Ⓖ § Ⓗ ▁ Ⓔ B o sset ▁ félix , ▁ à → Paris Ⓕ ▁ Ⓚ 1 112 Ⓛ ▁ Ⓘ T Ⓙ ▁ Ⓐ P ↑ i e ↓ ▁ 281 1 ↑ bis ↓ Ⓑ ▁ Ⓒ T Ⓓ
+▁ Ⓖ § Ⓗ ▁ Ⓔ S au s s ar y ▁ fils Ⓕ ▁ Ⓚ 111 3 Ⓛ ▁ Ⓘ Vigne ▁ u ▁ t Ⓙ ▁ Ⓐ 281 5 Ⓑ ▁ Ⓒ T Ⓓ
+▁ Ⓖ § Ⓗ ▁ Ⓔ Ro b in ▁ Toussaint , ▁ à → font enay Ⓕ ▁ Ⓚ 1 114 Ⓛ ▁ Ⓘ T Ⓙ ▁ Ⓐ 281 7 Ⓑ ▁ Ⓒ T Ⓓ
+▁ Ⓖ § Ⓗ ▁ Ⓜ 1 115 Ⓝ ▁ Ⓔ B erger ▁ Louis ▁ S imon Ⓕ ▁ Ⓚ 1 115 Ⓛ ▁ Ⓘ Vigne Ⓙ ▁ Ⓐ 281 6 Ⓑ ▁ Ⓒ T Ⓓ
+▁ Ⓖ § Ⓗ ▁ Ⓔ S ur ault ▁ Jean , ▁ à ▁ font enay Ⓕ ▁ Ⓚ 1 116 Ⓛ ▁ Ⓘ Vigne Ⓙ ▁ Ⓐ 281 8 Ⓑ ▁ Ⓒ T Ⓓ
+▁ Ⓖ L e s ▁ M ar li ères Ⓗ ▁ Ⓔ G ir aud e au ▁ louis Ⓕ ▁ Ⓚ 101 2 Ⓛ ▁ Ⓘ vig n e Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ voi e ▁ p ubl ique Ⓕ ▁ Ⓚ 101 3 Ⓛ ▁ Ⓘ vig n e Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ B i ard ▁ raph a ë l ▁ julie n Ⓕ ▁ Ⓚ 101 4 Ⓛ ▁ Ⓘ vig n e Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ Font ain e ▁ françois ▁ J ↑ h ↓ Ⓕ ▁ Ⓚ 101 5 Ⓛ ▁ Ⓘ vig n e Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ voi e ▁ p ubl ique Ⓕ ▁ Ⓚ 101 5 Ⓛ ▁ Ⓘ vig n e Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ B i ard ▁ raph a ë l ▁ julie n Ⓕ ▁ Ⓚ 101 6 Ⓛ ▁ Ⓘ vig n e Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ Victor ▁ Désiré Ⓕ ▁ Ⓚ 101 7 Ⓛ ▁ Ⓘ vig n e Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ voi e ▁ p ubl ique Ⓕ ▁ Ⓚ 101 7 Ⓛ ▁ Ⓘ vig n e Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ A n c e lot ▁ charles ▁ dominique Ⓕ ▁ Ⓚ 101 8 Ⓛ ▁ Ⓘ T Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ G ir aud e au ▁ louis Ⓕ ▁ Ⓚ 101 9 Ⓛ ▁ Ⓘ T Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ Vitry ▁ Jean ▁ B ↑ t e ↓ ▁ alexandre Ⓕ ▁ Ⓚ 10 20 Ⓛ ▁ Ⓘ T Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ B ar illet ▁ paul ▁ désiré Ⓕ ▁ Ⓚ 102 1 Ⓛ ▁ Ⓘ T Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ H é ricour t ▁ gabriel Ⓕ ▁ Ⓚ 102 2 Ⓛ ▁ Ⓘ vig n e Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ B ar illet ▁ louis ▁ jules Ⓕ ▁ Ⓚ 102 3 Ⓛ ▁ Ⓘ T Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ B a ch e reau ▁ l é opold ▁ ar s ène Ⓕ ▁ Ⓚ 102 4 Ⓛ ▁ Ⓘ T Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ M is g ault ▁ L é on ▁ michel Ⓕ ▁ Ⓚ 102 5 Ⓛ ▁ Ⓘ T Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ id Ⓕ ▁ Ⓚ 102 6 Ⓛ ▁ Ⓘ vig n e Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ id Ⓕ ▁ Ⓚ 102 7 Ⓛ ▁ Ⓘ T Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ id Ⓕ ▁ Ⓚ 102 8 Ⓛ ▁ Ⓘ T Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ A n c e le t ▁ françois ▁ antoine Ⓕ ▁ Ⓚ 102 9 Ⓛ ▁ Ⓘ T Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ P rin bel Ⓕ ▁ Ⓚ 10 30 Ⓛ ▁ Ⓘ T Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ voi e ▁ p ubl ique Ⓕ ▁ Ⓚ 10 30 Ⓛ ▁ Ⓘ T Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ B a ch e reau ▁ L é opold ▁ ar s ène Ⓕ ▁ Ⓚ 103 1 Ⓛ ▁ Ⓘ T Ⓙ
+▁ Ⓖ D e r rière ▁ le ▁ petit ▁ pré Ⓗ ▁ Ⓔ C o i f fier ▁ pierre ▁ honoré Ⓕ ▁ Ⓚ 103 2 Ⓛ ▁ Ⓘ vig n e Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ voi e ▁ p ubl ique Ⓕ ▁ Ⓚ 103 2 Ⓛ ▁ Ⓘ id Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ Rameau ▁ Jean ▁ françois Ⓕ ▁ Ⓚ 103 3 Ⓛ ▁ Ⓘ vig n e Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ A n c e le t ▁ charles ▁ dominique Ⓕ ▁ Ⓚ 103 4 Ⓛ ▁ Ⓘ § Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ L a i zier ▁ louis ▁ adolphe Ⓕ ▁ Ⓚ 103 5 Ⓛ ▁ Ⓘ T Ⓙ
+▁ Ⓖ L a ▁ p oin t e → grande ▁ route ▁ de ▁ Ch ois y → n ° 21 Ⓗ ▁ Ⓔ M ar g at ▁ Aug ↑ t e ↓ Ⓕ ▁ Ⓚ 144 5 Ⓛ ▁ Ⓘ Maison Ⓙ ▁ Ⓐ p t i ▁ 1 326 Ⓑ ▁ Ⓒ T Ⓓ
+▁ Ⓖ id ▁ n ° 21 Ⓗ ▁ Ⓔ id Ⓕ ▁ Ⓚ 144 6 Ⓛ ▁ Ⓘ Maison Ⓙ ▁ Ⓐ p t i ▁ 1 326 Ⓑ ▁ Ⓒ T Ⓓ
+▁ Ⓖ l ' E ch at Ⓗ ▁ Ⓔ B i z e t ▁ mathieu ▁ V ↑ e ↓ Ⓕ ▁ Ⓚ 85 Ⓛ ▁ Ⓘ vig n e Ⓙ ▁ Ⓐ 1 90 Ⓑ ▁ Ⓒ vig n e Ⓓ
+▁ Ⓖ § Ⓗ ▁ Ⓔ P ot e l ▁ jean ▁ c r is ost ô m e Ⓕ ▁ Ⓚ 86 Ⓛ ▁ Ⓘ terre Ⓙ ▁ Ⓐ 19 1 , ▁ 19 2 Ⓑ ▁ Ⓒ T Ⓓ
+▁ Ⓖ § Ⓗ ▁ Ⓔ L e coute ux ▁ simon Ⓕ ▁ Ⓚ 87 Ⓛ ▁ Ⓘ terre Ⓙ ▁ Ⓐ 1 93 Ⓑ ▁ Ⓒ T Ⓓ
+▁ Ⓖ § Ⓗ ▁ Ⓔ P ot e l ▁ jean ▁ Cris ost ô m e Ⓕ ▁ Ⓚ 88 Ⓛ ▁ Ⓘ terre Ⓙ ▁ Ⓐ 1 94 , ▁ 1 95 Ⓑ ▁ Ⓒ T Ⓓ
+▁ Ⓖ la ▁ maison ▁ des → B ri ques Ⓗ ▁ Ⓔ F e v re ▁ jean ▁ claude Ⓕ ▁ Ⓚ 89 Ⓛ ▁ Ⓘ jardin Ⓙ ▁ Ⓐ 196 ▁ portion Ⓑ ▁ Ⓒ ☼ Ⓓ
+▁ Ⓖ § Ⓗ ▁ Ⓔ F e s re ▁ jean ▁ claude ▁ V ↑ e ↓ Ⓕ ▁ Ⓚ 90 Ⓛ ▁ Ⓘ maison ▁ e t → cour → n ° 12 Ⓙ ▁ Ⓐ 196 ▁ portion Ⓑ ▁ Ⓒ ☼ Ⓓ
+▁ Ⓖ § Ⓗ ▁ Ⓔ L e coute ux ▁ pierre ▁ M arthe Ⓕ ▁ Ⓚ 91 Ⓛ ▁ Ⓘ Terre Ⓙ ▁ Ⓐ 196 ▁ portion Ⓑ ▁ Ⓒ T Ⓓ
+▁ Ⓖ le ▁ chemin ▁ du → B ois Ⓗ ▁ Ⓔ L e coute ux ▁ pierre ▁ M arthe Ⓕ ▁ Ⓚ 92 Ⓛ ▁ Ⓘ Terre Ⓙ ▁ Ⓐ 197 → 198 ▁ portion → 1 99 ▁ portion Ⓑ ▁ Ⓒ T → T → T Ⓓ
+▁ Ⓖ § Ⓗ ▁ Ⓔ P e le z ▁ de ▁ la ▁ Loz è re Ⓕ ▁ Ⓚ 93 Ⓛ ▁ Ⓘ Terre Ⓙ ▁ Ⓐ 20 0 → 198 ▁ portion → 1 99 ▁ portion Ⓑ ▁ Ⓒ T → T → T Ⓓ
+▁ Ⓖ § Ⓗ ▁ Ⓔ f e u illet ▁ nicolas ▁ Thomas ▁ V ↑ e ↓ Ⓕ ▁ Ⓚ 94 Ⓛ ▁ Ⓘ Terre Ⓙ ▁ Ⓐ 20 1 Ⓑ ▁ Ⓒ T Ⓓ
+▁ Ⓖ § Ⓗ ▁ Ⓔ Cour t a ign e ▁ françois Ⓕ ▁ Ⓚ 95 Ⓛ ▁ Ⓘ Terre Ⓙ ▁ Ⓐ 262 ▁ p ar t . Ⓑ ▁ Ⓒ T Ⓓ
+▁ Ⓖ § Ⓗ ▁ Ⓔ Cour t a ign e ▁ françois Ⓕ ▁ Ⓚ 96 Ⓛ ▁ Ⓘ vig n e Ⓙ ▁ Ⓐ 20 2 ▁ portion Ⓑ ▁ Ⓒ T Ⓓ
+▁ Ⓖ § Ⓗ ▁ Ⓔ F e r on ▁ françois Ⓕ ▁ Ⓚ 97 Ⓛ ▁ Ⓘ Terre Ⓙ ▁ Ⓐ 20 3 , ▁ 20 4 Ⓑ ▁ Ⓒ T Ⓓ
+▁ Ⓖ § Ⓗ ▁ Ⓔ F e r on ▁ françois Ⓕ ▁ Ⓚ 98 Ⓛ ▁ Ⓘ vig n e Ⓙ ▁ Ⓐ 20 5 Ⓑ ▁ Ⓒ vig n e Ⓓ
+▁ Ⓖ L e s ▁ Roses Ⓗ ▁ Ⓔ Pi ger on Ⓕ ▁ Ⓚ 43 Ⓛ ▁ Ⓘ Terre Ⓙ ▁ Ⓐ 47 Ⓑ ▁ Ⓒ Terre Ⓓ
+▁ Ⓖ § Ⓗ ▁ Ⓔ H allé ▁ louis ▁ germain Ⓕ ▁ Ⓚ 44 Ⓛ ▁ Ⓘ T Ⓙ ▁ Ⓐ 48 Ⓑ ▁ Ⓒ T Ⓓ
+▁ Ⓖ § Ⓗ ▁ Ⓔ S al mé ▁ jean Ⓕ ▁ Ⓚ 45 Ⓛ ▁ Ⓘ Vigne Ⓙ ▁ Ⓐ 49 Ⓑ ▁ Ⓒ Vig . Ⓓ
+▁ Ⓖ § Ⓗ ▁ Ⓔ Rousseau ▁ louis ▁ F ↑ ois ↓ Ⓕ ▁ Ⓚ 46 Ⓛ ▁ Ⓘ Terre Ⓙ ▁ Ⓐ 50 Ⓑ ▁ Ⓒ T Ⓓ
+▁ Ⓖ § Ⓗ ▁ Ⓔ M or izo t ▁ marie ▁ ar nou l t Ⓕ ▁ Ⓚ 47 Ⓛ ▁ Ⓘ T Ⓙ ▁ Ⓐ 51 Ⓑ ▁ Ⓒ Vig . Ⓓ
+▁ Ⓖ § Ⓗ ▁ Ⓔ S al mé ▁ jean Ⓕ ▁ Ⓚ 48 Ⓛ ▁ Ⓘ T Ⓙ ▁ Ⓐ 52 Ⓑ ▁ Ⓒ T Ⓓ
+▁ Ⓖ § Ⓗ ▁ Ⓔ D e l k ay ré ▁ jean Ⓕ ▁ Ⓚ 49 Ⓛ ▁ Ⓘ T Ⓙ ▁ Ⓐ 43 . Ⓑ ▁ Ⓒ T Ⓓ
+▁ Ⓖ § Ⓗ ▁ Ⓔ D e la nou e ▁ p re ▁ t oussa ins Ⓕ ▁ Ⓚ 50 Ⓛ ▁ Ⓘ Vigne Ⓙ ▁ Ⓐ 54 Ⓑ ▁ Ⓒ Vig . Ⓓ
+▁ Ⓖ § Ⓗ ▁ Ⓔ C a b ous e t ▁ jean ▁ ro bert Ⓕ ▁ Ⓚ 51 Ⓛ ▁ Ⓘ T Ⓙ ▁ Ⓐ 55 Ⓑ ▁ Ⓒ V . Ⓓ
+▁ Ⓖ § Ⓗ ▁ Ⓔ S al mé ▁ jean Ⓕ ▁ Ⓚ 52 Ⓛ ▁ Ⓘ Vigne Ⓙ ▁ Ⓐ 56 Ⓑ ▁ Ⓒ V . Ⓓ
+▁ Ⓖ § Ⓗ ▁ Ⓔ M or izo t ▁ marie ▁ ar nou l d Ⓕ ▁ Ⓚ 53 Ⓛ ▁ Ⓘ Vigne Ⓙ ▁ Ⓐ ☼ Ⓑ ▁ Ⓒ ☼ Ⓓ
+▁ Ⓖ § Ⓗ ▁ Ⓔ id Ⓕ ▁ Ⓚ 54 Ⓛ ▁ Ⓘ Terre Ⓙ ▁ Ⓐ 57 Ⓑ ▁ Ⓒ V . Ⓓ
+▁ Ⓖ § Ⓗ ▁ Ⓔ B on n e au ▁ louis ▁ B ↑❌❌❌↓ Ⓕ ▁ Ⓚ 55 Ⓛ ▁ Ⓘ T Ⓙ ▁ Ⓐ 58 Ⓑ ▁ Ⓒ T Ⓓ
+▁ Ⓖ § Ⓗ ▁ Ⓔ S al mé ▁ jean Ⓕ ▁ Ⓚ 56 Ⓛ ▁ Ⓘ T Ⓙ ▁ Ⓐ 59 Ⓑ ▁ Ⓒ V . Ⓓ
+▁ Ⓖ L e ▁ C l os → S ↑ t e ↓ ▁ C at her in e Ⓗ ▁ Ⓔ Benoit ▁ Louis ▁ François , ▁ g ↑ dre ↓→ Ro u y e r Ⓕ ▁ Ⓚ 140 1 Ⓛ ▁ Ⓘ Vigne Ⓙ ▁ Ⓐ 220 3 Ⓑ ▁ Ⓒ T Ⓓ
+▁ Ⓖ id Ⓗ ▁ Ⓔ L or i p her n e →× L or i fer n e ▁ Michel ± ▁ Louis ▁ August e → id ▁ e t ▁ Michel Ⓕ ▁ Ⓚ 140 2 Ⓛ ▁ Ⓘ T Ⓙ ▁ Ⓐ 220 4 Ⓑ ▁ Ⓒ T Ⓓ
+▁ Ⓖ § Ⓗ ▁ Ⓔ B as s e ville ▁ Pierre ▁ François Ⓕ ▁ Ⓚ 1403 Ⓛ ▁ Ⓘ T Ⓙ ▁ Ⓐ 220 5 Ⓑ ▁ Ⓒ T Ⓓ
+▁ Ⓖ § Ⓗ ▁ Ⓔ Benoit ▁ françois ▁ b e n o i t →× ac t ar ▁ nicolas ▁ louis , ▁ V an v e ± Ⓕ ▁ Ⓚ 1404 Ⓛ ▁ Ⓘ T Ⓙ ▁ Ⓐ P ↑ tie ↓ ▁ 220 5 Ⓑ ▁ Ⓒ T Ⓓ
+▁ Ⓖ § Ⓗ ▁ Ⓔ Charles ▁ à → B e l le v u e Ⓕ ▁ Ⓚ 140 5 Ⓛ ▁ Ⓘ T Ⓙ ▁ Ⓐ P ↑ tie ↓ ▁ 220 1 Ⓑ ▁ Ⓒ T Ⓓ
+▁ Ⓖ § Ⓗ ▁ Ⓔ B e s s ault ▁ Toussaint ▁ à → Ch a m p ign y Ⓕ ▁ Ⓚ 140 6 Ⓛ ▁ Ⓘ T Ⓙ ▁ Ⓐ 220 6 Ⓑ ▁ Ⓒ T Ⓓ
+▁ Ⓖ § Ⓗ ▁ Ⓔ Q u é ru ▁ Pierre ▁ François Ⓕ ▁ Ⓚ 140 7 Ⓛ ▁ Ⓘ T Ⓙ ▁ Ⓐ 2 210 → 2 211 Ⓑ ▁ Ⓒ T → T Ⓓ
+▁ Ⓖ § Ⓗ ▁ Ⓔ Ren tienne ▁ A mbroise ▁ A mé d é e Ⓕ ▁ Ⓚ 140 8 Ⓛ ▁ Ⓘ T Ⓙ ▁ Ⓐ S ↑ t e ↓ ▁ 2 219 → ▁ P ↑ tie ↓ ▁ 2 219 ↑ bis ↓ Ⓑ ▁ Ⓒ T Ⓓ
+▁ Ⓖ § Ⓗ ▁ Ⓔ Ren tienne ▁ henri Ⓕ ▁ Ⓚ 140 9 Ⓛ ▁ Ⓘ T Ⓙ ▁ Ⓐ S ↑ t e ↓ ▁ 2 219 → S ↑ t e ↓ ▁ 2 219 ↑ bis ↓ Ⓑ ▁ Ⓒ T Ⓓ
+▁ Ⓖ § Ⓗ ▁ Ⓔ Ren tienne ▁ Clément ▁ Charles , ▁ g ↑ dre ↓→ q u é s u Ⓕ ▁ Ⓚ 12 10 Ⓛ ▁ Ⓘ T Ⓙ ▁ Ⓐ 2 220 Ⓑ ▁ Ⓒ T Ⓓ
+▁ Ⓖ § Ⓗ ▁ Ⓔ B on val ▁ Pierre ▁ Michel Ⓕ ▁ Ⓚ 141 1 Ⓛ ▁ Ⓘ Vigne ▁ T Ⓙ ▁ Ⓐ F ↑ r a ↓ ▁ 222 1 Ⓑ ▁ Ⓒ T Ⓓ
+▁ Ⓖ § Ⓗ ▁ Ⓔ Q u ière ▁ Louis ▁ A le x is ▁ fils → L èv nard Ⓕ ▁ Ⓚ 141 2 Ⓛ ▁ Ⓘ T Ⓙ ▁ Ⓐ 220 7 → 220 9 Ⓑ ▁ Ⓒ Vig → T Ⓓ
+▁ Ⓖ § Ⓗ ▁ Ⓔ ❌❌ e r ci ▁ B arthe le m y ▁ B e r nard Ⓕ ▁ Ⓚ 141 3 Ⓛ ▁ Ⓘ T Ⓙ ▁ Ⓐ P ↑ tie ↓ ▁ 220 8 Ⓑ ▁ Ⓒ T Ⓓ
+▁ Ⓖ § Ⓗ ▁ Ⓔ S e g u in ▁ T héodore Ⓕ ▁ Ⓚ 141 4 Ⓛ ▁ Ⓐ P ↑ tie ↓ ▁ 220 8 Ⓑ ▁ Ⓒ T Ⓓ
+▁ Ⓜ 3 1 7 Ⓝ ▁ Ⓔ V ar le t ▁ J ↑ ques ↓ Ⓕ ▁ Ⓚ 1 228 Ⓛ ▁ Ⓘ Terre Ⓙ
+▁ Ⓜ ×127± → 292 ↑ bis ↓ Ⓝ ▁ Ⓔ × Gauche r ▁ re né ▁ p ↑ re ↓ ▁ la ▁ Veuve ±→ Rousseau Ⓕ ▁ Ⓚ 12 29 Ⓛ ▁ Ⓘ id Ⓙ
+▁ Ⓜ ×127± Ⓝ ▁ Ⓔ Idem Ⓕ ▁ Ⓚ 1 230 Ⓛ ▁ Ⓘ Vigne Ⓙ
+▁ Ⓜ 228 Ⓝ ▁ Ⓔ M e t ivier ▁ Louis ▁ P ↑ re ↓ Ⓕ ▁ Ⓚ 123 1 Ⓛ ▁ Ⓘ Terre Ⓙ
+▁ Ⓜ 24 Ⓝ ▁ Ⓔ Benoit ▁ alex ↑ dre ↓ Ⓕ ▁ Ⓚ 123 2 Ⓛ ▁ Ⓘ Vig Ⓙ
+▁ Ⓜ ×127± → 292 ↑ bis ↓ Ⓝ ▁ Ⓔ × Gauche t ▁ re né ▁ f ↑ re ↓ ▁ la ▁ Veuve ±→ Rousseau Ⓕ ▁ Ⓚ 123 3 Ⓛ ▁ Ⓘ id Ⓙ
+▁ Ⓜ 57 Ⓝ ▁ Ⓔ B our sau t ▁ p ↑ re ↓ ▁ C ↑ de ↓ ▁ P h il i bert Ⓕ ▁ Ⓚ 123 4 Ⓛ ▁ Ⓘ Terre Ⓙ
+▁ Ⓜ 24 Ⓝ ▁ Ⓔ Benoit ▁ alex ↑ dre ↓ Ⓕ ▁ Ⓚ 123 5 Ⓛ ▁ Ⓘ id Ⓙ
+▁ Ⓜ 162 Ⓝ ▁ Ⓔ J our d ain ▁ J ↑ n ↓ ▁ L ↑ s ↓ ▁ Veuve Ⓕ ▁ Ⓚ 123 6 Ⓛ ▁ Ⓘ id Ⓙ
+▁ Ⓜ 70 Ⓝ ▁ Ⓔ Ch e val ier ▁ P ↑ re ↓ ▁ louis Ⓕ ▁ Ⓚ 123 7 Ⓛ ▁ Ⓘ id Ⓙ
+▁ Ⓜ 19 1 Ⓝ ▁ Ⓔ L ot t in ▁ V ↑ v e Ⓕ ▁ Ⓚ 123 8 Ⓛ ▁ Ⓘ id Ⓙ
+▁ Ⓜ × 106 ±→ 165 ↑ bis ↓ Ⓝ ▁ Ⓔ × D o b z at ▁ les ▁ h ↑ r s ↓± ▁ P h il i bé e Ⓕ ▁ Ⓚ 1 239 Ⓛ ▁ Ⓘ id Ⓙ
+▁ Ⓜ 45 Ⓝ ▁ Ⓔ B on n air e ▁ Ch ↑ e s ↓ Ⓕ ▁ Ⓚ 12 40 Ⓛ ▁ Ⓘ J e ▁ Vig Ⓙ
+▁ Ⓜ 197 Ⓝ ▁ Ⓔ M ain t r ieux ▁ f ↑ ois ↓ Ⓕ ▁ Ⓚ 124 1 Ⓛ ▁ Ⓘ Vig Ⓙ
+▁ Ⓜ × 252 ±→ 215 Ⓝ ▁ Ⓔ × P e r r au t ▁ Louis ± ▁ M e n tienne ▁ louis Ⓕ ▁ Ⓚ 124 2 Ⓛ ▁ Ⓘ id Ⓙ
+▁ Ⓜ 197 Ⓝ ▁ Ⓔ M ain t r ieux ▁ f ↑ ois ↓ Ⓕ ▁ Ⓚ 124 3 Ⓛ ▁ Ⓘ Terre Ⓙ
+▁ Ⓜ 23 8 Ⓝ ▁ Ⓔ R e m y → M or t ier ▁ × J ↑ ques ↓ ▁ dit ▁ Ch au mont ± Ⓕ ▁ Ⓚ 124 3 ↑ bis ↓ Ⓛ ▁ Ⓘ Vig . Ⓙ
+▁ Ⓜ ×127± → 292 ↑ bis Ⓝ ▁ Ⓔ × Gauche r ▁ re né ▁ p ↑ re ↓ ▁ la ▁ Veuve ±→ Rousseau Ⓕ ▁ Ⓚ 124 4 Ⓛ ▁ Ⓘ Vig Ⓙ
+▁ Ⓜ 277 Ⓝ ▁ Ⓔ Q u e ru ▁ f ↑ ois ↓ ▁ L e on ard Ⓕ ▁ Ⓚ 124 5 Ⓛ ▁ Ⓘ vig Ⓙ
+▁ Ⓜ 21 2 Ⓝ ▁ Ⓔ M e n tienne ▁ J ↑ n ↓ Ⓕ ▁ Ⓚ 124 6 Ⓛ ▁ Ⓘ id Ⓙ
+▁ Ⓖ Ru e ▁ du ▁ moulin → de ▁ c a ch an Ⓗ ▁ Ⓔ L e c om t e ▁ charles ▁ vincent Ⓕ ▁ Ⓚ 70 1 Ⓛ ▁ Ⓘ batimen t Ⓙ ▁ Ⓐ p .335 Ⓑ ▁ Ⓒ j Ⓓ
+▁ Ⓖ § Ⓗ ▁ Ⓔ L e roy ▁ denis ▁ ant ↑ n e ↓ ▁ m ↑ tre ↓ ▁ maçon Ⓕ ▁ Ⓚ 70 2 Ⓛ ▁ Ⓘ jardin Ⓙ ▁ Ⓐ p .335 Ⓑ ▁ Ⓒ j Ⓓ
+▁ Ⓖ § Ⓗ ▁ Ⓔ h ou illon ▁ J ↑ h ↓ ▁ a mi t i é Ⓕ ▁ Ⓚ 70 3 Ⓛ ▁ Ⓘ jardin Ⓙ ▁ Ⓐ p .335 Ⓑ ▁ Ⓒ j Ⓓ
+▁ Ⓖ § Ⓗ ▁ Ⓔ N ouvi al ▁ jean ▁ louis Ⓕ ▁ Ⓚ 70 4 Ⓛ ▁ Ⓘ Terre Ⓙ ▁ Ⓐ p .335 → p . 33 6 Ⓑ ▁ Ⓒ j → p e pin Ⓓ
+▁ Ⓖ § Ⓗ ▁ Ⓔ id Ⓕ ▁ Ⓚ 70 5 Ⓛ ▁ Ⓘ bâtiment Ⓙ ▁ Ⓐ p .335 Ⓑ ▁ Ⓒ j Ⓓ
+▁ Ⓖ § Ⓗ ▁ Ⓔ D e p i tre Ⓕ ▁ Ⓚ 70 6 Ⓛ ▁ Ⓘ Terre Ⓙ ▁ Ⓐ p . 33 6 Ⓑ ▁ Ⓒ p é pin Ⓓ
+▁ Ⓖ § Ⓗ ▁ Ⓔ R ay b aud ▁ pierre Ⓕ ▁ Ⓚ 70 7 Ⓛ ▁ Ⓘ Terre Ⓙ ▁ Ⓐ 33 3 → 3 34 Ⓑ ▁ Ⓒ T → t . p l . Ⓓ
+▁ Ⓖ la ▁ bel le ▁ i ma g e Ⓗ ▁ Ⓔ C al m e t ▁ armand ▁ N ↑ as ↓ ▁ f ↑ ois ↓ Ⓕ ▁ Ⓚ 70 8 Ⓛ ▁ Ⓘ Terre Ⓙ ▁ Ⓐ p .295 → e t ▁ 295 ↑ bis ↓ Ⓑ ▁ Ⓒ T Ⓓ
+▁ Ⓖ Ru e ▁ du moulin → de ▁ c a ch an Ⓗ ▁ Ⓔ P om mi è s ▁ alexandre Ⓕ ▁ Ⓚ 70 9 Ⓛ ▁ Ⓘ T . Ⓙ ▁ Ⓐ p .295 Ⓑ ▁ Ⓒ T Ⓓ
+▁ Ⓖ § Ⓗ ▁ Ⓔ C oud r ot Ⓕ ▁ Ⓚ 7 10 Ⓛ ▁ Ⓘ jardin Ⓙ ▁ Ⓐ p .295 Ⓑ ▁ Ⓒ T Ⓓ
+▁ Ⓖ § Ⓗ ▁ Ⓜ 114 Ⓝ ▁ Ⓔ § Ⓕ ▁ Ⓚ 71 1 Ⓛ ▁ Ⓘ bâtiment Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ P e pin ▁ jacques ▁ claude Ⓕ ▁ Ⓚ 7 12 Ⓛ ▁ Ⓘ bâtiment → n °28 Ⓙ ▁ Ⓐ p .295 Ⓑ ▁ Ⓒ T Ⓓ
+▁ Ⓖ § Ⓗ ▁ Ⓔ id Ⓕ ▁ Ⓚ 71 3 Ⓛ ▁ Ⓘ jardin Ⓙ ▁ Ⓐ p .295 Ⓑ ▁ Ⓒ T Ⓓ
+▁ Ⓖ § Ⓗ ▁ Ⓔ § Ⓕ ▁ Ⓚ 71 4 Ⓛ ▁ Ⓘ bâtiment Ⓙ ▁ Ⓐ p .295 Ⓑ ▁ Ⓒ T Ⓓ
+▁ Ⓖ L e s ▁ Loz ait s Ⓗ ▁ Ⓜ 3 97 Ⓝ ▁ Ⓔ M as s uet ▁ louis ▁ michel Ⓕ ▁ Ⓚ 4 75 Ⓛ ▁ Ⓘ terre Ⓙ ▁ Ⓐ 106 8 → 106 9 Ⓑ
+▁ Ⓖ § Ⓗ ▁ Ⓜ 3 22 Ⓝ ▁ Ⓔ L e du c ▁ pierre ▁ denis Ⓕ ▁ Ⓚ 47 6 Ⓛ ▁ Ⓘ terre Ⓙ ▁ Ⓐ 106 5 → 106 6 → 106 7 Ⓑ
+▁ Ⓖ § Ⓗ ▁ Ⓜ 211 Ⓝ ▁ Ⓔ G a b illot ▁ louis ▁ l ambert Ⓕ ▁ Ⓚ 47 7 Ⓛ ▁ Ⓘ terre Ⓙ ▁ Ⓐ 106 4 Ⓑ
+▁ Ⓖ § Ⓗ ▁ Ⓜ 4 20 Ⓝ ▁ Ⓔ M ay e ux ▁ pierre ▁ françois Ⓕ ▁ Ⓚ 47 8 Ⓛ ▁ Ⓘ terre Ⓙ ▁ Ⓐ 106 3 Ⓑ
+▁ Ⓖ § Ⓗ ▁ Ⓜ 47 9 Ⓝ ▁ Ⓔ Ch at enay ▁ Jean ▁ Mari e → abel Ⓕ ▁ Ⓚ 47 9 Ⓛ ▁ Ⓘ § Ⓙ ▁ Ⓐ 1061 → 1061 ↑ bis ↓ Ⓑ
+▁ Ⓖ § Ⓗ ▁ Ⓜ 1 90 Ⓝ ▁ Ⓔ F le ury ▁ gabriel ▁ françois Ⓕ ▁ Ⓚ 4 80 Ⓛ ▁ Ⓘ terre Ⓙ ▁ Ⓐ 1061 → 1061 ↑ bis ↓ Ⓑ
+▁ Ⓖ § Ⓗ ▁ Ⓜ 24 6 Ⓝ ▁ Ⓔ G u il le m ain ▁ frédéric ▁ a → Vitry Ⓕ ▁ Ⓚ 48 1 Ⓛ ▁ Ⓘ terre Ⓙ ▁ Ⓐ 1061 → 1061 ↑ bis ↓ Ⓑ
+▁ Ⓖ § Ⓗ ▁ Ⓜ 3 94 Ⓝ ▁ Ⓔ M as s uet ▁ Jean ▁ Pierre Ⓕ ▁ Ⓚ 48 2 Ⓛ ▁ Ⓘ terre Ⓙ ▁ Ⓐ 105 9 → 10 60 Ⓑ
+▁ Ⓖ § Ⓗ ▁ Ⓜ 4 37 Ⓝ ▁ Ⓔ M on coute au ▁ Claude ▁ l ambert Ⓕ ▁ Ⓚ 48 3 Ⓛ ▁ Ⓘ terre Ⓙ ▁ Ⓐ 105 7 →105 8 Ⓑ
+▁ Ⓖ § Ⓗ ▁ Ⓜ 3 91 Ⓝ ▁ Ⓔ M as s uet ▁ ↑ cy r ↓ ▁ J ↑ n ↓ ▁ bapt iste Ⓕ ▁ Ⓚ 48 4 Ⓛ ▁ Ⓘ p e p ↑ re ↓ Ⓙ ▁ Ⓐ 105 6 bis Ⓑ
+▁ Ⓖ § Ⓗ ▁ Ⓔ M ay e ux ▁ pierre ▁ f ↑ ç ois ↓ Ⓕ ▁ Ⓚ 48 5 Ⓛ ▁ Ⓘ terre Ⓙ ▁ Ⓐ 105 6 →105 5 ▁ p ↑ tie ↓ Ⓑ ▁ Ⓒ § Ⓓ
+▁ Ⓖ § Ⓗ ▁ Ⓔ T hé v e not ▁ Jean ▁ louis Ⓕ ▁ Ⓚ 48 6 Ⓛ ▁ Ⓘ terre Ⓙ ▁ Ⓐ 105 5 ▁ p ↑ tie ↓ →105 4 p ↑ tie ↓ Ⓑ ▁ Ⓒ § Ⓓ
+▁ Ⓖ § Ⓗ ▁ Ⓔ P e pin ▁ edme ▁ louis Ⓕ ▁ Ⓚ 48 7 Ⓛ ▁ Ⓘ terre Ⓙ ▁ Ⓐ 105 4 ▁ p ↑ tie ↓ →105 5 ↑ bis ↓ ▁ n ' e x iste ▁ p as ▁ s ur ▁ le ▁ p la n Ⓑ ▁ Ⓒ § Ⓓ
+▁ Ⓖ § Ⓗ ▁ Ⓔ S e r re ▁ de ▁ S t ▁ Ro man Ⓕ ▁ Ⓚ 48 8 Ⓛ ▁ Ⓘ terre Ⓙ ▁ Ⓐ 107 2 → 107 3 ▁ p ↑ tie ↓ Ⓑ ▁ Ⓒ § Ⓓ
+▁ Ⓖ L e s ▁ Roses Ⓗ ▁ Ⓔ M or izo t ▁ louis ▁ antoine Ⓕ ▁ Ⓚ 57 Ⓛ ▁ Ⓘ Terre Ⓙ ▁ Ⓐ 60 Ⓑ ▁ Ⓒ Terre Ⓓ
+▁ Ⓖ § Ⓗ ▁ Ⓔ B e au p i e d ▁ Jean ▁ Jacques Ⓕ ▁ Ⓚ 58 Ⓛ ▁ Ⓘ T Ⓙ ▁ Ⓐ 61 Ⓑ ▁ Ⓒ Vig Ⓓ
+▁ Ⓖ § Ⓗ ▁ Ⓔ D e g ar n e ▁ jean Ⓕ ▁ Ⓚ 59 Ⓛ ▁ Ⓘ T Ⓙ ▁ Ⓐ 62 Ⓑ ▁ Ⓒ V Ⓓ
+▁ Ⓖ § Ⓗ ▁ Ⓔ aug e r ▁ nicolas ▁ joseph Ⓕ ▁ Ⓚ 60 Ⓛ ▁ Ⓘ T Ⓙ ▁ Ⓐ 63 Ⓑ ▁ Ⓒ V . Ⓓ
+▁ Ⓖ § Ⓗ ▁ Ⓔ L om p ag e u ▁ P ↑ re ↓ ▁ jean Ⓕ ▁ Ⓚ 61 Ⓛ ▁ Ⓘ T Ⓙ ▁ Ⓐ 64 Ⓑ ▁ Ⓒ V . Ⓓ
+▁ Ⓖ § Ⓗ ▁ Ⓔ D e la nou e ▁ toussaint Ⓕ ▁ Ⓚ 62 Ⓛ ▁ Ⓘ T Ⓙ ▁ Ⓐ ☼ Ⓑ ▁ Ⓒ ☼ Ⓓ
+▁ Ⓖ § Ⓗ ▁ Ⓔ id Ⓕ ▁ Ⓚ 63 Ⓛ ▁ Ⓘ Vigne Ⓙ ▁ Ⓐ 65 Ⓑ ▁ Ⓒ V . Ⓓ
+▁ Ⓖ § Ⓗ ▁ Ⓔ B al oche ▁ ber nard Ⓕ ▁ Ⓚ 64 Ⓛ ▁ Ⓘ T Ⓙ ▁ Ⓐ 66 Ⓑ ▁ Ⓒ V . Ⓓ
+▁ Ⓖ § Ⓗ ▁ Ⓔ P e s ch e ux ▁ germain ▁ p ↑ re ↓ Ⓕ ▁ Ⓚ 65 Ⓛ ▁ Ⓘ T Ⓙ ▁ Ⓐ 67 Ⓑ ▁ Ⓒ V Ⓓ
+▁ Ⓖ § Ⓗ ▁ Ⓔ M in ier ▁ louis ▁ jacques Ⓕ ▁ Ⓚ 66 Ⓛ ▁ Ⓘ T Ⓙ ▁ Ⓐ 68 → 69 Ⓑ ▁ Ⓒ V → V Ⓓ
+▁ Ⓖ § Ⓗ ▁ Ⓔ fer re s ▁ louis e ▁ désiré ▁ ger t ru de Ⓕ ▁ Ⓚ 67 Ⓛ ▁ Ⓘ T Ⓙ ▁ Ⓐ 70 Ⓑ ▁ Ⓒ T Ⓓ
+▁ Ⓖ § Ⓗ ▁ Ⓔ Pi ger on Ⓕ ▁ Ⓚ 68 Ⓛ ▁ Ⓘ T Ⓙ ▁ Ⓐ 71 Ⓑ ▁ Ⓒ V Ⓓ
+▁ Ⓖ § Ⓗ ▁ Ⓔ L e b on ▁ jean Ⓕ ▁ Ⓚ 69 Ⓛ ▁ Ⓘ T Ⓙ ▁ Ⓐ 72 Ⓑ ▁ Ⓒ T Ⓓ
+▁ Ⓖ § Ⓗ ▁ Ⓔ B as s e s ▁ philippe Ⓕ ▁ Ⓚ 70 Ⓛ ▁ Ⓘ T Ⓙ ▁ Ⓐ 73 Ⓑ ▁ Ⓒ T Ⓓ
+▁ Ⓖ le ▁ chemin ▁ du → B ois Ⓗ ▁ Ⓜ 75 Ⓝ ▁ Ⓔ L e coute ur e ▁ simon Ⓕ ▁ Ⓚ 99 Ⓛ ▁ Ⓘ Terre Ⓙ ▁ Ⓐ 20 6 Ⓑ ▁ Ⓒ T Ⓓ
+▁ Ⓖ § Ⓗ ▁ Ⓜ 98 Ⓝ ▁ Ⓔ P e le t ▁ de ▁ la ▁ Loz è re Ⓕ ▁ Ⓚ 100 Ⓛ ▁ Ⓘ Terre Ⓙ ▁ Ⓐ 207 Ⓑ ▁ Ⓒ T Ⓓ
+▁ Ⓖ § Ⓗ ▁ Ⓜ 75 Ⓝ ▁ Ⓔ L e coute ux ▁ simon Ⓕ ▁ Ⓚ 101 Ⓛ ▁ Ⓘ Terre Ⓙ ▁ Ⓐ 208 Ⓑ ▁ Ⓒ T Ⓓ
+▁ Ⓖ § Ⓗ ▁ Ⓜ 68 Ⓝ ▁ Ⓔ Lab bé ▁ Louis Ⓕ ▁ Ⓚ 102 Ⓛ ▁ Ⓘ Terre Ⓙ ▁ Ⓐ 20 9 Ⓑ ▁ Ⓒ T Ⓓ
+▁ Ⓖ § Ⓗ ▁ Ⓜ 75 Ⓝ ▁ Ⓔ L e coute ux ▁ S imon Ⓕ ▁ Ⓚ 103 Ⓛ ▁ Ⓘ Terre Ⓙ ▁ Ⓐ 21 2 , 213 , 21 4 Ⓑ ▁ Ⓒ T Ⓓ
+▁ Ⓖ § Ⓗ ▁ Ⓜ 63 Ⓝ ▁ Ⓔ H ôte l ▁ Dieu ▁ de ▁ Paris Ⓕ ▁ Ⓚ 104 Ⓛ ▁ Ⓘ Terre Ⓙ ▁ Ⓐ 211 Ⓑ ▁ Ⓒ T Ⓓ
+▁ Ⓖ § Ⓗ ▁ Ⓜ 104 Ⓝ ▁ Ⓔ Pi or ▁ veuve Ⓕ ▁ Ⓚ 105 Ⓛ ▁ Ⓘ Terre Ⓙ ▁ Ⓐ 210 Ⓑ ▁ Ⓒ T Ⓓ
+▁ Ⓖ Ø Ⓗ ▁ Ⓜ 49 bis Ⓝ ▁ Ⓔ F our nier ▁ athanase ▁ à ▁ P re s cy Ⓕ ▁ Ⓚ 105 ↑ bis ↓ Ⓛ ▁ Ⓘ Terre Ⓙ ▁ Ⓐ Ø Ⓑ ▁ Ⓒ T Ⓓ
+▁ Ⓖ L e s ▁ B ou v e ts Ⓗ ▁ Ⓜ 63 Ⓝ ▁ Ⓔ h ôte l ▁ Dieu ▁ de ▁ Paris Ⓕ ▁ Ⓚ 106 Ⓛ ▁ Ⓘ Terre Ⓙ ▁ Ⓐ 226 Ⓑ ▁ Ⓒ T Ⓓ
+▁ Ⓖ § Ⓗ ▁ Ⓜ 43 Ⓝ ▁ Ⓔ D u val ▁ pro s per Ⓕ ▁ Ⓚ 107 Ⓛ ▁ Ⓘ terre Ⓙ ▁ Ⓐ 2 29 Ⓑ ▁ Ⓒ T Ⓓ
+▁ Ⓖ § Ⓗ ▁ Ⓜ 63 Ⓝ ▁ Ⓔ h ôte l ▁ Dieu ▁ de ▁ Paris Ⓕ ▁ Ⓚ 108 Ⓛ ▁ Ⓘ Terre Ⓙ ▁ Ⓐ 230 Ⓑ ▁ Ⓒ T Ⓓ
+▁ Ⓖ § Ⓗ ▁ Ⓜ 109 Ⓝ ▁ Ⓔ P re v ost ▁ Louis ▁ denis Ⓕ ▁ Ⓚ 109 Ⓛ ▁ Ⓘ Terre Ⓙ ▁ Ⓐ 231 Ⓑ ▁ Ⓒ pré Ⓓ
+▁ Ⓖ § Ⓗ ▁ Ⓜ 63 Ⓝ ▁ Ⓔ h ôte l ▁ Dieu ▁ de ▁ Paris Ⓕ ▁ Ⓚ 110 Ⓛ ▁ Ⓘ Terre Ⓙ ▁ Ⓐ 23 2 Ⓑ ▁ Ⓒ Terre Ⓓ
+▁ Ⓖ § Ⓗ ▁ Ⓜ 125 Ⓝ ▁ Ⓔ Thomas ▁ Jean ▁ François Ⓕ ▁ Ⓚ 111 Ⓛ ▁ Ⓘ Terre Ⓙ ▁ Ⓐ 23 3 Ⓑ ▁ Ⓒ pré Ⓓ
+▁ Ⓖ § Ⓗ ▁ Ⓜ 63 Ⓝ ▁ Ⓔ h ôte l ▁ Dieu ▁ de ▁ Paris Ⓕ ▁ Ⓚ 112 Ⓛ ▁ Ⓘ Terre Ⓙ ▁ Ⓐ 23 5 Ⓑ ▁ Ⓒ pré Ⓓ
+▁ Ⓖ L e ▁ Plant re Ⓗ ▁ Ⓔ M as s uet ▁ louis ▁ g aspard Ⓕ ▁ Ⓚ 213 Ⓛ ▁ Ⓘ Terre Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ J ↑ n ↓ ▁ J ↑ ques ↓ ▁ denis → G odefroy ▁ × Denis ▁ ch ± Ⓕ ▁ Ⓚ 2 41 Ⓛ ▁ Ⓘ Terre Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ C oche r ▁ nicolas Ⓕ ▁ Ⓚ 215 Ⓛ ▁ Ⓘ Terre Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ J ↑ n ↓ ▁ J ↑ ques ↓ ▁ denis → G odefroy ▁ denis ▁ Ch ↑ re ↓ ▁ J ↑ n ↓ Ⓕ ▁ Ⓚ 216 Ⓛ ▁ Ⓘ Terre Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ D u f resne ▁ jean ▁ germain Ⓕ ▁ Ⓚ 21 7 Ⓛ ▁ Ⓘ Terre Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ × C or d ay ▁ à ▁ Vitry ±→ ma y e ux ▁ a ▁ Villejuif Ⓕ ▁ Ⓚ 218 Ⓛ ▁ Ⓘ Terre Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ L e roy ▁ louis ▁ georges Ⓕ ▁ Ⓚ 219 Ⓛ ▁ Ⓘ Terre Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ L e b our l ier ▁ n ↑ as ↓ ▁ h e ctor Ⓕ ▁ Ⓚ 220 Ⓛ ▁ Ⓘ Terre Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ L e roy ▁ jean ▁ gilles Ⓕ ▁ Ⓚ 2 21 Ⓛ ▁ Ⓘ Terre Ⓙ
+▁ Ⓖ × Ru e ▁ du ▁ Cimetière ± Ⓗ ▁ Ⓔ B ou j ard ▁ a ▁ Paris Ⓕ ▁ Ⓚ 27 . ▁ Voi r ▁ le ▁ n ° ▁ 27 ↑ bis ↓→× 222 ±→ 27 Ⓛ ▁ Ⓘ × Pi è c e ▁ d ' e au ± Ⓙ
+▁ Ⓖ × id ± Ⓗ ▁ Ⓔ B ou j ard ▁ à ▁ Paris Ⓕ ▁ Ⓚ 27 ▁ Voi r ▁ le ▁ n ° ▁ 27 ↑ t ri ↓→× 2 23 ±→ 27 Ⓛ ▁ Ⓘ × Pi è c e ▁ d ' e au ± Ⓙ
+▁ Ⓖ × L e s ▁ sablons ± Ⓗ ▁ Ⓔ hospices ▁ de ▁ Paris Ⓕ ▁ Ⓚ 108 → Voi r ▁ le ▁ n ° ▁ 109 ↑ bis →× 2 24±→10 9 Ⓛ ▁ Ⓘ × T ▁ planté e ± Ⓙ
+▁ Ⓖ × Maison ▁ b la n ch e ± Ⓗ ▁ Ⓔ ma l b e z in ▁ al ci stre →× M e n a ger Ⓕ ▁ Ⓚ 126 ▁ Voi r ▁ le ▁ n ° 126 ↑ bis ↓→ 2 25 → 12 7 Ⓛ ▁ Ⓘ × sol ± Ⓙ
+▁ Ⓖ id Ⓗ ▁ Ⓔ id Ⓕ ▁ Ⓚ 2 25 Ⓛ ▁ Ⓘ × Maison ± Ⓙ
+▁ Ⓖ ❌ e ▁ × h e l oux ± Ⓗ ▁ Ⓔ D u f resne ▁ abel ▁ jean ▁ henry Ⓕ ▁ Ⓚ 2 ▁ Voi r ▁ le ▁ n ° ▁ 2 ↑ bis ↓→ 226 → 303 1 Ⓛ ▁ Ⓘ × Jardin ± Ⓙ
+▁ Ⓖ × Ru e ▁ de ▁ la ▁ mont ag n e ± Ⓗ ▁ Ⓔ P ri e ur ▁ aimé ▁ J ↑ n ↓ ▁ b ↑ t e ↓ Ⓕ ▁ Ⓚ 57 ▁ Voi r ▁ le ▁ n ° 57 ▁ ↑ bis ↓→ 2 27 → 58 Ⓛ ▁ Ⓘ × Terrain ± Ⓙ
+▁ Ⓖ × Route ▁ de ▁ font ain e b le au ± Ⓗ ▁ Ⓔ O l ivier Ⓕ ▁ Ⓚ m ur ▁ d ' E n c e in t e ▁ Voi r ▁ le ▁ n ° 147 ↑ bis ↓→ 228 → 149 Ⓛ ▁ Ⓘ sol ▁ e t ▁ cour →× Terrain ± Ⓙ
+▁ Ⓖ id Ⓗ ▁ Ⓔ 228 Ⓕ ▁ Ⓚ id Ⓛ ▁ Ⓘ Maison Ⓙ
+▁ Ⓜ 57 8 ▁ bis Ⓝ ▁ Ⓔ L e co q ▁ maçon Ⓕ ▁ Ⓚ × 2 29 ±→ 149 Ⓛ ▁ Ⓘ × Terrain ± Ⓙ
+▁ Ⓖ × id ± Ⓗ ▁ Ⓔ hospices ▁ de ▁ Paris Ⓕ ▁ Ⓚ 149 → 230 ▁ Voi r ▁ le ▁ n ° 149↑ t r ↓→ 150 Ⓛ ▁ Ⓘ × Terrain × Ⓙ
+▁ Ⓖ × L e s ▁ Plant re s ± Ⓗ ▁ Ⓔ F le ury ▁ ( p t assier ) ▁ germain ▁ felix Ⓕ ▁ Ⓚ 159 ▁ Voi r ▁ le ▁ n ° ▁ 1 58 ↑ bis ↓→ 231 → S ↑ on ↓ ▁ F Ⓛ ▁ Ⓘ × Terrain ± Ⓙ
+▁ Ⓖ Route ▁ de ▁ Charenton Ⓗ ▁ Ⓔ M i tau ls ▁ Jean , ▁ route ▁ de ▁ Charenton Ⓕ ▁ Ⓚ 68 4 Ⓛ ▁ Ⓘ sol Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ M i tau ls ▁ Jean ▁ id Ⓕ ▁ Ⓚ 68 4 Ⓛ ▁ Ⓘ maison Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ M i tau ls ▁ Jean ▁ id Ⓕ ▁ Ⓚ 6 85 Ⓛ ▁ Ⓘ J ard . ▁ d ' ag ↑ t ↓ . Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ M i tau ls ▁ Jean ▁ id Ⓕ ▁ Ⓚ 68 6 Ⓛ ▁ Ⓘ sol Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ M i tau ls ▁ Jean ▁ id Ⓕ ▁ Ⓚ 68 6 Ⓛ ▁ Ⓘ man è g e Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ M i tau ls ▁ Jean ▁ id Ⓕ ▁ Ⓚ 68 7 Ⓛ ▁ Ⓘ j ard . ▁ d ' ag t Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ M i tau ls ▁ Jean ▁ id Ⓕ ▁ Ⓚ 68 8 Ⓛ ▁ Ⓘ cour ▁ de ▁ fabrique Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ M i tau ls ▁ Jean ▁ id Ⓕ ▁ Ⓚ 6 89 Ⓛ ▁ Ⓘ sol Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ M i tau ls ▁ Jean ▁ id Ⓕ ▁ Ⓚ 6 89 Ⓛ ▁ Ⓘ fabrique ▁ de ▁ coll e ▁ fort e Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ M i tau ls ▁ Jean ▁ id Ⓕ ▁ Ⓚ 6 89 ↑ bis ↓ Ⓛ ▁ Ⓘ Terrain Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ M i tau ls ▁ Jean ▁ id Ⓕ ▁ Ⓚ 6 90 Ⓛ ▁ Ⓘ fabrique ▁ de ▁ produits → ch imi ques Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ M i tau ls ▁ Jean ▁ id Ⓕ ▁ Ⓚ 69 1 Ⓛ ▁ Ⓘ sol Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ M i tau ls ▁ Jean ▁ id Ⓕ ▁ Ⓚ 69 1 Ⓛ ▁ Ⓘ maison Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ M i tau ls ▁ Jean ▁ id Ⓕ ▁ Ⓚ 69 2 Ⓛ ▁ Ⓘ fabrique ▁ de ▁ produits → ch imi ques Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ M i tau ls ▁ Jean ▁ id Ⓕ ▁ Ⓚ 69 3 Ⓛ ▁ Ⓘ fabrique ▁ de ▁ coll e ▁ fort e Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ M i tau ls ▁ Jean ▁ id Ⓕ ▁ Ⓚ 69 3 ↑ bis ↓ Ⓛ ▁ Ⓘ sol Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ M i tau ls ▁ Jean ▁ id Ⓕ ▁ Ⓚ 69 3 ↑ bis ↓ Ⓛ ▁ Ⓘ bâtiment ▁ de ▁ ma ch in e → à ▁ v a p e ur Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ M i tau ls ▁ Jean ▁ id Ⓕ ▁ Ⓚ 69 4 Ⓛ ▁ Ⓘ fabrique ▁ de ▁ produits ▁ ch imi ques Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ M i tau ls ▁ Jean ▁ id Ⓕ ▁ Ⓚ 69 4 ↑ bis ↓ Ⓛ ▁ Ⓘ fabrique ▁ de ▁ c ar t on Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ M i tau ls ▁ Jean ▁ id Ⓕ ▁ Ⓚ 695 Ⓛ ▁ Ⓘ sol Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ M i tau ls ▁ Jean ▁ id Ⓕ ▁ Ⓚ 695 ↑ bis ↓ Ⓛ ▁ Ⓘ sol Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ M i tau ls ▁ Jean ▁ id Ⓕ ▁ Ⓚ 695 ↑ bis ↓ Ⓛ ▁ Ⓘ maison Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ M i tau ls ▁ Jean ▁ id Ⓕ ▁ Ⓚ 695 ▁ ↑ bis ↓ Ⓛ ▁ Ⓘ maison Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ M i tau ls ▁ Jean ▁ id Ⓕ ▁ Ⓚ 69 6 Ⓛ ▁ Ⓘ ter r ain s ▁ à ▁ bât ir Ⓙ
+▁ Ⓜ 90 ↑ bis ↓ Ⓝ ▁ Ⓔ C o i f fier ▁ J ↑ n ↓ ▁ B ↑ t e ↓ ▁ s e raph in Ⓕ ▁ Ⓚ 64 4 Ⓛ ▁ Ⓘ Terre Ⓙ
+▁ Ⓜ 198 Ⓝ ▁ Ⓔ H e ricour t ▁ Louis Ⓕ ▁ Ⓚ 64 4 ↑ bis ↓ Ⓛ ▁ Ⓘ id Ⓙ
+▁ Ⓜ 33 1 Ⓝ ▁ Ⓔ M on t m arthe ▁ P h ↑ e ↓ ▁ veuve Ⓕ ▁ Ⓚ 45 Ⓛ ▁ Ⓘ id Ⓙ
+▁ Ⓜ 4 29 Ⓝ ▁ Ⓔ M ▁ Saussay ▁ fils Ⓕ ▁ Ⓚ 45 ↑ bis ↓ Ⓛ ▁ Ⓘ § Ⓙ
+▁ Ⓜ 231 Ⓝ ▁ Ⓔ L ameau ▁ V ↑ e ↓ ▁ saturnin ▁ h ↑ ers ↓ Ⓕ ▁ Ⓚ 46 Ⓛ ▁ Ⓘ § Ⓙ
+▁ Ⓜ 116 Ⓝ ▁ Ⓔ M ↑ v ↓ ▁ D hau sson ville Ⓕ ▁ Ⓚ 47 Ⓛ ▁ Ⓘ vig Ⓙ
+▁ Ⓜ 32 Ⓝ ▁ Ⓔ B a taill e ▁ simon Ⓕ ▁ Ⓚ 48 Ⓛ ▁ Ⓘ Terre Ⓙ
+▁ Ⓜ 32 Ⓝ ▁ Ⓔ L e ▁ même Ⓕ ▁ Ⓚ 48 ↑ bis ↓ Ⓛ ▁ Ⓘ id Ⓙ
+▁ Ⓜ 87 Ⓝ ▁ Ⓔ C o i f fier ▁ J ↑ n ↓ ▁ F ↑ ois ↓ Ⓕ ▁ Ⓚ 49 Ⓛ ▁ Ⓘ § Ⓙ
+▁ Ⓜ × 40 ±→ 43 4 ↑ bis ↓ Ⓝ ▁ Ⓔ × B erger ▁ Louis ± ▁ F oud aux ▁ F ↑ ou ↓ ▁ Vincent Ⓕ ▁ Ⓚ 6 50 Ⓛ ▁ Ⓘ § Ⓙ
+▁ Ⓜ 3 1 Ⓝ ▁ Ⓔ B as tie n ▁ Laurent Ⓕ ▁ Ⓚ 51 Ⓛ ▁ Ⓘ vig Ⓙ
+▁ Ⓜ 123 Ⓝ ▁ Ⓔ D u val ▁ sat ↑ n in ↓ ▁ veuve Ⓕ ▁ Ⓚ 52 Ⓛ ▁ Ⓘ Terre Ⓙ
+▁ Ⓜ 307 Ⓝ ▁ Ⓔ M e rillon ▁ J ↑ n ↓ ▁ Sat ↑ n in ↓ Ⓕ ▁ Ⓚ 53 Ⓛ ▁ Ⓘ id Ⓙ
+▁ Ⓜ × 6 ±→ 33 Ⓝ ▁ Ⓔ × ancel e t ▁ V ↑ e ↓ ▁ J ac q . ± ▁ B a taill e ▁ J ↑ n ↓ ▁ ba p ↑ t e ↓ Ⓕ ▁ Ⓚ 54 Ⓛ ▁ Ⓘ § Ⓙ
+▁ Ⓜ × 4 60 ±→ 43 2 Ⓝ ▁ Ⓔ × Vitry ▁ veuve ▁ maurice ± ▁ S oud ieux ▁ L ↑ is ↓ ▁ J ↑ ques ↓ Ⓕ ▁ Ⓚ 55 Ⓛ ▁ Ⓘ § Ⓙ
+▁ Ⓜ 307 Ⓝ ▁ Ⓔ M e rillon ▁ J ↑ n ↓ ▁ Sat ↑ in ↓ Ⓕ ▁ Ⓚ 56 Ⓛ ▁ Ⓘ ter . Ⓙ
+▁ Ⓜ 307 Ⓝ ▁ Ⓔ L e ▁ même Ⓕ ▁ Ⓚ 57 Ⓛ ▁ Ⓘ vig . Ⓙ
+▁ Ⓜ 44 3 Ⓝ ▁ Ⓔ S oud ieux ▁ augustin Ⓕ ▁ Ⓚ 58 Ⓛ ▁ Ⓘ id Ⓙ
+▁ Ⓜ × 73 ±→ 22 ↑ bis ↓ Ⓝ ▁ Ⓔ × C ar ter on ± ▁ A utray ▁ Vincent ▁ félix Ⓕ ▁ Ⓚ 58 ↑ bis ↓ Ⓛ ▁ Ⓘ § Ⓙ
+▁ Ⓜ 105 Ⓝ ▁ Ⓔ N ↑ v ↓ ▁ C ury Ⓕ ▁ Ⓚ 59 Ⓛ ▁ Ⓘ Terre Ⓙ
+▁ Ⓜ 105 Ⓝ ▁ Ⓔ L e ▁ même Ⓕ ▁ Ⓚ 6 60 Ⓛ ▁ Ⓘ id Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓜ 70 Ⓝ ▁ Ⓔ C a d ot ▁ P ↑ re ↓ ▁ F ↑ ois ↓ ▁ font . Ⓕ ▁ Ⓚ 61 Ⓛ ▁ Ⓘ § Ⓙ
+▁ Ⓖ L e s ▁ Roses Ⓗ ▁ Ⓔ D e la nou e ▁ toussaint Ⓕ ▁ Ⓚ 71 Ⓛ ▁ Ⓘ Terre Ⓙ ▁ Ⓐ 74 Ⓑ ▁ Ⓒ Terre Ⓓ
+▁ Ⓖ § Ⓗ ▁ Ⓔ L e port ier ▁ louis ▁ germain Ⓕ ▁ Ⓚ 72 Ⓛ ▁ Ⓘ T Ⓙ ▁ Ⓐ 75 Ⓑ ▁ Ⓒ T Ⓓ
+▁ Ⓖ § Ⓗ ▁ Ⓔ S e j our né ▁ louis ▁ l aurent Ⓕ ▁ Ⓚ 73 Ⓛ ▁ Ⓘ Vigne Ⓙ ▁ Ⓐ 76 Ⓑ ▁ Ⓒ T Ⓓ
+▁ Ⓖ § Ⓗ ▁ Ⓔ L e g e ndre ▁ louis ▁ philippe Ⓕ ▁ Ⓚ 74 Ⓛ ▁ Ⓘ Vig . Ⓙ ▁ Ⓐ 77 → 7 8 →79 Ⓑ ▁ Ⓒ T → T → Vig Ⓓ
+▁ Ⓖ § Ⓗ ▁ Ⓔ G u ay ▁ jacques ▁ fils Ⓕ ▁ Ⓚ 75 Ⓛ ▁ Ⓘ Terre Ⓙ ▁ Ⓐ 80 Ⓑ ▁ Ⓒ T Ⓓ
+▁ Ⓖ § Ⓗ ▁ Ⓔ G e rand e ▁ ( de ) Ⓕ ▁ Ⓚ 76 Ⓛ ▁ Ⓘ T Ⓙ ▁ Ⓐ 81 Ⓑ ▁ Ⓒ T Ⓓ
+▁ Ⓖ § Ⓗ ▁ Ⓔ D e la nou e ▁ J ↑ n ↓ ▁ B ↑ t e ↓ ▁ toussaint Ⓕ ▁ Ⓚ 77 Ⓛ ▁ Ⓘ T Ⓙ ▁ Ⓐ 82 Ⓑ ▁ Ⓒ T Ⓓ
+▁ Ⓖ § Ⓗ ▁ Ⓔ M e n e ux ▁ ch ↑ e s ↓ ▁ nicolas Ⓕ ▁ Ⓚ 7 8 Ⓛ ▁ Ⓘ T Ⓙ ▁ Ⓐ 8 3 → 84 Ⓑ ▁ Ⓒ Vig → T Ⓓ
+▁ Ⓖ § Ⓗ ▁ Ⓔ G e rand o ▁ ( de ) Ⓕ ▁ Ⓚ 7 9 Ⓛ ▁ Ⓘ T Ⓙ ▁ Ⓐ 85 Ⓑ ▁ Ⓒ T Ⓓ
+▁ Ⓖ § Ⓗ ▁ Ⓔ M in ier ▁ Toussaint Ⓕ ▁ Ⓚ 80 Ⓛ ▁ Ⓘ T Ⓙ ▁ Ⓐ 86 Ⓑ ▁ Ⓒ Vig Ⓓ
+▁ Ⓖ § Ⓗ ▁ Ⓔ Aug e r ▁ nicolas ▁ joseph Ⓕ ▁ Ⓚ 81 Ⓛ ▁ Ⓘ T Ⓙ ▁ Ⓐ 87 → 1 85 Ⓑ ▁ Ⓒ T → T Ⓓ
+▁ Ⓖ § Ⓗ ▁ Ⓔ B e au pré ▁ jeune ▁ louis Ⓕ ▁ Ⓚ 82 Ⓛ ▁ Ⓘ T Ⓙ ▁ Ⓐ 88 Ⓑ ▁ Ⓒ T Ⓓ
+▁ Ⓖ § Ⓗ ▁ Ⓔ P e s ch e ux ▁ germain ▁ p ↑ re ↓ Ⓕ ▁ Ⓚ 8 3 Ⓛ ▁ Ⓘ vig n e Ⓙ ▁ Ⓐ 89 Ⓑ ▁ Ⓒ Vig Ⓓ
+▁ Ⓖ § Ⓗ ▁ Ⓔ M i zard ▁ alexandre Ⓕ ▁ Ⓚ 84 Ⓛ ▁ Ⓘ Vig . Ⓙ ▁ Ⓐ 90 Ⓑ ▁ Ⓒ T Ⓓ
+▁ Ⓖ G rand e → Ru e Ⓗ ▁ Ⓔ f resne ▁ ( Commune ▁ de ) Ⓕ ▁ Ⓚ 6 29 Ⓛ ▁ Ⓘ Cimetière Ⓙ ▁ Ⓐ 409 Ⓑ ▁ Ⓒ Cimetière Ⓓ
+▁ Ⓖ § Ⓗ ▁ Ⓔ B ou lo gn e ▁ pro s per Ⓕ ▁ Ⓚ 6 30 Ⓛ ▁ Ⓘ jardin Ⓙ ▁ Ⓐ 40 8 Ⓑ ▁ Ⓒ j ↑ in ↓ Ⓓ
+▁ Ⓖ § Ⓗ ▁ Ⓔ id e m Ⓕ ▁ Ⓚ 63 1 Ⓛ ▁ Ⓘ maison ▁ e t → cour → n ° 22 Ⓙ ▁ Ⓐ 410 p Ⓑ ▁ Ⓒ M ↑ on ↓ Ⓓ
+▁ Ⓖ § Ⓗ ▁ Ⓔ id Ⓕ ▁ Ⓚ 63 2 Ⓛ ▁ Ⓘ maison ▁ e t → cour → n °24 Ⓙ ▁ Ⓐ 410 p Ⓑ ▁ Ⓒ M ↑ on ↓ Ⓓ
+▁ Ⓖ § Ⓗ ▁ Ⓔ Philippe ▁ alex ↑ dre ↓ ▁ f ↑ ois ↓ ▁ aug ↑ t e ↓ Ⓕ ▁ Ⓚ 63 3 Ⓛ ▁ Ⓘ maison ▁ cour → e t ▁ B ↑ t ↓→ n ° 26 Ⓙ ▁ Ⓐ 411 Ⓑ ▁ Ⓒ M ↑ on ↓ Ⓓ
+▁ Ⓖ § Ⓗ ▁ Ⓔ id Ⓕ ▁ Ⓚ 63 4 Ⓛ ▁ Ⓘ jardin Ⓙ ▁ Ⓐ 4 12 Ⓑ ▁ Ⓒ j ↑ in ↓ Ⓓ
+▁ Ⓖ § Ⓗ ▁ Ⓔ Ch a il l ou ▁ Louis ▁ frédéric Ⓕ ▁ Ⓚ 63 5 Ⓛ ▁ Ⓘ jardin Ⓙ ▁ Ⓐ 41 3 Ⓑ ▁ Ⓒ j ↑ in ↓ Ⓓ
+▁ Ⓖ § Ⓗ ▁ Ⓔ id e m Ⓕ ▁ Ⓚ 63 6 Ⓛ ▁ Ⓘ maison ▁ cour → e t ▁ B ↑ t ↓→ n °28 Ⓙ ▁ Ⓐ 41 4 → 415 Ⓑ ▁ Ⓒ M ↑ on ↓ Ⓓ
+▁ Ⓖ § Ⓗ ▁ Ⓔ V i e l ▁ pierre Ⓕ ▁ Ⓚ 6 37 Ⓛ ▁ Ⓘ maison ▁ cour → e t ▁ B ↑ t ↓→ n ° 30 Ⓙ ▁ Ⓐ 41 6 Ⓑ ▁ Ⓒ M ↑ on ↓ Ⓓ
+▁ Ⓖ § Ⓗ ▁ Ⓔ T a vern ier ▁ f ir m in ▁ alexandre Ⓕ ▁ Ⓚ 63 8 Ⓛ ▁ Ⓘ jardin Ⓙ ▁ Ⓐ 4 20 → 4 21 → 42 2 Ⓑ ▁ Ⓒ j ↑ in ↓ Ⓓ
+▁ Ⓖ § Ⓗ ▁ Ⓔ id Ⓕ ▁ Ⓚ 63 9 Ⓛ ▁ Ⓘ maison ▁ cour → e t ▁ B ↑ t → n ° 32 Ⓙ ▁ Ⓐ 41 7 → 41 8 → 41 9 Ⓑ ▁ Ⓒ M ↑ on ↓ Ⓓ
+▁ Ⓖ § Ⓗ ▁ Ⓔ S il v e stre ▁ marie ▁ an n e →× simon e ± Ⓕ ▁ Ⓚ 6 40 Ⓛ ▁ Ⓘ maison ▁ cour → e t ▁ B ↑ t ↓→ n °34 Ⓙ ▁ Ⓐ 4 23 → 42 4 → 4 25 → 4 26 → 4 27 p Ⓑ ▁ Ⓒ M ↑ on ↓→ M ↑ on ↓→ J ↑ in ↓ Ⓓ
+▁ Ⓖ § Ⓗ ▁ Ⓔ B al oche ▁ p ↑ re ↓ ▁ Ru t t in Ⓕ ▁ Ⓚ 6 40 ↑ bis ↓ Ⓛ ▁ Ⓘ m ↑ on ↓ ▁ cour ▁ e t ▁ B ↑ t ↓→ n °34 ↑ bis ↓ Ⓙ ▁ Ⓐ Ø Ⓑ ▁ Ⓒ Ø Ⓓ
+▁ Ⓖ § Ⓗ ▁ Ⓔ S il v e stre ▁ × id e m ± ▁ marie ▁ an n e Ⓕ ▁ Ⓚ 64 1 Ⓛ ▁ Ⓘ jardin Ⓙ ▁ Ⓐ 4 27 ▁ p Ⓑ ▁ Ⓒ j ↑ in ↓ Ⓓ
+▁ Ⓖ § Ⓗ ▁ Ⓔ B al oche ▁ p ↑ re ↓ ▁ Ru f f in Ⓕ ▁ Ⓚ 64 1 ↑ bis ↓ Ⓛ ▁ Ⓘ jardin Ⓙ ▁ Ⓐ Ø Ⓑ ▁ Ⓒ Ø Ⓓ
+▁ Ⓖ § Ⓗ ▁ Ⓔ Ch e v é ▁ ar s enne ▁ ch ↑ e s ↓ ▁ f ↑ ois ↓ Ⓕ ▁ Ⓚ 64 2 Ⓛ ▁ Ⓘ jardin Ⓙ ▁ Ⓐ 4 28 ▁ p Ⓑ ▁ Ⓒ j ↑ in ↓ Ⓓ
+▁ Ⓖ L a → C out ur e ▁ du ▁ moulin Ⓗ ▁ Ⓔ Pi or s ▁ augustin , ▁ V ↑ e ↓ Ⓕ ▁ Ⓚ 239 Ⓛ ▁ Ⓘ T Ⓙ ▁ Ⓐ 138 → 138 ↑ 6 ↓→ 138 ↑ 7 ↓ Ⓑ ▁ Ⓒ T → T ▁ p s → J Ⓓ
+▁ Ⓖ L e → M ou lin ▁ de ▁ Thi a is Ⓗ ▁ Ⓔ Idem Ⓕ ▁ Ⓚ 240 Ⓛ ▁ Ⓘ M ↑ lin ↓ ▁ T Ⓙ ▁ Ⓐ 138 ↑ 2 ↓→ 12 8 ↑ 3 ↓ Ⓑ ▁ Ⓒ moulin → à ▁ v e n t → Ⓓ
+▁ Ⓖ id Ⓗ ▁ Ⓔ Idem Ⓕ ▁ Ⓚ 2 41 Ⓛ ▁ Ⓘ M ↑ in ↓ Ⓙ ▁ Ⓐ 138 ↑ 4 ↓→ 138 ↑ 5 ↓ Ⓑ ▁ Ⓒ m ▁ c → J ▁ e t ▁ cour Ⓓ
+▁ Ⓖ aven u e ▁ du ▁ Pla t e au Ⓗ ▁ Ⓔ D u bois ▁ P e t i é ▁ Louis ▁ Charles ▁ André , ▁ Paris Ⓕ ▁ Ⓚ 242 Ⓛ ▁ Ⓘ T Ⓙ ▁ Ⓐ 137 Ⓑ ▁ Ⓒ T Ⓓ
+▁ Ⓖ id Ⓗ ▁ Ⓔ M i g on ▁ de ▁ B e rt y ▁ an g e ▁ ma x imi li e n ▁ simon , ▁ Paris Ⓕ ▁ Ⓚ 2 43 Ⓛ ▁ Ⓘ T Ⓙ ▁ Ⓐ 250 Ⓑ ▁ Ⓒ T Ⓓ
+▁ Ⓖ L e s ▁ 15 ▁ ar p e n s Ⓗ ▁ Ⓔ D e f resne ▁ honoré ▁ frédéric ▁ dit ▁ B i z e t , ▁ Vitry Ⓕ ▁ Ⓚ 2 44 Ⓛ ▁ Ⓘ T Ⓙ ▁ Ⓐ p . ▁ 349 Ⓑ ▁ Ⓒ ☼ Ⓓ
+▁ Ⓖ id Ⓗ ▁ Ⓔ D u ch an g e ▁ Jean ▁ Pierre , ▁ Vitry Ⓕ ▁ Ⓚ 245 Ⓛ ▁ Ⓘ T Ⓙ ▁ Ⓐ p . 349 Ⓑ ▁ Ⓒ ☼ Ⓓ
+▁ Ⓖ § Ⓗ ▁ Ⓔ L e p rin c e ▁ andré ▁ m ar guer i t e Ⓕ ▁ Ⓚ 24 6 Ⓛ ▁ Ⓘ T Ⓙ ▁ Ⓐ p . 349 Ⓑ ▁ Ⓒ ☼ Ⓓ
+▁ Ⓖ § Ⓗ ▁ Ⓔ Idem Ⓕ ▁ Ⓚ 2 47 Ⓛ ▁ Ⓘ Pi p Ⓙ ▁ Ⓐ p . ▁ 249 Ⓑ ▁ Ⓒ ☼ Ⓓ
+▁ Ⓖ § Ⓗ ▁ Ⓔ M at on ▁ Pierre ▁ Jean ▁ B as il e , ▁ Vitry Ⓕ ▁ Ⓚ 2 48 Ⓛ ▁ Ⓘ T Ⓙ ▁ Ⓐ p . ▁ 349 Ⓑ ▁ Ⓒ T Ⓓ
+▁ Ⓖ § Ⓗ ▁ Ⓔ G ro gn e t ▁ Philippe ▁ Julien , ▁ Vitry Ⓕ ▁ Ⓚ 249 Ⓛ ▁ Ⓘ P e p . Ⓙ ▁ Ⓐ p . 349 Ⓑ ▁ Ⓒ Ø Ⓓ
+▁ Ⓖ § Ⓗ ▁ Ⓔ Idem Ⓕ ▁ Ⓚ 250 Ⓛ ▁ Ⓘ T Ⓙ ▁ Ⓐ p . 249 Ⓑ ▁ Ⓒ Ø Ⓓ
+▁ Ⓖ § Ⓗ ▁ Ⓔ T hé v e n o i ▁ jean ▁ louis ▁ père ▁ g ↑ dre ↓ ▁ b izo n , ▁ v i t ry Ⓕ ▁ Ⓚ 251 Ⓛ ▁ Ⓘ T Ⓙ ▁ Ⓐ p . 349 Ⓑ ▁ Ⓒ Ø Ⓓ
+▁ Ⓖ § Ⓗ ▁ Ⓔ Lam y ▁ Jean ▁ Louis ▁ denis ▁ F élix Ⓕ ▁ Ⓚ 3 52 Ⓛ ▁ Ⓘ T Ⓙ ▁ Ⓐ p . 349 Ⓑ ▁ Ⓒ Ø Ⓓ
+▁ Ⓜ × 145 ±→ 147 Ⓝ ▁ Ⓔ G u g not ▁ J ↑ n ↓ ▁ Claude Ⓕ ▁ Ⓚ 124 7 Ⓛ ▁ Ⓘ Vigne Ⓙ
+▁ Ⓜ 112 Ⓝ ▁ Ⓔ E n j alva n Ⓕ ▁ Ⓚ 124 8 Ⓛ ▁ Ⓘ id Ⓙ
+▁ Ⓜ 213 Ⓝ ▁ Ⓔ M e n tienne ▁ alex ↑ dre ↓ Ⓕ ▁ Ⓚ 1 249 Ⓛ ▁ Ⓘ id Ⓙ
+▁ Ⓜ 26 Ⓝ ▁ Ⓔ Benoist ▁ J ↑ h ↓ ▁ J ↑ n ↓ Ⓕ ▁ Ⓚ 12 50 Ⓛ ▁ Ⓘ id Ⓙ
+▁ Ⓜ 26 Ⓝ ▁ Ⓔ id e m Ⓕ ▁ Ⓚ 125 1 Ⓛ ▁ Ⓘ Terre Ⓙ
+▁ Ⓜ 26 Ⓝ ▁ Ⓔ § Ⓕ ▁ Ⓚ 125 2 Ⓛ ▁ Ⓘ Vig . Ⓙ
+▁ Ⓜ 222 Ⓝ ▁ Ⓔ M e n tienne ▁ J ↑ n ↓ ▁ Louis Ⓕ ▁ Ⓚ 125 3 Ⓛ ▁ Ⓘ id Ⓙ
+▁ Ⓜ 162 Ⓝ ▁ Ⓔ J our d ain ▁ J ↑ n ↓ ▁ Louis ▁ Veuve Ⓕ ▁ Ⓚ 1 254 Ⓛ ▁ Ⓘ Terre Ⓙ
+▁ Ⓜ 252 Ⓝ ▁ Ⓔ P e r ri g au t ▁ andré ▁ F ↑ is ↓ Ⓕ ▁ Ⓚ 1 255 Ⓛ ▁ Ⓘ Vig Ⓙ
+▁ Ⓜ 304 Ⓝ ▁ Ⓔ S e llier ▁ J ↑ ques ↓ ▁ Georges Ⓕ ▁ Ⓚ 125 6 Ⓛ ▁ Ⓘ id Ⓙ
+▁ Ⓜ 278 Ⓝ ▁ Ⓔ Q u e v u ▁ F ↑ ois ↓ ▁ N ↑ as ↓ Ⓕ ▁ Ⓚ 125 7 Ⓛ ▁ Ⓘ id Ⓙ
+▁ Ⓜ 278 Ⓝ ▁ Ⓔ id e m Ⓕ ▁ Ⓚ 125 8 Ⓛ ▁ Ⓘ Terre Ⓙ
+▁ Ⓜ 9 Ⓝ ▁ Ⓔ B as ir e ▁ g u il l ↑ e ↓ ▁ Veuve Ⓕ ▁ Ⓚ 12 59 Ⓛ ▁ Ⓘ Vig Ⓙ
+▁ Ⓜ 27 6 Ⓝ ▁ Ⓔ Q u e ru ▁ P ↑ re ↓ ▁ marie Ⓕ ▁ Ⓚ 12 60 Ⓛ ▁ Ⓘ Terre Ⓙ
+▁ Ⓜ 24 Ⓝ ▁ Ⓔ Benoit ▁ alex ↑ dre ↓ Ⓕ ▁ Ⓚ 126 1 Ⓛ ▁ Ⓘ id Ⓙ
+▁ Ⓜ 228 Ⓝ ▁ Ⓔ M e t ivier ▁ Louis ▁ F ↑ re ↓ Ⓕ ▁ Ⓚ 126 2 Ⓛ ▁ Ⓘ id Ⓙ
+▁ Ⓜ 124 Ⓝ ▁ Ⓔ G ar reau ▁ Louis e ▁ michel Ⓕ ▁ Ⓚ 126 3 Ⓛ ▁ Ⓘ Vig Ⓙ
+▁ Ⓜ 210 Ⓝ ▁ Ⓔ M e n tienne ▁ Louis ▁ ger v a is Ⓕ ▁ Ⓚ 126 4 Ⓛ ▁ Ⓘ id Ⓙ
+▁ Ⓜ 298 Ⓝ ▁ Ⓔ S e llier ▁ F ↑ s ↓ ▁ marie Ⓕ ▁ Ⓚ 12 65 Ⓛ ▁ Ⓘ Terre Ⓙ
+▁ Ⓜ 97 Ⓝ ▁ Ⓔ D e s n y au ▁ J ↑ n ↓ ▁ A le x ↑ dre ↓ Ⓕ ▁ Ⓚ 12 65 ↑ bis ↓ Ⓛ ▁ Ⓘ id Ⓙ
+▁ Ⓖ L e ▁ C oin → du ▁ B ois Ⓗ ▁ Ⓔ B ar illet ▁ Antoine ▁ Saturnin Ⓕ ▁ Ⓚ 1 145 Ⓛ ▁ Ⓘ T Ⓙ ▁ Ⓐ 254 3 Ⓑ ▁ Ⓒ T Ⓓ
+▁ Ⓖ id Ⓗ ▁ Ⓔ L ameau ▁ A ch il le Ⓕ ▁ Ⓚ 114 6 Ⓛ ▁ Ⓘ T Ⓙ ▁ Ⓐ 254 4 → 254 5 → 254 6 Ⓑ ▁ Ⓒ T → T → T Ⓓ
+▁ Ⓖ § Ⓗ ▁ Ⓔ M é rillon ▁ Jean ▁ Saturnin ▁ V ↑ v e ↓ Ⓕ ▁ Ⓚ 1 147 Ⓛ ▁ Ⓘ T Ⓙ ▁ Ⓐ 254 6 Ⓑ ▁ Ⓒ T Ⓓ
+▁ Ⓖ § Ⓗ ▁ Ⓔ S our d ieux ▁ Louis ▁ fils ▁ B re t e u il Ⓕ ▁ Ⓚ 1 148 Ⓛ ▁ Ⓘ T Ⓙ ▁ Ⓐ 254 8 Ⓑ ▁ Ⓒ T Ⓓ
+▁ Ⓖ § Ⓗ ▁ Ⓔ M é rillon ▁ F élix Ⓕ ▁ Ⓚ 1 149 Ⓛ ▁ Ⓘ T Ⓙ ▁ Ⓐ 254 9 Ⓑ ▁ Ⓒ T Ⓓ
+▁ Ⓖ § Ⓗ ▁ Ⓔ M on t m arthe ▁ Philippe ▁ Antoine → Nicolas Ⓕ ▁ Ⓚ 1 150 Ⓛ ▁ Ⓘ Vigne Ⓙ ▁ Ⓐ P ↑ tie ↓ ▁ 25 50 Ⓑ ▁ Ⓒ T Ⓓ
+▁ Ⓖ § Ⓗ ▁ Ⓔ L ameau ▁ Jean ▁ , ▁ fils → Saturnin Ⓕ ▁ Ⓚ 115 1 Ⓛ ▁ Ⓘ T Ⓙ ▁ Ⓐ P ↑ tie ↓ ▁ 25 50 Ⓑ ▁ Ⓒ T Ⓓ
+▁ Ⓖ § Ⓗ ▁ Ⓔ S oud ieux ▁ Pierre ▁ Louis Ⓕ ▁ Ⓚ 115 2 Ⓛ ▁ Ⓘ T Ⓙ ▁ Ⓐ 255 3 → 255 4 Ⓑ ▁ Ⓒ T → vig n Ⓓ
+▁ Ⓖ § Ⓗ ▁ Ⓔ L e s ain t ▁ Jean ▁ Bapt iste Ⓕ ▁ Ⓚ 115 3 Ⓛ ▁ Ⓘ T Ⓙ ▁ Ⓐ 255 1 → 255 2 Ⓑ ▁ Ⓒ T → T Ⓓ
+▁ Ⓖ § Ⓗ ▁ Ⓔ H é ricour t ▁ Germain , ▁ fils → Cun ❌❌ urd Ⓕ ▁ Ⓚ 1 154 Ⓛ ▁ Ⓘ T Ⓙ ▁ Ⓐ P ↑ tie ↓ ▁ 255 6 Ⓑ ▁ Ⓒ T Ⓓ
+▁ Ⓖ § Ⓗ ▁ Ⓔ H é ricour t ▁ August in e , ▁ à → Paris Ⓕ ▁ Ⓚ 115 5 Ⓛ ▁ Ⓘ T Ⓙ ▁ Ⓐ P ↑ tie ↓ ▁ 255 6 Ⓑ ▁ Ⓒ T Ⓓ
+▁ Ⓖ § Ⓗ ▁ Ⓔ B erger ▁ Bapt iste Ⓕ ▁ Ⓚ 1 156 Ⓛ ▁ Ⓘ T Ⓙ ▁ Ⓐ 255 9 Ⓑ ▁ Ⓒ T Ⓓ
+▁ Ⓖ § Ⓗ ▁ Ⓔ J o sset ▁ Jean ▁ Veuve Ⓕ ▁ Ⓚ 1 157 Ⓛ ▁ Ⓘ T Ⓙ ▁ Ⓐ P tie ▁ 255 7 → 255 8 Ⓑ ▁ Ⓒ T → Vig Ⓓ
+▁ Ⓖ § Ⓗ ▁ Ⓔ P e ques n e ▁ Pierre ▁ Louis Ⓕ ▁ Ⓚ 115 8 Ⓛ ▁ Ⓘ T Ⓙ ▁ Ⓐ P ↑ tie ↓ Ⓑ ▁ Ⓒ T Ⓓ
+▁ Ⓖ Ru e → Ⓗ ▁ Ⓔ F r an c k air t Ⓕ ▁ Ⓚ 236 Ⓛ ▁ Ⓘ S o l ▁ e t ▁ terre Ⓙ
+▁ Ⓖ M on gé not Ⓗ ▁ Ⓔ id Ⓕ ▁ Ⓚ 236 Ⓛ ▁ Ⓘ Maison → batimen s → e t ▁ h an g ar Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ M on g e not ▁ claude ▁ f ↑ os ↓ Ⓕ ▁ Ⓚ 236 ▁ ↑ bis ↓ Ⓛ ▁ Ⓘ Jardin Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ id Ⓕ ▁ Ⓚ 236 ▁ ter Ⓛ ▁ Ⓘ S o l Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ id Ⓕ ▁ Ⓚ 236 ▁ ↑ ter ↓ Ⓛ ▁ Ⓘ batimen t Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ F r an c k air t Ⓕ ▁ Ⓚ 237 Ⓛ ▁ Ⓘ J ↑ d in ↓ ▁ pota ger Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ id Ⓕ ▁ Ⓚ 237 ↑ bis ↓ Ⓛ ▁ Ⓘ S o l ▁ e t ▁ cour Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ id Ⓕ ▁ Ⓚ 237 ↑ bis ↓ Ⓛ ▁ Ⓘ bâtiment Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ D a m martin Ⓕ ▁ Ⓚ 23 8 Ⓛ ▁ Ⓘ J ↑ d in ↓ ▁ pota ger Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ M in ot ▁ Veuve Ⓕ ▁ Ⓚ 23 8 ↑ bis ↓ Ⓛ ▁ Ⓘ S o l ▁ e t ▁ cour Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ id Ⓕ ▁ Ⓚ 23 8 ↑ bis ↓ Ⓛ ▁ Ⓘ bâtiment Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ id Ⓕ ▁ Ⓚ 23 8 ↑ ter ↓ Ⓛ ▁ Ⓘ Jardin Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ D a m martin Ⓕ ▁ Ⓚ 239 Ⓛ ▁ Ⓘ S o l ▁ e t ▁ cour Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ id Ⓕ ▁ Ⓚ 239 Ⓛ ▁ Ⓘ M ↑ on ↓ ▁ e t ▁ b ↑ t ↓ Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ M in ot ▁ Veuve Ⓕ ▁ Ⓚ 239 ↑ bis ↓ Ⓛ ▁ Ⓘ S o l ▁ e t ▁ cour Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ id Ⓕ ▁ Ⓚ 239 ↑ bis ↓ Ⓛ ▁ Ⓘ Maison Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ C on ard ▁ V ↑ v e ↓ Ⓕ ▁ Ⓚ 240 Ⓛ ▁ Ⓘ passage Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ id Ⓕ ▁ Ⓚ 2 41 Ⓛ ▁ Ⓘ Jardin Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ id Ⓕ ▁ Ⓚ 242 Ⓛ ▁ Ⓘ S o l Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ id Ⓕ ▁ Ⓚ 242 Ⓛ ▁ Ⓐ M ↑ on ↓ ▁ e t ▁ B ↑ t ↓ Ⓑ
+▁ Ⓖ le ▁ Bourg → Ru e ▁ des ▁ co chet s Ⓗ ▁ Ⓔ L ag out t e ▁ né g Ⓕ ▁ Ⓚ 12 7 Ⓛ ▁ Ⓘ jardin Ⓙ ▁ Ⓐ 215 p Ⓑ ▁ Ⓒ ☼ Ⓓ
+▁ Ⓖ § Ⓗ ▁ Ⓔ L ag out t e Ⓕ ▁ Ⓚ 12 8 Ⓛ ▁ Ⓘ bâtiment → e t ▁ cour Ⓙ ▁ Ⓐ 215 ▁ p Ⓑ ▁ Ⓒ ☼ Ⓓ
+▁ Ⓖ § Ⓗ ▁ Ⓔ L ag out t e Ⓕ ▁ Ⓚ 1 29 Ⓛ ▁ Ⓘ bat i m ↑ t ↓ ▁ e t → cour Ⓙ ▁ Ⓐ 215 p Ⓑ ▁ Ⓒ ☼ Ⓓ
+▁ Ⓖ § Ⓗ ▁ Ⓔ L ag out t e Ⓕ ▁ Ⓚ 1 30 Ⓛ ▁ Ⓘ Terre → ou ▁ jardin Ⓙ ▁ Ⓐ 215 p Ⓑ ▁ Ⓒ jardin → e t ▁ p arc Ⓓ
+▁ Ⓖ § Ⓗ ▁ Ⓔ L ag out t e Ⓕ ▁ Ⓚ 13 1 Ⓛ ▁ Ⓘ bâtiment Ⓙ ▁ Ⓐ 215 p Ⓑ ▁ Ⓒ Ø Ⓓ
+▁ Ⓖ § Ⓗ ▁ Ⓔ L ag out t e Ⓕ ▁ Ⓚ 132 Ⓛ ▁ Ⓘ jardin ▁ d ' ag ↑ t ↓ Ⓙ ▁ Ⓐ 215 p Ⓑ ▁ Ⓒ Ø Ⓓ
+▁ Ⓖ § Ⓗ ▁ Ⓔ L ag out t e Ⓕ ▁ Ⓚ 133 Ⓛ ▁ Ⓘ Maison → cour ▁ e t ▁ B ↑ t ↓→ n ° 10 Ⓙ ▁ Ⓐ 216 Ⓑ ▁ Ⓒ maison → e t ▁ cour Ⓓ
+▁ Ⓖ § Ⓗ ▁ Ⓔ L e coute ur e ▁ pierre ▁ M arthe Ⓕ ▁ Ⓚ 134 Ⓛ ▁ Ⓘ Maison ▁ cour → e t ▁ B ↑ t ↓ ▁ de ▁ la → caserne → n ° 8 Ⓙ ▁ Ⓐ 216 p →217→218 → 215 p Ⓑ ▁ Ⓒ maison → fer m e → jardin → jardin Ⓓ
+▁ Ⓖ Ru e ▁ b as s e ▁ S ↑ t ↓ ▁ pierre Ⓗ ▁ Ⓔ L e coute ur e ▁ p ↑ re ↓ ▁ M arthe Ⓕ ▁ Ⓚ 135 Ⓛ ▁ Ⓘ Cour ▁ e t ▁ bat ↑ t ↓→ n ° 10 Ⓙ ▁ Ⓐ 218 p Ⓑ ▁ Ⓒ jardin Ⓓ
+▁ Ⓖ § Ⓗ ▁ Ⓔ L e coute ur e ▁ p ↑ re ↓ ▁ M arthe Ⓕ ▁ Ⓚ 136 Ⓛ ▁ Ⓘ jardin Ⓙ ▁ Ⓐ 218 p Ⓑ ▁ Ⓒ jardin Ⓓ
+▁ Ⓖ § Ⓗ ▁ Ⓔ L e coute ur e ▁ p ↑ re ↓ ▁ M arthe Ⓕ ▁ Ⓚ 137 Ⓛ ▁ Ⓘ Maison → n ° 8 Ⓙ ▁ Ⓐ 218 → 219 ▁ p Ⓑ ▁ Ⓒ jardin → bâtiment ▁ e t ▁ cour Ⓓ
+▁ Ⓖ § Ⓗ ▁ Ⓔ L e coute ur e ▁ p ↑ re ↓ ▁ M arthe Ⓕ ▁ Ⓚ 138 Ⓛ ▁ Ⓘ jardin Ⓙ ▁ Ⓐ 215 ▁ p . → 218 ▁ p Ⓑ ▁ Ⓒ jardin Ⓓ
+▁ Ⓖ § Ⓗ ▁ Ⓔ L e coute ur e ▁ p ↑ re ↓ ▁ M arthe Ⓕ ▁ Ⓚ 139 Ⓛ ▁ Ⓘ maison ▁ r n ▁ con s t ru c t i on → p ▁ . ▁ la ▁ caserne Ⓙ ▁ Ⓐ 218 ▁ p . → 219 . Ⓑ ▁ Ⓒ jardin → bat ↑ t ↓ ▁ e t → cour Ⓓ
+▁ Ⓖ § Ⓗ ▁ Ⓔ L e coute ur e ▁ p ↑ re ↓ ▁ M arthe Ⓕ ▁ Ⓚ 140 Ⓛ ▁ Ⓘ Maison → n ° 6 Ⓙ ▁ Ⓐ 219 Ⓑ ▁ Ⓒ batimen t → e t ▁ cour Ⓓ
+▁ Ⓖ D e r rière ▁ le ▁ Petit ▁ Pré Ⓗ ▁ Ⓔ L ameau ▁ louis ▁ jules Ⓕ ▁ Ⓚ 108 8 Ⓛ ▁ Ⓘ T Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ B ér ault ▁ Eugène Ⓕ ▁ Ⓚ 108 9 Ⓛ ▁ Ⓘ T Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ B euze ville ▁ henri Ⓕ ▁ Ⓚ 108 9 Ⓛ ▁ Ⓘ T Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ J o li v e t ▁ J ↑ n ↓ ▁ B ↑ t e ↓ Ⓕ ▁ Ⓚ 109 0 Ⓛ ▁ Ⓘ T Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ L a p i c ▁ françois ▁ B on aven t ur e Ⓕ ▁ Ⓚ 109 1 Ⓛ ▁ Ⓘ T Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ L e d oux ▁ alexandre ▁ eugène Ⓕ ▁ Ⓚ 109 2 Ⓛ ▁ Ⓘ T Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ B ar illet ▁ eugène ▁ auguste Ⓕ ▁ Ⓚ 109 3 Ⓛ ▁ Ⓘ vig n e Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ id Ⓕ ▁ Ⓚ 109 3 Ⓛ ▁ Ⓘ vig n e Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ C o i f fier ▁ pierre ▁ honoré Ⓕ ▁ Ⓚ 109 4 Ⓛ ▁ Ⓘ T Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ Ro l la n d ▁ françois ▁ eugène Ⓕ ▁ Ⓚ 109 4 Ⓛ ▁ Ⓘ T Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ id Ⓕ ▁ Ⓚ 109 5 Ⓛ ▁ Ⓘ vig n e Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ M é rillon ▁ saturnin ▁ veuve Ⓕ ▁ Ⓚ 109 6 Ⓛ ▁ Ⓘ T Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ Ro l la n d ▁ françois ▁ eugène Ⓕ ▁ Ⓚ 109 6 Ⓛ ▁ Ⓘ T Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ P r imi ▁ Jean Ⓕ ▁ Ⓚ 109 7 Ⓛ ▁ Ⓘ T Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ Ro l la n d ▁ françois ▁ Eugène Ⓕ ▁ Ⓚ 109 7 Ⓛ ▁ Ⓘ T Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ id Ⓕ ▁ Ⓚ 109 8 Ⓛ ▁ Ⓘ T Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ P r imi ▁ Jean Ⓕ ▁ Ⓚ 109 9 Ⓛ ▁ Ⓘ T Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ Ro l la n d ▁ françois ▁ Eugène Ⓕ ▁ Ⓚ 109 9 Ⓛ ▁ Ⓘ T Ⓙ
+▁ Ⓖ L e ▁ Petit ▁ Pré Ⓗ ▁ Ⓔ B erger ▁ félix Ⓕ ▁ Ⓚ 1 100 Ⓛ ▁ Ⓘ T . ▁ e t ▁ vig n e Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ B ou ch e r ▁ d ' ar g is Ⓕ ▁ Ⓚ 1 100 Ⓛ ▁ Ⓘ id Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ B ou illet ▁ hippol y t e Ⓕ ▁ Ⓚ 1 100 Ⓛ ▁ Ⓘ § Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ B re t e il ▁ charles Ⓕ ▁ Ⓚ 1 100 Ⓛ ▁ Ⓘ § Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ id Ⓕ ▁ Ⓚ 1 100 Ⓛ ▁ Ⓘ § Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ Ch a p e l le ▁ françois Ⓕ ▁ Ⓚ 1 100 Ⓛ ▁ Ⓘ § Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ Ch o le t ▁ léon ▁ alexandre Ⓕ ▁ Ⓚ 1 100 Ⓛ ▁ Ⓘ § Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ D e le t tre ▁ e r nest Ⓕ ▁ Ⓚ 1 100 Ⓛ ▁ Ⓘ § Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ D re ux ▁ mathieu Ⓕ ▁ Ⓚ 1 100 Ⓛ ▁ Ⓘ § Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ id Ⓕ ▁ Ⓚ 1 100 Ⓛ ▁ Ⓘ § Ⓙ
+▁ Ⓖ Chemin ▁ de ▁ Jean Ⓗ ▁ Ⓔ G as t on ▁ Jules ▁ édouard Ⓕ ▁ Ⓚ 81 Ⓛ ▁ Ⓘ pré Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ J ou ssard ▁ Jean ▁ louis Ⓕ ▁ Ⓚ § Ⓛ ▁ Ⓘ § Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ P al o que ▁ Jean Ⓕ ▁ Ⓚ § Ⓛ ▁ Ⓘ § Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ P e r r ot ▁ franc ois Ⓕ ▁ Ⓚ § Ⓛ ▁ Ⓘ § Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ A n d ou il l é ▁ alexandre ▁ f la v i e n Ⓕ ▁ Ⓚ 82 Ⓛ ▁ Ⓘ pré Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ A r ch a m ba ut ▁ R e m y Ⓕ ▁ Ⓚ § Ⓛ ▁ Ⓘ § Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ B e s val ▁ Jean ▁ franc ois ▁ antoine Ⓕ ▁ Ⓚ § Ⓛ ▁ Ⓘ § Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ B lo c us ▁ henri Ⓕ ▁ Ⓚ § Ⓛ ▁ Ⓘ § Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ id Ⓕ ▁ Ⓚ § Ⓛ ▁ Ⓘ § Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ B ru n at ▁ marie ▁ ma de le in e Ⓕ ▁ Ⓚ § Ⓛ ▁ Ⓘ § Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ Ch at e lain ▁ jean ▁ pierre Ⓕ ▁ Ⓚ § Ⓛ ▁ Ⓘ § Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ C o las ▁ jean ▁ veuve Ⓕ ▁ Ⓚ § Ⓛ ▁ Ⓘ § Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ Coll ign on ▁ Eugène Ⓕ ▁ Ⓚ § Ⓛ ▁ Ⓘ § Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ C on v ers ▁ edme ▁ e r nest Ⓕ ▁ Ⓚ § Ⓛ ▁ Ⓘ § Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ Cris pin ▁ désiré ▁ augustin Ⓕ ▁ Ⓚ § Ⓛ ▁ Ⓘ § Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ Dominique ▁ michel Ⓕ ▁ Ⓚ § Ⓛ ▁ Ⓘ § Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ F r an co ▁ c é s ar ▁ Charles Ⓕ ▁ Ⓚ § Ⓛ ▁ Ⓘ § Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ F r ay s s e ▁ Joseph Ⓕ ▁ Ⓚ § Ⓛ ▁ Ⓘ § Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ H abl ot ▁ B e r nard Ⓕ ▁ Ⓚ § Ⓛ ▁ Ⓘ § Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ H uet ▁ C as imi r Ⓕ ▁ Ⓚ § Ⓛ ▁ Ⓘ § Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ id Ⓕ ▁ Ⓚ § Ⓛ ▁ Ⓘ § Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ J an ar t ▁ Louis ▁ Joseph Ⓕ ▁ Ⓚ § Ⓛ ▁ Ⓘ § Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ J ury ▁ Jean Ⓕ ▁ Ⓚ § Ⓛ ▁ Ⓘ § Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ M an g in ot ▁ louis ▁ françois Ⓕ ▁ Ⓚ § Ⓛ ▁ Ⓘ § Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ id Ⓕ ▁ Ⓚ § Ⓛ ▁ Ⓘ § Ⓙ
+▁ Ⓖ grande ▁ Ru e Ⓗ ▁ Ⓔ D e la port e ▁ felix ▁ aug ↑ t e ↓ Ⓕ ▁ Ⓚ 253 Ⓛ ▁ Ⓘ jardin Ⓙ ▁ Ⓐ 1 6 Ⓑ ▁ Ⓒ jardin Ⓓ
+▁ Ⓖ § Ⓗ ▁ Ⓔ D e la port e ▁ félix ▁ aug ↑ t e ↓ Ⓕ ▁ Ⓚ 254 Ⓛ ▁ Ⓘ maison → n ° 1 1 Ⓙ ▁ Ⓐ 1 7 Ⓑ ▁ Ⓒ maison Ⓓ
+▁ Ⓖ § Ⓗ ▁ Ⓔ S ain t in ▁ Cun y Ⓕ ▁ Ⓚ 255 Ⓛ ▁ Ⓘ maison → cour ▁ e t ▁ bt → n ° ▁ 13 Ⓙ ▁ Ⓐ 19 Ⓑ ▁ Ⓒ × jardin ±→ maison Ⓓ
+▁ Ⓖ § Ⓗ ▁ Ⓔ S ain t in ▁ Cun y Ⓕ ▁ Ⓚ 25 6 Ⓛ ▁ Ⓘ jardin Ⓙ ▁ Ⓐ 18 Ⓑ ▁ Ⓒ jardin Ⓓ
+▁ Ⓖ § Ⓗ ▁ Ⓔ D e s illes ▁ pierre ▁ V ↑ e ↓ ▁ léon ard Ⓕ ▁ Ⓚ 25 7 Ⓛ ▁ Ⓘ Maison → cour ▁ e t ▁ B ↑ t ↓→ n ° 15 Ⓙ ▁ Ⓐ 20 ▁ portion → 21 Ⓑ ▁ Ⓒ jardin → maison Ⓓ
+▁ Ⓖ § Ⓗ ▁ Ⓔ D e s illes ▁ pierre ▁ V ↑ e ↓ ▁ léon ard Ⓕ ▁ Ⓚ 2 58 Ⓛ ▁ Ⓘ jardin Ⓙ ▁ Ⓐ 20 ▁ portion Ⓑ ▁ Ⓒ jardin Ⓓ
+▁ Ⓖ § Ⓗ ▁ Ⓔ D e s illes ▁ pierre ▁ V ↑ e ↓ ▁ léon ard Ⓕ ▁ Ⓚ 2 59 Ⓛ ▁ Ⓘ maison → n ° 1 7 Ⓙ ▁ Ⓐ 20 ▁ portion → 21 ▁ portion Ⓑ ▁ Ⓒ jardin → maison Ⓓ
+▁ Ⓖ § Ⓗ ▁ Ⓔ D e s illes ▁ pierre ▁ V ↑ e ↓ ▁ léon ard Ⓕ ▁ Ⓚ 2 60 Ⓛ ▁ Ⓘ maison ▁ e t → cour → n ° 19 Ⓙ ▁ Ⓐ 22 ▁ p Ⓑ ▁ Ⓒ maison Ⓓ
+▁ Ⓖ § Ⓗ ▁ Ⓔ M alva ux ▁ pierre Ⓕ ▁ Ⓚ 26 1 Ⓛ ▁ Ⓘ jardin Ⓙ ▁ Ⓐ 23 ▁ portion → 26 Ⓑ ▁ Ⓒ jardin → jardin Ⓓ
+▁ Ⓖ § Ⓗ ▁ Ⓔ M alva ux ▁ pierre Ⓕ ▁ Ⓚ 262 Ⓛ ▁ Ⓘ maison → 21 Ⓙ ▁ Ⓐ 25 ▁ portion Ⓑ ▁ Ⓒ maison → cour Ⓓ
+▁ Ⓖ § Ⓗ ▁ Ⓔ R a m e le rt ▁ C ô m e Ⓕ ▁ Ⓚ 2 63 Ⓛ ▁ Ⓘ maison ▁ cour → e t ▁ bt → n ° 23 Ⓙ ▁ Ⓐ 25 Ⓑ ▁ Ⓒ maison → e t ▁ cour Ⓓ
+▁ Ⓖ § Ⓗ ▁ Ⓔ M alva ux ▁ pierre Ⓕ ▁ Ⓚ 2 64 Ⓛ ▁ Ⓘ maison ▁ cour → e t ▁ B t → n ° 21 Ⓙ ▁ Ⓐ 23 ▁ portion → 24→25 ▁ portion Ⓑ ▁ Ⓒ jardin → maison → e t ▁ cour → maison Ⓓ
+▁ Ⓖ § Ⓗ ▁ Ⓔ Pla t ard ▁ jean ▁ louis Ⓕ ▁ Ⓚ 2 65 Ⓛ ▁ Ⓘ maison ▁ cour ▁ e t → B ↑ t ↓ ▁ ( us in e ▁ p our → f il e r ▁ le ▁ co t on ) → n ° ▁ 34 ▁ ↑ bis ↓ Ⓙ ▁ Ⓐ S . ↑ on ↓ ▁ C → 111 ▁ portion Ⓑ ▁ Ⓒ maison Ⓓ
+▁ Ⓖ § Ⓗ ▁ Ⓔ Pla t ar e t ▁ Jean louis Ⓕ ▁ Ⓚ 26 6 Ⓛ ▁ Ⓘ jardin Ⓙ ▁ Ⓐ 110 ▁ portion Ⓑ ▁ Ⓒ jardin Ⓓ
+▁ Ⓖ G r at t e co q Ⓗ ▁ Ⓔ aud ry ▁ toussaint ▁ p ↑ re ↓ Ⓕ ▁ Ⓚ 7 28 Ⓛ ▁ Ⓘ Terre Ⓙ ▁ Ⓐ 75 7 Ⓑ ▁ Ⓒ vig n e Ⓓ
+▁ Ⓖ § Ⓗ ▁ Ⓔ Noël ▁ louis ▁ l aurent Ⓕ ▁ Ⓚ 7 29 Ⓛ ▁ Ⓘ T Ⓙ ▁ Ⓐ 7 58 Ⓑ ▁ Ⓒ Terre Ⓓ
+▁ Ⓖ § Ⓗ ▁ Ⓔ D e la nou e ▁ p ↑ re ↓ ▁ toussaint ▁ V ↑ e ↓ Ⓕ ▁ Ⓚ 7 30 Ⓛ ▁ Ⓘ Vig Ⓙ ▁ Ⓐ 7 59 Ⓑ ▁ Ⓒ T Ⓓ
+▁ Ⓖ § Ⓗ ▁ Ⓔ h allé ▁ B ↑ t e ↓ ▁ toussaint Ⓕ ▁ Ⓚ 731 Ⓛ ▁ Ⓘ Vig Ⓙ ▁ Ⓐ 7 60 Ⓑ ▁ Ⓒ T Ⓓ
+▁ Ⓖ § Ⓗ ▁ Ⓔ Pi ger on Ⓕ ▁ Ⓚ 732 Ⓛ ▁ Ⓘ Vig Ⓙ ▁ Ⓐ 76 1 Ⓑ ▁ Ⓒ Vig Ⓓ
+▁ Ⓖ § Ⓗ ▁ Ⓔ M oreau ▁ noël Ⓕ ▁ Ⓚ 73 3 Ⓛ ▁ Ⓘ Terre Ⓙ ▁ Ⓐ 76 2 → 7 63 Ⓑ ▁ Ⓒ Vig → Vig Ⓓ
+▁ Ⓖ § Ⓗ ▁ Ⓔ V an d ard ▁ thomas ▁ V ↑ e ↓ Ⓕ ▁ Ⓚ 73 4 Ⓛ ▁ Ⓘ Terre Ⓙ ▁ Ⓐ 7 64 → 7 65 Ⓑ ▁ Ⓒ Terre → T Ⓓ
+▁ Ⓖ § Ⓗ ▁ Ⓔ B ar on ▁ p ↑ re ↓ ▁ denis Ⓕ ▁ Ⓚ 73 5 Ⓛ ▁ Ⓘ vig n e Ⓙ ▁ Ⓐ 76 6 Ⓑ ▁ Ⓒ Vig Ⓓ
+▁ Ⓖ § Ⓗ ▁ Ⓔ aug e r ▁ nicolas ▁ joseph Ⓕ ▁ Ⓚ 73 6 Ⓛ ▁ Ⓘ Terre Ⓙ ▁ Ⓐ 76 7 Ⓑ ▁ Ⓒ Terre Ⓓ
+▁ Ⓖ § Ⓗ ▁ Ⓔ V o d oyer ▁ jean ▁ marie Ⓕ ▁ Ⓚ 73 7 Ⓛ ▁ Ⓘ Vig Ⓙ ▁ Ⓐ ☼ Ⓑ ▁ Ⓒ ☼ Ⓓ
+▁ Ⓖ § Ⓗ ▁ Ⓔ M in ier ▁ Toussaint Ⓕ ▁ Ⓚ 73 8 Ⓛ ▁ Ⓘ Vig Ⓙ ▁ Ⓐ 7 68 Ⓑ ▁ Ⓒ T Ⓓ
+▁ Ⓖ § Ⓗ ▁ Ⓔ M in ier ▁ louis ▁ jacques Ⓕ ▁ Ⓚ 73 9 Ⓛ ▁ Ⓘ Vig Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ Ch a m b lin ▁ philippe Ⓕ ▁ Ⓚ 7 40 Ⓛ ▁ Ⓘ Terre Ⓙ ▁ Ⓐ 7 69 Ⓑ ▁ Ⓒ T Ⓓ
+▁ Ⓖ § Ⓗ ▁ Ⓔ B ri g ault ▁ louis Ⓕ ▁ Ⓚ 7 41 Ⓛ ▁ Ⓘ vig n e Ⓙ ▁ Ⓐ 7 70 → 771 Ⓑ ▁ Ⓒ Vig → Terre Ⓓ
+▁ Ⓖ L e s → C a illes Ⓗ ▁ Ⓔ L ameau ▁ L is andre , ▁ à → font enay Ⓕ ▁ Ⓚ 156 5 Ⓛ ▁ Ⓘ T Ⓙ ▁ Ⓐ 231 2 Ⓑ ▁ Ⓒ T Ⓓ
+▁ Ⓖ id Ⓗ ▁ Ⓔ B re t on ▁ Pierre ▁ Constant ▁ à → Font enay Ⓕ ▁ Ⓚ 156 6 Ⓛ ▁ Ⓘ T Ⓙ ▁ Ⓐ 23 10 Ⓑ ▁ Ⓒ T Ⓓ
+▁ Ⓖ § Ⓗ ▁ Ⓔ H é ricour t ▁ Grégoire ▁ à → Font enay Ⓕ ▁ Ⓚ 156 7 Ⓛ ▁ Ⓘ T Ⓙ ▁ Ⓐ f r a . ▁ 230 7 Ⓑ ▁ Ⓒ T Ⓓ
+▁ Ⓖ § Ⓗ ▁ Ⓔ P a pin ▁ B ru t us ▁ à → Font enay Ⓕ ▁ Ⓚ 156 8 Ⓛ ▁ Ⓘ T Ⓙ ▁ Ⓐ F r a . ▁ 230 7 Ⓑ ▁ Ⓒ T Ⓓ
+▁ Ⓖ § Ⓗ ▁ Ⓔ P ar u e l le ▁ Pierre ▁ Jean , ▁ fils → à ▁ Font enay Ⓕ ▁ Ⓚ 156 9 Ⓛ ▁ Ⓘ T Ⓙ ▁ Ⓐ f r a ▁ 230 7 Ⓑ ▁ Ⓒ T Ⓓ
+▁ Ⓖ § Ⓗ ▁ Ⓔ H é ricour t ▁ Jean ▁ Louis → à ▁ Font enay Ⓕ ▁ Ⓚ 15 70 Ⓛ ▁ Ⓘ T Ⓙ ▁ Ⓐ F r a ▁ 230 7 Ⓑ ▁ Ⓒ T Ⓓ
+▁ Ⓖ § Ⓗ ▁ Ⓔ Mari nier ▁ N arc is s e ▁ à → Font enay Ⓕ ▁ Ⓚ 157 1 Ⓛ ▁ Ⓘ T Ⓙ ▁ Ⓐ 230 5 Ⓑ ▁ Ⓒ T Ⓓ
+▁ Ⓖ § Ⓗ ▁ Ⓔ B é ch ar e t ▁ Jean ▁ Pierre , ▁ g ↑ dre ↓→ Lam our , ▁ à ▁ Font enay Ⓕ ▁ Ⓚ 157 2 Ⓛ ▁ Ⓘ T Ⓙ ▁ Ⓐ 230 6 Ⓑ ▁ Ⓒ T Ⓓ
+▁ Ⓖ § Ⓗ ▁ Ⓔ B erger ▁ Bapt iste Ⓕ ▁ Ⓚ 157 3 Ⓛ ▁ Ⓘ T Ⓙ ▁ Ⓐ 230 3 Ⓑ ▁ Ⓒ T Ⓓ
+▁ Ⓖ § Ⓗ ▁ Ⓔ M is g ault ▁ Jean ▁ Louis Ⓕ ▁ Ⓚ 157 4 Ⓛ ▁ Ⓘ T Ⓙ ▁ Ⓐ 230 2 Ⓑ ▁ Ⓒ T Ⓓ
+▁ Ⓖ § Ⓗ ▁ Ⓔ P ro v ost ▁ Vincent Ⓕ ▁ Ⓚ 157 5 Ⓛ ▁ Ⓘ T Ⓙ ▁ Ⓐ 230 1 Ⓑ ▁ Ⓒ Vig Ⓓ
+▁ Ⓖ § Ⓗ ▁ Ⓔ Saussay ▁ Père Ⓕ ▁ Ⓚ 157 6 Ⓛ ▁ Ⓘ T Ⓙ ▁ Ⓐ 219 8 → 219 9 → 2 300 Ⓑ ▁ Ⓒ T → Vig → T Ⓓ
+▁ Ⓖ § Ⓗ ▁ Ⓔ Rameau ▁ Jean ▁ Louis ▁ fils → françois Ⓕ ▁ Ⓚ 157 7 Ⓛ ▁ Ⓘ T Ⓙ ▁ Ⓐ 219 7 Ⓑ ▁ Ⓒ T Ⓓ
+▁ Ⓖ § Ⓗ ▁ Ⓔ S au s s ar y Ⓕ ▁ Ⓚ 157 8 Ⓛ ▁ Ⓘ Vigne Ⓙ ▁ Ⓐ 219 6 Ⓑ ▁ Ⓒ Vig Ⓓ
+▁ Ⓖ Chemin ▁ de ▁ Jean Ⓗ ▁ Ⓔ q u é not ▁ S y l v i e Ⓕ ▁ Ⓚ 82 Ⓛ ▁ Ⓘ pré Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ R a is on ▁ léon ard Ⓕ ▁ Ⓚ § Ⓛ ▁ Ⓘ § Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ R a z ur e l ▁ auguste ▁ édouard Ⓕ ▁ Ⓚ § Ⓛ ▁ Ⓘ § Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ Ro l la n de t ▁ antoine ▁ françois Ⓕ ▁ Ⓚ § Ⓛ ▁ Ⓘ § Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ Ro u lin ▁ f id è le Ⓕ ▁ Ⓚ § Ⓛ ▁ Ⓘ § Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ S al v e t ▁ louis Ⓕ ▁ Ⓚ § Ⓛ ▁ Ⓘ § Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ Voi e ▁ p ubl ique Ⓕ ▁ Ⓚ § Ⓛ ▁ Ⓘ § Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ L e n o b le ▁ m erlin Ⓕ ▁ Ⓚ 8 3 Ⓛ ▁ Ⓘ terre Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ M a ch ar t ▁ m erlin Ⓕ ▁ Ⓚ id Ⓛ ▁ Ⓘ terre Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ B e nard ▁ Jean ▁ Bapt iste Ⓕ ▁ Ⓚ 84 Ⓛ ▁ Ⓘ pré Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ D odu n ▁ de ▁ K e ro man , ▁ le ▁ Comte Ⓕ ▁ Ⓚ id Ⓛ ▁ Ⓘ id Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ id Ⓕ ▁ Ⓚ § Ⓛ ▁ Ⓘ § Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ id Ⓕ ▁ Ⓚ § Ⓛ ▁ Ⓘ § Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ id Ⓕ ▁ Ⓚ § Ⓛ ▁ Ⓘ § Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ D odu n ▁ de ▁ Kéroman , ▁ la ▁ marquis e Ⓕ ▁ Ⓚ § Ⓛ ▁ Ⓘ § Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ D odu n ▁ de ▁ Kéroman ▁ agathe ▁ veuve → m oussa c Ⓕ ▁ Ⓚ § Ⓛ ▁ Ⓘ § Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ D odu n ▁ de ▁ Kéroman ▁ léon e , ▁ dam e ▁ de → B out e il li e s Ⓕ ▁ Ⓚ § Ⓛ ▁ Ⓘ § Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ H u ign ard ▁ mé la n i e ▁ f é li ci té Ⓕ ▁ Ⓚ § Ⓛ ▁ Ⓘ § Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ J a b o e u f ▁ Jean ▁ Bapt iste Ⓕ ▁ Ⓚ § Ⓛ ▁ Ⓘ § Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ M e l z e ssard Ⓕ ▁ Ⓚ § Ⓛ ▁ Ⓘ § Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ M ou lin e t ▁ alphonse Ⓕ ▁ Ⓚ § Ⓛ ▁ Ⓘ § Ⓙ
+▁ Ⓖ le ▁ n assier Ⓗ ▁ Ⓔ Alexandre ▁ Bapt iste Ⓕ ▁ Ⓚ 85 Ⓛ ▁ Ⓘ pré Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ Alexandre ▁ Joseph ▁ fils Ⓕ ▁ Ⓚ § Ⓛ ▁ Ⓘ § Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ A lin g ry ▁ victor ▁ v e rrier Ⓕ ▁ Ⓚ § Ⓛ ▁ Ⓘ § Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ A n j ain ▁ auguste ▁ joseph Ⓕ ▁ Ⓚ § Ⓛ ▁ Ⓘ § Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ A u b ry ▁ Joseph Ⓕ ▁ Ⓚ § Ⓛ ▁ Ⓘ § Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ A voi n e ▁ Benoit Ⓕ ▁ Ⓚ § Ⓛ ▁ Ⓘ § Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ B e c que relle ▁ Jean ▁ François Ⓕ ▁ Ⓚ § Ⓛ ▁ Ⓘ § Ⓙ
+▁ Ⓜ 9 Ⓝ ▁ Ⓔ B ar reau ▁ Guillaume Ⓕ ▁ Ⓚ 286 Ⓛ ▁ Ⓘ Jardin Ⓙ
+▁ Ⓜ 51 Ⓝ ▁ Ⓔ V ↑ e ↓ ▁ Courtois Ⓕ ▁ Ⓚ 28 7 Ⓛ ▁ Ⓘ Maison → bât ▁ e t ▁ cour Ⓙ
+▁ Ⓜ 138 Ⓝ ▁ Ⓔ M on ier ▁ p e in tre Ⓕ ▁ Ⓚ 28 8 Ⓛ ▁ Ⓘ M ↑ on ↓→ id Ⓙ
+▁ Ⓜ 65 Ⓝ ▁ Ⓔ 2 89 Ⓕ ▁ Ⓚ V ↑ e ↓ ▁ D e man ch e Ⓛ ▁ Ⓘ M ↑ on ↓→ id Ⓙ
+▁ Ⓜ 108 Ⓝ ▁ Ⓔ V ↑ e ↓ ▁ L e co l ant ▁ al ↑ ▁ c l ↑ de ↓ Ⓕ ▁ Ⓚ 2 90 Ⓛ ▁ Ⓘ M ↑ on ↓→ id Ⓙ
+▁ Ⓜ 149↑ bis ↓→× 76 ± Ⓝ ▁ Ⓔ × f ain ± ▁ Pont ois → Jean ▁ p as ch al Ⓕ ▁ Ⓚ 29 1 Ⓛ ▁ Ⓘ vig n e Ⓙ
+▁ Ⓜ 149 ▁ bis →× 76 ± Ⓝ ▁ Ⓔ id Ⓕ ▁ Ⓚ 292 Ⓛ ▁ Ⓘ terre Ⓙ
+▁ Ⓜ 149↑ bis ↓→× 76 ± Ⓝ ▁ Ⓔ id Ⓕ ▁ Ⓚ 29 3 Ⓛ ▁ Ⓘ vig n e Ⓙ
+▁ Ⓜ 149↑ bis ↓→× 76 ± Ⓝ ▁ Ⓔ id Ⓕ ▁ Ⓚ 29 4 Ⓛ ▁ Ⓘ P ot a ger Ⓙ
+▁ Ⓜ 149↑ bis ↓→× 76 ± Ⓝ ▁ Ⓔ id Ⓕ ▁ Ⓚ 295 Ⓛ ▁ Ⓘ P at ur e → d ' agrément Ⓙ
+▁ Ⓜ 149↑ bis ↓→× 76 ± Ⓝ ▁ Ⓔ id Ⓕ ▁ Ⓚ 29 6 Ⓛ ▁ Ⓘ bois → d ' agrément Ⓙ
+▁ Ⓜ 149↑ bis ↓→× 112 . ± Ⓝ ▁ Ⓔ × V ↑ e ↓ ▁ L in otte ± ▁ fils Ⓕ ▁ Ⓚ 29 7 Ⓛ ▁ Ⓘ ter r ain → d ' agrément Ⓙ
+▁ Ⓜ 149↑ bis ↓→× 112 . ± Ⓝ ▁ Ⓔ id Ⓕ ▁ Ⓚ 298 Ⓛ ▁ Ⓘ Jardin → anglais Ⓙ
+▁ Ⓜ 149↑ bis ↓→× 112 . ± Ⓝ ▁ Ⓔ id Ⓕ ▁ Ⓚ 29 9 Ⓛ ▁ Ⓘ Maison → batimen t → e t ▁ cour → e t ▁ f il at ur e Ⓙ
+▁ Ⓜ 1 1 Ⓝ ▁ Ⓔ V ↑ e ↓ ▁ B lin Ⓕ ▁ Ⓚ 300 Ⓛ ▁ Ⓘ Maison → bat ↑ i ↓ ▁ e t ▁ Cour Ⓙ
+▁ Ⓖ les ▁ sablons Ⓗ ▁ Ⓔ s e r ou g e ▁ J ↑ n ↓ ▁ B ↑ t e ↓ Ⓕ ▁ Ⓚ 70 1 Ⓛ ▁ Ⓘ Terre Ⓙ ▁ Ⓐ p . ▁ 150 7 Ⓑ ▁ Ⓒ ☼ Ⓓ
+▁ Ⓖ § Ⓗ ▁ Ⓔ Ch at e lain ▁ ch ↑ u ↓ ▁ père Ⓕ ▁ Ⓚ 70 2 Ⓛ ▁ Ⓘ T Ⓙ ▁ Ⓐ p . ▁ 150 7 Ⓑ ▁ Ⓒ T Ⓓ
+▁ Ⓖ § Ⓗ ▁ Ⓔ B e u rrier ▁ p ↑ re ↓ ▁ honoré Ⓕ ▁ Ⓚ 70 3 Ⓛ ▁ Ⓘ T Ⓙ ▁ Ⓐ 151 4 → 151 4 ↑ bis ↓→ 151 5 → 151 5 ↑ bis ↓ Ⓑ ▁ Ⓒ T Ⓓ
+▁ Ⓖ § Ⓗ ▁ Ⓔ Guillaume s ▁ Ren é Ⓕ ▁ Ⓚ 70 4 Ⓛ ▁ Ⓘ T Ⓙ ▁ Ⓐ 151 6 → 151 7 Ⓑ ▁ Ⓒ T Ⓓ
+▁ Ⓖ § Ⓗ ▁ Ⓔ B l euze ▁ jacques Ⓕ ▁ Ⓚ 70 5 Ⓛ ▁ Ⓘ T Ⓙ ▁ Ⓐ 152 5 Ⓑ ▁ Ⓒ T Ⓓ
+▁ Ⓖ § Ⓗ ▁ Ⓔ D e l port e ▁ h y ac in t h e Ⓕ ▁ Ⓚ 70 6 Ⓛ ▁ Ⓘ T Ⓙ ▁ Ⓐ 152 8 → 124 Ⓑ ▁ Ⓒ V → T Ⓓ
+▁ Ⓖ § Ⓗ ▁ Ⓔ B r on z ac Ⓕ ▁ Ⓚ 70 7 Ⓛ ▁ Ⓘ T Ⓙ ▁ Ⓐ 152 6 Ⓑ ▁ Ⓒ T → T Ⓓ
+▁ Ⓖ § Ⓗ ▁ Ⓔ h u ard ▁ jacques ▁ e t ▁ consor s Ⓕ ▁ Ⓚ 70 8 Ⓛ ▁ Ⓘ T . Ⓙ ▁ Ⓐ 152 7 Ⓑ ▁ Ⓒ Vigne → V Ⓓ
+▁ Ⓖ § Ⓗ ▁ Ⓔ Ch at e lain ▁ ch ↑ e s ↓ ▁ D ↑ t ↓ ▁ bri sset Ⓕ ▁ Ⓚ 70 9 Ⓛ ▁ Ⓘ T Ⓙ ▁ Ⓐ 15 30 Ⓑ ▁ Ⓒ T Ⓓ
+▁ Ⓖ § Ⓗ ▁ Ⓔ G ui t e t Ⓕ ▁ Ⓚ 7 10 Ⓛ ▁ Ⓘ T Ⓙ ▁ Ⓐ 153 4 Ⓑ ▁ Ⓒ T Ⓓ
+▁ Ⓖ § Ⓗ ▁ Ⓔ Ch an de n n i e s ▁ p ↑ re ↓ ▁ f ↑ ois ↓ Ⓕ ▁ Ⓚ 71 1 Ⓛ ▁ Ⓘ T Ⓙ ▁ Ⓐ p . 153 5 Ⓑ ▁ Ⓒ V Ⓓ
+▁ Ⓖ § Ⓗ ▁ Ⓔ Ch at e lain ▁ ch ↑ u ↓ ▁ d ↑ t ↓ ▁ bri sset Ⓕ ▁ Ⓚ 7 12 Ⓛ ▁ Ⓘ T Ⓙ ▁ Ⓐ p ▁ 153 5 Ⓑ ▁ Ⓒ Ø Ⓓ
+▁ Ⓖ § Ⓗ ▁ Ⓔ id Ⓕ ▁ Ⓚ 71 3 Ⓛ ▁ Ⓘ T Ⓙ ▁ Ⓐ 153 6 Ⓑ ▁ Ⓒ V Ⓓ
+▁ Ⓖ § Ⓗ ▁ Ⓔ M o z e t ▁ charles ▁ f ↑ ois ↓ Ⓕ ▁ Ⓚ 71 4 Ⓛ ▁ Ⓘ T Ⓙ ▁ Ⓐ 153 7 Ⓑ ▁ Ⓒ T Ⓓ
+▁ Ⓖ grande ▁ Ru e Ⓗ ▁ Ⓔ Coll in ▁ vincent ▁ joseph Ⓕ ▁ Ⓚ 26 7 Ⓛ ▁ Ⓘ jardin Ⓙ ▁ Ⓐ S . e c ▁ C → 110 ▁ p Ⓑ ▁ Ⓒ jardin Ⓓ
+▁ Ⓖ § Ⓗ ▁ Ⓔ Coll in ▁ vincent ▁ Joseph Ⓕ ▁ Ⓚ 2 68 Ⓛ ▁ Ⓘ maison ▁ cour → e t → n °34 Ⓙ ▁ Ⓐ 111 ▁ p . Ⓑ ▁ Ⓒ maison ▁ e t → cour Ⓓ
+▁ Ⓖ § Ⓗ ▁ Ⓔ L e m air e ▁ pierre ▁ joseph Ⓕ ▁ Ⓚ 2 69 Ⓛ ▁ Ⓘ maison ▁ cour → e t ▁ → n ° 32 Ⓙ ▁ Ⓐ 111 ▁ portion Ⓑ ▁ Ⓒ maison Ⓓ
+▁ Ⓖ § Ⓗ ▁ Ⓔ L e m air e ▁ pierre ▁ joseph Ⓕ ▁ Ⓚ 2 70 Ⓛ ▁ Ⓘ jardin Ⓙ ▁ Ⓐ 104 . → 110 p →105 p → 103 → 111 ▁ portion Ⓑ ▁ Ⓒ maison → jardin → jardin → jardin → maison Ⓓ
+▁ Ⓖ § Ⓗ ▁ Ⓔ B è que mont ▁ adolphe Ⓕ ▁ Ⓚ 27 1 Ⓛ ▁ Ⓘ jardin Ⓙ ▁ Ⓐ 105 → 110 p . → 103 p Ⓑ ▁ Ⓒ jardin → jardin → jardin Ⓓ
+▁ Ⓖ § Ⓗ ▁ Ⓔ B è que mont ▁ adolphe Ⓕ ▁ Ⓚ 27 2 Ⓛ ▁ Ⓘ maison ▁ cour → e t ▁ B . → n ° 30 Ⓙ ▁ Ⓐ 106 →105 p Ⓑ ▁ Ⓒ maison ▁ e t → cour → jardin Ⓓ
+▁ Ⓖ § Ⓗ ▁ Ⓔ P ro s ▁ O c t ave Ⓕ ▁ Ⓚ 2 73 Ⓛ ▁ Ⓘ jardin Ⓙ ▁ Ⓐ 102 p →105 p → 103 p Ⓑ ▁ Ⓒ maison → jardin → jardin Ⓓ
+▁ Ⓖ § Ⓗ ▁ Ⓔ P ro s ▁ O c t ave Ⓕ ▁ Ⓚ maison → n °28 Ⓛ ▁ Ⓘ 27 4 Ⓙ ▁ Ⓐ 102 Ⓑ ▁ Ⓒ maison Ⓓ
+▁ Ⓖ § Ⓗ ▁ Ⓔ Paris ▁ auguste Ⓕ ▁ Ⓚ 275 Ⓛ ▁ Ⓘ maison → n ° 26 Ⓙ ▁ Ⓐ 102 p → 101 p → 100 p →105 p Ⓑ ▁ Ⓒ maison → maison → terre → jardin Ⓓ
+▁ Ⓖ § Ⓗ ▁ Ⓔ Paris ▁ auguste Ⓕ ▁ Ⓚ 27 6 Ⓛ ▁ Ⓘ jardin Ⓙ ▁ Ⓐ 100 p → 101 ▁ portion →105 ▁ portion Ⓑ ▁ Ⓒ terre → maison → jardin Ⓓ
+▁ Ⓖ § Ⓗ ▁ Ⓔ Paris ▁ auguste Ⓕ ▁ Ⓚ 277 Ⓛ ▁ Ⓘ bâtiment Ⓙ ▁ Ⓐ 105 p . Ⓑ ▁ Ⓒ jardin Ⓓ
+▁ Ⓖ § ▁ P ▁ à → a lfortville Ⓗ ▁ Ⓔ = ▁ & ▁ B a illet → D id ier ▁ à ▁ Charenton Ⓕ ▁ Ⓚ 278 Ⓛ ▁ Ⓘ Terre Ⓙ ▁ Ⓐ 100 p →105 p Ⓑ ▁ Ⓒ Terre → Terre → jardin Ⓓ
+▁ Ⓖ § Ⓗ ▁ Ⓔ Paris ▁ aug ↑ t e ↓ Ⓕ ▁ Ⓚ 27 9 Ⓛ ▁ Ⓘ maison → n °24 ↑ bis ↓ Ⓙ ▁ Ⓐ 99 p . Ⓑ ▁ Ⓒ maison Ⓓ
+▁ Ⓖ § Ⓗ ▁ Ⓔ Paris ▁ aug ↑ t e ↓ Ⓕ ▁ Ⓚ 280 Ⓛ ▁ Ⓘ jardin Ⓙ ▁ Ⓐ 99 p → 100 ▁ portion Ⓑ ▁ Ⓒ maison → e t ▁ cour → Terre Ⓓ
+▁ Ⓖ B r è ch e ▁ des → V in ot s Ⓗ ▁ Ⓜ 169 Ⓝ ▁ Ⓔ M otte au ▁ Claude ▁ S p ir e Ⓕ ▁ Ⓚ 53 8 Ⓛ ▁ Ⓘ terre → à ▁ vig n e Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓜ 50 Ⓝ ▁ Ⓔ D e ville ▁ françois ▁ de ut ier Ⓕ ▁ Ⓚ 53 9 Ⓛ ▁ Ⓘ Terre → à ▁ vig Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓜ 1 94 Ⓝ ▁ Ⓔ N e r on ▁ Denis Ⓕ ▁ Ⓚ 5 40 Ⓛ ▁ Ⓘ Vigne Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓜ 2 27 Ⓝ ▁ Ⓔ Thibau d ▁ Jean ▁ charles Ⓕ ▁ Ⓚ 54 1 Ⓛ ▁ Ⓘ vig n e Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓜ 124 Ⓝ ▁ Ⓔ G u e ri u ▁ Ch ↑ ls ↓ ▁ S as ch al Ⓕ ▁ Ⓚ 54 2 Ⓛ ▁ Ⓘ terre ▁ à ▁ vig n e Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓜ 73 Ⓝ ▁ Ⓔ F re l é ▁ les ▁ hé ri t ier s Ⓕ ▁ Ⓚ 54 3 Ⓛ ▁ Ⓘ Vigne Ⓙ
+▁ Ⓖ L e s ▁ f os s e s Ⓗ ▁ Ⓜ 90 ↑ bis ↓ Ⓝ ▁ Ⓔ G au t hier ▁ louis ▁ ch ↑ e s ↓ ▁ × louis ±→ à ▁ V ar enne s Ⓕ ▁ Ⓚ 54 4 Ⓛ ▁ Ⓘ terre → à ▁ vig n e Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓜ 172 Ⓝ ▁ Ⓔ M otte au ▁ F ↑ ois ↓ ▁ a ▁ per ign y Ⓕ ▁ Ⓚ 54 5 Ⓛ ▁ Ⓘ terre → à ▁ vig . Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓜ 90 ↑ bis ↓ Ⓝ ▁ Ⓔ G au t hier ▁ × M ↑ l le ↓ ±→ louis ▁ charles ▁ à ▁ V ar enne s Ⓕ ▁ Ⓚ 54 61 Ⓛ ▁ Ⓘ T e r r → à ▁ vig . Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓜ 33 Ⓝ ▁ Ⓔ D e la roche ▁ s e b as tie n Ⓕ ▁ Ⓚ 54 7 Ⓛ ▁ Ⓘ vig n e Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓜ 33 Ⓝ ▁ Ⓔ 5 48 Ⓕ ▁ Ⓚ " Ⓛ ▁ Ⓘ terre → à ▁ vig Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓜ 1 76 Ⓝ ▁ Ⓔ M otte au ▁ Etienne ▁ L e ▁ père Ⓕ ▁ Ⓚ 5 49 Ⓛ ▁ Ⓘ terre → à ▁ vig Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓜ 7 8 Ⓝ ▁ Ⓔ F ou c au t ▁ françois Ⓕ ▁ Ⓚ 5 50 Ⓛ ▁ Ⓘ terre → à ▁ vig Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓜ 1 89 Ⓝ ▁ Ⓔ M otte au ▁ F ↑ ois ↓ ▁ henry Ⓕ ▁ Ⓚ 55 1 Ⓛ ▁ Ⓘ vig n e Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓜ 36 Ⓝ ▁ Ⓔ D e la roche ▁ augustin Ⓕ ▁ Ⓚ 55 2 Ⓛ ▁ Ⓘ vig n e Ⓙ
+▁ Ⓖ les ▁ sablons Ⓗ ▁ Ⓔ B l euze ▁ jacques Ⓕ ▁ Ⓚ 7 15 Ⓛ ▁ Ⓘ Terre Ⓙ ▁ Ⓐ 154 3 → 154 4 Ⓑ ▁ Ⓒ T → ber g e Ⓓ
+▁ Ⓖ § Ⓗ ▁ Ⓔ L e c le r c ▁ claude ▁ félix Ⓕ ▁ Ⓚ 71 6 Ⓛ ▁ Ⓘ T Ⓙ ▁ Ⓐ 154 2 Ⓑ ▁ Ⓒ T Ⓓ
+▁ Ⓖ § Ⓗ ▁ Ⓔ A u b oin Ⓕ ▁ Ⓚ 1 71 Ⓛ ▁ Ⓘ T . Ⓙ ▁ Ⓐ 154 5 → 154 6 Ⓑ ▁ Ⓒ ber g e → T Ⓓ
+▁ Ⓖ § Ⓗ ▁ Ⓔ Ch an de n nier ▁ P ↑ re ↓ ▁ F ↑ ois ↓ Ⓕ ▁ Ⓚ 71 8 Ⓛ ▁ Ⓘ T Ⓙ ▁ Ⓐ 155 2 Ⓑ ▁ Ⓒ T Ⓓ
+▁ Ⓖ § Ⓗ ▁ Ⓔ R e gn ault ▁ pierre ▁ Louis Ⓕ ▁ Ⓚ 7 19 Ⓛ ▁ Ⓘ T . Ⓙ ▁ Ⓐ 155 3 Ⓑ ▁ Ⓒ T Ⓓ
+▁ Ⓖ § Ⓗ ▁ Ⓔ G ar ri au ▁ victor ▁ f ↑ ois ↓ Ⓕ ▁ Ⓚ 7 20 Ⓛ ▁ Ⓘ T Ⓙ ▁ Ⓐ 155 5 Ⓑ ▁ Ⓒ T Ⓓ
+▁ Ⓖ § Ⓗ ▁ Ⓔ L ambert ▁ jean ▁ pierre Ⓕ ▁ Ⓚ 7 21 Ⓛ ▁ Ⓘ T Ⓙ ▁ Ⓐ 156 3 Ⓑ ▁ Ⓒ T Ⓓ
+▁ Ⓖ § Ⓗ ▁ Ⓔ M as s uet ▁ denis ▁ marie Ⓕ ▁ Ⓚ 7 22 Ⓛ ▁ Ⓘ T . Ⓙ ▁ Ⓐ 156 4 Ⓑ ▁ Ⓒ T Ⓓ
+▁ Ⓖ § Ⓗ ▁ Ⓔ M ay e ux ▁ J ↑ ques ↓ ▁ Louis Ⓕ ▁ Ⓚ 7 23 Ⓛ ▁ Ⓘ T . Ⓙ ▁ Ⓐ 156 6 Ⓑ ▁ Ⓒ T Ⓓ
+▁ Ⓖ § Ⓗ ▁ Ⓔ D ur ubl e ▁ alex ↑ dre ↓ ▁ pierre Ⓕ ▁ Ⓚ 7 24 Ⓛ ▁ Ⓘ T Ⓙ ▁ Ⓐ 156 5 Ⓑ ▁ Ⓒ T Ⓓ
+▁ Ⓖ L e s ▁ frett e s Ⓗ ▁ Ⓔ L an j ain ois Ⓕ ▁ Ⓚ 7 25 Ⓛ ▁ Ⓘ T . ▁ planté Ⓙ ▁ Ⓐ 157 8 Ⓑ ▁ Ⓒ pépinière Ⓓ
+▁ Ⓖ § Ⓗ ▁ Ⓔ B e n o î t ▁ P ↑ re ↓ ▁ stan is las Ⓕ ▁ Ⓚ 7 26 Ⓛ ▁ Ⓘ T . ▁ planté Ⓙ ▁ Ⓐ 157 9 → 15 80 Ⓑ ▁ Ⓒ T → p e p . Ⓓ
+▁ Ⓖ § Ⓗ ▁ Ⓔ Ch e val ier ▁ louis Ⓕ ▁ Ⓚ 7 27 Ⓛ ▁ Ⓘ T . Ⓙ ▁ Ⓐ 157 2 Ⓑ ▁ Ⓒ T Ⓓ
+▁ Ⓖ § Ⓗ ▁ Ⓔ D ur ubl e ▁ alex ↑ dre ↓ ▁ pierre Ⓕ ▁ Ⓚ 7 28 Ⓛ ▁ Ⓘ T . Ⓙ ▁ Ⓐ 157 3 Ⓑ ▁ Ⓒ T Ⓓ
+▁ Ⓖ Ru e ▁ du ▁ P a roy Ⓗ ▁ Ⓔ T ou z e lin ▁ marie ▁ julie n Ⓕ ▁ Ⓚ 139 Ⓛ ▁ Ⓘ sol →× batimen t ­ ± Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ T ou z e lin ▁ marie ▁ Julien Ⓕ ▁ Ⓚ 140 Ⓛ ▁ Ⓘ Jardin Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ T ou z e lin ▁ marie ▁ Julien Ⓕ ▁ Ⓚ 141 Ⓛ ▁ Ⓘ sol ▁ e t ▁ cour Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ id Ⓕ ▁ Ⓚ 141 Ⓛ ▁ Ⓘ n ° 9 ▁ Maison Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ T ou z e lin ▁ marie ▁ Julien Ⓕ ▁ Ⓚ 142 Ⓛ ▁ Ⓘ Jardin Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ T ou z e lin ▁ marie ▁ Julien Ⓕ ▁ Ⓚ 143 Ⓛ ▁ Ⓘ sol ▁ e t ▁ cour Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ id Ⓕ ▁ Ⓚ 143 Ⓛ ▁ Ⓘ Maison Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ T ou z e lin ▁ marie ▁ julie n Ⓕ ▁ Ⓚ 144 4 Ⓛ ▁ Ⓘ E t e n d o ir Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ L e roy ▁ sauveur e ▁ gabriel Ⓕ ▁ Ⓚ 145 Ⓛ ▁ Ⓘ Jardin Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ L e roy ▁ sauveur ▁ gabriel Ⓕ ▁ Ⓚ 146 Ⓛ ▁ Ⓘ Jardin Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ L e roy ▁ sauveur ▁ gabriel Ⓕ ▁ Ⓚ 147 Ⓛ ▁ Ⓘ sol ▁ bâtiment → e t ▁ cour Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ id Ⓕ ▁ Ⓚ 147 Ⓛ ▁ Ⓘ N ° ▁ 13 ▁ Maison Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ D e d ouvre ▁ p ↑ re ↓ ▁ f ↑ ois ↓ Ⓕ ▁ Ⓚ 148 Ⓛ ▁ Ⓘ Terre Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ D e d ouvre ▁ p ↑ re ↓ ▁ f ↑ ois ↓ Ⓕ ▁ Ⓚ 149 Ⓛ ▁ Ⓘ Terre Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ D e d ouvre ▁ p ↑ re ↓ ▁ f ↑ ois ↓ Ⓕ ▁ Ⓚ 150 Ⓛ ▁ Ⓘ Terre Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ id Ⓕ ▁ Ⓚ 151 Ⓛ ▁ Ⓘ sol ▁ e t ▁ cour Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ D e d ouvre ▁ p ↑ re ↓ ▁ f ↑ ois ↓ Ⓕ ▁ Ⓚ 151 Ⓛ ▁ Ⓘ C ou le ri e Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ D e d ouvre ▁ p ↑ re ↓ ▁ f ↑ ois ↓ Ⓕ ▁ Ⓚ 152 Ⓛ ▁ Ⓘ sol ▁ e t ▁ cour Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ id Ⓕ ▁ Ⓚ 152 Ⓛ ▁ Ⓘ n ° 15 ▁ Maison Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ D e d ouvre ▁ p ↑ re ↓ ▁ f ↑ ois ↓ Ⓕ ▁ Ⓚ 153 Ⓛ ▁ Ⓘ E t e n d o ir Ⓙ
+▁ Ⓜ 3 28 ↑ bis ↓ Ⓝ ▁ Ⓔ M is g ault ▁ × louis ± ▁ Jean ▁ Sébastien Ⓕ ▁ Ⓚ 8 42 ↑ bis ↓ Ⓛ ▁ Ⓘ Terre Ⓙ
+▁ Ⓜ 415 Ⓝ ▁ Ⓔ Rameau ▁ J ↑ n ↓ ▁ B ↑ t e ↓ Ⓕ ▁ Ⓚ 43 Ⓛ ▁ Ⓘ id Ⓙ
+▁ Ⓜ 231 Ⓝ ▁ Ⓔ L ameau ▁ Saturnin ▁ veuve ▁ h ↑ ers ↓ Ⓕ ▁ Ⓚ 44 Ⓛ ▁ Ⓘ § Ⓙ
+▁ Ⓜ × 3 24±→10 2 ↑ bis ↓ Ⓝ ▁ Ⓔ × Mezard ▁ N ↑ as ↓± ▁ Courtois ▁ louis Ⓕ ▁ Ⓚ 45 Ⓛ ▁ Ⓘ vig Ⓙ
+▁ Ⓜ 4 29 Ⓝ ▁ Ⓔ sau s s ay ▁ Père Ⓕ ▁ Ⓚ 46 Ⓛ ▁ Ⓘ Terre Ⓙ
+▁ Ⓜ 85 Ⓝ ▁ Ⓔ C o i f fier ▁ andré ▁ l ' ain é Ⓕ ▁ Ⓚ 47 Ⓛ ▁ Ⓘ id Ⓙ
+▁ Ⓜ 415 Ⓝ ▁ Ⓔ Rameau ▁ J ↑ n ↓ ▁ B ↑ t e ↓ Ⓕ ▁ Ⓚ 47 ↑ bis ↓ Ⓛ ▁ Ⓘ § Ⓙ
+▁ Ⓜ 415 Ⓝ ▁ Ⓔ L e ▁ même Ⓕ ▁ Ⓚ 48 Ⓛ ▁ Ⓘ § Ⓙ
+▁ Ⓜ 231 Ⓝ ▁ Ⓔ L ameau ▁ Sat ↑ n in ↓ ▁ veuve Ⓕ ▁ Ⓚ 49 Ⓛ ▁ Ⓘ § Ⓙ
+▁ Ⓜ 415 Ⓝ ▁ Ⓔ × R ± ▁ Rameau ▁ J ↑ n ↓ ▁ B ↑ t e ↓ Ⓕ ▁ Ⓚ 8 50 Ⓛ ▁ Ⓘ § Ⓙ
+▁ Ⓜ 3 28 ↑ bis ↓→× 3 28 ± Ⓝ ▁ Ⓔ M is g ault ▁ × louis ± ▁ Jean ▁ Sébastien Ⓕ ▁ Ⓚ 52 Ⓛ ▁ Ⓘ § Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ Rameau ▁ J ↑ n ↓ ▁ f ↑ ois ↓ ▁ veuve Ⓕ ▁ Ⓚ 53 Ⓛ ▁ Ⓘ § Ⓙ
+▁ Ⓜ 326 ↑ bis ↓→× 3 22 ± Ⓝ ▁ Ⓔ M is g ault ▁ × louis ± ▁ Jean ▁ ba p ↑ t e ↓ Ⓕ ▁ Ⓚ 54 Ⓛ ▁ Ⓘ § Ⓙ
+▁ Ⓜ 45 6 Ⓝ ▁ Ⓔ V e r n e au ▁ J ↑ n ↓ ▁ B ↑ t e ↓ Ⓕ ▁ Ⓚ 55 Ⓛ ▁ Ⓘ § Ⓙ
+▁ Ⓜ 45 3 Ⓝ ▁ Ⓔ V e r n e au ▁ n ↑ as ↓ Ⓕ ▁ Ⓚ 55 ↑ bis ↓ Ⓛ ▁ Ⓘ § Ⓙ
+▁ Ⓜ 89 ↑ bis ↑ →× 41 ± Ⓝ ▁ Ⓔ C o i f fier ▁ ch ↑ e s ↓ ▁ × Père ± ▁ vincent Ⓕ ▁ Ⓚ 56 Ⓛ ▁ Ⓘ § Ⓙ
+▁ Ⓜ 44 1 Ⓝ ▁ Ⓔ S oud ieux ▁ vin c ↑ t ↓ Ⓕ ▁ Ⓚ 57 Ⓛ ▁ Ⓘ § Ⓙ
+▁ Ⓜ 3 18 Ⓝ ▁ Ⓔ Mezard ▁ sat ↑ in ↓ Ⓕ ▁ Ⓚ 58 Ⓛ ▁ Ⓘ § Ⓙ
+▁ Ⓜ 18 Ⓝ ▁ Ⓔ ancel e t ▁ f ↑ re ↓ Ⓕ ▁ Ⓚ 59 Ⓛ ▁ Ⓘ § Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓜ 43 6 Ⓝ ▁ Ⓔ S oud ieux ▁ Sat ↑ in ↓ ▁ ba lot Ⓕ ▁ Ⓚ 8 60 Ⓛ ▁ Ⓘ § Ⓙ
+▁ Ⓖ grande ▁ Ru e Ⓗ ▁ Ⓔ Paris ▁ aug ↑ t e ↓ Ⓕ ▁ Ⓚ 281 Ⓛ ▁ Ⓘ maison ▁ cour → e t ▁ B ↑ t ↓→ n °24 Ⓙ ▁ Ⓐ s ↑ i on ↓ ▁ C → 99 ▁ p Ⓑ ▁ Ⓒ maison Ⓓ
+▁ Ⓖ § Ⓗ ▁ Ⓔ Paris ▁ aug ↑ t e ↓ Ⓕ ▁ Ⓚ 282 Ⓛ ▁ Ⓘ jardin Ⓙ ▁ Ⓐ 98 → 99 p Ⓑ ▁ Ⓒ jardin → maison Ⓓ
+▁ Ⓖ § ▁ p ▁ à ▁ → a lfortville Ⓗ ▁ Ⓔ M erlin ▁ à ▁ Beauvais Ⓕ ▁ Ⓚ 283 Ⓛ ▁ Ⓘ terre Ⓙ ▁ Ⓐ 97 → 100 ▁ p ar tie Ⓑ ▁ Ⓒ terre → terre Ⓓ
+▁ Ⓖ § Ⓗ ▁ Ⓔ B è que mont ▁ adolphe Ⓕ ▁ Ⓚ 284 Ⓛ ▁ Ⓘ t our ▁ d ' é ch e l le Ⓙ ▁ Ⓐ 105 ▁ p Ⓑ ▁ Ⓒ jardin Ⓓ
+▁ Ⓖ × le ▁ Bourg ± Ⓗ ▁ Ⓔ = ▁ & ▁ B a illet →× D id ier ▁ = ▁ à ▁ charenton ± Ⓕ ▁ Ⓚ × 2 85 ± Ⓛ ▁ Ⓘ × jardin ± Ⓙ ▁ Ⓐ × 96 ± Ⓑ ▁ Ⓒ × jardin ± Ⓓ
+▁ Ⓖ § Ⓗ ▁ Ⓔ × L e coute ux ▁ simon ± Ⓕ ▁ Ⓚ × 286 ± Ⓛ ▁ Ⓘ × ter r ain ▁ planté ± Ⓙ ▁ Ⓐ × 93 ± Ⓑ ▁ Ⓒ × pâture ± Ⓓ
+▁ Ⓖ § Ⓗ ▁ Ⓔ B e c que mont ▁ adolphe → ( D id ier ▁ à ▁ charenton ▁ p our → d ro i t ▁ de ▁ passage ) Ⓕ ▁ Ⓚ × 28 7 ± Ⓛ ▁ Ⓘ × pâture ± Ⓙ ▁ Ⓐ × 94 p → 95 ± Ⓑ ▁ Ⓒ × pâture → fossé ± Ⓓ
+▁ Ⓖ § Ⓗ ▁ Ⓔ B è que mont ▁ adolphe Ⓕ ▁ Ⓚ 28 8 Ⓛ ▁ Ⓘ pâture ▁ planté e → de ▁ p e u p li ers Ⓙ ▁ Ⓐ 94 Ⓑ ▁ Ⓒ pâture Ⓓ
+▁ Ⓖ § Ⓗ ▁ Ⓔ B è que mont ▁ adolphe Ⓕ ▁ Ⓚ 29 4 Ⓛ ▁ Ⓘ fossé Ⓙ ▁ Ⓐ 108 Ⓑ ▁ Ⓒ fossé Ⓓ
+▁ Ⓖ § Ⓗ ▁ Ⓔ B è que mont ▁ adolphe Ⓕ ▁ Ⓚ 2 90 Ⓛ ▁ Ⓘ jardin Ⓙ ▁ Ⓐ 107 Ⓑ ▁ Ⓒ jardin Ⓓ
+▁ Ⓖ § Ⓗ ▁ Ⓔ B è que mont ▁ adolphe Ⓕ ▁ Ⓚ 29 1 Ⓛ ▁ Ⓘ pré Ⓙ ▁ Ⓐ 107 ↑ bis ↓→ 109 Ⓑ ▁ Ⓒ passage → f ri ch e Ⓓ
+▁ Ⓖ § Ⓗ ▁ Ⓔ D e la port e ▁ Louis ▁ félix ▁ aug ↑ t e ↓ Ⓕ ▁ Ⓚ 292 Ⓛ ▁ Ⓘ jardin Ⓙ ▁ Ⓐ 114 → 114 ↑ bis ↓→ 115 Ⓑ ▁ Ⓒ pré → f ri ch e → jardin Ⓓ
+▁ Ⓖ § Ⓗ ▁ Ⓔ D e ter ville Ⓕ ▁ Ⓚ 29 3 Ⓛ ▁ Ⓘ jardin Ⓙ ▁ Ⓐ 113 p Ⓑ ▁ Ⓒ jardin Ⓓ
+▁ Ⓖ grande ▁ Ru e Ⓗ ▁ Ⓔ D e ter ville Ⓕ ▁ Ⓚ 29 4 Ⓛ ▁ Ⓘ maison ▁ cour → e t ▁ B ↑ t e ↓→ n ° 36 Ⓙ ▁ Ⓐ 112 Ⓑ ▁ Ⓒ fer m e Ⓓ
+▁ Ⓖ L e ▁ t h illard Ⓗ ▁ Ⓔ H é ricour t ▁ j os éphi n e Ⓕ ▁ Ⓚ 124 7 Ⓛ ▁ Ⓘ T . ▁ e t ▁ vig n e Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ H é ricour t ▁ louis ▁ gabriel Ⓕ ▁ Ⓚ 124 7 Ⓛ ▁ Ⓘ § Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ M ar t in ▁ jacques Ⓕ ▁ Ⓚ 124 7 Ⓛ ▁ Ⓘ § Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ A n c e le t ▁ dominique ▁ fils Ⓕ ▁ Ⓚ 124 8 Ⓛ ▁ Ⓘ t . ▁ e t ▁ vig n e Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ B ar illet ▁ alphonse ▁ léon Ⓕ ▁ Ⓚ 124 8 Ⓛ ▁ Ⓘ id Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ H é ricour t ▁ françois ▁ Nicolas Ⓕ ▁ Ⓚ 1 249 Ⓛ ▁ Ⓘ T Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ G u il le m mi ot ▁ Paul Ⓕ ▁ Ⓚ 12 50 Ⓛ ▁ Ⓘ T Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ Rameau ▁ auguste ▁ eugène Ⓕ ▁ Ⓚ 12 50 Ⓛ ▁ Ⓘ T Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ B euze ville ▁ désiré ▁ z éphi rin Ⓕ ▁ Ⓚ 125 1 Ⓛ ▁ Ⓘ T Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ N aud e t ▁ Victor Ⓕ ▁ Ⓚ 125 2 Ⓛ ▁ Ⓘ T Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ Rameau ▁ Jean ▁ françois Ⓕ ▁ Ⓚ 125 3 Ⓛ ▁ Ⓘ T Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ M is g ault ▁ J ↑ n ↓ ▁ B ↑ t e ↓ ▁ fils ▁ louis Ⓕ ▁ Ⓚ 1 254 Ⓛ ▁ Ⓘ T Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ L ameau ▁ Pierre ▁ Joseph Ⓕ ▁ Ⓚ 1 255 Ⓛ ▁ Ⓘ T Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ id Ⓕ ▁ Ⓚ 1 255 Ⓛ ▁ Ⓘ T Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ L a p i e ▁ L é on ▁ Louis Ⓕ ▁ Ⓚ 125 6 Ⓛ ▁ Ⓘ T Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ Rose ▁ louis ▁ alex is Ⓕ ▁ Ⓚ 125 7 Ⓛ ▁ Ⓘ T Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ H é ricour t ▁ Louis ▁ Victor Ⓕ ▁ Ⓚ 125 8 Ⓛ ▁ Ⓘ T Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ B ar illet ▁ Charles ▁ V ↑ e ↓ Ⓕ ▁ Ⓚ 12 59 Ⓛ ▁ Ⓘ T Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ Pré v ost ▁ V ↑ e ↓ ▁ né e ▁ Saussay Ⓕ ▁ Ⓚ 12 60 Ⓛ ▁ Ⓘ T Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ L é on ▁ J ↑ n ↓ ▁ B ↑ t e ↓ ▁ V ↑ e ↓ ▁ né e ▁ Rameau Ⓕ ▁ Ⓚ 126 1 Ⓛ ▁ Ⓘ T Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ M ar t in ▁ D ↑ e ↓ Ⓕ ▁ Ⓚ 126 2 Ⓛ ▁ Ⓘ T Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ Rameau ▁ louis ▁ Victor Ⓕ ▁ Ⓚ 126 3 Ⓛ ▁ Ⓘ vig n e Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ M is g ault ▁ louis ▁ mineur Ⓕ ▁ Ⓚ 126 4 Ⓛ ▁ Ⓘ vig n e Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ Courtois ▁ Louis ▁ g ↑ dre ↓ ▁ Mezard Ⓕ ▁ Ⓚ 12 65 Ⓛ ▁ Ⓘ vig n e Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ André ▁ alexandre ▁ e douard Ⓕ ▁ Ⓚ 126 6 Ⓛ ▁ Ⓘ vig n e Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ L al é ger y ▁ Denis ▁ joseph Ⓕ ▁ Ⓚ 126 7 Ⓛ ▁ Ⓘ T Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ L e p out re ▁ Joseph Ⓕ ▁ Ⓚ 126 8 Ⓛ ▁ Ⓘ T Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ S oud ieux ▁ Louis ▁ Joseph Ⓕ ▁ Ⓚ 126 8 Ⓛ ▁ Ⓘ T Ⓙ
+▁ Ⓖ le ▁ petit ▁ jardin Ⓗ ▁ Ⓔ andré ▁ a de la ï de ▁ J ↑ n ↓→ B ique t ▁ × alexandre ± Ⓕ ▁ Ⓚ 21 Ⓛ ▁ Ⓘ Terre Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ D e s lo g e s ▁ noël ▁ f ↑ ois ↓ Ⓕ ▁ Ⓚ 22 Ⓛ ▁ Ⓘ Terre Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ C l avier ▁ g e ndre ▁ de ▁ la ▁ V ↑ e ↓ ▁ mon e s ut e au Ⓕ ▁ Ⓚ 23 Ⓛ ▁ Ⓘ Terre Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ mon coute au ▁ germain ▁ jean Ⓕ ▁ Ⓚ 24 Ⓛ ▁ Ⓘ Terre Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ mon coute au ▁ germain ▁ jean Ⓕ ▁ Ⓚ 25 Ⓛ ▁ Ⓘ Terre Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ L e roy ▁ louis ▁ nicolas →× L e roy ▁ jean ▁ nicolas ▁ fils ± Ⓕ ▁ Ⓚ 26 Ⓛ ▁ Ⓘ Terre Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ P illet ▁ claude ▁ denis Ⓕ ▁ Ⓚ 27 Ⓛ ▁ Ⓘ Terre Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ L e c le r c ▁ p ↑ re ↓ ▁ louis Ⓕ ▁ Ⓚ 28 Ⓛ ▁ Ⓘ Terre Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ T our n e mi re ▁ a v o c at ▁ h ↑ ers ↓ Ⓕ ▁ Ⓚ 29 Ⓛ ▁ Ⓘ Terre Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ G al le t ▁ jean ▁ t ous ↑ t ↓ Ⓕ ▁ Ⓚ 30 Ⓛ ▁ Ⓘ → Terre Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ Bourg oin ▁ p ↑ re ↓ Ⓕ ▁ Ⓚ 3 1 Ⓛ ▁ Ⓘ Terre Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ P e pin ▁ J ↑ n ↓ ▁ B ↑ t e ↓ ▁ à ▁ Villejuif →× M e n on ▁ louis ▁ roche ± Ⓕ ▁ Ⓚ 32 Ⓛ ▁ Ⓘ Terre Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ L uis ette ▁ henry ▁ V ↑ e ↓ Ⓕ ▁ Ⓚ 33 Ⓛ ▁ Ⓘ Terre Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ C l avier ▁ françois Ⓕ ▁ Ⓚ 34 Ⓛ ▁ Ⓘ Terre Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ Ch at enay ▁ J ↑ n ↓ ▁ marie ▁ abel Ⓕ ▁ Ⓚ 3 5 Ⓛ ▁ Ⓘ Terre Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ C al ly ▁ V ↑ e ↓ ▁ a ▁ i v ry →× frett é ▁ guillaume ▁ t e l l ± Ⓕ ▁ Ⓚ 36 Ⓛ ▁ Ⓘ Terre Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ Lab our aux ▁ martin Ⓕ ▁ Ⓚ 37 Ⓛ ▁ Ⓘ Terre Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ L uis ette ▁ henry ▁ V ↑ e ↓ Ⓕ ▁ Ⓚ 3 8 Ⓛ ▁ Ⓘ Terre Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ L uis ette ▁ henry ▁ V ↑ e ↓→ a mi ot ▁ louis ▁ alexandre Ⓕ ▁ Ⓚ 3 9 Ⓛ ▁ Ⓘ Terre Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ M on coute au ▁ jean ▁ m ar is Ⓕ ▁ Ⓚ 40 Ⓛ ▁ Ⓘ Terre Ⓙ
+▁ Ⓖ f au con n e re s Ⓗ ▁ Ⓔ L e roy , ▁ fils ▁ de ▁ C le ment Ⓕ ▁ Ⓚ 57 Ⓛ ▁ Ⓘ T Ⓙ ▁ Ⓐ P ▁ 286 Ⓑ ▁ Ⓒ T Ⓓ
+▁ Ⓖ Ø Ⓗ ▁ Ⓔ H ain gn e relle Ⓕ ▁ Ⓚ 58 Ⓛ ▁ Ⓘ T Ⓙ ▁ Ⓐ 2 85 Ⓑ ▁ Ⓒ T Ⓓ
+▁ Ⓖ Ø Ⓗ ▁ Ⓔ M on t e bel le ▁ la ▁ D uches s e Ⓕ ▁ Ⓚ 59 Ⓛ ▁ Ⓘ T Ⓙ ▁ Ⓐ 284 Ⓑ ▁ Ⓒ T Ⓓ
+▁ Ⓖ Ø Ⓗ ▁ Ⓔ L e roy ▁ Louis Ⓕ ▁ Ⓚ 60 Ⓛ ▁ Ⓘ T Ⓙ ▁ Ⓐ 283 Ⓑ ▁ Ⓒ T Ⓓ
+▁ Ⓖ Ø Ⓗ ▁ Ⓔ N o b le t , ▁ N ↑ as ↓ ▁ Veuve Ⓕ ▁ Ⓚ 61 Ⓛ ▁ Ⓘ T Ⓙ ▁ Ⓐ 282 Ⓑ ▁ Ⓒ T Ⓓ
+▁ Ⓖ Ø Ⓗ ▁ Ⓔ M ontebello ▁ la ▁ D uches s e Ⓕ ▁ Ⓚ 62 Ⓛ ▁ Ⓘ T Ⓙ ▁ Ⓐ 281 Ⓑ ▁ Ⓒ T Ⓓ
+▁ Ⓖ Ø Ⓗ ▁ Ⓔ L e roy ▁ Germain ▁ Louis Ⓕ ▁ Ⓚ 63 Ⓛ ▁ Ⓘ T Ⓙ ▁ Ⓐ 280 Ⓑ ▁ Ⓒ T Ⓓ
+▁ Ⓖ Ø Ⓗ ▁ Ⓔ Bourdill at , ▁ J ↑ n ↓ ▁ F ↑ ois ↓ Ⓕ ▁ Ⓚ 64 Ⓛ ▁ Ⓘ T Ⓙ ▁ Ⓐ 2 69 ↑ bis ↓ Ⓑ ▁ Ⓒ T Ⓓ
+▁ Ⓖ Ø Ⓗ ▁ Ⓔ P e r d rier , ▁ vincent ▁ P as c al Ⓕ ▁ Ⓚ 65 Ⓛ ▁ Ⓘ T Ⓙ ▁ Ⓐ 2 69 Ⓑ ▁ Ⓒ T Ⓓ
+▁ Ⓖ Ø Ⓗ ▁ Ⓔ P e r rin , ▁ Constant Ⓕ ▁ Ⓚ 66 Ⓛ ▁ Ⓘ T Ⓙ ▁ Ⓐ 2 68 Ⓑ ▁ Ⓒ T Ⓓ
+▁ Ⓖ Ø Ⓗ ▁ Ⓔ J o l ly , ▁ Jean ▁ Mari e Ⓕ ▁ Ⓚ 67 Ⓛ ▁ Ⓘ T Ⓙ ▁ Ⓐ 26 7 Ⓑ ▁ Ⓒ T Ⓓ
+▁ Ⓖ Ø Ⓗ ▁ Ⓔ G al le t , ▁ Jean ▁ F ↑ ois ↓ Ⓕ ▁ Ⓚ 68 Ⓛ ▁ Ⓘ T Ⓙ ▁ Ⓐ 26 6 Ⓑ ▁ Ⓒ T Ⓓ
+▁ Ⓖ Ø Ⓗ ▁ Ⓔ F au re , ▁ le ▁ Comte Ⓕ ▁ Ⓚ 69 Ⓛ ▁ Ⓘ T Ⓙ ▁ Ⓐ 2 64 Ⓑ ▁ Ⓒ T Ⓓ
+▁ Ⓖ Ø Ⓗ ▁ Ⓔ J o l ly , ▁ Jean ▁ Mari e Ⓕ ▁ Ⓚ 70 Ⓛ ▁ Ⓘ T Ⓙ ▁ Ⓐ 2 63 Ⓑ ▁ Ⓒ T Ⓓ
+▁ Ⓖ P or t ▁ à ▁ l ' anglais Ⓗ ▁ Ⓔ Ch ar t e ▁ Etienne Ⓕ ▁ Ⓚ 95 Ⓛ ▁ Ⓘ terre Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ Ch â tre ▁ pierre Ⓕ ▁ Ⓚ § Ⓛ ▁ Ⓘ § Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ Ch e ry ▁ l u ci e ▁ e t ▁ A lin e Ⓕ ▁ Ⓚ § Ⓛ ▁ Ⓘ § Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ Ch e v illot t e ▁ c om e Ⓕ ▁ Ⓚ § Ⓛ ▁ Ⓘ § Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ ch i ch é ri t ▁ françois ▁ auguste Ⓕ ▁ Ⓚ § Ⓛ ▁ Ⓘ § Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ ch i co t ▁ alfred ▁ c lément Ⓕ ▁ Ⓚ § Ⓛ ▁ Ⓘ § Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ ch om ette ▁ veuve Ⓕ ▁ Ⓚ § Ⓛ ▁ Ⓘ § Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ id Ⓕ ▁ Ⓚ § Ⓛ ▁ Ⓘ § Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ C o lin ▁ hippol y t e Ⓕ ▁ Ⓚ § Ⓛ ▁ Ⓘ § Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ Coll in ▁ charles ▁ h y p p o li t e Ⓕ ▁ Ⓚ § Ⓛ ▁ Ⓘ § Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ id Ⓕ ▁ Ⓚ § Ⓛ ▁ Ⓘ § Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ Coll in ▁ Jean ▁ B ↑ t e ↓ Ⓕ ▁ Ⓚ § Ⓛ ▁ Ⓘ § Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ C om b e ▁ Jean ▁ Louis Ⓕ ▁ Ⓚ § Ⓛ ▁ Ⓘ § Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ C ↑ i e ↓ ▁ paris i enne ▁ du ▁ g a z Ⓕ ▁ Ⓚ § Ⓛ ▁ Ⓘ § Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ C on v ers ▁ edme ▁ e r nest Ⓕ ▁ Ⓚ § Ⓛ ▁ Ⓘ § Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ C oquet t e ▁ léon ▁ e t ▁ C oquet t e ▁ Louis → alfred Ⓕ ▁ Ⓚ § Ⓛ ▁ Ⓘ § Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ C or b e s ▁ alfred ▁ eugène Ⓕ ▁ Ⓚ § Ⓛ ▁ Ⓘ § Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ C ost e ▁ pierre Ⓕ ▁ Ⓚ § Ⓛ ▁ Ⓘ § Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ C ost e ▁ veuve ▁ né e ▁ G é ant ▁ s o p h i e Ⓕ ▁ Ⓚ § Ⓛ ▁ Ⓘ § Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ C ous in Ⓕ ▁ Ⓚ § Ⓛ ▁ Ⓘ § Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ C ous in ▁ julie t t e ▁ an gé lin a Ⓕ ▁ Ⓚ § Ⓛ ▁ Ⓘ § Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ C re s p y ▁ Jean ▁ Jacques Ⓕ ▁ Ⓚ § Ⓛ ▁ Ⓘ § Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ Cris pin ▁ désiré ▁ augustin Ⓕ ▁ Ⓚ § Ⓛ ▁ Ⓘ § Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ C u ign e t ▁ E li e ▁ Constant Ⓕ ▁ Ⓚ § Ⓛ ▁ Ⓘ § Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ C u v e llier ▁ louis ▁ al ois e ▁ veuve Ⓕ ▁ Ⓚ § Ⓛ ▁ Ⓘ § Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ D a m our ette ▁ françois ▁ auguste Ⓕ ▁ Ⓚ § Ⓛ ▁ Ⓘ § Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ D e c a m p ▁ marie ▁ al ois Ⓕ ▁ Ⓚ § Ⓛ ▁ Ⓘ § Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ id Ⓕ ▁ Ⓚ § Ⓛ ▁ Ⓘ § Ⓙ
+▁ Ⓜ 3 21 Ⓝ ▁ Ⓔ V is s e ▁ germain Ⓕ ▁ Ⓚ 20 56 Ⓛ ▁ Ⓘ Terre Ⓙ
+▁ Ⓜ 89 Ⓝ ▁ Ⓔ D e s n y au ▁ michel Ⓕ ▁ Ⓚ 20 57 Ⓛ ▁ Ⓘ J e ▁ vig Ⓙ
+▁ Ⓜ 89 Ⓝ ▁ Ⓔ Idem Ⓕ ▁ Ⓚ 20 58 Ⓛ ▁ Ⓘ Terre Ⓙ
+▁ Ⓜ 91 Ⓝ ▁ Ⓔ D e s n y au ▁ F ↑ re ↓ ▁ Louis Ⓕ ▁ Ⓚ 20 59 Ⓛ ▁ Ⓘ id Ⓙ
+▁ Ⓜ 93 Ⓝ ▁ Ⓔ D e s n y au ▁ E t ↑ e ↓ ▁ f ↑ ois ↓ Ⓕ ▁ Ⓚ 20 60 Ⓛ ▁ Ⓘ id Ⓙ
+▁ Ⓜ 3 10 Ⓝ ▁ Ⓔ S oud ieux ▁ Ch ↑ e s ↓ ▁ Louis Ⓕ ▁ Ⓚ 20 61 Ⓛ ▁ Ⓘ id Ⓙ
+▁ Ⓜ 102 Ⓝ ▁ Ⓔ D e s n y au ▁ L ↑ s ↓ ▁ Laurent Ⓕ ▁ Ⓚ 20 62 Ⓛ ▁ Ⓘ id Ⓙ
+▁ Ⓜ 150 Ⓝ ▁ Ⓔ G u il le m ain ▁ henry ▁ h ↑ s ↓ Ⓕ ▁ Ⓚ 106 3 Ⓛ ▁ Ⓘ id Ⓙ
+▁ Ⓜ 280 Ⓝ ▁ Ⓔ que ru ▁ C ↑ de ↓ ▁ Vincent Ⓕ ▁ Ⓚ 20 64 Ⓛ ▁ Ⓘ id Ⓙ
+▁ Ⓖ les ▁ C re sset e s Ⓗ ▁ Ⓜ 21 4 Ⓝ ▁ Ⓔ M e n tienne ▁ A u b in Ⓕ ▁ Ⓚ 20 65 Ⓛ ▁ Ⓘ I d Ⓙ
+▁ Ⓜ 41 Ⓝ ▁ Ⓔ B ois s e au ▁ p ↑ re ↓ ▁ Etienne Ⓕ ▁ Ⓚ 20 66 Ⓛ ▁ Ⓘ Vigne Ⓙ
+▁ Ⓜ 103 Ⓝ ▁ Ⓔ D e s n y au ▁ P ↑ re ↓ ▁ andré Ⓕ ▁ Ⓚ 20 67 Ⓛ ▁ Ⓘ Terre Ⓙ
+▁ Ⓜ 29 Ⓝ ▁ Ⓔ Benoist ▁ P ↑ re ↓ ▁ michel ▁ le ▁ J e Ⓕ ▁ Ⓚ 20 68 Ⓛ ▁ Ⓘ id Ⓙ
+▁ Ⓜ 56 Ⓝ ▁ Ⓔ B our sau t ▁ J ↑ n ↓ ▁ C ↑ de ↓ Ⓕ ▁ Ⓚ 20 69 Ⓛ ▁ Ⓘ id Ⓙ
+▁ Ⓜ × 98 ±→ 94 ↑ bis ↓ Ⓝ ▁ Ⓔ D E s n y au ▁ × J ↑ n ↓ ▁ antoine ± ▁ marie ▁ denis e Ⓕ ▁ Ⓚ 20 70 Ⓛ ▁ Ⓘ id Ⓙ
+▁ Ⓜ 304 Ⓝ ▁ Ⓔ S e llier ▁ J ↑ ques ↓ ▁ georges Ⓕ ▁ Ⓚ 20 71 Ⓛ ▁ Ⓘ id Ⓙ
+▁ Ⓜ 1 89 Ⓝ ▁ Ⓔ × L i vern ois ▁ Etienne ± ▁ L i vern e t → Joseph ▁ achil e Ⓕ ▁ Ⓚ 20 72 Ⓛ ▁ Ⓘ id Ⓙ
+▁ Ⓜ × 87 ±→ 19 1 ↑ bis ↓ Ⓝ ▁ Ⓔ × D e l aug e ▁ Louis ± ▁ C is e au ▁ p ↑ re ↓ Ⓕ ▁ Ⓚ 20 73 Ⓛ ▁ Ⓘ B ois Ⓙ
+▁ Ⓜ 166 Ⓝ ▁ Ⓔ Lam ar re Ⓕ ▁ Ⓚ 20 74 Ⓛ ▁ Ⓘ Terre Ⓙ
+▁ Ⓜ 166 Ⓝ ▁ Ⓔ Idem Ⓕ ▁ Ⓚ 20 75 Ⓛ ▁ Ⓘ Idem Ⓙ
+▁ Ⓖ les ▁ frett e s Ⓗ ▁ Ⓔ G al la is ▁ Joseph Ⓕ ▁ Ⓚ 75 7 Ⓛ ▁ Ⓘ Terre Ⓙ ▁ Ⓐ 161 8 Ⓑ ▁ Ⓒ T Ⓓ
+▁ Ⓖ § Ⓗ ▁ Ⓔ B e u rrier ▁ pierre ▁ honoré Ⓕ ▁ Ⓚ 7 58 Ⓛ ▁ Ⓘ vig n e Ⓙ ▁ Ⓐ 162 0 → 162 1 → 162 2 Ⓑ ▁ Ⓒ T → V Ⓓ
+▁ Ⓖ § Ⓗ ▁ Ⓔ B r ice ▁ j ↑ h ↓ ▁ marie Ⓕ ▁ Ⓚ 7 59 Ⓛ ▁ Ⓘ V . Ⓙ ▁ Ⓐ 162 3 Ⓑ ▁ Ⓒ V Ⓓ
+▁ Ⓖ § Ⓗ ▁ Ⓔ Nicolas ▁ j ↑ n ↓ ▁ philippe Ⓕ ▁ Ⓚ 7 60 Ⓛ ▁ Ⓘ T Ⓙ ▁ Ⓐ 162 6 Ⓑ ▁ Ⓒ T Ⓓ
+▁ Ⓖ § Ⓗ ▁ Ⓔ Pi c ard ▁ georges Ⓕ ▁ Ⓚ 76 1 Ⓛ ▁ Ⓘ V Ⓙ ▁ Ⓐ 162 5 Ⓑ ▁ Ⓒ V Ⓓ
+▁ Ⓖ § Ⓗ ▁ Ⓔ B e u rrier ▁ p ↑ re ↓ ▁ honoré Ⓕ ▁ Ⓚ 76 2 Ⓛ ▁ Ⓘ V . Ⓙ ▁ Ⓐ 163 3 → 133 4 Ⓑ ▁ Ⓒ T → V Ⓓ
+▁ Ⓖ § Ⓗ ▁ Ⓔ D e u ▁ j ↑ n ↓ ▁ B ↑ t e ↓ ▁ g e ndre ▁ m au ci ut Ⓕ ▁ Ⓚ 7 63 Ⓛ ▁ Ⓘ T Ⓙ ▁ Ⓐ 163 5 ▁ → 163 6 Ⓑ ▁ Ⓒ V → T Ⓓ
+▁ Ⓖ § Ⓗ ▁ Ⓔ G u e not ▁ jacques Ⓕ ▁ Ⓚ 7 64 Ⓛ ▁ Ⓘ T Ⓙ ▁ Ⓐ 163 7 Ⓑ ▁ Ⓒ V Ⓓ
+▁ Ⓖ § Ⓗ ▁ Ⓔ Ch e n e v as ▁ Louis ▁ F ru c t id or Ⓕ ▁ Ⓚ 7 65 Ⓛ ▁ Ⓘ vig n e Ⓙ ▁ Ⓐ 164 2 Ⓑ ▁ Ⓒ V Ⓓ
+▁ Ⓖ § Ⓗ ▁ Ⓔ Ch ant e relle ▁ Nicolas Ⓕ ▁ Ⓚ 76 6 Ⓛ ▁ Ⓘ T Ⓙ ▁ Ⓐ p . 164 3 Ⓑ ▁ Ⓒ T . p l . Ⓓ
+▁ Ⓖ § Ⓗ ▁ Ⓔ h u ar t ▁ joseph Ⓕ ▁ Ⓚ 76 7 Ⓛ ▁ Ⓘ T Ⓙ ▁ Ⓐ p . 164 3 Ⓑ ▁ Ⓒ Ø Ⓓ
+▁ Ⓖ § Ⓗ ▁ Ⓔ M o z e au ▁ ant ↑ n e ↓ ▁ Louis Ⓕ ▁ Ⓚ 7 68 Ⓛ ▁ Ⓘ T Ⓙ ▁ Ⓐ 164 7 Ⓑ ▁ Ⓒ V Ⓓ
+▁ Ⓖ § Ⓗ ▁ Ⓔ B e t an cour t ▁ antoine Ⓕ ▁ Ⓚ 7 69 Ⓛ ▁ Ⓘ T Ⓙ ▁ Ⓐ 164 4 Ⓑ ▁ Ⓒ V Ⓓ
+▁ Ⓖ § Ⓗ ▁ Ⓔ Ch an e v as ▁ victor ▁ ch ↑ e s ↓ Ⓕ ▁ Ⓚ 7 70 Ⓛ ▁ Ⓘ × T ±→ vig n e Ⓙ ▁ Ⓐ 164 5 → 164 6 Ⓑ ▁ Ⓒ V Ⓓ
+▁ Ⓖ grande ▁ ru e → Ⓗ ▁ Ⓔ S ain t ▁ Laurent ▁ ( b ar on ▁ de ) Ⓕ ▁ Ⓚ 41 Ⓛ ▁ Ⓘ jardin ▁ p . Ⓙ
+▁ Ⓖ de ▁ s t - man d é Ⓗ ▁ Ⓔ id e m Ⓕ ▁ Ⓚ 42 Ⓛ ▁ Ⓘ jardin ▁ p . Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ id e m Ⓕ ▁ Ⓚ 43 Ⓛ ▁ Ⓘ jardin ▁ p . Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ id e m Ⓕ ▁ Ⓚ 44 Ⓛ ▁ Ⓘ sol Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ id e m Ⓕ ▁ Ⓚ 44 Ⓛ ▁ Ⓘ maison Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ id e m Ⓕ ▁ Ⓚ 45 Ⓛ ▁ Ⓘ sol ▁ e t ▁ cour e Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ id e m Ⓕ ▁ Ⓚ 45 Ⓛ ▁ Ⓘ m ↑ on ↓ ▁ e t ▁ b ↑ t ↓ Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ id e m Ⓕ ▁ Ⓚ 46 Ⓛ ▁ Ⓘ jardin ▁ d ' ag t Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ id e m Ⓕ ▁ Ⓚ 47 Ⓛ ▁ Ⓘ sol Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ id e m Ⓕ ▁ Ⓚ 47 Ⓛ ▁ Ⓘ maison Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ id Ⓕ ▁ Ⓚ 47 ↑ bis ↓ Ⓛ ▁ Ⓘ pavillon Ⓙ
+▁ Ⓖ aven u e ▁ du → bel ▁ air Ⓗ ▁ Ⓔ S ain t ▁ M an d é ▁ ( commune ▁ de ) Ⓕ ▁ Ⓚ 48 Ⓛ ▁ Ⓘ jardin Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ id e m Ⓕ ▁ Ⓚ 49 Ⓛ ▁ Ⓘ sol ▁ e t ▁ cour Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ id e m Ⓕ ▁ Ⓚ 49 Ⓛ ▁ Ⓘ m air i e Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ id e m Ⓕ ▁ Ⓚ 50 Ⓛ ▁ Ⓘ Jardin Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ id e m Ⓕ ▁ Ⓚ 51 Ⓛ ▁ Ⓘ jardin Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ id e m Ⓕ ▁ Ⓚ 52 Ⓛ ▁ Ⓘ jardin Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ id e m Ⓕ ▁ Ⓚ 53 Ⓛ ▁ Ⓘ Jardin Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ L ' Etat Ⓕ ▁ Ⓚ 54 Ⓛ ▁ Ⓘ sol Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ id e m Ⓕ ▁ Ⓚ 54 Ⓛ ▁ Ⓘ maison ▁ de → g ard e Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ id e m Ⓕ ▁ Ⓚ 55 Ⓛ ▁ Ⓘ sol Ⓙ
+▁ Ⓖ L e s ▁ Pi e ry s Ⓗ ▁ Ⓔ M ous c adet ▁ pierre ▁ louis Ⓕ ▁ Ⓚ 137 8 Ⓛ ▁ Ⓘ vig n e Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ Rameau ▁ h e l v e t uis ▁ françois Ⓕ ▁ Ⓚ 137 9 Ⓛ ▁ Ⓘ vig n e Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ C o i f fier ▁ charles ▁ armand Ⓕ ▁ Ⓚ 138 0 Ⓛ ▁ Ⓘ T Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ C ↑ i e ↓ ▁ des ▁ ch ↑ ins ↓ ▁ de ▁ fer ▁ de ▁ l ' e s t Ⓕ ▁ Ⓚ 138 0 Ⓛ ▁ Ⓘ T Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ id Ⓕ ▁ Ⓚ 138 0 Ⓛ ▁ Ⓘ T Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ voi e ▁ p ubl ique Ⓕ ▁ Ⓚ 138 0 Ⓛ ▁ Ⓘ T Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ C ↑ i e ↓ ▁ des ▁ chemin s ▁ de ▁ fer ▁ de ▁ l ' Est Ⓕ ▁ Ⓚ 138 1 Ⓛ ▁ Ⓘ vig n e Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ M e y e r ▁ philippe Ⓕ ▁ Ⓚ 138 1 Ⓛ ▁ Ⓘ § Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ id Ⓕ ▁ Ⓚ 138 1 Ⓛ ▁ Ⓘ § Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ voi e ▁ p ubl ique Ⓕ ▁ Ⓚ 138 1 Ⓛ ▁ Ⓘ § Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ B aud ier ▁ louis ▁ auguste Ⓕ ▁ Ⓚ 138 2 Ⓛ ▁ Ⓘ T Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ L a p i e ▁ L é on ▁ louis Ⓕ ▁ Ⓚ 138 3 Ⓛ ▁ Ⓘ T Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ S oud ieux ▁ charles ▁ louis Ⓕ ▁ Ⓚ 138 4 Ⓛ ▁ Ⓘ T Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ C o i f fier ▁ Pierre ▁ Louis Ⓕ ▁ Ⓚ 138 5 Ⓛ ▁ Ⓘ T Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ C ↑ i e ↓ ▁ Ch ↑ ins ↓ ▁ de ▁ fer ▁ de ▁ l ' e s t Ⓕ ▁ Ⓚ 138 6 Ⓛ ▁ Ⓘ vig n e Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ L al e gé ry ▁ Emmanuel ▁ désiré Ⓕ ▁ Ⓚ 138 6 Ⓛ ▁ Ⓘ § Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ voi e ▁ p ubl ique Ⓕ ▁ Ⓚ 138 6 Ⓛ ▁ Ⓘ § Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ C o i f fier ▁ Pierre ▁ Louis Ⓕ ▁ Ⓚ 138 7 Ⓛ ▁ Ⓘ vig n e Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ C ↑ i e ↓ ▁ des ▁ ch ↑ ins ↓ ▁ de ▁ fer ▁ de ▁ l ' Est Ⓕ ▁ Ⓚ 138 7 Ⓛ ▁ Ⓘ § Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ voi e ▁ p ubl ique Ⓕ ▁ Ⓚ 138 7 Ⓛ ▁ Ⓘ § Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ F ou c ault ▁ Pierre ▁ Louis ▁ alphonse Ⓕ ▁ Ⓚ 138 8 Ⓛ ▁ Ⓘ T Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ id Ⓕ ▁ Ⓚ 138 9 Ⓛ ▁ Ⓘ T Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ B a taill e ▁ louis e ▁ E u gé n i e ▁ J os éphi n e Ⓕ ▁ Ⓚ 139 0 Ⓛ ▁ Ⓘ T Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ C ↑ i e ↓ ▁ des ▁ chemin s ▁ de ▁ fer ▁ de ▁ l ' e s t Ⓕ ▁ Ⓚ 139 0 Ⓛ ▁ Ⓘ T Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ voi e ▁ p ubl ique Ⓕ ▁ Ⓚ 139 0 Ⓛ ▁ Ⓘ T Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ B euze ville ▁ Jean ▁ louis Ⓕ ▁ Ⓚ 139 1 Ⓛ ▁ Ⓘ vig n e Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ C ↑ i e ↓ ▁ des ▁ chemin s ▁ de ▁ fer ▁ de ▁ l ' Est Ⓕ ▁ Ⓚ 139 1 Ⓛ ▁ Ⓘ § Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ voi e ▁ p ubl ique Ⓕ ▁ Ⓚ 139 1 Ⓛ ▁ Ⓘ § Ⓙ
+▁ Ⓖ Ru e ▁ du ▁ vieux ▁ Chemin → de ▁ charenton Ⓗ ▁ Ⓔ M an g on ▁ marie ▁ marc , ▁ ru e → du ▁ chemin ▁ vert Ⓕ ▁ Ⓚ 6 49 Ⓛ ▁ Ⓘ Jardin Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ B ou l mier ▁ honoré , ▁ ru e ▁ du ▁ vieux → chemin ▁ de ▁ charenton Ⓕ ▁ Ⓚ 6 50 Ⓛ ▁ Ⓘ sol Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ B ou l mier ▁ françois ▁ id Ⓕ ▁ Ⓚ 6 50 Ⓛ ▁ Ⓐ maison Ⓑ
+▁ Ⓖ § Ⓗ ▁ Ⓔ B ou l mier ▁ françois ▁ id Ⓕ ▁ Ⓚ 65 1 Ⓛ ▁ Ⓘ Jardin Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ P r uni os ▁ Jean , ▁ g e ndre ▁ m oreau → ru e ▁ du ▁ chemin ▁ vert Ⓕ ▁ Ⓚ 65 2 Ⓛ ▁ Ⓘ Jardin Ⓙ
+▁ Ⓖ Ru e ▁ du ▁ Chemin ▁ vert Ⓗ ▁ Ⓔ P r uni os ▁ Jean , ▁ g e ndre ▁ m oreau → id Ⓕ ▁ Ⓚ 65 3 Ⓛ ▁ Ⓘ sol Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ P r uni os ▁ Jean , ▁ g e ndre ▁ m oreau → id Ⓕ ▁ Ⓚ 65 3 Ⓛ ▁ Ⓘ maison Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ R oyer ▁ Jean ▁ louis ▁ mathieu ▁ ru e → du ▁ vieux ▁ Ch ↑ m in ↓ ▁ de ▁ charenton Ⓕ ▁ Ⓚ 65 4 Ⓛ ▁ Ⓘ Jardin Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ R oyer ▁ Jean ▁ louis ▁ mathieu ▁ id Ⓕ ▁ Ⓚ 65 5 Ⓛ ▁ Ⓘ Terre Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ de ▁ Nicola ï ▁ L e ▁ marquis Ⓕ ▁ Ⓚ 65 5 ↑ bis ↓ Ⓛ ▁ Ⓘ con tre - allé e Ⓙ
+▁ Ⓖ allé e ▁ des ▁ n oyer s Ⓗ ▁ Ⓔ de ▁ Nicola ï ▁ id Ⓕ ▁ Ⓚ 65 6 Ⓛ ▁ Ⓘ Terre ▁ planté e Ⓙ
+▁ Ⓖ Route ▁ de ▁ charenton Ⓗ ▁ Ⓔ de ▁ Nicola ï ▁ id Ⓕ ▁ Ⓚ 65 7 Ⓛ ▁ Ⓘ Terre Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ C on t our ▁ Gabriel ▁ le ▁ jeune , ▁ à → franc villiers Ⓕ ▁ Ⓚ 65 8 Ⓛ ▁ Ⓘ Jardin Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ C on t our ▁ Gabriel ▁ le ▁ jeune ▁ id Ⓕ ▁ Ⓚ 6 59 Ⓛ ▁ Ⓘ j ard . ▁ d ' ag re m n t Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ C on t our ▁ Gabriel ▁ le ▁ jeune ▁ id Ⓕ ▁ Ⓚ 6 60 Ⓛ ▁ Ⓘ sol Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ F le ury ▁ pierre , ▁ t r ait e ur , ▁ route → de ▁ charenton Ⓕ ▁ Ⓚ 6 60 Ⓛ ▁ Ⓘ maison Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ C on t our ▁ Gabriel ▁ le ▁ jeune , ▁ à → franc villiers Ⓕ ▁ Ⓚ 66 1 Ⓛ ▁ Ⓘ sol Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ M ar ch an d ▁ Jean ▁ Charles → c a b ar e t ier ▁ route ▁ de ▁ charenton Ⓕ ▁ Ⓚ 66 1 Ⓛ ▁ Ⓘ maison Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ C on t our ▁ Gabriel ▁ jeune Ⓕ ▁ Ⓚ 66 2 Ⓛ ▁ Ⓘ sol Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ G aud in - D e s s e val ▁ Jean → Germain , ▁ route ▁ de ▁ charenton Ⓕ ▁ Ⓚ 66 2 Ⓛ ▁ Ⓘ maison Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ R oyer ▁ Jean ▁ louis , ▁ route ▁ de → charenton Ⓕ ▁ Ⓚ 6 64 Ⓛ ▁ Ⓘ sol Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ R oyer ▁ Jean ▁ louis ▁ marc ▁ id Ⓕ ▁ Ⓚ 6 64 Ⓛ ▁ Ⓘ bâtiment Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ R oyer ▁ Jean ▁ louis ▁ marc ▁ id Ⓕ ▁ Ⓚ 6 65 Ⓛ ▁ Ⓘ sol Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ G i t ard ▁ Veuve , ▁ ru e ▁ des ▁ c harbonnier s → à ▁ Paris Ⓕ ▁ Ⓚ 6 65 Ⓛ ▁ Ⓘ maison Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ R oyer ▁ Jean ▁ louis ▁ marc , ▁ route → de ▁ charenton Ⓕ ▁ Ⓚ 6 66 Ⓛ ▁ Ⓘ J ard ▁ d ' ag t Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ R oyer ▁ Jean ▁ louis ▁ marc ▁ id Ⓕ ▁ Ⓚ 66 7 Ⓛ ▁ Ⓘ sol Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ R oyer ▁ Jean ▁ louis ▁ marc ▁ id Ⓕ ▁ Ⓚ 66 7 Ⓛ ▁ Ⓘ maison Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ R oyer ▁ Jean ▁ louis ▁ marc ▁ id Ⓕ ▁ Ⓚ 6 68 Ⓛ ▁ Ⓘ sol Ⓙ
+▁ Ⓖ L a ▁ petit e ▁ jardin e Ⓗ ▁ Ⓔ C olombier ▁ jean ▁ germain Ⓕ ▁ Ⓚ 80 Ⓛ ▁ Ⓘ Terre Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ C olombier ▁ jean ▁ germain Ⓕ ▁ Ⓚ 81 Ⓛ ▁ Ⓘ Terre Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ D e f resne ▁ J ↑ n ↓ ▁ J ↑ ques ↓ ▁ louis Ⓕ ▁ Ⓚ 82 Ⓛ ▁ Ⓘ Terre Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ B ou que t ▁ C ous in Ⓕ ▁ Ⓚ 8 3 Ⓛ ▁ Ⓘ Terre Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ L e p rin c e ▁ a ▁ Vitry →× B ar re ▁ J ↑ n ↓ ▁ louis ▁ d a v id ▁ maurice ± Ⓕ ▁ Ⓚ 84 Ⓛ ▁ Ⓘ Terre Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ S e r gent ▁ louis ▁ marie ▁ victor Ⓕ ▁ Ⓚ 85 Ⓛ ▁ Ⓘ × Plant ation ±→ pépinière Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ s e r gent ▁ louis ▁ marie ▁ victor Ⓕ ▁ Ⓚ 86 Ⓛ ▁ Ⓘ Terre Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ Bourdill at ▁ Jean Ⓕ ▁ Ⓚ 87 Ⓛ ▁ Ⓘ Terre Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ S e r gent ▁ marie ▁ denis ▁ alphonse Ⓕ ▁ Ⓚ 88 Ⓛ ▁ Ⓘ Terre Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ s e r gent ▁ marie ▁ denis ▁ alphonse Ⓕ ▁ Ⓚ 89 Ⓛ ▁ Ⓘ × Plant ation ±→ p e pin ière Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ s e r gent ▁ marie ▁ denis ▁ alphonse Ⓕ ▁ Ⓚ 90 Ⓛ ▁ Ⓘ Terre Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ s e r gent ▁ marie ▁ denis ▁ alphonse Ⓕ ▁ Ⓚ 91 Ⓛ ▁ Ⓘ Terre Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ s e r gent ▁ marie ▁ denis ▁ alphonse Ⓕ ▁ Ⓚ 92 Ⓛ ▁ Ⓘ × Plant ation ±→ pépinière Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ s e r gent ▁ marie ▁ denis ▁ alphonse Ⓕ ▁ Ⓚ 93 Ⓛ ▁ Ⓘ Terre Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ J ↑ n ↓ ▁ J ↑ ques ↓ ▁ denis → G odefroy ▁ × denis ▁ ch ↑ re ↓± Ⓕ ▁ Ⓚ 94 Ⓛ ▁ Ⓘ Terre Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ M as s uet ▁ louis ▁ g aspard Ⓕ ▁ Ⓚ 95 Ⓛ ▁ Ⓘ Terre Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ a dam ▁ J ↑ n ↓ ▁ s u l p ice ▁ les ▁ h ↑ ers ↓→× f le ury ▁ jean ▁ f ↑ ois ↓ Ⓕ ▁ Ⓚ 96 Ⓛ ▁ Ⓘ Terre Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ P r ag uet ▁ germain ▁ ma t h ur in Ⓕ ▁ Ⓚ 97 Ⓛ ▁ Ⓘ Terre Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ V aud oyer ▁ honoré ▁ louis Ⓕ ▁ Ⓚ 98 Ⓛ ▁ Ⓘ Terre Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ G a b illot ▁ claude ▁ l ambert Ⓕ ▁ Ⓚ 99 Ⓛ ▁ Ⓘ Terre Ⓙ
+▁ Ⓖ L e s ▁ Pi e ry s Ⓗ ▁ Ⓔ T hé v e nard ▁ Louis ▁ a d ri e n Ⓕ ▁ Ⓚ 139 2 Ⓛ ▁ Ⓘ T Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ C ↑ i e ↓ ▁ des ▁ ch e ↑ ins ↓ ▁ de ▁ fer ▁ de ▁ l ' Est Ⓕ ▁ Ⓚ 139 3 Ⓛ ▁ Ⓘ vig n e Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ L e d oux ▁ alexandre ▁ eugène Ⓕ ▁ Ⓚ 139 3 Ⓛ ▁ Ⓘ § Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ voi e ▁ p ubl ique Ⓕ ▁ Ⓚ 139 3 Ⓛ ▁ Ⓘ § Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ C o i f fier ▁ Charles ▁ armand Ⓕ ▁ Ⓚ 139 4 Ⓛ ▁ Ⓘ vig n e Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ L e d oux ▁ alexandre ▁ eugène Ⓕ ▁ Ⓚ 139 5 Ⓛ ▁ Ⓘ id Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ C ↑ i e ↓ ▁ des ▁ chemin s ▁ de ▁ fer ▁ de ▁ l ' Est Ⓕ ▁ Ⓚ 139 6 Ⓛ ▁ Ⓘ vig n e Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ L e d oux ▁ alexandre ▁ eugène Ⓕ ▁ Ⓚ 139 6 Ⓛ ▁ Ⓘ § Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ voi e ▁ p ubl ique Ⓕ ▁ Ⓚ 139 6 Ⓛ ▁ Ⓘ § Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ C ↑ i e ↓ ▁ des ▁ ch ↑ mins ↓ ▁ de ▁ fer ▁ de ▁ l ' Est Ⓕ ▁ Ⓚ 139 7 Ⓛ ▁ Ⓘ T Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ id Ⓕ ▁ Ⓚ 139 8 p Ⓛ ▁ Ⓘ T Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ T hé v e nard ▁ louis ▁ a d ri e n Ⓕ ▁ Ⓚ 139 8 Ⓛ ▁ Ⓘ T Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ voi e ▁ p ubl ique Ⓕ ▁ Ⓚ 139 8 Ⓛ ▁ Ⓘ T Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ Mari nier ▁ franc is ▁ ba rt hé le m y Ⓕ ▁ Ⓚ 139 9 Ⓛ ▁ Ⓘ T Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ A n c e le t ▁ Charles ▁ Dominique Ⓕ ▁ Ⓚ 140 0 Ⓛ ▁ Ⓘ P â t ur e Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ B é ch e re t ▁ Jean ▁ B ↑ t e ↓ ▁ fils Ⓕ ▁ Ⓚ 140 1 Ⓛ ▁ Ⓘ vig n e Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ S oud r ieux ▁ adolphe ▁ l aurent Ⓕ ▁ Ⓚ 140 2 Ⓛ ▁ Ⓘ vig n e Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ C ↑ i e ↓ ▁ des ▁ chemin s ▁ de ▁ fer ▁ de ▁ l ' Est Ⓕ ▁ Ⓚ 1403 p Ⓛ ▁ Ⓘ T Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ T hé v e nard ▁ louis ▁ a d ri e n Ⓕ ▁ Ⓚ 1403 Ⓛ ▁ Ⓘ T Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ voi e ▁ p ubl ique Ⓕ ▁ Ⓚ 1403 Ⓛ ▁ Ⓘ T Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ B erger ▁ V ↑ e ↓ ▁ B erger ▁ Louis Ⓕ ▁ Ⓚ 1404 p Ⓛ ▁ Ⓘ T Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ C ↑ i e ↓ ▁ des ▁ ch ↑ mins ↓ ▁ de ▁ fer ▁ de ▁ l ' Est Ⓕ ▁ Ⓚ 1404 Ⓛ ▁ Ⓘ T Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ voi e ▁ p ubl ique Ⓕ ▁ Ⓚ 1404 Ⓛ ▁ Ⓘ T Ⓙ
+▁ Ⓖ 21 Ⓗ ▁ Ⓔ L al é ger y ▁ Denis ▁ Joseph Ⓕ ▁ Ⓚ 140 5 Ⓛ ▁ Ⓘ T Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ B ar illet ▁ louis ▁ jules Ⓕ ▁ Ⓚ 140 6 Ⓛ ▁ Ⓘ vig n e Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ H é ricour t ▁ louis ▁ gabriel Ⓕ ▁ Ⓚ 140 7 Ⓛ ▁ Ⓘ vig n e Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ C ↑ i e ↓ ▁ Ch ↑ mins ▁ de ▁ fer ▁ de ▁ l ' Est Ⓕ ▁ Ⓚ 140 8 p Ⓛ ▁ Ⓘ T Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ S oud r ieux ▁ louis ▁ joseph Ⓕ ▁ Ⓚ 140 8 Ⓛ ▁ Ⓘ T Ⓙ
+▁ Ⓖ f au con nier e s Ⓗ ▁ Ⓔ C le re ▁ Jean ▁ Jacques Ⓕ ▁ Ⓚ 85 Ⓛ ▁ Ⓘ T Ⓙ ▁ Ⓐ P . 253 Ⓑ ▁ Ⓒ T Ⓓ
+▁ Ⓖ Ø Ⓗ ▁ Ⓔ id Ⓕ ▁ Ⓚ 86 Ⓛ ▁ Ⓘ T Ⓙ ▁ Ⓐ P . 253 Ⓑ ▁ Ⓒ T Ⓓ
+▁ Ⓖ Ø Ⓗ ▁ Ⓔ B illard Ⓕ ▁ Ⓚ 87 Ⓛ ▁ Ⓘ T Ⓙ ▁ Ⓐ P . 252 Ⓑ ▁ Ⓒ T Ⓓ
+▁ Ⓖ Ø Ⓗ ▁ Ⓔ id Ⓕ ▁ Ⓚ 88 Ⓛ ▁ Ⓘ T Ⓙ ▁ Ⓐ P . 252 Ⓑ ▁ Ⓒ T Ⓓ
+▁ Ⓖ Ø Ⓗ ▁ Ⓔ J o l ly ▁ Jean ▁ Louis Ⓕ ▁ Ⓚ 89 Ⓛ ▁ Ⓘ T Ⓙ ▁ Ⓐ P . 251 Ⓑ ▁ Ⓒ T Ⓓ
+▁ Ⓖ ø Ⓗ ▁ Ⓔ id Ⓕ ▁ Ⓚ 90 Ⓛ ▁ Ⓘ T Ⓙ ▁ Ⓐ p . ▁ 251 Ⓑ ▁ Ⓒ T Ⓓ
+▁ Ⓖ Ø Ⓗ ▁ Ⓔ Vincent , ▁ L ↑ is ↓ ▁ Julien → Alexandre Ⓕ ▁ Ⓚ 91 Ⓛ ▁ Ⓘ T Ⓙ ▁ Ⓐ P 250 Ⓑ ▁ Ⓒ T Ⓓ
+▁ Ⓖ Ø Ⓗ ▁ Ⓔ id Ⓕ ▁ Ⓚ 92 Ⓛ ▁ Ⓘ T Ⓙ ▁ Ⓐ P . 250 Ⓑ ▁ Ⓒ T Ⓓ
+▁ Ⓖ Ø Ⓗ ▁ Ⓔ Coll e t , ▁ Jean ▁ F ↑ ois ↓ ▁ N ↑ as ↓ Ⓕ ▁ Ⓚ 93 Ⓛ ▁ Ⓘ T Ⓙ ▁ Ⓐ P . 249 Ⓑ ▁ Ⓒ T Ⓓ
+▁ Ⓖ ø Ⓗ ▁ Ⓔ id Ⓕ ▁ Ⓚ 94 Ⓛ ▁ Ⓘ T Ⓙ ▁ Ⓐ p . 249 Ⓑ ▁ Ⓒ T Ⓓ
+▁ Ⓖ Ø Ⓗ ▁ Ⓔ Coll e t , ▁ F ↑ ois ↓ ▁ Louis Ⓕ ▁ Ⓚ 95 Ⓛ ▁ Ⓘ T Ⓙ ▁ Ⓐ P . 2 48 Ⓑ ▁ Ⓒ T Ⓓ
+▁ Ⓖ Ø Ⓗ ▁ Ⓔ id Ⓕ ▁ Ⓚ 96 Ⓛ ▁ Ⓘ T Ⓙ ▁ Ⓐ P . 2 48 Ⓑ ▁ Ⓒ T Ⓓ
+▁ Ⓖ Ø Ⓗ ▁ Ⓔ G al le t ▁ Jean ▁ F ↑ ois ↓ Ⓕ ▁ Ⓚ 97 Ⓛ ▁ Ⓘ T Ⓙ ▁ Ⓐ P . 245 Ⓑ ▁ Ⓒ T Ⓓ
+▁ Ⓖ Ø Ⓗ ▁ Ⓔ id Ⓕ ▁ Ⓚ 98 Ⓛ ▁ Ⓘ T Ⓙ ▁ Ⓐ P . 245 Ⓑ ▁ Ⓒ T Ⓓ
+▁ Ⓖ L e ▁ petit ▁ p on t Ⓗ ▁ Ⓔ P illet ▁ G ↑❌❌❌↓ ▁ lo ❌ ❌❌❌ ▁ ru e ▁ de ▁ la ▁ g ❌ r n e ▁ 2 Ⓕ ▁ Ⓚ 41 Ⓛ ▁ Ⓘ Vigne Ⓙ
+▁ Ⓖ id Ⓗ ▁ Ⓔ P illet ▁ g ↑ a i ↓ ▁ L o ❌❌❌ ▁ id Ⓕ ▁ Ⓚ 42 Ⓛ ▁ Ⓘ Vigne Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ C oche t ▁ N ↑ as ↓ ▁ fils ▁ ru e ▁ de ▁ Paris ▁ 9 Ⓕ ▁ Ⓚ 43 Ⓛ ▁ Ⓘ Terre Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ P illet ▁ A n d ↑ e ↓ ▁ J ↑❌❌❌↓ ▁ marie ▁ ru e ▁ du ▁ f our ▁ 1 6 Ⓕ ▁ Ⓚ 44 Ⓛ ▁ Ⓘ Terre Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ M u zard ▁ P ↑ re ↓ ▁ marie ▁ ru e ▁ du ▁ L i é g at Ⓕ ▁ Ⓚ 45 Ⓛ ▁ Ⓘ Vigne Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ P illet ▁ G ↑ ain ↓ ▁ lo ❌ ❌❌❌ ▁ ru e ▁ de ▁ la ▁ g ❌ r n e ▁ 2 Ⓕ ▁ Ⓚ 46 Ⓛ ▁ Ⓘ Vigne Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ D u bois ▁ Eugène ▁ J ↑ h ↓ ▁ N a p o léon ▁ à ▁ Vitry Ⓕ ▁ Ⓚ 47 Ⓛ ▁ Ⓘ Terre Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ D u bois ▁ id Ⓕ ▁ Ⓚ 48 Ⓛ ▁ Ⓘ Terre Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ I v ry ▁ la ▁ Commune Ⓕ ▁ Ⓚ 49 Ⓛ ▁ Ⓘ anci e n ▁ chemin Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ I v ry ▁ la ▁ Commune Ⓕ ▁ Ⓚ 50 Ⓛ ▁ Ⓘ anci e n ▁ chemin Ⓙ
+▁ Ⓖ Voi e ▁ des ▁ N oyer s Ⓗ ▁ Ⓔ S e ri z e ▁ à ▁ Paris Ⓕ ▁ Ⓚ 51 Ⓛ ▁ Ⓘ Terre Ⓙ
+▁ Ⓖ id Ⓗ ▁ Ⓔ S e ri z e Ⓕ ▁ Ⓚ 52 Ⓛ ▁ Ⓘ Vigne Ⓙ
+▁ Ⓖ id Ⓗ ▁ Ⓔ S e ri z e ▁ id Ⓕ ▁ Ⓚ 53 Ⓛ ▁ Ⓘ Vigne Ⓙ
+▁ Ⓖ id Ⓗ ▁ Ⓔ S e ri z e ▁ id Ⓕ ▁ Ⓚ 54 Ⓛ ▁ Ⓘ Vigne Ⓙ
+▁ Ⓖ Ru e ▁ de ▁ Beauvais Ⓗ ▁ Ⓔ S e ri z e ▁ id Ⓕ ▁ Ⓚ 55 Ⓛ ▁ Ⓘ Terre Ⓙ
+▁ Ⓖ id Ⓗ ▁ Ⓔ S e ri z e ▁ id Ⓕ ▁ Ⓚ 56 Ⓛ ▁ Ⓘ Route →× Vigne ± Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ S e ri z e ▁ id Ⓕ ▁ Ⓚ 57 Ⓛ ▁ Ⓘ Route →× Vigne ± Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ S e ri z e ▁ id Ⓕ ▁ Ⓚ 58 Ⓛ ▁ Ⓘ Terre Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ S e ri z e ▁ id Ⓕ ▁ Ⓚ 59 Ⓛ ▁ Ⓘ Vigne Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ G r at t e y ▁ ru e ▁ mon g o l fier Ⓕ ▁ Ⓚ 60 Ⓛ ▁ Ⓘ Bat i ment Ⓙ
+▁ Ⓖ Ru e ▁ de → Beauvais Ⓗ ▁ Ⓔ G r at té × y ± ▁ ru e ▁ mont g o l fier Ⓕ ▁ Ⓚ 61 Ⓛ ▁ Ⓘ Jardin Ⓙ
+▁ Ⓖ id Ⓗ ▁ Ⓔ G r at té × y ± ▁ id Ⓕ ▁ Ⓚ 62 Ⓛ ▁ Ⓘ maison Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ id Ⓕ ▁ Ⓚ 62 Ⓛ ▁ Ⓘ sol Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ G r at té × y ± ▁ id Ⓕ ▁ Ⓚ 63 Ⓛ ▁ Ⓘ sol Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ id Ⓕ ▁ Ⓚ 63 Ⓛ ▁ Ⓘ maison Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ S e ri z e ▁ à ▁ Paris Ⓕ ▁ Ⓚ 64 Ⓛ ▁ Ⓘ B â t i ment Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ S é ri z e ▁ à ▁ id Ⓕ ▁ Ⓚ 65 Ⓛ ▁ Ⓘ Vigne Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ S e ri z e ▁ à ▁ id Ⓕ ▁ Ⓚ 66 Ⓛ ▁ Ⓘ × Jardin ±→ Terre Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ S e ri z e ▁ à ▁ id Ⓕ ▁ Ⓚ 67 Ⓛ ▁ Ⓘ passage Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ D y é ▁ Edme ▁ à ▁ Paris ▁ ru e ▁ R oyer ▁ Coll ard Ⓕ ▁ Ⓚ 68 Ⓛ ▁ Ⓘ Jardin Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ D y é ▁ Edme ▁ id Ⓕ ▁ Ⓚ 69 Ⓛ ▁ Ⓘ sol Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ id Ⓕ ▁ Ⓚ 69 Ⓛ ▁ Ⓘ maison Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ A mi ot ▁ J ↑ n ↓ ▁ f lorentin ▁ à ▁ p . ▁ frambourg Ⓕ ▁ Ⓚ 70 Ⓛ ▁ Ⓘ Jardin Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ A mi ot ▁ id Ⓕ ▁ Ⓚ 71 Ⓛ ▁ Ⓘ Jardin →× B as ▁ d ' ag re ment ± Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ A mi ot ▁ id Ⓕ ▁ Ⓚ 72 Ⓛ ▁ Ⓘ sol Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ id Ⓕ ▁ Ⓚ 72 Ⓛ ▁ Ⓘ maison Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ A mi ot ▁ id Ⓕ ▁ Ⓚ 73 Ⓛ ▁ Ⓘ sol Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ id Ⓕ ▁ Ⓚ 73 Ⓛ ▁ Ⓘ maison Ⓙ
+▁ Ⓖ Pla c e ▁ S ↑ t ↓→ frambourg Ⓗ ▁ Ⓔ A mi ot ▁ id Ⓕ ▁ Ⓚ 74 Ⓛ ▁ Ⓘ sol Ⓙ
+▁ Ⓖ id Ⓗ ▁ Ⓔ id Ⓕ ▁ Ⓚ 74 Ⓛ ▁ Ⓘ maison Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ × A mi ot ▁ id ± Ⓕ ▁ Ⓚ × 75 ± Ⓛ ▁ Ⓘ × Bat ± Ⓙ
+▁ Ⓜ 326 Ⓝ ▁ Ⓔ M i llin ▁ G e ro g e s ▁ marie Ⓕ ▁ Ⓚ 1 29 ↑ bis ↓ Ⓛ ▁ Ⓘ Pré Ⓙ
+▁ Ⓜ 3 25 Ⓝ ▁ Ⓔ M i llin ▁ alex ↑ re ↓ ▁ Ro bert Ⓕ ▁ Ⓚ 1 30 Ⓛ ▁ Ⓘ ter Ⓙ
+▁ Ⓔ × L e ▁ même ± ▁ N u l Ⓕ ▁ Ⓚ × 13 1 ± Ⓛ ▁ Ⓘ × id ± Ⓙ
+▁ Ⓜ ×112± → 2 85 ↑ bis ↓ Ⓝ ▁ Ⓔ M ↑ r ↓ ▁ × D e l aug e ± ▁ Louis Ⓕ ▁ Ⓚ 132 Ⓛ ▁ Ⓘ id → I le Ⓙ
+▁ Ⓜ ×112± → 2 85 ↑ bis ↓ Ⓝ ▁ Ⓔ L e ▁ même Ⓕ ▁ Ⓚ 132 ↑ bis ↓ Ⓛ ▁ Ⓘ ter r ain ▁ planté Ⓙ
+▁ Ⓜ ×112± Ⓝ ▁ Ⓔ L e ▁ même Ⓕ ▁ Ⓚ 132 ↑ 3 ° ↓ Ⓛ ▁ Ⓘ Idem Ⓙ
+▁ Ⓜ 3 56 ↑ bis ↓ Ⓝ ▁ Ⓔ F ain ▁ Jean ▁ Bapt ↑ e ↓ Ⓕ ▁ Ⓚ 133 Ⓛ ▁ Ⓘ I le ▁ ter . ▁ e t ▁ ar b re s Ⓙ
+▁ Ⓜ 40 7 Ⓝ ▁ Ⓔ que ru ▁ Jean ▁ louis Ⓕ ▁ Ⓚ 133 ↑ bis ↓ Ⓛ ▁ Ⓘ ter , ▁ e t ▁ Pré Ⓙ
+▁ Ⓜ 208 Ⓝ ▁ Ⓔ I ssard ▁ fils ▁ a ▁ b ry Ⓕ ▁ Ⓚ 133 ↑ 3 ° ↓ Ⓛ ▁ Ⓘ Pré ▁ e t ▁ sau les Ⓙ
+▁ Ⓜ 208 Ⓝ ▁ Ⓔ L e ▁ même Ⓕ ▁ Ⓚ 134 Ⓛ ▁ Ⓘ Pré → ter r ain ▁ planté Ⓙ
+▁ Ⓜ 40 6 Ⓝ ▁ Ⓔ que ru ▁ × E t ↑ e ↓± ▁ f ↑ ois ↓ ▁ N ↑ as ↓ ▁ a ▁ b ry Ⓕ ▁ Ⓚ 134 ↑ bis ↓ Ⓛ ▁ Ⓘ id Ⓙ
+▁ Ⓜ 64 Ⓝ ▁ Ⓔ B on n air e ▁ fils ▁ à ▁ Bry Ⓕ ▁ Ⓚ 134 ↑ 3 ° ↓ Ⓛ ▁ Ⓘ id Ⓙ
+▁ Ⓜ 326 Ⓝ ▁ Ⓔ M i llin ▁ Georges ▁ marie Ⓕ ▁ Ⓚ 135 Ⓛ ▁ Ⓘ s abl ier e Ⓙ
+▁ Ⓜ 36 ↑ bis ↓→× 42 ± Ⓝ ▁ Ⓔ B e lleville ▁ n ↑ las ↓→× B euze ville ▁ n ↑ as ↓± ▁ à ▁ Bry Ⓕ ▁ Ⓚ 135 ↑ bis ↓ Ⓛ ▁ Ⓘ Pré ▁ e t ▁ sau les Ⓙ
+▁ Ⓜ 326 Ⓝ ▁ Ⓔ M i llin ▁ G e ro g e s ▁ marie Ⓕ ▁ Ⓚ 136 Ⓛ ▁ Ⓘ ter Ⓙ
+▁ Ⓜ 94 Ⓝ ▁ Ⓔ L a ▁ commune Ⓕ ▁ Ⓚ 137 Ⓛ ▁ Ⓘ B e r g e Ⓙ
+▁ Ⓜ 326 Ⓝ ▁ Ⓔ M i llin ▁ Georges ▁ marie Ⓕ ▁ Ⓚ 138 Ⓛ ▁ Ⓘ T e r Ⓙ
+▁ Ⓜ 3 25 Ⓝ ▁ Ⓔ M i llin ▁ alex ↑ re ↓ ▁ Ro bert Ⓕ ▁ Ⓚ 138 ↑ bis ↓ Ⓛ ▁ Ⓘ id Ⓙ
+▁ Ⓜ 326 Ⓝ ▁ Ⓔ M i llin ▁ Georges ▁ marie Ⓕ ▁ Ⓚ 140 Ⓛ ▁ Ⓘ or g e ▁ e t ▁ s e i g le Ⓙ
+▁ Ⓜ 15 Ⓝ ▁ Ⓔ 141 Ⓕ ▁ Ⓚ ancel ot ▁ alex ↑ re ↓ Ⓛ ▁ Ⓘ s e i g le Ⓙ
+▁ Ⓖ P or t ▁ à ▁ l ' anglais Ⓗ ▁ Ⓔ d ↑ e ↓ ▁ v éron ▁ né e ▁ Lab bé ▁ Julie Ⓕ ▁ Ⓚ 99 9 Ⓛ ▁ Ⓘ terre Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ A n t r a i g u e s ▁ jean Ⓕ ▁ Ⓚ 100 Ⓛ ▁ Ⓘ terre Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ id Ⓕ ▁ Ⓚ § Ⓛ ▁ Ⓘ § Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ B e aug é ▁ louis Ⓕ ▁ Ⓚ § Ⓛ ▁ Ⓘ § Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ B e rt h e lot ▁ Claude Ⓕ ▁ Ⓚ § Ⓛ ▁ Ⓘ § Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ B e rt h e lot ▁ Etienne ▁ victor Ⓕ ▁ Ⓚ § Ⓛ ▁ Ⓘ § Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ B e rt h o d Ⓕ ▁ Ⓚ § Ⓛ ▁ Ⓘ § Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ B il i on t ▁ Benoit ▁ aimé Ⓕ ▁ Ⓚ § Ⓛ ▁ Ⓘ § Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ B le in ▁ aimé Ⓕ ▁ Ⓚ § Ⓛ ▁ Ⓘ § Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ B on n i on ▁ Ch ar l otte ▁ é p ous e ▁ Coll i ard Ⓕ ▁ Ⓚ § Ⓛ ▁ Ⓘ § Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ B r ard ▁ Gilbert Ⓕ ▁ Ⓚ § Ⓛ ▁ Ⓘ § Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ Ch e val ier ▁ martin Ⓕ ▁ Ⓚ § Ⓛ ▁ Ⓘ § Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ § Ⓕ ▁ Ⓚ § Ⓛ ▁ Ⓘ § Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ § Ⓕ ▁ Ⓚ § Ⓛ ▁ Ⓘ § Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ § Ⓕ ▁ Ⓚ § Ⓛ ▁ Ⓘ § Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ § Ⓕ ▁ Ⓚ § Ⓛ ▁ Ⓘ § Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ C l é m e n c e t ▁ ch ar l otte ▁ aimé e ▁ d ↑ e l le ↓ Ⓕ ▁ Ⓚ § Ⓛ ▁ Ⓘ § Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ D au bert ▁ g aspard Ⓕ ▁ Ⓚ § Ⓛ ▁ Ⓘ § Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ D a v id ▁ charles ▁ veuve Ⓕ ▁ Ⓚ § Ⓛ ▁ Ⓘ § Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ D a v ois ▁ louis ▁ veuve Ⓕ ▁ Ⓚ § Ⓛ ▁ Ⓘ § Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ D e s n oyer s Ⓕ ▁ Ⓚ § Ⓛ ▁ Ⓘ § Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ D odu n ▁ de ▁ K e ro man , ▁ le ▁ c om t e Ⓕ ▁ Ⓚ § Ⓛ ▁ Ⓘ § Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ D odu n ▁ de ▁ Kéroman , ▁ la ▁ marquis e Ⓕ ▁ Ⓚ § Ⓛ ▁ Ⓘ § Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ D odu n ▁ de ▁ Kéroman ▁ agathe ▁ v ↑ v e ↓→ M oussa c Ⓕ ▁ Ⓚ § Ⓛ ▁ Ⓘ § Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ G r ave ▁ françois ▁ henri Ⓕ ▁ Ⓚ § Ⓛ ▁ Ⓘ § Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ id Ⓕ ▁ Ⓚ § Ⓛ ▁ Ⓘ § Ⓙ
+▁ Ⓖ P r air i e ▁ des ▁ P re s les Ⓗ ▁ Ⓔ Vitry ▁ françois ▁ e t ▁ consor ts Ⓕ ▁ Ⓚ 10 Ⓛ ▁ Ⓘ T Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ L al i gé ry ▁ Emmanuel ▁ désiré Ⓕ ▁ Ⓚ 1 1 Ⓛ ▁ Ⓘ T Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ A n c e le t ▁ louis ▁ auguste ▁ e t ▁ R e t h ers ▁ henri Ⓕ ▁ Ⓚ 12 Ⓛ ▁ Ⓘ T Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ R euze ville ▁ charles ▁ alex is Ⓕ ▁ Ⓚ 13 Ⓛ ▁ Ⓘ T Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ A n c e le t ▁ charles ▁ dominique Ⓕ ▁ Ⓚ 1 4 Ⓛ ▁ Ⓘ T Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ id Ⓕ ▁ Ⓚ 15 Ⓛ ▁ Ⓘ T Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ L a i zier ▁ louis ▁ adolphe Ⓕ ▁ Ⓚ 1 6 Ⓛ ▁ Ⓘ T Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ L al e gé ry ▁ denis ▁ joseph Ⓕ ▁ Ⓚ 1 7 Ⓛ ▁ Ⓘ T Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ T ard i f ▁ Delorme Ⓕ ▁ Ⓚ 18 Ⓛ ▁ Ⓘ T Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ id Ⓕ ▁ Ⓚ 19 Ⓛ ▁ Ⓘ T Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ B euze ville ▁ t h i m ot hé e ▁ fils Ⓕ ▁ Ⓚ 20 Ⓛ ▁ Ⓘ T Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ A n as t as i e Ⓕ ▁ Ⓚ 21 Ⓛ ▁ Ⓘ T . ▁ e t ▁ P e u p li ers Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ B ar ber e t ▁ pierre ▁ germain Ⓕ ▁ Ⓚ 21 Ⓛ ▁ Ⓘ id Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ Ru v é e ▁ Constant Ⓕ ▁ Ⓚ 21 Ⓛ ▁ Ⓘ § Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ Ch a mi ot ▁ pro p s e r Ⓕ ▁ Ⓚ 21 Ⓛ ▁ Ⓘ § Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ id Ⓕ ▁ Ⓚ 21 Ⓛ ▁ Ⓘ § Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ C o ch ois ▁ alfred Ⓕ ▁ Ⓚ 21 Ⓛ ▁ Ⓘ § Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ C u chet ▁ auguste ▁ Mari us Ⓕ ▁ Ⓚ 21 Ⓛ ▁ Ⓘ § Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ id Ⓕ ▁ Ⓚ 21 Ⓛ ▁ Ⓘ § Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ Delorme ▁ édouard Ⓕ ▁ Ⓚ 21 Ⓛ ▁ Ⓘ § Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ D u m e z ▁ t hé o p h il e Ⓕ ▁ Ⓚ 21 Ⓛ ▁ Ⓘ § Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ H u e ▁ alexandre Ⓕ ▁ Ⓚ 21 Ⓛ ▁ Ⓘ § Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ J ar ry ▁ on é s i m e Ⓕ ▁ Ⓚ 21 Ⓛ ▁ Ⓘ § Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ Jean n in ▁ alphonse Ⓕ ▁ Ⓚ 21 Ⓛ ▁ Ⓘ § Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ L e r oux ▁ auguste ▁ marie Ⓕ ▁ Ⓚ 21 Ⓛ ▁ Ⓘ § Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ M ac k e ls ▁ henri Ⓕ ▁ Ⓚ 21 Ⓛ ▁ Ⓘ § Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ M i ch in ▁ auguste Ⓕ ▁ Ⓚ 21 Ⓛ ▁ Ⓘ § Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ R ous s e l le ▁ charles ▁ e r nest Ⓕ ▁ Ⓚ 21 Ⓛ ▁ Ⓘ § Ⓙ
+▁ Ⓖ Pla c e ▁ S t → frambourg Ⓗ ▁ Ⓔ G e l on ▁ J ↑ e ↓ ▁ Jules ▁ p la c e ▁ S t ▁ frambourg Ⓕ ▁ Ⓚ 91 Ⓛ ▁ Ⓘ Bat Ⓙ
+▁ Ⓖ id Ⓗ ▁ Ⓔ A mi ot ▁ Jean ▁ f lorentin →× G e lin ▁ j e ▁ jules ± ▁ id Ⓕ ▁ Ⓚ 92 Ⓛ ▁ Ⓘ Route →× B ois ▁ d ' agrément ± Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ A mi ot ▁ Jean ▁ F lorentin →× Fouilloux ▁ f ↑ c ois ↓ ▁ ru e ▁ de ▁ B e r cy ▁ 100 ±→ à ▁ B e r cy Ⓕ ▁ Ⓚ 93 Ⓛ ▁ Ⓘ Route →× B ois ▁ d ' agrément ± Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ fouilloux ▁ j ↑ e an ↓ ▁ id Ⓕ ▁ Ⓚ 94 Ⓛ ▁ Ⓘ Jardin Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ fouilloux ▁ j ↑ e an ↓ ▁ id Ⓕ ▁ Ⓚ 95 Ⓛ ▁ Ⓘ S o l ▁ e t ▁ Bat Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ fouilloux ▁ id Ⓕ ▁ Ⓚ 95 Ⓛ ▁ Ⓘ maison Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ fouilloux Ⓕ ▁ Ⓚ 96 Ⓛ ▁ Ⓘ Jardin → marais Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ × fouilloux ± Ⓕ ▁ Ⓚ × 97 ± Ⓛ ▁ Ⓘ × Bat ▁ e t ▁ Cour ± Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ Fouilloux Ⓕ ▁ Ⓚ 98 Ⓛ ▁ Ⓘ allé e Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ Fouilloux Ⓕ ▁ Ⓚ 99 Ⓛ ▁ Ⓘ Terrain Ⓙ
+▁ Ⓖ Ru e ▁ du → c olombier Ⓗ ▁ Ⓔ fouilloux Ⓕ ▁ Ⓚ 100 Ⓛ ▁ Ⓘ sol ▁ e t ▁ cour Ⓙ
+▁ Ⓖ id Ⓗ ▁ Ⓔ id Ⓕ ▁ Ⓚ 100 Ⓛ ▁ Ⓘ maison Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ Fouilloux Ⓕ ▁ Ⓚ 101 Ⓛ ▁ Ⓘ sol ▁ e t ▁ cour Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ id Ⓕ ▁ Ⓚ 101 Ⓛ ▁ Ⓘ maison Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ Fouilloux Ⓕ ▁ Ⓚ 102 Ⓛ ▁ Ⓘ sol ▁ cour ▁ Bat Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ id Ⓕ ▁ Ⓚ 102 Ⓛ ▁ Ⓘ maison Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ fouilloux Ⓕ ▁ Ⓚ 103 Ⓛ ▁ Ⓘ Jardin Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ × fouilloux ± Ⓕ ▁ Ⓚ × 104 ± Ⓛ ▁ Ⓘ × Bat ± Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ × fouilloux ± Ⓕ ▁ Ⓚ × 105 ± Ⓛ ▁ Ⓘ × Bat ± Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ fouilloux Ⓕ ▁ Ⓚ 106 Ⓛ ▁ Ⓘ sol ▁ e t ▁ Bat Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ id Ⓕ ▁ Ⓚ 106 Ⓛ ▁ Ⓘ maison Ⓙ
+▁ Ⓖ L ▁ B ar n u f le Ⓗ ▁ Ⓔ S e g u in ▁ f ↑ ois ↓ ▁ Julien Ⓕ ▁ Ⓚ 1 58 Ⓛ ▁ Ⓘ Terre Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ hospices ▁ de ▁ Paris Ⓕ ▁ Ⓚ 159 Ⓛ ▁ Ⓘ Terre Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ L e co q ▁ g ↑ m e ↓ ▁ f ↑ ois ↓ ▁ V ↑ e ↓ Ⓕ ▁ Ⓚ 1 60 Ⓛ ▁ Ⓘ Terre Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ L e co q ▁ g ↑ m e ↓ ▁ f ↑ ois ↓ ▁ V ↑ e ↓ Ⓕ ▁ Ⓚ 161 Ⓛ ▁ Ⓘ Terre Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ hospices ▁ de ▁ Paris Ⓕ ▁ Ⓚ 161 ↑ bis ↓ Ⓛ ▁ Ⓘ Terre Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ Ch an e v as ▁ ma rt i al ▁ h ↑ ers ↓→× L e roy ▁ sauveur ▁ gabriel ± Ⓕ ▁ Ⓚ 162 Ⓛ ▁ Ⓘ Terre Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ hospices ▁ de ▁ Paris Ⓕ ▁ Ⓚ 162 ↑ bis ↓ Ⓛ ▁ Ⓘ Terre Ⓙ
+▁ Ⓖ L e s ▁ C l os e aux Ⓗ ▁ Ⓔ Ro ger ▁ J ↑ n ↓→× Thomas ▁ à ▁ paris ± Ⓕ ▁ Ⓚ 163 Ⓛ ▁ Ⓘ Terre Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ Ro ger ▁ J ↑ n ↓→ Thomas , ▁ à ▁ paris Ⓕ ▁ Ⓚ 164 Ⓛ ▁ Ⓘ Terre Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ M ay e ux ▁ p ↑ re ↓ ▁ f ↑ ois ↓ Ⓕ ▁ Ⓚ 165 Ⓛ ▁ Ⓘ Terre Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ Coust é ▁ p ↑ re ↓ ▁ noël Ⓕ ▁ Ⓚ 166 Ⓛ ▁ Ⓘ Terre Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ Coust é ▁ Joseph Ⓕ ▁ Ⓚ 167 Ⓛ ▁ Ⓘ Terre Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ Ro man u ▁ frédéric ▁ V ↑ e ↓ Ⓕ ▁ Ⓚ 167 ↑ bis ↓ Ⓛ ▁ Ⓘ Terre Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ Ro man e s ▁ f ré d eric ▁ V ↑ e ↓ Ⓕ ▁ Ⓚ 168 Ⓛ ▁ Ⓘ Terre Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ Ro man il ▁ claude ▁ alphonse Ⓕ ▁ Ⓚ 168 ↑ bis ↓ Ⓛ ▁ Ⓘ Terre Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ B e d ouvre ▁ f ↑ ois ↓ ▁ per e Ⓕ ▁ Ⓚ 169 Ⓛ ▁ Ⓘ Terre Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ M erlin ▁ jean ▁ Vincent Ⓕ ▁ Ⓚ 170 Ⓛ ▁ Ⓘ Terre Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ D e d ouvre ▁ f ↑ ois ↓ ▁ per e Ⓕ ▁ Ⓚ 1 71 Ⓛ ▁ Ⓘ Terre Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ S e vin ▁ jean ▁ achil le Ⓕ ▁ Ⓚ 172 Ⓛ ▁ Ⓘ Terre Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ Coust é ▁ p ↑ re ↓ ▁ noël Ⓕ ▁ Ⓚ 1 73 Ⓛ ▁ Ⓘ Terre Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ T r ois ▁ v o le t ▁ les ▁ mineur s Ⓕ ▁ Ⓚ 1 73 ↑ bis ↓ Ⓛ ▁ Ⓘ Terre Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ Ro u an e t ▁ fred eric ▁ V ↑ e ↓ Ⓕ ▁ Ⓚ 1 74 Ⓛ ▁ Ⓘ Terre Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ Ro man e t ▁ fred eric ▁ V ↑ e ↓ Ⓕ ▁ Ⓚ 1 75 Ⓛ ▁ Ⓘ Terre Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ Ro man e t ▁ fred eric ▁ V ↑ e ↓→× M ar q uis ▁ J ↑ n ↓ ▁ b ↑ t e ↓± Ⓕ ▁ Ⓚ 1 76 Ⓛ ▁ Ⓘ Terre Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ B ag ot ▁ gilles Ⓕ ▁ Ⓚ 1 77 Ⓛ ▁ Ⓘ Carrière Ⓙ
+▁ Ⓖ L e ▁ Pont ▁ de ▁ Bry e Ⓗ ▁ Ⓔ L e du c ▁ Jean ▁ Pierre Ⓕ ▁ Ⓚ 7 28 Ⓛ ▁ Ⓘ T Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ B erger ▁ Jean ▁ pierre Ⓕ ▁ Ⓚ 7 29 Ⓛ ▁ Ⓘ T Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ André ▁ alexandre ▁ E douard Ⓕ ▁ Ⓚ 7 30 Ⓛ ▁ Ⓘ T Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ A n c e lot ▁ Nicolas ▁ J ↑ h ↓ Ⓕ ▁ Ⓚ 731 Ⓛ ▁ Ⓘ T Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ B ar illet ▁ alphonse ▁ léon Ⓕ ▁ Ⓚ 732 Ⓛ ▁ Ⓘ T Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ B ar illet ▁ louis ▁ jules Ⓕ ▁ Ⓚ 731 Ⓛ ▁ Ⓘ T Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ B ar illet ▁ paul ▁ désiré Ⓕ ▁ Ⓚ 731 Ⓛ ▁ Ⓘ T Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ L ameau ▁ Jean ▁ Saturnin Ⓕ ▁ Ⓚ 731 Ⓛ ▁ Ⓘ T Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ L ameau ▁ Louis ▁ Jules Ⓕ ▁ Ⓚ 731 Ⓛ ▁ Ⓘ T Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ S oud ieux ▁ louis ▁ joseph Ⓕ ▁ Ⓚ 731 Ⓛ ▁ Ⓘ T Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ H é ri ot ▁ j us t in Ⓕ ▁ Ⓚ 732 Ⓛ ▁ Ⓘ T Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ id Ⓕ ▁ Ⓚ 732 Ⓛ ▁ Ⓘ T Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ id Ⓕ ▁ Ⓚ 73 3 Ⓛ ▁ Ⓘ T Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ id Ⓕ ▁ Ⓚ 73 4 Ⓛ ▁ Ⓘ T Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ Vitry ▁ Joseph ▁ Emmanuel ▁ V ↑ e ↓ Ⓕ ▁ Ⓚ 73 5 Ⓛ ▁ Ⓘ T Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ Rameau ▁ Louis ▁ honoré Ⓕ ▁ Ⓚ 73 6 Ⓛ ▁ Ⓘ T Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ Font ain e Ⓕ ▁ Ⓚ 73 7 Ⓛ ▁ Ⓘ T Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ P adet ▁ alfred Ⓕ ▁ Ⓚ 73 8 Ⓛ ▁ Ⓘ T Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ Bat on ▁ m e r c ier Ⓕ ▁ Ⓚ 73 9 Ⓛ ▁ Ⓘ T Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ B id e r man n ▁ Jean Ⓕ ▁ Ⓚ 73 9 Ⓛ ▁ Ⓘ T Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ Laurent ▁ eugène Ⓕ ▁ Ⓚ 73 9 Ⓛ ▁ Ⓘ T Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ Pi c ard ▁ E r nest Ⓕ ▁ Ⓚ 73 9 Ⓛ ▁ Ⓘ T Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ S oud ieux ▁ adolphe ▁ l aurent Ⓕ ▁ Ⓚ 73 9 Ⓛ ▁ Ⓘ T Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ Laurent ▁ eugène Ⓕ ▁ Ⓚ 7 40 Ⓛ ▁ Ⓘ T Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ B ar illet ▁ eugène ▁ auguste Ⓕ ▁ Ⓚ 7 41 Ⓛ ▁ Ⓘ T Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ G as s e r ▁ auguste ▁ victor Ⓕ ▁ Ⓚ 7 42 Ⓛ ▁ Ⓘ T Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ M é rillon ▁ saturnin ▁ veuve Ⓕ ▁ Ⓚ 7 42 Ⓛ ▁ Ⓘ T Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ M or in ▁ louis ▁ auguste Ⓕ ▁ Ⓚ 7 42 Ⓛ ▁ Ⓘ T Ⓙ
+▁ Ⓖ P or t ▁ à ▁ l ' anglais Ⓗ ▁ Ⓔ M ar ch an d ▁ Charles Ⓕ ▁ Ⓚ 101 Ⓛ ▁ Ⓘ terre Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ M o rand ▁ Joseph ▁ F e r d in an d Ⓕ ▁ Ⓚ § Ⓛ ▁ Ⓘ § Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ N a ch b r ou n ▁ I gn ac e Ⓕ ▁ Ⓚ § Ⓛ ▁ Ⓘ § Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ P at y ▁ antoine Ⓕ ▁ Ⓚ § Ⓛ ▁ Ⓘ § Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ Petit ▁ adolphe Ⓕ ▁ Ⓚ § Ⓛ ▁ Ⓘ § Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ P or ch e r on ▁ Claude ▁ hilaire ▁ an at o le Ⓕ ▁ Ⓚ § Ⓛ ▁ Ⓘ § Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ id Ⓕ ▁ Ⓚ § Ⓛ ▁ Ⓘ § Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ id Ⓕ ▁ Ⓚ § Ⓛ ▁ Ⓘ § Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ id Ⓕ ▁ Ⓚ § Ⓛ ▁ Ⓘ § Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ id Ⓕ ▁ Ⓚ § Ⓛ ▁ Ⓘ § Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ P r a d at ▁ Paul Ⓕ ▁ Ⓚ § Ⓛ ▁ Ⓘ § Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ S au t hier ▁ Jean ▁ père Ⓕ ▁ Ⓚ § Ⓛ ▁ Ⓘ § Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ S e r v e t ▁ Jean ▁ Etienne Ⓕ ▁ Ⓚ § Ⓛ ▁ Ⓘ § Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ T ou z in ▁ pierre ▁ fils Ⓕ ▁ Ⓚ § Ⓛ ▁ Ⓘ § Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ Trav a il le ur ▁ émile Ⓕ ▁ Ⓚ § Ⓛ ▁ Ⓘ § Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ Dominique ▁ michel Ⓕ ▁ Ⓚ 102 Ⓛ ▁ Ⓘ pâture Ⓙ
+▁ Ⓖ C ay enne Ⓗ ▁ Ⓔ id Ⓕ ▁ Ⓚ 103 Ⓛ ▁ Ⓘ terre Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ L on g hé ▁ pierre Ⓕ ▁ Ⓚ id Ⓛ ▁ Ⓘ id Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ A dam ▁ Nicolas ▁ August e Ⓕ ▁ Ⓚ 104 Ⓛ ▁ Ⓘ terre Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ A l ant in ▁ ma t h ur in ▁ à ▁ I v ry Ⓕ ▁ Ⓚ § Ⓛ ▁ Ⓘ § Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ A r ch a m b ault ▁ p ave l ▁ nicolas Ⓕ ▁ Ⓚ 21 Ⓛ ▁ Ⓘ 21 Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ Aug e ard ▁ paul ▁ alphonse Ⓕ ▁ Ⓚ § Ⓛ ▁ Ⓘ § Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ id Ⓕ ▁ Ⓚ § Ⓛ ▁ Ⓘ § Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ A us s aud ou ▁ claude Ⓕ ▁ Ⓚ § Ⓛ ▁ Ⓘ § Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ A u z ar e t ▁ al bert ▁ an or é Ⓕ ▁ Ⓚ § Ⓛ ▁ Ⓘ § Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ A ri a ▁ Jacques Ⓕ ▁ Ⓚ § Ⓛ ▁ Ⓘ § Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ B r a il le ▁ françois Ⓕ ▁ Ⓚ § Ⓛ ▁ Ⓘ § Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ B ar b ier ▁ michel Ⓕ ▁ Ⓚ § Ⓛ ▁ Ⓘ § Ⓙ
+▁ Ⓖ C ay enne Ⓗ ▁ Ⓔ B a taill e ▁ alfred Ⓕ ▁ Ⓚ 104 ▁ 5 Ⓛ ▁ Ⓘ terre Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ Beauvais ▁ édouard ▁ nicolas Ⓕ ▁ Ⓚ § Ⓛ ▁ Ⓘ § Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ B e rt h e lot ▁ claude Ⓕ ▁ Ⓚ § Ⓛ ▁ Ⓘ § Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ id Ⓕ ▁ Ⓚ § Ⓛ ▁ Ⓘ § Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ id Ⓕ ▁ Ⓚ § Ⓛ ▁ Ⓘ § Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ id Ⓕ ▁ Ⓚ § Ⓛ ▁ Ⓘ § Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ B la n z ac ▁ françois ▁ félix Ⓕ ▁ Ⓚ § Ⓛ ▁ Ⓘ § Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ B on n y ▁ claude Ⓕ ▁ Ⓚ § Ⓛ ▁ Ⓘ § Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ B ou y e r ▁ françois ▁ stan is las Ⓕ ▁ Ⓚ § Ⓛ ▁ Ⓘ § Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ B u ch y ▁ pierre ▁ gust ave Ⓕ ▁ Ⓚ § Ⓛ ▁ Ⓘ § Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ id Ⓕ ▁ Ⓚ § Ⓛ ▁ Ⓘ § Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ C ag e t ▁ louis ▁ alfred Ⓕ ▁ Ⓚ § Ⓛ ▁ Ⓘ § Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ C al ui v é ▁ ( de ) ▁ nest or ▁ jean ▁ marie Ⓕ ▁ Ⓚ § Ⓛ ▁ Ⓘ § Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ C e llier ▁ adolphe ▁ e t ▁ Lab our ▁ armand Ⓕ ▁ Ⓚ § Ⓛ ▁ Ⓘ § Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ Ch a ma rand e ▁ Etienne Ⓕ ▁ Ⓚ § Ⓛ ▁ Ⓘ § Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ Ch a m b ar aud ▁ gabriel Ⓕ ▁ Ⓚ § Ⓛ ▁ Ⓘ § Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ Ch a pota t ▁ françois ▁ veuve Ⓕ ▁ Ⓚ § Ⓛ ▁ Ⓘ § Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ C harbonnier ▁ edme Ⓕ ▁ Ⓚ § Ⓛ ▁ Ⓘ § Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ Ch ar le ux ▁ charles Ⓕ ▁ Ⓚ § Ⓛ ▁ Ⓘ § Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ Ch a z e aud ▁ françois Ⓕ ▁ Ⓚ § Ⓛ ▁ Ⓘ § Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ C o lin ▁ H i p p o ly t e Ⓕ ▁ Ⓚ § Ⓛ ▁ Ⓘ § Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ C om b e au ▁ pierre ▁ françois ▁ marc Ⓕ ▁ Ⓚ § Ⓛ ▁ Ⓘ § Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ C ôte ▁ claude Ⓕ ▁ Ⓚ § Ⓛ ▁ Ⓘ § Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ D a bé ▁ claude Ⓕ ▁ Ⓚ § Ⓛ ▁ Ⓘ § Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ D ard ▁ pierre ▁ gust ave Ⓕ ▁ Ⓚ § Ⓛ ▁ Ⓘ § Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ D a v id ▁ Charles ▁ veuve Ⓕ ▁ Ⓚ § Ⓛ ▁ Ⓘ § Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ D a v id ▁ françois ▁ ber nard Ⓕ ▁ Ⓚ § Ⓛ ▁ Ⓘ § Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ D a v id ▁ victor ▁ é v ar iste Ⓕ ▁ Ⓚ § Ⓛ ▁ Ⓘ § Ⓙ
+▁ Ⓖ L e ▁ Pont ▁ de ▁ Bry e Ⓗ ▁ Ⓔ Rameau ▁ auguste ▁ saturnin Ⓕ ▁ Ⓚ 4 73 Ⓛ ▁ Ⓘ T Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ C o i f fier ▁ louis ▁ charles Ⓕ ▁ Ⓚ 7 44 Ⓛ ▁ Ⓘ T Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ M ur is ▁ Paul ▁ Laurent Ⓕ ▁ Ⓚ 7 44 Ⓛ ▁ Ⓘ T Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ B euze ville ▁ charles ▁ alex is Ⓕ ▁ Ⓚ 4 75 Ⓛ ▁ Ⓘ T Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ Ro zier s ▁ louis ▁ désiré Ⓕ ▁ Ⓚ 4 75 Ⓛ ▁ Ⓘ T Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ D e l t h il Ⓕ ▁ Ⓚ 74 6 Ⓛ ▁ Ⓘ T Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ F ou n t ain e ▁ thomas ▁ taylor Ⓕ ▁ Ⓚ 7 47 Ⓛ ▁ Ⓘ T Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ M é rillon ▁ auguste ▁ veuve Ⓕ ▁ Ⓚ 7 47 Ⓛ ▁ Ⓘ T Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ S oud ieux ▁ charles ▁ louis Ⓕ ▁ Ⓚ 7 47 Ⓛ ▁ Ⓘ T Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ S oud ieux ▁ adolphe ▁ l aurent Ⓕ ▁ Ⓚ 7 48 Ⓛ ▁ Ⓘ T Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ id Ⓕ ▁ Ⓚ 7 48 Ⓛ ▁ Ⓘ T Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ Pla is ant ▁ félix Ⓕ ▁ Ⓚ 7 49 Ⓛ ▁ Ⓘ T Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ B as s e n d ier ▁ louis ▁ gust ave Ⓕ ▁ Ⓚ 7 50 Ⓛ ▁ Ⓘ T Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ H é ricour t ▁ françois ▁ maurice Ⓕ ▁ Ⓚ 7 50 Ⓛ ▁ Ⓘ T Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ H é ricour t ▁ Louis ▁ Gabriel Ⓕ ▁ Ⓚ 7 50 Ⓛ ▁ Ⓘ T Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ L ameau ▁ P assi e ▁ J ↑ h ↓ ▁ achil le Ⓕ ▁ Ⓚ 75 1 Ⓛ ▁ Ⓘ T Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ L ameau ▁ louis ▁ jules Ⓕ ▁ Ⓚ 75 2 Ⓛ ▁ Ⓘ T Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ F ou n t ain e ▁ thomas ▁ taylor d Ⓕ ▁ Ⓚ 753 Ⓛ ▁ Ⓘ T Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ L e c ui ▁ augustin ▁ g uis lain Ⓕ ▁ Ⓚ 753 Ⓛ ▁ Ⓘ T Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ Rameau ▁ louis ▁ honoré Ⓕ ▁ Ⓚ 753 Ⓛ ▁ Ⓘ T Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ id Ⓕ ▁ Ⓚ 753 Ⓛ ▁ Ⓘ T Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ A n c e le t ▁ Charles ▁ dominique Ⓕ ▁ Ⓚ 7 54 Ⓛ ▁ Ⓘ T Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ A n c e le t ▁ françois ▁ antoine Ⓕ ▁ Ⓚ 7 55 Ⓛ ▁ Ⓘ T Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ C o i f fier ▁ pierre ▁ honoré Ⓕ ▁ Ⓚ 7 55 Ⓛ ▁ Ⓘ T Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ A n c e le t ▁ charles ▁ dominique Ⓕ ▁ Ⓚ 75 6 Ⓛ ▁ Ⓘ T Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ A n c e le t ▁ françois ▁ antoine Ⓕ ▁ Ⓚ 75 6 Ⓛ ▁ Ⓘ T Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ A n c e le t ▁ louis ▁ auguste Ⓕ ▁ Ⓚ 75 6 Ⓛ ▁ Ⓘ T Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ C o i f fier ▁ pierre ▁ her v é Ⓕ ▁ Ⓚ 75 6 Ⓛ ▁ Ⓘ T Ⓙ
+▁ Ⓜ 411 Ⓝ ▁ Ⓔ Rameau ▁ P ↑ re ↓ ▁ Edme Ⓕ ▁ Ⓚ 6 60 Ⓛ ▁ Ⓘ T e r . Ⓙ
+▁ Ⓜ 43 6 Ⓝ ▁ Ⓔ s oud ieux ▁ sat ↑ in ↓ ▁ ba lot Ⓕ ▁ Ⓚ 61 Ⓛ ▁ Ⓘ id Ⓙ
+▁ Ⓜ 8 Ⓝ ▁ Ⓔ ancel e t ▁ J ↑ n ↓ ▁ louis ▁ ant ↑ e ↓ Ⓕ ▁ Ⓚ 62 Ⓛ ▁ Ⓘ § Ⓙ
+▁ Ⓜ 84 Ⓝ ▁ Ⓔ C o i f fier ▁ andré ▁ J e u n e Ⓕ ▁ Ⓚ 64 Ⓛ ▁ Ⓘ § Ⓙ
+▁ Ⓜ 139 Ⓝ ▁ Ⓔ f ou c ault ▁ P ↑ re ↓ Ⓕ ▁ Ⓚ 65 Ⓛ ▁ Ⓘ vig Ⓙ
+▁ Ⓜ 40 5 Ⓝ ▁ Ⓔ que m ain ▁ ch ↑ e s ↓ ▁ f ↑ ois ↓ Ⓕ ▁ Ⓚ 65 ↑ bis ↓ Ⓛ ▁ Ⓘ ter Ⓙ
+▁ Ⓜ 231 Ⓝ ▁ Ⓔ L ameau ▁ V ↑ e ↓ ▁ Sat ↑ in ↓ Ⓕ ▁ Ⓚ 66 Ⓛ ▁ Ⓘ id Ⓙ
+▁ Ⓜ 30 9 Ⓝ ▁ Ⓔ M e rillon ▁ J ↑ n ↓ Ⓕ ▁ Ⓚ 67 Ⓛ ▁ Ⓘ § Ⓙ
+▁ Ⓜ × 7 ±→ 10 ↑ bis ↓ Ⓝ ▁ Ⓔ ancel e t ▁ × V ↑ e ↓ ▁ f ↑ ois ↓± ▁ Charles ▁ alex ↑ dre ↓ Ⓕ ▁ Ⓚ 68 Ⓛ ▁ Ⓘ § Ⓙ
+▁ Ⓜ 94 Ⓝ ▁ Ⓔ C o i f fier ▁ f ↑ ois ↓ ▁ dit ▁ s é raph in Ⓕ ▁ Ⓚ 68 ↑ bis ↓ Ⓛ ▁ Ⓘ § Ⓙ
+▁ Ⓜ 222 Ⓝ ▁ Ⓔ L ameau ▁ D ↑ que ↓ Ⓕ ▁ Ⓚ 69 Ⓛ ▁ Ⓘ § Ⓙ
+▁ Ⓜ 23 Ⓝ ▁ Ⓔ B ar illet ▁ ant ↑ e ↓ Ⓕ ▁ Ⓚ 6 70 Ⓛ ▁ Ⓘ § Ⓙ
+▁ Ⓜ 13 Ⓝ ▁ Ⓔ ancel e t ▁ G e n e v i e v e Ⓕ ▁ Ⓚ 71 Ⓛ ▁ Ⓘ § Ⓙ
+▁ Ⓜ 134 Ⓝ ▁ Ⓔ f ly ▁ à ▁ bri e Ⓕ ▁ Ⓚ 72 Ⓛ ▁ Ⓘ § Ⓙ
+▁ Ⓜ 2 23 Ⓝ ▁ Ⓔ L ameau ▁ J ↑ n ↓ Ⓕ ▁ Ⓚ 73 Ⓛ ▁ Ⓘ § Ⓙ
+▁ Ⓜ 40 4 ↑ bis ↓→× 275 ± Ⓝ ▁ Ⓔ × L e pin e ▁ veuve ▁ ac que re ur s ± ▁ P ro v ost Ⓕ ▁ Ⓚ 74 Ⓛ ▁ Ⓘ ter Ⓙ
+▁ Ⓜ 138 Ⓝ ▁ Ⓔ F ou c ault ▁ louis ▁ J ac q . Ⓕ ▁ Ⓚ 75 Ⓛ ▁ Ⓘ § Ⓙ
+▁ Ⓜ 41 6 Ⓝ ▁ Ⓔ Rameau ▁ f ↑ ois ↓ ▁ Joseph Ⓕ ▁ Ⓚ 76 Ⓛ ▁ Ⓘ ter Ⓙ
+▁ Ⓜ 33 2 Ⓝ ▁ Ⓔ M on t m arthe ▁ V ↑ e ↓ ▁ ant ↑ e ↓ Ⓕ ▁ Ⓚ 77 Ⓛ ▁ Ⓘ § Ⓙ
+▁ Ⓜ 33 2 ↑ bis ↓ Ⓝ ▁ Ⓔ M on t m ar tre ▁ f ↑ ç ois e ↓ Ⓕ ▁ Ⓚ 77 ↑ bis ↓ Ⓛ ▁ Ⓘ § Ⓙ
+▁ Ⓜ 21 4 Ⓝ ▁ Ⓔ J o sset ▁ J ↑ a ↓ ▁ veuve Ⓕ ▁ Ⓚ 7 8 Ⓛ ▁ Ⓘ § Ⓙ
+▁ Ⓖ L e ▁ Pont ▁ de ▁ Bry e Ⓗ ▁ Ⓔ C o i f fier ▁ Désiré ▁ s ébastien Ⓕ ▁ Ⓚ 771 Ⓛ ▁ Ⓘ T Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ G e r v a is ▁ adolphe Ⓕ ▁ Ⓚ 771 Ⓛ ▁ Ⓘ T Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ P as c al le t ▁ Jean ▁ B t e ▁ Claude Ⓕ ▁ Ⓚ 771 Ⓛ ▁ Ⓘ T Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ H é ricour t ▁ françois ▁ maurice Ⓕ ▁ Ⓚ 77 2 Ⓛ ▁ Ⓘ T Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ Lam c au ▁ Pierre ▁ J h ▁ achil le Ⓕ ▁ Ⓚ 113 Ⓛ
+▁ Ⓖ § Ⓗ ▁ Ⓔ S oud ieux ▁ louis ▁ alphonse Ⓕ ▁ Ⓚ 7 73 Ⓛ ▁ Ⓘ T Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ voi e ▁ p ubl ique Ⓕ ▁ Ⓚ 7 73 Ⓛ ▁ Ⓘ T Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ H u d ri r ▁ Charles ▁ Clément Ⓕ ▁ Ⓚ 7 74 Ⓛ ▁ Ⓘ T Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ Rameau ▁ Paul ▁ Clément Ⓕ ▁ Ⓚ 7 74 Ⓛ ▁ Ⓘ T Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ C o i f fier ▁ Sébastien ▁ Joseph Ⓕ ▁ Ⓚ 7 75 Ⓛ ▁ Ⓘ T Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ S oud ieux ▁ Louis ▁ Joseph Ⓕ ▁ Ⓚ 7 76 Ⓛ ▁ Ⓘ T Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ de ▁ B e au franc h e t ▁ f r ères Ⓕ ▁ Ⓚ 777 Ⓛ ▁ Ⓘ T Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ id Ⓕ ▁ Ⓚ 777 Ⓛ ▁ Ⓘ T Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ voi e ▁ p ubl ique Ⓕ ▁ Ⓚ 777 Ⓛ ▁ Ⓘ T Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ C o i f fier ▁ désiré ▁ s ébastien Ⓕ ▁ Ⓚ 77 8 Ⓛ ▁ Ⓘ T Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ Rameau ▁ h e l v é ba is ▁ françois Ⓕ ▁ Ⓚ 77 8 Ⓛ ▁ Ⓘ T Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ M ous c adet ▁ pierre ▁ louis Ⓕ ▁ Ⓚ 77 9 Ⓛ ▁ Ⓘ T Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ A n c e le t ▁ nicolas ▁ J ↑ h ↓ Ⓕ ▁ Ⓚ 7 80 Ⓛ ▁ Ⓘ T Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ M is g ault ▁ J ↑ n ↓ ▁ B ↑ t e ↓ ▁ fils ▁ louis Ⓕ ▁ Ⓚ 7 81 Ⓛ ▁ Ⓘ T Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ F ou n t ain ▁ thomas ▁ taylor d Ⓕ ▁ Ⓚ 7 82 Ⓛ ▁ Ⓘ T Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ id Ⓕ ▁ Ⓚ 783 Ⓛ ▁ Ⓘ T Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ M is g ault ▁ J ↑ n ↓ ▁ B ↑ t e ↓ ▁ fils ▁ louis Ⓕ ▁ Ⓚ 783 Ⓛ ▁ Ⓘ T Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ id Ⓕ ▁ Ⓚ 783 Ⓛ ▁ Ⓘ T Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ F ou n t ain ▁ thomas ▁ taylor d Ⓕ ▁ Ⓚ 7 84 Ⓛ ▁ Ⓘ T Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ id Ⓕ ▁ Ⓚ 7 85 Ⓛ ▁ Ⓘ T Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ id Ⓕ ▁ Ⓚ 7 86 Ⓛ ▁ Ⓘ T Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ id Ⓕ ▁ Ⓚ 7 87 Ⓛ ▁ Ⓘ T Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ id Ⓕ ▁ Ⓚ 7 87 Ⓛ ▁ Ⓘ T Ⓙ
+▁ Ⓖ les ▁ e s s e rt e s Ⓗ ▁ Ⓜ 1 125 Ⓝ ▁ Ⓔ G ou las ▁ eugène ▁ ar s ène Ⓕ ▁ Ⓚ 1 125 Ⓛ ▁ Ⓘ terre Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ H u reau ▁ alfred ▁ an at o le ▁ t r an q u il le Ⓕ ▁ Ⓚ § Ⓛ ▁ Ⓘ § Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ Im h o f f ▁ le opold Ⓕ ▁ Ⓚ § Ⓛ ▁ Ⓘ § Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ Jean n e re t ▁ Jean ▁ Bapt iste Ⓕ ▁ Ⓚ § Ⓛ ▁ Ⓘ § Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ L e ma sson ▁ hilaire Ⓕ ▁ Ⓚ § Ⓛ ▁ Ⓘ § Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ L or q u in ▁ c as imi r Ⓕ ▁ Ⓚ § Ⓛ ▁ Ⓘ § Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ M aud ui t ▁ louis ▁ r om ain Ⓕ ▁ Ⓚ § Ⓛ ▁ Ⓘ § Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ Philippe ▁ charles ▁ alexandre Ⓕ ▁ Ⓚ § Ⓛ ▁ Ⓘ § Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ P oin s ot ▁ pierre Ⓕ ▁ Ⓚ § Ⓛ ▁ Ⓘ § Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ R a d ice ▁ an gé lo Ⓕ ▁ Ⓚ § Ⓛ ▁ Ⓘ § Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ R ign ault ▁ Jacques ▁ victor Ⓕ ▁ Ⓚ § Ⓛ ▁ Ⓘ § Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ R i p aux ▁ Jean ▁ re né ▁ victor Ⓕ ▁ Ⓚ § Ⓛ ▁ Ⓘ § Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ V ir oux ▁ Jules ▁ Joseph Ⓕ ▁ Ⓚ § Ⓛ ▁ Ⓘ § Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ W ac q u ant ▁ Jean ▁ B ↑ t e ↓ Ⓕ ▁ Ⓚ § Ⓛ ▁ Ⓘ § Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ W i t z ▁ vincent Ⓕ ▁ Ⓚ § Ⓛ ▁ Ⓘ § Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ S al ans on ▁ e t ▁ consor ts Ⓕ ▁ Ⓚ 113 Ⓛ ▁ Ⓘ terre Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ id Ⓕ ▁ Ⓚ 114 Ⓛ ▁ Ⓘ terre Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ id Ⓕ ▁ Ⓚ 115 Ⓛ ▁ Ⓘ terre Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ P air ▁ la z ar e Ⓕ ▁ Ⓚ 116 Ⓛ ▁ Ⓘ pré Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ P re t e t ▁ Jean ▁ B ↑ t e ↓ ▁ t héodore Ⓕ ▁ Ⓚ § Ⓛ ▁ Ⓘ § Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ S al ans on ▁ e t ▁ consor ts Ⓕ ▁ Ⓚ § Ⓛ ▁ Ⓘ § Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ d ↑ e ↓ ▁ v éron ▁ né e ▁ Lab bé ▁ Julie Ⓕ ▁ Ⓚ § Ⓛ ▁ Ⓘ § Ⓙ
+▁ Ⓖ I le ▁ au ▁ co in tre Ⓗ ▁ Ⓔ id Ⓕ ▁ Ⓚ 117 Ⓛ ▁ Ⓘ os e r a i e Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ M a b il at ▁ simon Ⓕ ▁ Ⓚ 118 Ⓛ ▁ Ⓘ pré ▁ planté ▁ de → sau les Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ Pi ot ▁ edme Ⓕ ▁ Ⓚ § Ⓛ ▁ Ⓘ id Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ id Ⓕ ▁ Ⓚ § Ⓛ ▁ Ⓘ id Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ S èv e ▁ antoine Ⓕ ▁ Ⓚ § Ⓛ ▁ Ⓘ id Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ d ↑ e ↓ ▁ v éron ▁ né e ▁ Lab bé ▁ Julie Ⓕ ▁ Ⓚ § Ⓛ ▁ Ⓘ id Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ l ' Etat ▁ ( n on ▁ imposable ) Ⓕ ▁ Ⓚ 118 Ⓛ ▁ Ⓘ B ar r ag e ▁ du ▁ port → à ▁ l ' anglais Ⓙ
+▁ Ⓖ les ▁ hau ts ▁ martin e ts Ⓗ ▁ Ⓔ S e vin ▁ Jean ▁ A ch il le → Coust e ▁ p ↑ re ↓ ▁ noël Ⓕ ▁ Ⓚ 100 Ⓛ ▁ Ⓘ Terre Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ L aven ant ▁ louis ▁ f ↑ ois ↓ ▁ J ↑ n ↓ Ⓕ ▁ Ⓚ 101 Ⓛ ▁ Ⓘ Terre Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ D id ouvre ▁ p ↑ re ↓ ▁ f ↑ ois ↓ Ⓕ ▁ Ⓚ 102 Ⓛ ▁ Ⓘ Terre Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ D id ouvre ▁ p ↑ re ↓ ▁ f ↑ ois ↓ Ⓕ ▁ Ⓚ 103 Ⓛ ▁ Ⓘ Carrière Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ s assi n ▁ jean ▁ andré Ⓕ ▁ Ⓚ 104 Ⓛ ▁ Ⓘ Terre Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ G u é zard ▁ noël ▁ f ↑ ois ↓ Ⓕ ▁ Ⓚ 105 Ⓛ ▁ Ⓘ Terre Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ G u é zard ▁ noël ▁ f ↑ ois ↓ Ⓕ ▁ Ⓚ 106 Ⓛ ▁ Ⓘ Carrière Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ G u é zard ▁ noël ▁ f ↑ ois ↓ Ⓕ ▁ Ⓚ 107 Ⓛ ▁ Ⓘ Terre Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ Ren ard ▁ n ↑ as ↓ ▁ ch ↑ e ↓ Ⓕ ▁ Ⓚ 108 Ⓛ ▁ Ⓘ Terre Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ M i ch aud ▁ J ↑ n ↓ ▁ p ↑ re ↓ Ⓕ ▁ Ⓚ 109 Ⓛ ▁ Ⓘ Terre Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ G odefroy ▁ J ▁ F ▁ denis →× M a sson ▁ n ↑ as ↓ ▁ J ↑ n ↓± Ⓕ ▁ Ⓚ 110 Ⓛ ▁ Ⓘ Terre Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ M ay e ux ▁ nicolas →× D e p la n que ▁ C ar ri u ± Ⓕ ▁ Ⓚ 111 Ⓛ ▁ Ⓘ Terre Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ M ay e ux ▁ nicolas Ⓕ ▁ Ⓚ 112 Ⓛ ▁ Ⓘ Terre Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ S assi n ▁ jean Ⓕ ▁ Ⓚ 113 Ⓛ ▁ Ⓘ Terre Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ Coust é ▁ p ↑ re ▁ noël Ⓕ ▁ Ⓚ 114 Ⓛ ▁ Ⓘ Terre Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ Ch at e lain ▁ ch ↑ e ↓→× Coust é ▁ p ↑ re ↓ ▁ noël ± Ⓕ ▁ Ⓚ 115 Ⓛ ▁ Ⓘ Terre Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ L aven ant ▁ louis ▁ f ↑ ois ↓ ▁ j ↑ n ↓→× hospices ▁ de ▁ Paris ± Ⓕ ▁ Ⓚ 116 Ⓛ ▁ Ⓘ Terre Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ s u reau ▁ Emmanuel ▁ p ↑ re ↓→× B e nard ▁ g ↑ m e ↓ ▁ h ↑ n e ↓ Ⓕ ▁ Ⓚ 117 Ⓛ ▁ Ⓘ Terre Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ L e tre c ▁ Jean ▁ f ↑ ois ↓→× au v ry ▁ ant ↑ e ↓ ▁ b la is e ▁ j ↑ n ↓± Ⓕ ▁ Ⓚ 118 Ⓛ ▁ Ⓘ Terre Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ Thibau t ▁ Joseph ▁ germain →× G ou vern e ment ▁ ( le ) ± Ⓕ ▁ Ⓚ 1 19 Ⓛ ▁ Ⓘ Terre Ⓙ
+▁ Ⓖ B ut t e ▁ de ▁ villiers Ⓗ ▁ Ⓔ G a idelin ▁ Lam y ▁ dama s Ⓕ ▁ Ⓚ 155 Ⓛ ▁ Ⓘ terre Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ H at re l ▁ e r nest Ⓕ ▁ Ⓚ 156 Ⓛ ▁ Ⓘ terre Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ P ot e l ▁ Jean ▁ Ch ry s ost om e Ⓕ ▁ Ⓚ 157 Ⓛ ▁ Ⓘ terre Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ F or e s t ier ▁ françois Ⓕ ▁ Ⓚ 1 58 Ⓛ ▁ Ⓘ terre Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ id Ⓕ ▁ Ⓚ 159 Ⓛ ▁ Ⓘ terre Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ id Ⓕ ▁ Ⓚ 1 60 Ⓛ ▁ Ⓘ terre Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ H at re l ▁ e r nest Ⓕ ▁ Ⓚ 161 Ⓛ ▁ Ⓘ terre Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ G aud e lin ▁ Lam y ▁ dama s Ⓕ ▁ Ⓚ 162 Ⓛ ▁ Ⓘ terre Ⓙ
+▁ Ⓖ s ous ▁ les ▁ marais Ⓗ ▁ Ⓔ D odu n ▁ de ▁ Kéroman , ▁ la ▁ marquis e Ⓕ ▁ Ⓚ 163 Ⓛ ▁ Ⓘ terre Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ D odu n ▁ de ▁ Kéroman ▁ agathe . ▁ veuve → M oussa c Ⓕ ▁ Ⓚ id Ⓛ ▁ Ⓘ terre Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ G a idelin ▁ Lam y ▁ dama Ⓕ ▁ Ⓚ 164 Ⓛ ▁ Ⓘ terre Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ S al ans on ▁ e t ▁ consor ts Ⓕ ▁ Ⓚ 165 Ⓛ ▁ Ⓘ terre Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ id Ⓕ ▁ Ⓚ 166 Ⓛ ▁ Ⓘ terre Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ id Ⓕ ▁ Ⓚ 167 Ⓛ ▁ Ⓘ terre Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ A s s i stan c e ▁ p ubl ique Ⓕ ▁ Ⓚ 168 Ⓛ ▁ Ⓘ terre Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ id Ⓕ ▁ Ⓚ 168 ↑ bis ↓ Ⓛ ▁ Ⓘ terre Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ S al ans on ▁ e t ▁ consor ts Ⓕ ▁ Ⓚ 169 Ⓛ ▁ Ⓘ terre Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ G a idelin ▁ Lam y ▁ dama s Ⓕ ▁ Ⓚ 169 ↑ bis ↓ Ⓛ ▁ Ⓘ terre Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ A lfortville ▁ la ▁ C ↑ n e ↓ ▁ ( n on ▁ imposable ) Ⓕ ▁ Ⓚ 170 Ⓛ ▁ Ⓘ c an al ▁ d ' i ri g ation Ⓙ
+▁ Ⓖ les ▁ marais Ⓗ ▁ Ⓔ C ↑ i e ↓ ▁ du ▁ chemin ▁ de ▁ fer ▁ de ▁ Paris ▁ à ▁ L y on Ⓕ ▁ Ⓚ 1 71 Ⓛ ▁ Ⓘ pré Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ S al ans on ▁ e t ▁ consor ts Ⓕ ▁ Ⓚ id Ⓛ ▁ Ⓘ pré Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ C ↑ i e ↓ ▁ du ▁ chemin ▁ de ▁ fer ▁ de ▁ Paris ▁ à ▁ L y on Ⓕ ▁ Ⓚ 172 Ⓛ ▁ Ⓘ terre Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ S al ans on ▁ e t ▁ consor ts Ⓕ ▁ Ⓚ id Ⓛ ▁ Ⓘ terre Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ id Ⓕ ▁ Ⓚ 1 73 Ⓛ ▁ Ⓘ terre Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ B ois ▁ Guillaume Ⓕ ▁ Ⓚ 1 74 Ⓛ ▁ Ⓘ Pré Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ D odu n ▁ de ▁ Kéroman , ▁ la ▁ marquis e Ⓕ ▁ Ⓚ § Ⓛ ▁ Ⓘ § Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ D odu n ▁ de ▁ K é o man ▁ agathe ▁ veuve → M oussa c Ⓕ ▁ Ⓚ § Ⓛ ▁ Ⓘ § Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ H a m e l ▁ auguste ▁ gabriel Ⓕ ▁ Ⓚ § Ⓛ ▁ Ⓘ § Ⓙ
+▁ Ⓜ 85 Ⓝ ▁ Ⓔ Duchamps → pierre Ⓕ ▁ Ⓚ 49 6 Ⓛ ▁ Ⓘ Vigne Ⓙ
+▁ Ⓜ 141 Ⓝ ▁ Ⓔ M ar ch an d → à ▁ Paris Ⓕ ▁ Ⓚ 49 7 Ⓛ ▁ Ⓘ id Ⓙ
+▁ Ⓜ 80 Ⓝ ▁ Ⓔ D u bois ▁ s e r ru rier Ⓕ ▁ Ⓚ 49 8 Ⓛ ▁ Ⓘ Terre Ⓙ
+▁ Ⓜ 104 Ⓝ ▁ Ⓔ G au t hier ▁ Louis Ⓕ ▁ Ⓚ 49 9 Ⓛ ▁ Ⓘ id Ⓙ
+▁ Ⓜ 153 Ⓝ ▁ Ⓔ M e r c ier ▁ Denis Ⓕ ▁ Ⓚ 50 0 Ⓛ ▁ Ⓘ id Ⓙ
+▁ Ⓜ 164 Ⓝ ▁ Ⓔ F e r rière Ⓕ ▁ Ⓚ 50 1 Ⓛ ▁ Ⓘ Vigne Ⓙ
+▁ Ⓜ 106 Ⓝ ▁ Ⓔ G au t hier ▁ Veuve Ⓕ ▁ Ⓚ 50 2 Ⓛ ▁ Ⓘ id Ⓙ
+▁ Ⓜ 149 Ⓝ ▁ Ⓔ M ar t in ▁ S imon Ⓕ ▁ Ⓚ 50 3 Ⓛ ▁ Ⓘ Terre Ⓙ
+▁ Ⓜ 73 Ⓝ ▁ Ⓔ D au v e t ▁ Denis Ⓕ ▁ Ⓚ 50 4 Ⓛ ▁ Ⓘ id Ⓙ
+▁ Ⓜ 19 2 Ⓝ ▁ Ⓔ Thi vot ▁ maçon Ⓕ ▁ Ⓚ 50 5 Ⓛ ▁ Ⓘ id Ⓙ
+▁ Ⓜ 12 7 Ⓝ ▁ Ⓔ V e coll ant ▁ Claude → a ▁ Vill e n e u v e Ⓕ ▁ Ⓚ 50 6 Ⓛ ▁ Ⓘ id Ⓙ
+▁ Ⓜ 105 Ⓝ ▁ Ⓔ G au t hier ▁ J ↑ n ↓ ▁ Pierre Ⓕ ▁ Ⓚ 50 7 Ⓛ ▁ Ⓘ Vigne Ⓙ
+▁ Ⓜ 123 Ⓝ ▁ Ⓔ L ar mé e Ⓕ ▁ Ⓚ 50 8 Ⓛ ▁ Ⓘ id Ⓙ
+▁ Ⓜ 69 Ⓝ ▁ Ⓔ D a m e ville ▁ F ↑ ois ↓ ▁ ain é Ⓕ ▁ Ⓚ 50 9 Ⓛ ▁ Ⓘ Terre Ⓙ
+▁ Ⓜ 111 Ⓝ ▁ Ⓔ h e bert ▁ à ▁ Vill e n e u v e Ⓕ ▁ Ⓚ 5 10 Ⓛ ▁ Ⓘ id Ⓙ
+▁ Ⓜ 42 Ⓝ ▁ Ⓔ Ch ay out ▁ michel → a ▁ Vill e n e u v e Ⓕ ▁ Ⓚ 48 1 Ⓛ ▁ Ⓘ Vigne Ⓙ
+▁ Ⓜ 1 30 Ⓝ ▁ Ⓔ L e coll ant ▁ Veuve ▁ Pierre → à ▁ L i m e il Ⓕ ▁ Ⓚ 48 2 Ⓛ ▁ Ⓘ × Terre ±→ Vigne Ⓙ
+▁ Ⓜ 65 Ⓝ ▁ Ⓔ C ui nier ▁ à ▁ Vill e n e u v e Ⓕ ▁ Ⓚ 48 9 Ⓛ ▁ Ⓘ id Ⓙ
+▁ Ⓜ 68 Ⓝ ▁ Ⓔ D a m e ville ▁ J ↑ e s ↓ Ⓕ ▁ Ⓚ 48 4 Ⓛ ▁ Ⓘ Terre →× Vigne ±→ terre Ⓙ
+▁ Ⓜ 73 Ⓝ ▁ Ⓔ D au v e t ▁ denis Ⓕ ▁ Ⓚ 48 5 Ⓛ ▁ Ⓘ Terre Ⓙ
+▁ Ⓜ 20 5 Ⓝ ▁ Ⓔ G au t hier ▁ J ↑ n ↓ ▁ Pierre Ⓕ ▁ Ⓚ 48 6 Ⓛ ▁ Ⓘ Vigne Ⓙ
+▁ Ⓜ 85 Ⓝ ▁ Ⓔ Duchamps ▁ Pierre → à ▁ id Ⓕ ▁ Ⓚ 48 7 Ⓛ ▁ Ⓘ id Ⓙ
+▁ Ⓜ 92 Ⓝ ▁ Ⓔ fer rière ▁ Louis Ⓕ ▁ Ⓚ 48 8 Ⓛ ▁ Ⓘ id Ⓙ
+▁ Ⓜ 169 Ⓝ ▁ Ⓔ Pierre ▁ Pierre Ⓕ ▁ Ⓚ 48 9 Ⓛ ▁ Ⓘ Terre Ⓙ
+▁ Ⓜ 167 Ⓝ ▁ Ⓔ Pierre ▁ M ar guer i t e Ⓕ ▁ Ⓚ 4 90 Ⓛ ▁ Ⓘ id Ⓙ
+▁ Ⓜ 196 Ⓝ ▁ Ⓔ T ri c ar t ▁ V ↑ e ↓ ▁ f e m m e → d uches n e Ⓕ ▁ Ⓚ 49 1 Ⓛ ▁ Ⓘ id Ⓙ
+▁ Ⓜ 77 Ⓝ ▁ Ⓔ D e sg r out s Ⓕ ▁ Ⓚ 49 2 Ⓛ ▁ Ⓘ Vigne Ⓙ
+▁ Ⓜ 65 Ⓝ ▁ Ⓔ C ui nier Ⓕ ▁ Ⓚ 49 3 Ⓛ ▁ Ⓘ Terre Ⓙ
+▁ Ⓜ 9 Ⓝ ▁ Ⓔ B ar reau ▁ Guillaume Ⓕ ▁ Ⓚ 49 4 Ⓛ ▁ Ⓘ id Ⓙ
+▁ Ⓜ 164 Ⓝ ▁ Ⓔ P e rrier e ▁ C a b ar e tie Ⓕ ▁ Ⓚ 49 5 Ⓛ ▁ Ⓘ Vigne Ⓙ
+▁ Ⓖ L e ▁ P om mier ▁ de ▁ l ' E g l is e Ⓗ ▁ Ⓔ Aubert ▁ marie Ⓕ ▁ Ⓚ 1 Ⓛ ▁ Ⓘ T Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ C a m b r ay Ⓕ ▁ Ⓚ 1 Ⓛ ▁ Ⓘ T Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ C harpentier ▁ charles ▁ michel Ⓕ ▁ Ⓚ 1 Ⓛ ▁ Ⓘ T Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ Ch au vin Ⓕ ▁ Ⓚ 1 Ⓛ ▁ Ⓘ T Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ Coll ign on Ⓕ ▁ Ⓚ 1 Ⓛ ▁ Ⓘ T Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ D e la cour ▁ françois Ⓕ ▁ Ⓚ 1 Ⓛ ▁ Ⓘ T Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ D e l air ▁ alphonse ▁ augustin Ⓕ ▁ Ⓚ 1 Ⓛ ▁ Ⓘ T Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ D e l air ▁ victor Ⓕ ▁ Ⓚ 1 Ⓛ ▁ Ⓘ T Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ id Ⓕ ▁ Ⓚ 1 Ⓛ ▁ Ⓘ T Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ D u c re ux ▁ Michel ▁ alfred Ⓕ ▁ Ⓚ 1 Ⓛ ▁ Ⓘ T Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ id Ⓕ ▁ Ⓚ 1 Ⓛ ▁ Ⓘ T Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ F lo rin Ⓕ ▁ Ⓚ 1 Ⓛ ▁ Ⓘ T Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ G ir aud ▁ pierre Ⓕ ▁ Ⓚ 1 Ⓛ ▁ Ⓘ T Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ G u il lain ▁ Pierre ▁ françois Ⓕ ▁ Ⓚ 1 Ⓛ ▁ Ⓘ T Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ H u e ber ▁ Joseph Ⓕ ▁ Ⓚ 1 Ⓛ ▁ Ⓘ T Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ K rier ▁ charles Ⓕ ▁ Ⓚ 1 Ⓛ ▁ Ⓘ T Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ L e g al l ois ▁ eugène Ⓕ ▁ Ⓚ 1 Ⓛ ▁ Ⓘ T Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ M a illard ▁ louis Ⓕ ▁ Ⓚ 1 Ⓛ ▁ Ⓘ T Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ M ain g ot ▁ dam e ▁ né e ▁ M a illard Ⓕ ▁ Ⓚ 1 Ⓛ ▁ Ⓘ T Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ M ar m or a ▁ Benoist Ⓕ ▁ Ⓚ 1 Ⓛ ▁ Ⓘ T Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ M e r c ier Ⓕ ▁ Ⓚ 1 Ⓛ ▁ Ⓘ T Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ Ro llin Ⓕ ▁ Ⓚ 1 Ⓛ ▁ Ⓘ T Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ id Ⓕ ▁ Ⓚ 1 Ⓛ ▁ Ⓘ T Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ id Ⓕ ▁ Ⓚ 1 Ⓛ ▁ Ⓘ T Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ Roses Ⓕ ▁ Ⓚ 1 Ⓛ ▁ Ⓘ T Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ V an n i e u w e n h u y s s Ⓕ ▁ Ⓚ 1 Ⓛ ▁ Ⓘ T Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ voi e ▁ p ubl ique Ⓕ ▁ Ⓚ 1 Ⓛ ▁ Ⓘ T Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ L e d oux ▁ alexandre ▁ eugène Ⓕ ▁ Ⓚ 2 Ⓛ ▁ Ⓘ T Ⓙ
+▁ Ⓖ Petit s ▁ p r è s Ⓗ ▁ Ⓔ C oche t ▁ mineur s Ⓕ ▁ Ⓚ 239 Ⓛ ▁ Ⓘ terre Ⓙ
+▁ Ⓖ id Ⓗ ▁ Ⓔ L e roy ▁ Clément Ⓕ ▁ Ⓚ 240 Ⓛ ▁ Ⓘ § Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ C oche t ▁ mineur s Ⓕ ▁ Ⓚ 240 ↑ bis ↓ Ⓛ ▁ Ⓘ § Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ L e roy ▁ J ↑ n ↓ Ⓕ ▁ Ⓚ 2 41 Ⓛ ▁ Ⓘ § Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ C oche t ▁ Georges Ⓕ ▁ Ⓚ 242 Ⓛ ▁ Ⓘ § Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ Bourdill at Ⓕ ▁ Ⓚ 2 43 Ⓛ ▁ Ⓘ § Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ C oche t ▁ Gabriel Ⓕ ▁ Ⓚ 2 44 Ⓛ ▁ Ⓘ § Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ V ↑ v e ↓ ▁ Coll e t Ⓕ ▁ Ⓚ 245 Ⓛ ▁ Ⓘ § Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ C re té ▁ h e ctor Ⓕ ▁ Ⓚ 24 6 Ⓛ ▁ Ⓘ § Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ N o b le t Ⓕ ▁ Ⓚ 2 47 Ⓛ ▁ Ⓘ § Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ M ay e ux Ⓕ ▁ Ⓚ 2 48 Ⓛ ▁ Ⓘ § Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ Bourdill at ▁ J ↑ n ↓ Ⓕ ▁ Ⓚ 249 Ⓛ ▁ Ⓘ § Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ L e roy ▁ G illes Ⓕ ▁ Ⓚ 250 Ⓛ ▁ Ⓘ § Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ R é m oud ▁ Charles Ⓕ ▁ Ⓚ 251 Ⓛ ▁ Ⓘ § Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ C oche t ▁ J ↑ n ↓ Ⓕ ▁ Ⓚ 251 ↑ bis ↓ Ⓛ ▁ Ⓘ § Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ Pi ger on Ⓕ ▁ Ⓚ 252 Ⓛ ▁ Ⓘ § Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ L e roy ▁ J ↑ n ↓ Ⓕ ▁ Ⓚ 253 Ⓛ ▁ Ⓘ § Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ Coll e t ▁ marie Ⓕ ▁ Ⓚ 254 Ⓛ ▁ Ⓘ § Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ B ar on ▁ N ↑ as ↓ Ⓕ ▁ Ⓚ 255 Ⓛ ▁ Ⓘ § Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ P illet Ⓕ ▁ Ⓚ 25 6 Ⓛ ▁ Ⓘ § Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ M ign ière ▁ Claude Ⓕ ▁ Ⓚ 25 7 Ⓛ ▁ Ⓘ § Ⓙ
+▁ Ⓖ E pin ette → Ⓗ ▁ Ⓔ Pi ger on Ⓕ ▁ Ⓚ 2 58 Ⓛ ▁ Ⓘ § Ⓙ
+▁ Ⓖ ou → C ro i x ▁ J ar ry Ⓗ ▁ Ⓔ L e s ▁ × C or d ay ± ▁ hospices Ⓕ ▁ Ⓚ 2 59 Ⓛ ▁ Ⓘ § Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ L e roy ▁ F ↑ ois ↓ Ⓕ ▁ Ⓚ 2 60 Ⓛ ▁ Ⓘ § Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ Bourdill at Ⓕ ▁ Ⓚ 26 1 Ⓛ ▁ Ⓘ § Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ V ↑ e ↓ ▁ M out ard Ⓕ ▁ Ⓚ 262 Ⓛ ▁ Ⓘ § Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ Ren ou l t ▁ J ↑ n ↓ ▁ B ↑ t e ↓ Ⓕ ▁ Ⓚ 2 63 Ⓛ ▁ Ⓘ § Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ Ch om pré ▁ maurice Ⓕ ▁ Ⓚ 2 64 Ⓛ ▁ Ⓘ § Ⓙ
+▁ Ⓖ L e s ▁ per re ux Ⓗ ▁ Ⓜ 149 Ⓝ ▁ Ⓔ J ave lot ▁ michel Ⓕ ▁ Ⓚ 58 6 Ⓛ ▁ Ⓘ Vigne Ⓙ
+▁ Ⓖ Ø Ⓗ ▁ Ⓜ 111 Ⓝ ▁ Ⓔ G a chet ▁ J ↑ n ↓ ▁ Ch ↑ les ↓→ G e ndre ▁ le ▁ m air e Ⓕ ▁ Ⓚ 58 7 Ⓛ ▁ Ⓘ id Ⓙ
+▁ Ⓖ Ø Ⓗ ▁ Ⓜ 198 Ⓝ ▁ Ⓔ h idelin e ▁ Louis Ⓕ ▁ Ⓚ 58 8 Ⓛ ▁ Ⓘ id Ⓙ
+▁ Ⓖ Ø Ⓗ ▁ Ⓜ 115 Ⓝ ▁ Ⓔ G a chet ▁ à ▁ Paris Ⓕ ▁ Ⓚ 115 Ⓛ ▁ Ⓘ Terre → à ▁ vig n e Ⓙ
+▁ Ⓖ Ø Ⓗ ▁ Ⓜ 162 Ⓝ ▁ Ⓔ Laurent ▁ Veuve Ⓕ ▁ Ⓚ 59 0 Ⓛ ▁ Ⓘ Vigne Ⓙ
+▁ Ⓖ Ø Ⓗ ▁ Ⓜ 207 Ⓝ ▁ Ⓔ M e u nier ▁ C adet Ⓕ ▁ Ⓚ 59 1 Ⓛ ▁ Ⓘ id Ⓙ
+▁ Ⓜ 1 73 Ⓝ ▁ Ⓔ L e ▁ G r ain ▁ ↑ Joseph ↓ ▁ le on ard Ⓕ ▁ Ⓚ 59 2 Ⓛ ▁ Ⓘ id Ⓙ
+▁ Ⓜ 23 5 Ⓝ ▁ Ⓔ P e rrier ▁ Pierre Ⓕ ▁ Ⓚ 59 3 Ⓛ ▁ Ⓘ id Ⓙ
+▁ Ⓜ 198 Ⓝ ▁ Ⓔ M ar t in ▁ M ar é ch al Ⓕ ▁ Ⓚ 59 4 Ⓛ ▁ Ⓘ id Ⓙ
+▁ Ⓜ 4 Ⓝ ▁ Ⓔ A r p e n t in ier ▁ f ↑ ois ↓ Ⓕ ▁ Ⓚ 59 5 Ⓛ ▁ Ⓘ Terre → a ▁ vig n e Ⓙ
+▁ Ⓜ 106 Ⓝ ▁ Ⓔ f our é ▁ f ↑ ois ↓ Ⓕ ▁ Ⓚ 59 6 Ⓛ ▁ Ⓘ Vigne Ⓙ
+▁ Ⓜ 84 Ⓝ ▁ Ⓔ D a v id ▁ Pierre Ⓕ ▁ Ⓚ 59 7 Ⓛ ▁ Ⓘ id Ⓙ
+▁ Ⓜ 1 1 Ⓝ ▁ Ⓔ au bert ▁ Jacques Ⓕ ▁ Ⓚ 59 8 Ⓛ ▁ Ⓘ id Ⓙ
+▁ Ⓜ 50 Ⓝ ▁ Ⓔ C a m ot ▁ × G e r v a i x ± ▁ Pierre Ⓕ ▁ Ⓚ 59 9 Ⓛ ▁ Ⓘ Terre → à ▁ vig n e Ⓙ
+▁ Ⓜ 1 1 Ⓝ ▁ Ⓔ au bert ▁ Jacques Ⓕ ▁ Ⓚ 60 0 Ⓛ ▁ Ⓘ Vigne Ⓙ
+▁ Ⓖ L a ▁ C ro i x ▁ de → S e in e Ⓗ ▁ Ⓜ 1 ↑ bis ↓→× 26 ± Ⓝ ▁ Ⓔ A n c e l le ▁ à ▁ E v re ux → B enne t ▁ V ↑ e ↓ Ⓕ ▁ Ⓚ 27 1 Ⓛ ▁ Ⓘ terre Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓜ 23 4 Ⓝ ▁ Ⓔ P vot ait ▁ V . ↑ e ↓ ▁ Claude Ⓕ ▁ Ⓚ 27 2 Ⓛ ▁ Ⓘ terre Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓜ × 143 ± Ⓝ ▁ Ⓔ × h ut e n ± Ⓕ ▁ Ⓚ × 27 2 bis ± Ⓛ ▁ Ⓘ × terre ± Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓜ 1 94 Ⓝ ▁ Ⓔ M on roy Ⓕ ▁ Ⓚ 2 73 Ⓛ ▁ Ⓘ terre Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓜ 237 Ⓝ ▁ Ⓔ R ag u e s Ⓕ ▁ Ⓚ 27 4 Ⓛ ▁ Ⓘ terre Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓜ 143 Ⓝ ▁ Ⓔ h ut in Ⓕ ▁ Ⓚ 275 Ⓛ ▁ Ⓘ terre Ⓙ
+▁ Ⓖ L a ▁ p lain e → b as s e Ⓗ ▁ Ⓜ 148 Ⓝ ▁ Ⓔ 27 6 Ⓕ ▁ Ⓚ J ar i e l ▁ h ↑ e r ↓ Ⓛ ▁ Ⓘ terre Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓜ 2 60 Ⓝ ▁ Ⓔ V e r on ▁ V ↑ e ↓ Ⓕ ▁ Ⓚ 277 Ⓛ ▁ Ⓘ terre Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓜ 100 Ⓝ ▁ Ⓔ D utray Ⓕ ▁ Ⓚ 278 Ⓛ ▁ Ⓘ terre Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓜ 152 Ⓝ ▁ Ⓔ J o l ly ▁ hippol i t e Ⓕ ▁ Ⓚ 27 9 Ⓛ ▁ Ⓘ terre Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓜ × 40 ± 37 Ⓝ ▁ Ⓔ B r ac on y ▁ V ↑ e ↓ ▁ Pierre Ⓕ ▁ Ⓚ 280 Ⓛ ▁ Ⓘ terre Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓜ 100 Ⓝ ▁ Ⓔ D utray Ⓕ ▁ Ⓚ 281 Ⓛ ▁ Ⓘ terre Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓜ 66 Ⓝ ▁ Ⓔ C ot t y Ⓕ ▁ Ⓚ 282 Ⓛ ▁ Ⓘ terre Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓜ 122 Ⓝ ▁ Ⓔ Grang é Ⓕ ▁ Ⓚ 283 Ⓛ ▁ Ⓘ terre Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓜ 277 ↑ bis ↓→× 93 ± Ⓝ ▁ Ⓔ Vigne t ❌❌ ▁ à ▁ ch ois y →× D e f or g e s ± ▁ à ▁ C or b e il Ⓕ ▁ Ⓚ 284 Ⓛ ▁ Ⓘ terre Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓜ 89 Ⓝ ▁ Ⓔ antoine → D e la nou e ▁ × J ↑ n ↓± Ⓕ ▁ Ⓚ 284 Ⓛ ▁ Ⓘ terre Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓜ 2 59 ↑ bis ↓ Ⓝ ▁ Ⓔ S aug in ▁ F ↑ ois ↓ Ⓕ ▁ Ⓚ 2 85 Ⓛ ▁ Ⓘ terre Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓜ 86 ↑ bis ↓ Ⓝ ▁ Ⓔ D e la nou e ▁ toussaint ▁ Jardin ier ▁ à ▁ Brie Ⓕ ▁ Ⓚ 2 85 ↑ bis ↓ Ⓛ ▁ Ⓘ terre Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓜ 84 Ⓝ ▁ Ⓔ D e la nou e ▁ J ↑ n ↓ ▁ bapt ▁ à ▁ G rin on Ⓕ ▁ Ⓚ 2 85 ↑ ter ↓ Ⓛ ▁ Ⓘ terre Ⓙ
+▁ Ⓖ Regard ▁ de ▁ la → L o g e Ⓗ ▁ Ⓔ Ch a il l ou ▁ pierre ▁ julie n Ⓕ ▁ Ⓚ 29 4 Ⓛ ▁ Ⓘ T Ⓙ ▁ Ⓐ 7 89 p → e t →79 0 p Ⓑ ▁ Ⓒ ☼ Ⓓ
+▁ Ⓖ § Ⓗ ▁ Ⓔ Ch a il l ou ▁ Louis ▁ frédéric Ⓕ ▁ Ⓚ 295 Ⓛ ▁ Ⓘ T Ⓙ ▁ Ⓐ 7 89 p Ⓑ ▁ Ⓒ ☼ Ⓓ
+▁ Ⓖ § Ⓗ ▁ Ⓔ L an d ry Ⓕ ▁ Ⓚ 29 6 Ⓛ ▁ Ⓘ T Ⓙ ▁ Ⓐ 783 → 7 85 →79 1 →79 2 →79 5 →79 6 →79 7 →79 7 ↑ bis ↓ →79 8 Ⓑ ▁ Ⓒ T Ⓓ
+▁ Ⓖ § Ⓗ ▁ Ⓔ O u tre q u in Ⓕ ▁ Ⓚ 29 7 Ⓛ ▁ Ⓘ T Ⓙ ▁ Ⓐ 7 87 Ⓑ ▁ Ⓒ Ø Ⓓ
+▁ Ⓖ § Ⓗ ▁ Ⓔ M au f r a ▁ à ▁ Paris Ⓕ ▁ Ⓚ 298 Ⓛ ▁ Ⓘ T Ⓙ ▁ Ⓐ 7 86 p Ⓑ ▁ Ⓒ Ø Ⓓ
+▁ Ⓖ § Ⓗ ▁ Ⓔ M o z e t ▁ p at is s ier Ⓕ ▁ Ⓚ 29 9 Ⓛ ▁ Ⓘ T Ⓙ ▁ Ⓐ 7 86 p Ⓑ ▁ Ⓒ Ø Ⓓ
+▁ Ⓖ § Ⓗ ▁ Ⓜ 87 Ⓝ ▁ Ⓔ G ou vern e ment ▁ ( le ) Ⓕ ▁ Ⓚ 300 Ⓛ ▁ Ⓘ Regard Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ Petit ▁ pierre ▁ F ↑ ois ↓ Ⓕ ▁ Ⓚ 30 1 Ⓛ ▁ Ⓘ T Ⓙ ▁ Ⓐ 7 82 Ⓑ ▁ Ⓒ Ø Ⓓ
+▁ Ⓖ § Ⓗ ▁ Ⓔ Ch a il l ou ▁ pierre ▁ julie n Ⓕ ▁ Ⓚ 30 2 Ⓛ ▁ Ⓘ T Ⓙ ▁ Ⓐ 7 81 Ⓑ ▁ Ⓒ ☼ Ⓓ
+▁ Ⓖ § Ⓗ ▁ Ⓔ Ch a il l ou ▁ J ↑ ques ↓ ▁ J ↑ n ↓ ▁ marie Ⓕ ▁ Ⓚ 303 Ⓛ ▁ Ⓘ T Ⓙ ▁ Ⓐ 7 80 Ⓑ ▁ Ⓒ ☼ Ⓓ
+▁ Ⓖ § Ⓗ ▁ Ⓔ Ch a il l ou ▁ pierre ▁ Julien Ⓕ ▁ Ⓚ 304 Ⓛ ▁ Ⓘ T Ⓙ ▁ Ⓐ 77 9 Ⓑ ▁ Ⓒ T Ⓓ
+▁ Ⓖ § Ⓗ ▁ Ⓔ B au chet ▁ jean ▁ louis Ⓕ ▁ Ⓚ 30 5 Ⓛ ▁ Ⓘ T Ⓙ ▁ Ⓐ 77 8 Ⓑ ▁ Ⓒ Ø Ⓓ
+▁ Ⓖ § Ⓗ ▁ Ⓔ B ou lo gn e ▁ philippe ▁ henry Ⓕ ▁ Ⓚ 30 6 Ⓛ ▁ Ⓘ T Ⓙ ▁ Ⓐ 777 Ⓑ ▁ Ⓒ Ø Ⓓ
+▁ Ⓖ § Ⓗ ▁ Ⓔ M e n a ger ▁ Jean ▁ Denis ▁ J os é e Ⓕ ▁ Ⓚ 307 Ⓛ ▁ Ⓘ T Ⓙ ▁ Ⓐ 7 76 Ⓑ ▁ Ⓒ Ø Ⓓ
+▁ Ⓜ 77 Ⓝ ▁ Ⓔ D e sg ro uet s ▁ B . ↑ t e ↓ Ⓕ ▁ Ⓚ 40 6 Ⓛ ▁ Ⓘ Terre Ⓙ
+▁ Ⓜ 93 →× 68 ± Ⓝ ▁ Ⓔ f e rrier e ▁ pierre →× Courtois ▁ Veuve ▁ Louis ± Ⓕ ▁ Ⓚ 40 7 Ⓛ ▁ Ⓘ id Ⓙ
+▁ Ⓜ 70 →× 62 ± Ⓝ ▁ Ⓔ P il le ux →× Courtois ± ▁ Julien n e ▁ f il le Ⓕ ▁ Ⓚ 40 8 Ⓛ ▁ Ⓘ id Ⓙ
+▁ Ⓜ 117 Ⓝ ▁ Ⓔ J a rrier ▁ Joseph ▁ ­ V ↑ on ↓ ▁ × fer mier ±→ à ▁ Or ave l Ⓕ ▁ Ⓚ 409 Ⓛ ▁ Ⓘ id Ⓙ
+▁ Ⓜ 9 Ⓝ ▁ Ⓔ B ar reau ▁ G ↑ m e ↓ ▁ maçon → à ▁ V al enton Ⓕ ▁ Ⓚ 410 Ⓛ ▁ Ⓘ id Ⓙ
+▁ Ⓜ 40 Ⓝ ▁ Ⓔ Ch al o pin ▁ bat e l ier Ⓕ ▁ Ⓚ 411 Ⓛ ▁ Ⓘ id Ⓙ
+▁ Ⓜ 1 81 Ⓝ ▁ Ⓔ M ay é ▁ Veuve Ⓕ ▁ Ⓚ 4 12 Ⓛ ▁ Ⓘ id Ⓙ
+▁ Ⓜ 9 Ⓝ ▁ Ⓔ B ar reau ▁ G ↑ m e ↓ ▁ maçon Ⓕ ▁ Ⓚ 41 3 Ⓛ ▁ Ⓘ id Ⓙ
+▁ Ⓜ 117 Ⓝ ▁ Ⓔ J a rrier ▁ Joseph Ⓕ ▁ Ⓚ 41 4 Ⓛ ▁ Ⓘ id Ⓙ
+▁ Ⓜ 3 1 →× 197 ± Ⓝ ▁ Ⓔ B out t e n ois →× T h ui llier ▁ Louis ± Ⓕ ▁ Ⓚ × 415 ± Ⓛ ▁ Ⓘ id Ⓙ
+▁ Ⓜ 1 4 Ⓝ ▁ Ⓔ B e lin ▁ Veuve Ⓕ ▁ Ⓚ 41 6 Ⓛ ▁ Ⓘ id Ⓙ
+▁ Ⓜ 104 Ⓝ ▁ Ⓔ G au t hier ▁ Louis → à ▁ V al enton Ⓕ ▁ Ⓚ 41 7 Ⓛ ▁ Ⓘ id Ⓙ
+▁ Ⓜ 1 86 Ⓝ ▁ Ⓔ S e b le ▁ Nicolas Ⓕ ▁ Ⓚ 41 8 Ⓛ ▁ Ⓘ id Ⓙ
+▁ Ⓜ 9 Ⓝ ▁ Ⓔ B ar reau ▁ G ↑ m e ↓ ▁ a ▁ V al enton Ⓕ ▁ Ⓚ 41 9 Ⓛ ▁ Ⓘ id Ⓙ
+▁ Ⓜ 9 Ⓝ ▁ Ⓔ id Ⓕ ▁ Ⓚ 4 20 Ⓛ ▁ Ⓘ id Ⓙ
+▁ Ⓖ Ru e ▁ des ▁ Carrière s Ⓗ ▁ Ⓔ E n au ▁ n our r is s e ur Ⓕ ▁ Ⓚ 281 Ⓛ ▁ Ⓘ Jardin Ⓙ ▁ Ⓐ 207 Ⓑ ▁ Ⓒ Jardin Ⓓ
+▁ Ⓖ § Ⓗ ▁ Ⓔ id e m Ⓕ ▁ Ⓚ 282 Ⓛ ▁ Ⓘ Jardin Ⓙ ▁ Ⓐ 208 Ⓑ ▁ Ⓒ Jardin Ⓓ
+▁ Ⓖ § Ⓗ ▁ Ⓔ id e m Ⓕ ▁ Ⓚ 283 Ⓛ ▁ Ⓘ Jardin Ⓙ ▁ Ⓐ 208 Ⓑ ▁ Ⓒ Jardin Ⓓ
+▁ Ⓖ chemin ▁ de → con f l ans ▁ à ▁ ch a → r enton Ⓗ ▁ Ⓔ Bourg oin ▁ inspecteur → des ▁ port e s ▁ de ▁ la ▁ ch a m b re ▁ des → d é p u té s Ⓕ ▁ Ⓚ 284 Ⓛ ▁ Ⓘ Jardin Ⓙ ▁ Ⓐ 20 9 Ⓑ ▁ Ⓒ Jardin Ⓓ
+▁ Ⓖ § Ⓗ ▁ Ⓔ id e m Ⓕ ▁ Ⓚ 284 Ⓛ ▁ Ⓘ Jardin Ⓙ ▁ Ⓐ 20 9 p Ⓑ ▁ Ⓒ Jardin Ⓓ
+▁ Ⓖ § Ⓗ ▁ Ⓔ L ' Etat Ⓕ ▁ Ⓚ 286 Ⓛ ▁ Ⓘ re g ard Ⓙ ▁ Ⓐ 210 Ⓑ ▁ Ⓒ re g ard ▁ n on ▁ imposable Ⓓ
+▁ Ⓖ § Ⓗ ▁ Ⓔ Bourg oin ▁ inspecteur Ⓕ ▁ Ⓚ 28 7 Ⓛ ▁ Ⓘ maison Ⓙ ▁ Ⓐ 211 Ⓑ ▁ Ⓒ maison Ⓓ
+▁ Ⓖ § Ⓗ ▁ Ⓔ id e m Ⓕ ▁ Ⓚ 28 8 Ⓛ ▁ Ⓘ batimen t Ⓙ ▁ Ⓐ 21 2 Ⓑ ▁ Ⓒ bât Ⓓ
+▁ Ⓖ § Ⓗ ▁ Ⓔ G u id al ▁ paul Ⓕ ▁ Ⓚ 2 89 Ⓛ ▁ Ⓘ Jardin Ⓙ ▁ Ⓐ 213 → 215 → 216 →217→218 Ⓑ ▁ Ⓒ Jardin → Cour ▁ B ↑ t e ↓→ Jardin → ter r as s e → jardin Ⓓ
+▁ Ⓖ Ru e ▁ des → Ⓗ ▁ Ⓔ G u id al ▁ paul Ⓕ ▁ Ⓚ 2 90 Ⓛ ▁ Ⓘ maison Ⓙ ▁ Ⓐ 21 4 Ⓑ ▁ Ⓒ pavillon Ⓓ
+▁ Ⓖ Carrière s Ⓗ ▁ Ⓔ id e m Ⓕ ▁ Ⓚ 29 1 Ⓛ ▁ Ⓘ maison Ⓙ ▁ Ⓐ 215 p Ⓑ ▁ Ⓒ cour ▁ e t ▁ B ↑ t e ↓ Ⓓ
+▁ Ⓖ § Ⓗ ▁ Ⓔ id e m Ⓕ ▁ Ⓚ 292 Ⓛ ▁ Ⓘ bâtiment Ⓙ ▁ Ⓐ 218 p Ⓑ ▁ Ⓒ Jardin Ⓓ
+▁ Ⓖ § Ⓗ ▁ Ⓔ S o ci é té ▁ de ▁ la ▁ g ar e Ⓕ ▁ Ⓚ 213 Ⓛ ▁ Ⓘ maison ▁ bt → e t ▁ cour Ⓙ ▁ Ⓐ 219 Ⓑ ▁ Ⓒ cour ▁ e t ▁ B ↑ t e ↓ Ⓓ
+▁ Ⓖ § Ⓗ ▁ Ⓔ id e m Ⓕ ▁ Ⓚ 29 4 Ⓛ ▁ Ⓘ Jardin Ⓙ ▁ Ⓐ 219 p Ⓑ ▁ Ⓒ cour ▁ e t ▁ B ↑ t e ↓ Ⓓ
+▁ Ⓖ Ru e ▁ de ▁ la ▁ mont ag n e Ⓗ ▁ Ⓔ G an de t ▁ charles ▁ antoine Ⓕ ▁ Ⓚ " Ⓛ ▁ Ⓘ maison Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ § Ⓕ ▁ Ⓚ 67 Ⓛ ▁ Ⓘ sol Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ § Ⓕ ▁ Ⓚ " Ⓛ ▁ Ⓘ maison Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ § Ⓕ ▁ Ⓚ 68 Ⓛ ▁ Ⓘ jardin Ⓙ
+▁ Ⓖ L a ▁ c ar rière ▁ e t → c ou p e ▁ de ▁ gent il ly Ⓗ ▁ Ⓔ Pi c ard ▁ Jean - Pierre →× L e g rand ▁ ger om e ± Ⓕ ▁ Ⓚ 60 Ⓛ ▁ Ⓘ Terre Ⓙ
+▁ Ⓖ id Ⓗ ▁ Ⓔ Pi c ard ▁ Jean ▁ Pierre →× L e g rand ± Ⓕ ▁ Ⓚ 61 Ⓛ ▁ Ⓘ Terre Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ P o l ly ▁ Jean ▁ marie × Louis ± Ⓕ ▁ Ⓚ 62 Ⓛ ▁ Ⓘ Terre Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ J o l ly ▁ Jean ▁ marie × Louis ± Ⓕ ▁ Ⓚ 63 Ⓛ ▁ Ⓘ Terrain ▁ e t Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ J o l ly ▁ Jean ▁ marie × Louis ± Ⓕ ▁ Ⓚ 64 Ⓛ ▁ Ⓘ Terre Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ C oche t ▁ Jean ▁ M arc ▁ mathieu →× Bourdill i at ▁ pierre ▁ gilles Ⓕ ▁ Ⓚ 65 Ⓛ ▁ Ⓘ Terre Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ C oche t ▁ Jean ▁ marc ▁ mathieu Ⓕ ▁ Ⓚ 66 Ⓛ ▁ Ⓘ Terre Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ N u l ▁ × Bourdill at ▁ pierre ▁ gilles ± Ⓕ ▁ Ⓚ × 67 ± Ⓛ ▁ Ⓘ × Terrain ▁ d é p ô t ± Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ Bourdill at ▁ id Ⓕ ▁ Ⓚ 68 Ⓛ ▁ Ⓘ Terre Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ Bourdill at ▁ id Ⓕ ▁ Ⓚ 69 Ⓛ ▁ Ⓘ Terre Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ Bourdill at ▁ id Ⓕ ▁ Ⓚ 70 Ⓛ ▁ Ⓘ Terrain ▁ → de ▁ c ar rière Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ Bourdill at ▁ id Ⓕ ▁ Ⓚ 71 Ⓛ ▁ Ⓘ Terre Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ M u v ard ▁ victor Ⓕ ▁ Ⓚ 72 Ⓛ ▁ Ⓘ Terre Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ C oche t ▁ nicolas ▁ aug ↑ t e ↓ Ⓕ ▁ Ⓚ 73 Ⓛ ▁ Ⓘ Terre Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ C oche t ▁ J ↑ n ↓ ▁ marc ▁ mathieu Ⓕ ▁ Ⓚ 74 Ⓛ ▁ Ⓘ Terre Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ C oche t Ⓕ ▁ Ⓚ 75 Ⓛ ▁ Ⓘ Terrain → de ▁ Carrière Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ T ier e ▁ aug ↑ t e ↓ ▁ athanase →× Lannes ▁ ( L ▁ de → m ontebello ) ± Ⓕ ▁ Ⓚ 76 Ⓛ ▁ Ⓘ Terre Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ × T ier e ▁ aug ↑ t e ↓ ▁ athanase ± →× Lannes ±→ N u l Ⓕ ▁ Ⓚ × 77 ± Ⓛ ▁ Ⓘ × sol ± Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ × S a illon ▁ f ait ▁ cour ± →× Duchamps ▁ s e r ru rier ▁ au ▁ K re m lin ± Ⓕ ▁ Ⓚ × 77 ± Ⓛ ▁ Ⓘ × B â t i ment → f or g e ± Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ Lannes ▁ ( de ▁ m ontebello ) ) → T ier e ▁ aug ↑ t e ↓ ▁ athanase Ⓕ ▁ Ⓚ 7 8 Ⓛ ▁ Ⓘ Terrain ▁ → de ▁ Carrière Ⓙ
+▁ Ⓜ 103 Ⓝ ▁ Ⓔ G au t hier ▁ Jean → V ↑ on ↓ ▁ à ▁ V al enton Ⓕ ▁ Ⓚ 91 Ⓛ ▁ Ⓘ Maison → B ▁ e t ▁ cour Ⓙ
+▁ Ⓜ 103 Ⓝ ▁ Ⓔ id Ⓕ ▁ Ⓚ 92 Ⓛ ▁ Ⓘ Jardin Ⓙ
+▁ Ⓜ 103 Ⓝ ▁ Ⓔ id Ⓕ ▁ Ⓚ 93 Ⓛ ▁ Ⓘ × P at ur e ±→ Terre Ⓙ
+▁ Ⓜ 103 Ⓝ ▁ Ⓔ id Ⓕ ▁ Ⓚ 94 Ⓛ ▁ Ⓘ × M a is ±→ terre Ⓙ
+▁ Ⓜ 68 Ⓝ ▁ Ⓔ D a m e ville ▁ J ↑ e s ↓ Ⓕ ▁ Ⓚ 95 Ⓛ ▁ Ⓘ Jardin Ⓙ
+▁ Ⓜ 71 Ⓝ ▁ Ⓔ D a m e ville ▁ M ar t in Ⓕ ▁ Ⓚ 96 Ⓛ ▁ Ⓘ id Ⓙ
+▁ Ⓜ 69 Ⓝ ▁ Ⓔ D a m e ville ▁ f ↑ ois ↓ ▁ ain é Ⓕ ▁ Ⓚ 97 Ⓛ ▁ Ⓘ id Ⓙ
+▁ Ⓜ 69 Ⓝ ▁ Ⓔ id Ⓕ ▁ Ⓚ 98 Ⓛ ▁ Ⓘ N ↑ t ↓ ▁ e t ▁ Cour Ⓙ
+▁ Ⓜ 71 Ⓝ ▁ Ⓔ D a m e ville ▁ M at h i e u Ⓕ ▁ Ⓚ 99 Ⓛ ▁ Ⓘ Maison → e t → Bat i ment Ⓙ
+▁ Ⓜ 69 Ⓝ ▁ Ⓔ D a m e ville ▁ f ↑ ois ↓ ▁ ain é Ⓕ ▁ Ⓚ 100 Ⓛ ▁ Ⓘ Maison → id Ⓙ
+▁ Ⓜ 68 Ⓝ ▁ Ⓔ D a m e ville ▁ J ↑ e s ↓ Ⓕ ▁ Ⓚ 101 Ⓛ ▁ Ⓘ Maison → B a ↑ t ↓ ▁ e t ▁ Cour Ⓙ
+▁ Ⓜ 103 Ⓝ ▁ Ⓔ G au t hier ▁ Jean → V ↑ on ↓ ▁ a ▁ V al enton Ⓕ ▁ Ⓚ 102 Ⓛ ▁ Ⓘ id Ⓙ
+▁ Ⓜ 68 Ⓝ ▁ Ⓔ D a m e ville ▁ J ↑ e s ↓→ e t ▁ C on s or ts Ⓕ ▁ Ⓚ 103 Ⓛ ▁ Ⓘ Cour ▁ C ↑ n e ↓ Ⓙ
+▁ Ⓜ 32 Ⓝ ▁ Ⓔ B ou le n ois Ⓕ ▁ Ⓚ 104 Ⓛ ▁ Ⓘ Regard Ⓙ
+▁ Ⓜ 165 Ⓝ ▁ Ⓔ P is que n aud ▁ V ↑ e ↓ Ⓕ ▁ Ⓚ 105 Ⓛ ▁ Ⓘ Jardin Ⓙ
+▁ Ⓖ L e ▁ Ch a il lo y Ⓗ ▁ Ⓜ 222 Ⓝ ▁ Ⓔ Pi c ard ▁ J n ↑ t ↓ Ⓕ ▁ Ⓚ 80 7 Ⓛ ▁ Ⓘ terre Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓜ 142 Ⓝ ▁ Ⓔ H u e ▁ Jacques Ⓕ ▁ Ⓚ 80 8 Ⓛ ▁ Ⓘ terre Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓜ 154 Ⓝ ▁ Ⓔ L aimé Ⓕ ▁ Ⓚ 80 9 Ⓛ ▁ Ⓘ vig n e Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓜ 216 →× 1 85 ± Ⓝ ▁ Ⓔ P e r rin ▁ f ois →× M ar t y ▁ à ▁ Paris ± Ⓕ ▁ Ⓚ 8 10 Ⓛ ▁ Ⓘ terre Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓜ 211 Ⓝ ▁ Ⓔ P a p a voi n e Ⓕ ▁ Ⓚ 81 1 Ⓛ ▁ Ⓘ terre Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓜ 3 9 Ⓝ ▁ Ⓔ B r ac on y ▁ louis Ⓕ ▁ Ⓚ 8 12 Ⓛ ▁ Ⓘ terre Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓜ 82 Ⓝ ▁ Ⓔ D e la nou e ▁ J ↑ n ↓ ▁ F ↑ ois ↓ Ⓕ ▁ Ⓚ 81 3 Ⓛ ▁ Ⓘ terre Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓜ 211 Ⓝ ▁ Ⓔ P a p a voi n e Ⓕ ▁ Ⓚ 81 4 Ⓛ ▁ Ⓘ terre Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓜ 170 Ⓝ ▁ Ⓔ L i é b o ▁ V ↑ e ↓ Ⓕ ▁ Ⓚ 8 15 Ⓛ ▁ Ⓘ terre Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓜ 2 21 →× 237 ± Ⓝ ▁ Ⓔ ↑ R ag uet ↓ Pi c ar é → J ↑ n ↓ ▁ L . ↑ is ↓ Ⓕ ▁ Ⓚ 81 6 Ⓛ ▁ Ⓘ terre Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓜ 1 1 Ⓝ ▁ Ⓔ B a sset ▁ Germain Ⓕ ▁ Ⓚ 81 7 Ⓛ ▁ Ⓘ terre Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓜ 6 Ⓝ ▁ Ⓔ B al u ▁ Pierre Ⓕ ▁ Ⓚ 81 8 Ⓛ ▁ Ⓘ terre Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓜ 170 Ⓝ ▁ Ⓔ L i e b o ▁ V ↑ e ↓ Ⓕ ▁ Ⓚ 81 9 Ⓛ ▁ Ⓘ terre Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓜ 37 Ⓝ ▁ Ⓔ B e rt rand ▁ louis Ⓕ ▁ Ⓚ 8 20 Ⓛ ▁ Ⓘ terre Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓜ 37 Ⓝ ▁ Ⓔ B r ac on y ▁ V ↑ e ↓ ▁ Pierre Ⓕ ▁ Ⓚ terre Ⓛ
+▁ Ⓖ L a ▁ Ch e v ru e Ⓗ ▁ Ⓔ C oche t , ▁ N ↑ as ↓ ▁ fils Ⓕ ▁ Ⓚ 59 1 Ⓛ ▁ Ⓘ Terre Ⓙ ▁ Ⓐ 41 3 → 41 4 Ⓑ ▁ Ⓒ T → T Ⓓ
+▁ Ⓖ Ø Ⓗ ▁ Ⓔ C re t té ▁ h e ctor Ⓕ ▁ Ⓚ 59 2 Ⓛ ▁ Ⓘ Terre Ⓙ ▁ Ⓐ 4 12 Ⓑ ▁ Ⓒ T Ⓓ
+▁ Ⓖ Ø Ⓗ ▁ Ⓔ Bourdill i at ▁ J ↑ n ↓ ▁ G u y Ⓕ ▁ Ⓚ 59 3 Ⓛ ▁ Ⓘ Vigne Ⓙ ▁ Ⓐ 409 → 410 Ⓑ ▁ Ⓒ T → T Ⓓ
+▁ Ⓖ Ø Ⓗ ▁ Ⓔ L e m ait re , ▁ veuve Ⓕ ▁ Ⓚ 59 4 Ⓛ ▁ Ⓘ Terre Ⓙ ▁ Ⓐ 411 Ⓑ ▁ Ⓒ T Ⓓ
+▁ Ⓖ Ø Ⓗ ▁ Ⓔ G illet ▁ D u e ▁ Claude Ⓕ ▁ Ⓚ 59 5 Ⓛ ▁ Ⓘ Terre Ⓙ
+▁ Ⓖ Ø Ⓗ ▁ Ⓔ L e roy ▁ Jean ▁ G illes Ⓕ ▁ Ⓚ 59 6 Ⓛ ▁ Ⓘ Vigne Ⓙ ▁ Ⓐ 40 7 Ⓑ ▁ Ⓒ T Ⓓ
+▁ Ⓖ Ø Ⓗ ▁ Ⓔ S ch il d ▁ Pierre Ⓕ ▁ Ⓚ 59 7 Ⓛ ▁ Ⓘ Terre Ⓙ ▁ Ⓐ 40 6 Ⓑ ▁ Ⓒ T Ⓓ
+▁ Ⓖ Ø Ⓗ ▁ Ⓔ Lab oreau , ▁ martin → veuve Ⓕ ▁ Ⓚ 59 8 Ⓛ ▁ Ⓘ Vigne Ⓙ ▁ Ⓐ 40 4 → 40 5 Ⓑ ▁ Ⓒ T → T Ⓓ
+▁ Ⓖ Ø Ⓗ ▁ Ⓔ M or t ier , ▁ F ↑ ois ↓ ▁ Pierre Ⓕ ▁ Ⓚ 59 9 Ⓛ ▁ Ⓘ Vigne Ⓙ ▁ Ⓐ 40 3 Ⓑ ▁ Ⓒ T Ⓓ
+▁ Ⓖ Ø Ⓗ ▁ Ⓔ C oche t , ▁ N ↑ as ↓ ▁ fils Ⓕ ▁ Ⓚ 60 0 Ⓛ ▁ Ⓘ Terre Ⓙ ▁ Ⓐ 40 2 Ⓑ ▁ Ⓒ Vig Ⓓ
+▁ Ⓖ Ø Ⓗ ▁ Ⓔ C l ér e , ▁ Jean ▁ J as per Ⓕ ▁ Ⓚ 60 1 Ⓛ ▁ Ⓘ Vigne Ⓙ ▁ Ⓐ 40 1 Ⓑ ▁ Ⓒ T Ⓓ
+▁ Ⓖ Ø Ⓗ ▁ Ⓔ P illet , ▁ Jean ▁ M ↑ i e ↓ ▁ fils Ⓕ ▁ Ⓚ 60 2 Ⓛ ▁ Ⓘ Terre Ⓙ ▁ Ⓐ 40 0 Ⓑ ▁ Ⓒ T Ⓓ
+▁ Ⓖ Ø Ⓗ ▁ Ⓔ C oche t ▁ N ↑ as ↓ ▁ Aug ↑ t e ↓ Ⓕ ▁ Ⓚ 60 3 Ⓛ ▁ Ⓘ Terre Ⓙ ▁ Ⓐ 3 99 Ⓑ ▁ Ⓒ T Ⓓ
+▁ Ⓖ Ø Ⓗ ▁ Ⓔ Coll e t , ▁ N ↑ as ↓ Ⓕ ▁ Ⓚ 60 4 Ⓛ ▁ Ⓘ Terre Ⓙ ▁ Ⓐ 3 98 Ⓑ ▁ Ⓒ vig Ⓓ
+▁ Ⓖ L a ▁ ma re ▁ d ' H ers e Ⓗ ▁ Ⓜ 4 Ⓝ ▁ Ⓔ an g e l ique ▁ J . ▁ F ↑ ois ↓→ B e l la n g is ▁ à ▁ Paris → anci e n ▁ ma g is t r at Ⓕ ▁ Ⓚ 106 Ⓛ ▁ Ⓘ terre Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓜ 67 Ⓝ ▁ Ⓔ G au t ier ▁ G aspard → P ér ign y Ⓕ ▁ Ⓚ 107 Ⓛ ▁ Ⓘ terre Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓜ 82 Ⓝ ▁ Ⓔ G au t ier ▁ Charles ▁ aimé ▁ à → P ér ign y Ⓕ ▁ Ⓚ 108 Ⓛ ▁ Ⓘ terre Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓜ 157 Ⓝ ▁ Ⓔ M ar ch an d ▁ A u ber g iste → Brie - Comte - Ro bert Ⓕ ▁ Ⓚ 109 Ⓛ ▁ Ⓘ terre Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓜ 157 Ⓝ ▁ Ⓔ id Ⓕ ▁ Ⓚ 110 Ⓛ ▁ Ⓘ terre Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓜ 157 Ⓝ ▁ Ⓔ id Ⓕ ▁ Ⓚ 111 Ⓛ ▁ Ⓘ terre Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓜ 122 Ⓝ ▁ Ⓔ 112 Ⓕ ▁ Ⓚ h ot e l - d i e u ▁ du ▁ Brie Ⓛ ▁ Ⓘ terre Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓜ 122 Ⓝ ▁ Ⓔ id Ⓕ ▁ Ⓚ 113 Ⓛ ▁ Ⓘ terre Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓜ 124 Ⓝ ▁ Ⓔ B ur é ▁ J ↑ n ↓ ▁ B ↑ t e ↓ ▁ P ér ign y Ⓕ ▁ Ⓚ 114 Ⓛ ▁ Ⓘ terre Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓜ 126 Ⓝ ▁ Ⓔ B ur é ▁ J - B ↑ t e ↓ ▁ Thibau t ▁ c u l t i ▁ p ér ign y Ⓕ ▁ Ⓚ 115 Ⓛ ▁ Ⓘ terre Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓜ 135 Ⓝ ▁ Ⓔ J a v on ▁ J . B ↑ t e ↓ ▁ h om m e ▁ de ▁ lo i ▁ à ▁ Paris Ⓕ ▁ Ⓚ 116 Ⓛ ▁ Ⓘ terre Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓜ 4 Ⓝ ▁ Ⓔ thomas → B on fils ▁ V ↑ e ↑ ▁ Bourg ▁ à ▁ Brie Ⓕ ▁ Ⓚ 117 Ⓛ ▁ Ⓘ terre Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓜ 122 Ⓝ ▁ Ⓔ h ôte l ▁ Dieu ▁ de ▁ Brie Ⓕ ▁ Ⓚ 118 Ⓛ ▁ Ⓘ terre Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓜ 159 Ⓝ ▁ Ⓔ Père ▁ ch ar on → M il li ar y ▁ × b ourgoi s ± ▁ Brie Ⓕ ▁ Ⓚ 1 19 Ⓛ ▁ Ⓘ terre Ⓙ
+▁ Ⓖ L ' or m e ▁ d ' h ers e Ⓗ ▁ Ⓜ 2 27 Ⓝ ▁ Ⓔ V e in a i v e ▁ ↑ p re ▁ noël ↓ ▁ père ▁ M andre Ⓕ ▁ Ⓚ 1 20 Ⓛ ▁ Ⓘ terre Ⓙ
+▁ Ⓜ 20 1 Ⓝ ▁ Ⓔ Pi ch ard ▁ Est her ▁ au b D . ▁ L a ▁ re in e Ⓕ ▁ Ⓚ 59 6 Ⓛ ▁ Ⓘ Terre Ⓙ
+▁ Ⓜ 1 21 Ⓝ ▁ Ⓔ g o de t roy Ⓕ ▁ Ⓚ 59 7 Ⓛ ▁ Ⓘ § Ⓙ
+▁ Ⓜ 165 Ⓝ ▁ Ⓔ M ar t in Ⓕ ▁ Ⓚ 59 8 Ⓛ ▁ Ⓘ § Ⓙ
+▁ Ⓜ 164 Ⓝ ▁ Ⓔ M ↑ e ↓ ▁ M ag né ▁ à ▁ é v re ux Ⓕ ▁ Ⓚ 59 9 Ⓛ ▁ Ⓘ § Ⓙ
+▁ Ⓜ 161 Ⓝ ▁ Ⓔ L e roy ▁ de ▁ la ▁ b ier e Ⓕ ▁ Ⓚ 60 0 Ⓛ ▁ Ⓘ § Ⓙ
+▁ Ⓜ 112 Ⓝ ▁ Ⓔ d ↑ e ↓ ▁ f au con ▁ à ▁ Ch at illon Ⓕ ▁ Ⓚ 60 1 Ⓛ ▁ Ⓘ § Ⓙ
+▁ Ⓜ 27 Ⓝ ▁ Ⓔ B erger ▁ J ↑ n ↓ ▁ B ↑ t e ↓ Ⓕ ▁ Ⓚ 60 2 Ⓛ ▁ Ⓘ § Ⓙ
+▁ Ⓜ 1 21 Ⓝ ▁ Ⓔ g odefroy Ⓕ ▁ Ⓚ 60 3 Ⓛ ▁ Ⓘ § Ⓙ
+▁ Ⓜ 118 Ⓝ ▁ Ⓔ g audo il Ⓕ ▁ Ⓚ 60 4 Ⓛ ▁ Ⓘ § Ⓙ
+▁ Ⓜ 77 Ⓝ ▁ Ⓔ D e la nou e ▁ g ↑ ain ↓ Ⓕ ▁ Ⓚ 6 65 Ⓛ ▁ Ⓘ § Ⓙ
+▁ Ⓜ 20 2 Ⓝ ▁ Ⓔ Pi ger on Ⓕ ▁ Ⓚ 60 6 Ⓛ ▁ Ⓘ § Ⓙ
+▁ Ⓜ 156 Ⓝ ▁ Ⓔ L e ▁ z ou g re ▁ i w ë l ▁ I s id or e Ⓕ ▁ Ⓚ 60 7 Ⓛ ▁ Ⓘ § Ⓙ
+▁ Ⓜ 1 77 Ⓝ ▁ Ⓔ M oreau ▁ p ↑ re ↓ ▁ paul Ⓕ ▁ Ⓚ 60 8 Ⓛ ▁ Ⓘ § Ⓙ
+▁ Ⓜ 2 23 Ⓝ ▁ Ⓔ V ↑ e ↓ ▁ sau rin ▁ j ↑ ques ↓ Ⓕ ▁ Ⓚ 60 9 Ⓛ ▁ Ⓘ § Ⓙ
+▁ Ⓜ 154 Ⓝ ▁ Ⓔ L e ▁ z ou g re ▁ M ↑ ri e ↓ ▁ louis e Ⓕ ▁ Ⓚ 6 10 Ⓛ ▁ Ⓘ § Ⓙ
+▁ Ⓜ 71 Ⓝ ▁ Ⓔ D e g r ain ▁ J ↑ n ↓ ▁ Louis Ⓕ ▁ Ⓚ 6 10 ↑ bis ↓ Ⓛ ▁ Ⓘ § Ⓙ
+▁ Ⓜ 12 7 Ⓝ ▁ Ⓔ h allé ▁ f ▁ n ↑ as ↓ ▁ j ↑ n ↓ Ⓕ ▁ Ⓚ 61 1 Ⓛ ▁ Ⓘ § Ⓙ
+▁ Ⓜ 21 2 Ⓝ ▁ Ⓔ V ↑ e ↓ ▁ Ren ard ▁ Etienne Ⓕ ▁ Ⓚ 6 12 Ⓛ ▁ Ⓘ § Ⓙ
+▁ Ⓜ 118 Ⓝ ▁ Ⓔ g e audo il Ⓕ ▁ Ⓚ 61 4 Ⓛ ▁ Ⓘ § Ⓙ
+▁ Ⓜ 21 Ⓝ ▁ Ⓔ B a z in ▁ P h ↑ e ↓ Ⓕ ▁ Ⓚ 6 15 Ⓛ ▁ Ⓘ § Ⓙ
+▁ Ⓖ L e s ▁ B on → M on v r ain e s Ⓗ ▁ Ⓜ 141 Ⓝ ▁ Ⓔ G u in e g ag n e ▁ denis ▁ Emmanuel Ⓕ ▁ Ⓚ 144 3 Ⓛ ▁ Ⓘ Vigne Ⓙ
+▁ Ⓖ Ø Ⓗ ▁ Ⓜ 72 Ⓝ ▁ Ⓔ C or n illard ▁ Cris t o p h e Ⓕ ▁ Ⓚ 122 4 Ⓛ ▁ Ⓘ id Ⓙ
+▁ Ⓖ Ø Ⓗ ▁ Ⓜ 236 Ⓝ ▁ Ⓔ Petit ▁ S p ir e Ⓕ ▁ Ⓚ 12 25 Ⓛ ▁ Ⓘ Terre ▁ à → vig n e Ⓙ
+▁ Ⓖ Ø Ⓗ ▁ Ⓜ 213 Ⓝ ▁ Ⓔ 122 6 Ⓕ ▁ Ⓚ Petit ▁ V ↑ e ↓ ▁ Jean ▁ ag n ant Ⓛ ▁ Ⓘ id Ⓙ
+▁ Ⓖ Ø Ⓗ ▁ Ⓜ 86 Ⓝ ▁ Ⓔ D e s ter n e ▁ V ↑ e ↓ ▁ E t ↑ n e ↓ Ⓕ ▁ Ⓚ 122 7 Ⓛ ▁ Ⓘ vig n e Ⓙ
+▁ Ⓖ Ø Ⓗ ▁ Ⓜ 5 Ⓝ ▁ Ⓔ A u b ry ▁ michel Ⓕ ▁ Ⓚ 1 228 Ⓛ ▁ Ⓘ Terre → à ▁ vig n e Ⓙ
+▁ Ⓖ Ø Ⓗ ▁ Ⓜ 262 Ⓝ ▁ Ⓔ V id r on ▁ Pierre Ⓕ ▁ Ⓚ 12 29 Ⓛ ▁ Ⓘ id Ⓙ
+▁ Ⓖ Ø Ⓗ ▁ Ⓜ 108 Ⓝ ▁ Ⓔ G al les ▁ J ↑ n ↓ ▁ f ↑ ois ↓ Ⓕ ▁ Ⓚ 1 230 Ⓛ ▁ Ⓘ vig n e Ⓙ
+▁ Ⓖ Ø Ⓗ ▁ Ⓜ 30 2 Ⓝ ▁ Ⓔ f au guer ▁ × les ▁ hé ri t ier s ±→ f ↑ ois ↓ ▁ × joseph ± Ⓕ ▁ Ⓚ 123 1 Ⓛ ▁ Ⓘ id Ⓙ
+▁ Ⓖ Ø Ⓗ ▁ Ⓜ 1 60 Ⓝ ▁ Ⓔ L i vern e t ▁ Etienne Ⓕ ▁ Ⓚ 123 2 Ⓛ ▁ Ⓘ id Ⓙ
+▁ Ⓖ Ø Ⓗ ▁ Ⓜ 26 1 Ⓝ ▁ Ⓔ V i al ▁ Guillaume Ⓕ ▁ Ⓚ 123 3 Ⓛ ▁ Ⓘ Terre → a ▁ vig n e Ⓙ
+▁ Ⓖ Ø Ⓗ ▁ Ⓜ 167 Ⓝ ▁ Ⓔ M al le ▁ f ↑ ois ↓ ▁ Père Ⓕ ▁ Ⓚ 123 4 Ⓛ ▁ Ⓘ id Ⓙ
+▁ Ⓖ Ø Ⓗ ▁ Ⓜ 1 89 Ⓝ ▁ Ⓔ M e u nier ▁ Jean ▁ Claude Ⓕ ▁ Ⓚ 123 5 Ⓛ ▁ Ⓘ id Ⓙ
+▁ Ⓖ Ø Ⓗ ▁ Ⓜ 218 Ⓝ ▁ Ⓔ Petit ▁ Louis ▁ Joseph Ⓕ ▁ Ⓚ 123 6 Ⓛ ▁ Ⓘ id Ⓙ
+▁ Ⓖ Ø Ⓗ ▁ Ⓜ 135 Ⓝ ▁ Ⓔ G u ér in ▁ jean ▁ denis → le ▁ J e u n e Ⓕ ▁ Ⓚ 123 7 Ⓛ ▁ Ⓘ id Ⓙ
+▁ Ⓜ 7 Ⓝ ▁ Ⓔ Ch a bert ▁ Charles Ⓕ ▁ Ⓚ 106 Ⓛ ▁ Ⓘ Maison Ⓙ
+▁ Ⓜ 226 Ⓝ ▁ Ⓔ M or e t ▁ e t ▁ consor s Ⓕ ▁ Ⓚ 107 Ⓛ ▁ Ⓘ Cour ▁ commune Ⓙ
+▁ Ⓜ 52 Ⓝ ▁ Ⓔ C a pro n ▁ H ↑ ers ↓ Ⓕ ▁ Ⓚ 108 Ⓛ ▁ Ⓘ M ↑ on ↓ ▁ e t ▁ Cour Ⓙ
+▁ Ⓜ 2 73 Ⓝ ▁ Ⓔ V i lain ▁ Louis → vig Ⓕ ▁ Ⓚ 109 Ⓛ ▁ Ⓘ I d Ⓙ
+▁ Ⓜ 12 Ⓝ ▁ Ⓔ Aubert ▁ F ↑ ois ↓ ▁ n o e l Ⓕ ▁ Ⓚ 110 Ⓛ ▁ Ⓘ m . ▁ b ↑ t ↓ ▁ e t ▁ cour Ⓙ
+▁ Ⓜ 168 Ⓝ ▁ Ⓔ L e du c ▁ c le ment Ⓕ ▁ Ⓚ 111 Ⓛ ▁ Ⓘ Jardin Ⓙ
+▁ Ⓖ \ Ⓗ ▁ Ⓜ 168 Ⓝ ▁ Ⓔ I d Ⓕ ▁ Ⓚ 112 Ⓛ ▁ Ⓘ m ↑ on ↓ ▁ e t ▁ cour Ⓙ
+▁ Ⓜ 80 Ⓝ ▁ Ⓔ D an cour t Ⓕ ▁ Ⓚ 113 Ⓛ ▁ Ⓘ J ard . ▁ d ' ag ré m Ⓙ
+▁ Ⓖ \ Ⓗ ▁ Ⓜ 80 Ⓝ ▁ Ⓔ id Ⓕ ▁ Ⓚ 114 Ⓛ ▁ Ⓘ m ↑ on ↓ ▁ M ❌❌❌ Ⓙ
+▁ Ⓜ 136 Ⓝ ▁ Ⓔ G u il bert ▁ not air e Ⓕ ▁ Ⓚ 115 Ⓛ ▁ Ⓘ Jardin Ⓙ
+▁ Ⓖ \ Ⓗ ▁ Ⓜ 196 Ⓝ ▁ Ⓔ id Ⓕ ▁ Ⓚ 116 Ⓛ ▁ Ⓘ M ↑ on ▁ e t ▁ Cour Ⓙ
+▁ Ⓜ 43 Ⓝ ▁ Ⓔ B re t on ▁ Jean ▁ P ↑ re ↓ ▁ v i t rier Ⓕ ▁ Ⓚ 117 Ⓛ ▁ Ⓘ M ↑ on ↓ ▁ e t ▁ Cour Ⓙ
+▁ Ⓖ \ Ⓗ ▁ Ⓜ 215 Ⓝ ▁ Ⓔ M o lo y ▁ J ↑ e s ↓ ▁ Jardin ier → à ▁ S u cy Ⓕ ▁ Ⓚ 118 Ⓛ ▁ Ⓘ id Ⓙ
+▁ Ⓖ \ Ⓗ ▁ Ⓜ 162 ↑ bis ↓ Ⓝ ▁ Ⓔ Laurent ▁ Etienne ▁ Ren é Ⓕ ▁ Ⓚ 1 19 Ⓛ ▁ Ⓘ Jardin Ⓙ
+▁ Ⓖ \ Ⓗ ▁ Ⓜ 162 Ⓝ ▁ Ⓔ id Ⓕ ▁ Ⓚ 1 20 Ⓛ ▁ Ⓘ M ↑ on ↓ ▁ e t ▁ cour Ⓙ
+▁ Ⓜ 36 Ⓝ ▁ Ⓔ Ch au m e t Ⓕ ▁ Ⓚ 136 Ⓛ ▁ Ⓘ Vigne Ⓙ
+▁ Ⓜ 242 Ⓝ ▁ Ⓔ Ren ard ▁ pierre Ⓕ ▁ Ⓚ 137 Ⓛ ▁ Ⓘ id Ⓙ
+▁ Ⓜ 208 Ⓝ ▁ Ⓔ P e n ain ▁ julie n Ⓕ ▁ Ⓚ 138 Ⓛ ▁ Ⓘ id Ⓙ
+▁ Ⓜ 208 Ⓝ ▁ Ⓔ id Ⓕ ▁ Ⓚ 139 Ⓛ ▁ Ⓘ Terre Ⓙ
+▁ Ⓜ 20 Ⓝ ▁ Ⓔ B o i reau ▁ antoine Ⓕ ▁ Ⓚ 140 Ⓛ ▁ Ⓘ id Ⓙ
+▁ Ⓜ 20 →× 85 ± Ⓝ ▁ Ⓔ id e m →× G au l ois ▁ Veuve → Laurent ▁ à ▁ abl on ± Ⓕ ▁ Ⓚ 141 Ⓛ ▁ Ⓘ id Ⓙ
+▁ Ⓜ 132 Ⓝ ▁ Ⓔ J ant on ▁ f ↑ ois ↓→ maçon ▁ à ▁ Vill e c resne Ⓕ ▁ Ⓚ 142 Ⓛ ▁ Ⓘ id Ⓙ
+▁ Ⓜ 36 Ⓝ ▁ Ⓔ Ch au m e t ▁ pierre Ⓕ ▁ Ⓚ 143 Ⓛ ▁ Ⓘ id Ⓙ
+▁ Ⓜ 13 Ⓝ ▁ Ⓔ Benoist ▁ Veuve → Jean Ⓕ ▁ Ⓚ 144 Ⓛ ▁ Ⓘ id Ⓙ
+▁ Ⓜ 12 Ⓝ ▁ Ⓔ Benoist ▁ françois Ⓕ ▁ Ⓚ 145 Ⓛ ▁ Ⓘ id Ⓙ
+▁ Ⓜ 23 Ⓝ ▁ Ⓔ B o i reau ▁ f ↑ ois ↓ Ⓕ ▁ Ⓚ 146 Ⓛ ▁ Ⓘ id Ⓙ
+▁ Ⓜ 1 76 Ⓝ ▁ Ⓔ M i ch ault → françois Ⓕ ▁ Ⓚ 147 Ⓛ ▁ Ⓘ id Ⓙ
+▁ Ⓜ 146 Ⓝ ▁ Ⓔ L e ▁ C o c q ▁ V ↑ e ↓ ▁ antoine Ⓕ ▁ Ⓚ 148 Ⓛ ▁ Ⓘ id Ⓙ
+▁ Ⓜ 147 Ⓝ ▁ Ⓔ L e ▁ C o c q ▁ Jacques Ⓕ ▁ Ⓚ 149 Ⓛ ▁ Ⓘ id Ⓙ
+▁ Ⓜ 140 Ⓝ ▁ Ⓔ L an d rin ▁ Jacques Ⓕ ▁ Ⓚ 150 Ⓛ ▁ Ⓘ id Ⓙ
+▁ Ⓖ les ▁ grande s ▁ vig n e s Ⓗ ▁ Ⓜ 141 Ⓝ ▁ Ⓔ Font ain e ▁ henry ▁ Vig ▁ VN Ⓕ ▁ Ⓚ 106 4 Ⓛ ▁ Ⓘ Vigne Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓜ 154 Ⓝ ▁ Ⓔ g au t ier ▁ ❌ E t ↑ n e ↓ ▁ vig ▁ VN Ⓕ ▁ Ⓚ 106 5 Ⓛ ▁ Ⓘ Vigne Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓜ 230 Ⓝ ▁ Ⓔ M ar t in ▁ Joseph ▁ Vig ▁ VN Ⓕ ▁ Ⓚ 106 6 Ⓛ ▁ Ⓘ Vigne Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓜ 307 Ⓝ ▁ Ⓔ V e n t u le ❌ ▁ Ch ↑ les ↓ ▁ Bourg . ▁ V n Ⓕ ▁ Ⓚ 106 7 Ⓛ ▁ Ⓘ Vigne Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓜ 249 Ⓝ ▁ Ⓔ × G u ign ot ▁ H ↑ r s ↓ ▁ VN → M at a o ▁ v ❌ t ❌❌ ▁ honoré ▁ a ▁ v n Ⓕ ▁ Ⓚ 106 8 Ⓛ ▁ Ⓘ Vigne Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓜ 108 Ⓝ ▁ Ⓔ D e g o y ▁ georges ▁ Vig ↑ on ↓ ▁ VN Ⓕ ▁ Ⓚ 106 9 Ⓛ ▁ Ⓘ Vigne Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓜ 13 Ⓝ ▁ Ⓔ B ac lin ▁ Ch ↑ les ↓ ▁ Vig ↑ on ↓ ▁ VN Ⓕ ▁ Ⓚ 10 70 Ⓛ ▁ Ⓘ Vigne Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓜ 141 Ⓝ ▁ Ⓔ Font ain e ▁ henry ▁ Vig ↑ on ↓ ▁ VN Ⓕ ▁ Ⓚ 107 1 Ⓛ ▁ Ⓘ Vigne Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓜ 275 Ⓝ ▁ Ⓔ Pi on ▁ denis ▁ Vig ↑ on ↓ ▁ VN Ⓕ ▁ Ⓚ 107 2 Ⓛ ▁ Ⓘ Vigne Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓜ 54 Ⓝ ▁ Ⓔ Ch a il l oux ▁ ma ri an n e ▁ × VN ±→ f e m m e ▁ d ' Etienne ▁ G aug ois ▁ à ▁ R ouvre Ⓕ ▁ Ⓚ 107 3 Ⓛ ▁ Ⓘ Vigne Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓜ 275 Ⓝ ▁ Ⓔ Pi on ▁ denis ▁ Vig ↑ on ↓ ▁ VN Ⓕ ▁ Ⓚ 107 4 Ⓛ ▁ Ⓘ Vigne Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓜ 133 Ⓝ ▁ Ⓔ D u ch ène ▁ ❌ ↑ an ↓ ▁ Vig . ▁ V al enton Ⓕ ▁ Ⓚ 107 5 Ⓛ ▁ Ⓘ Vigne Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓜ 2 29 Ⓝ ▁ Ⓔ M ar t in ▁ N ↑ as ↓ ▁ Vig ↑ on ↓ ▁ VN Ⓕ ▁ Ⓚ 107 6 Ⓛ ▁ Ⓘ Vigne Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓜ 281 Ⓝ ▁ Ⓔ P ouit t e t ▁ ❌ ↑ an ↓ ▁ michel ▁ VN → r a f f in e ur Ⓕ ▁ Ⓚ 107 7 Ⓛ ▁ Ⓘ Vigne Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓜ 60 Ⓝ ▁ Ⓔ Ch at e au ▁ J ↑ an ↓ ▁ A n t ↑ e ↓ ▁ maçon ▁ VN Ⓕ ▁ Ⓚ 107 8 Ⓛ ▁ Ⓘ Vigne Ⓙ
+▁ Ⓖ A j ous Ⓗ ▁ Ⓔ L a ▁ F o lleville Ⓕ ▁ Ⓚ 3 41 Ⓛ ▁ Ⓘ terre Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ V ↑ e ↓ ▁ D u d ouit Ⓕ ▁ Ⓚ 3 41 ↑ bis ↓ Ⓛ ▁ Ⓘ § Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ h ↑ re ↓ ▁ Radot ▁ h ↑ re ↓ Ⓕ ▁ Ⓚ 3 42 Ⓛ ▁ Ⓘ § Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ B ac ot Ⓕ ▁ Ⓚ 3 42 ↑ bis ↓ Ⓛ ▁ Ⓘ § Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ T ri os ot Ⓕ ▁ Ⓚ 3 43 Ⓛ ▁ Ⓘ § Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ L e v é Ⓕ ▁ Ⓚ 3 43 ↑ bis ↓ Ⓛ ▁ Ⓘ § Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ T ier e Ⓕ ▁ Ⓚ 3 44 Ⓛ ▁ Ⓘ § Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ B ac ot Ⓕ ▁ Ⓚ 3 44 ↑ bis ↓ Ⓛ ▁ Ⓘ § Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ Ru b ign y Ⓕ ▁ Ⓚ 3 45 Ⓛ ▁ Ⓘ § Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ L e v é Ⓕ ▁ Ⓚ 3 45 ↑ bis ↓ Ⓛ ▁ Ⓘ § Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ T ri os ot Ⓕ ▁ Ⓚ 34 6 Ⓛ ▁ Ⓘ § Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ id Ⓕ ▁ Ⓚ 3 47 Ⓛ ▁ Ⓘ § Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ D e mont Ⓕ ▁ Ⓚ 3 48 Ⓛ ▁ Ⓘ § Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ R ag on d é ▁ Paul Ⓕ ▁ Ⓚ 3 48 ↑ bis ↓ Ⓛ ▁ Ⓘ § Ⓙ
+▁ Ⓖ 21 Ⓗ ▁ Ⓔ h ↑ r s ↓ ▁ Radot Ⓕ ▁ Ⓚ 349 Ⓛ ▁ Ⓘ § Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ S e r v at rier Ⓕ ▁ Ⓚ 3 50 Ⓛ ▁ Ⓘ § Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ Thi ers Ⓕ ▁ Ⓚ 3 51 Ⓛ ▁ Ⓘ § Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ hospices Ⓕ ▁ Ⓚ 3 52 Ⓛ ▁ Ⓘ § Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ × Tiers ± ▁ h ôte l ▁ Dieu →× L e s ▁ Tiers ▁ hospices ± Ⓕ ▁ Ⓚ 3 53 Ⓛ ▁ Ⓘ § Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ id Ⓕ ▁ Ⓚ 3 54 Ⓛ ▁ Ⓘ § Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ id Ⓕ ▁ Ⓚ 3 55 Ⓛ ▁ Ⓘ § Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ L e roy ▁ J ↑ n ↓ Ⓕ ▁ Ⓚ 3 56 Ⓛ ▁ Ⓘ § Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ Ren ou l t Ⓕ ▁ Ⓚ 3 57 Ⓛ ▁ Ⓘ § Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ L a f o lleville Ⓕ ▁ Ⓚ 3 58 Ⓛ ▁ Ⓘ 21 Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ R ag on d é ▁ Paul Ⓕ ▁ Ⓚ 3 58 ↑ bis ↓ Ⓛ ▁ Ⓘ § Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ " Ⓕ ▁ Ⓚ 3 59 Ⓛ ▁ Ⓘ § Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ B ac ot Ⓕ ▁ Ⓚ 3 60 Ⓛ ▁ Ⓘ § Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ L e s ▁ hospices Ⓕ ▁ Ⓚ 3 60 ▁ bis Ⓛ ▁ Ⓘ § Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ R ag on d é Ⓕ ▁ Ⓚ 36 1 Ⓛ ▁ Ⓘ § Ⓙ
+▁ Ⓖ hau t e s ▁ f or m e s Ⓗ ▁ Ⓔ V ↑ e ↓ ▁ C or de y Ⓕ ▁ Ⓚ 146 ↑ bis ↓ Ⓛ ▁ Ⓘ terre Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ P on ç ar t Ⓕ ▁ Ⓚ 147 Ⓛ ▁ Ⓘ terre ▁ e t ▁ maison Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ Ren ou l t Ⓕ ▁ Ⓚ 148 Ⓛ ▁ Ⓘ terre Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ M e r r ot Ⓕ ▁ Ⓚ 149 Ⓛ ▁ Ⓘ § Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ L e roy ▁ antoine Ⓕ ▁ Ⓚ 150 Ⓛ ▁ Ⓘ § Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ V ↑ e ↓ ▁ D u mon d Ⓕ ▁ Ⓚ 151 Ⓛ ▁ Ⓘ § Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ B ac ot Ⓕ ▁ Ⓚ 151 ↑ bis ↓ Ⓛ ▁ Ⓘ § Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ V ↑ e ↓ ▁ G o de f ro id Ⓕ ▁ Ⓚ 152 Ⓛ ▁ Ⓘ § Ⓙ
+▁ Ⓖ Grang or Ⓗ ▁ Ⓔ C o ign e t ▁ f ↑ ois ↓ Ⓕ ▁ Ⓚ 152 Ⓛ ▁ Ⓘ § Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ B on gent Ⓕ ▁ Ⓚ 154 Ⓛ ▁ Ⓘ § Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ L e roy ▁ J ↑ n ↓ Ⓕ ▁ Ⓚ 155 Ⓛ ▁ Ⓘ vig n e Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ L e c a m us , ▁ V ↑ e ↓ ▁ Delorme Ⓕ ▁ Ⓚ 156 Ⓛ ▁ Ⓘ terre Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ V ↑ e ↓ ▁ C al ly Ⓕ ▁ Ⓚ 157 Ⓛ ▁ Ⓘ vig n e Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ V ↑ e ↓ ▁ B adet ▁ michel Ⓕ ▁ Ⓚ 1 58 Ⓛ ▁ Ⓘ id Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ L e roy ▁ nicolas Ⓕ ▁ Ⓚ 159 Ⓛ ▁ Ⓘ terre Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ P illet ▁ Jean Ⓕ ▁ Ⓚ 1 60 Ⓛ ▁ Ⓘ § Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ h ↑ r s ↓ ▁ Aubert Ⓕ ▁ Ⓚ 161 Ⓛ ▁ Ⓘ § Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ id Ⓕ ▁ Ⓚ 162 Ⓛ ▁ Ⓘ § Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ J o l ly Ⓕ ▁ Ⓚ 163 Ⓛ ▁ Ⓘ § Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ C oche t ▁ nicolas Ⓕ ▁ Ⓚ 164 Ⓛ ▁ Ⓘ vig n e Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ L e roy ▁ Antoine Ⓕ ▁ Ⓚ 165 Ⓛ ▁ Ⓘ terre Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ L e roy ▁ Jean Ⓕ ▁ Ⓚ 166 Ⓛ ▁ Ⓘ id Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ L e roy ▁ Georges Ⓕ ▁ Ⓚ 167 Ⓛ ▁ Ⓘ vig n e Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ L e fort Ⓕ ▁ Ⓚ 168 Ⓛ ▁ Ⓘ terre Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ Ch an e v as ▁ à ▁ arc u e il Ⓕ ▁ Ⓚ 169 Ⓛ ▁ Ⓘ § Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ M or t ier ▁ claude Ⓕ ▁ Ⓚ 170 Ⓛ ▁ Ⓘ § Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ N o b le t ▁ J ↑ n ↓ Ⓕ ▁ Ⓚ 1 71 Ⓛ ▁ Ⓘ vig n e Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ Bourdill at Ⓕ ▁ Ⓚ 172 Ⓛ ▁ Ⓘ terre Ⓙ
+▁ Ⓖ h ameau → Ⓗ ▁ Ⓔ × Gilbert ± ▁ L u p i e n ▁ c harpentier Ⓕ ▁ Ⓚ 166 1 Ⓛ ▁ Ⓘ Terre Ⓙ
+▁ Ⓖ d ' au s ter li t z Ⓗ ▁ Ⓔ × C harpentier ± ▁ id Ⓕ ▁ Ⓚ 166 2 Ⓛ ▁ Ⓘ Bat i m e n Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ Gilbert Ⓕ ▁ Ⓚ 166 3 Ⓛ ▁ Ⓘ id Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ id Ⓕ ▁ Ⓚ 166 4 Ⓛ ▁ Ⓘ × id ± ▁ jardin Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ id Ⓕ ▁ Ⓚ 166 5 Ⓛ ▁ Ⓘ maison Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ B ac ot Ⓕ ▁ Ⓚ 166 6 Ⓛ ▁ Ⓘ terre Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ Louis Ⓕ ▁ Ⓚ 166 7 Ⓛ ▁ Ⓘ Bat i ment Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ Vill ag ier Ⓕ ▁ Ⓚ 166 8 Ⓛ ▁ Ⓘ id Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ G ault r an Ⓕ ▁ Ⓚ 166 9 Ⓛ ▁ Ⓘ id ▁ + ▁ Terrain Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ M on g in Ⓕ ▁ Ⓚ 167 0 Ⓛ ▁ Ⓘ id Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ id Ⓕ ▁ Ⓚ 167 1 Ⓛ ▁ Ⓘ id Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ B a ch e l ier Ⓕ ▁ Ⓚ 167 2 Ⓛ ▁ Ⓘ Bat i ment Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ id Ⓕ ▁ Ⓚ 167 3 Ⓛ ▁ Ⓘ Jardin Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ Tiers Ⓕ ▁ Ⓚ 167 4 Ⓛ ▁ Ⓘ terre Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ B ac ot Ⓕ ▁ Ⓚ 167 5 Ⓛ ▁ Ⓘ id Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ D u d ouit Ⓕ ▁ Ⓚ 167 6 Ⓛ ▁ Ⓘ id Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ L e s i e ur Ⓕ ▁ Ⓚ 167 7 Ⓛ ▁ Ⓘ Maison Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ P ot ier Ⓕ ▁ Ⓚ 167 8 Ⓛ ▁ Ⓘ Jardin Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ id Ⓕ ▁ Ⓚ 167 9 Ⓛ ▁ Ⓘ Maison Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ id Ⓕ ▁ Ⓚ 168 0 Ⓛ ▁ Ⓘ id Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ L e s ▁ hospices ▁ ( d ans ▁ Paris ) Ⓕ ▁ Ⓚ 168 1 Ⓛ ▁ Ⓘ terre Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ id ▁ id ▁ id Ⓕ ▁ Ⓚ 168 2 Ⓛ ▁ Ⓘ § Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ L a ▁ F o lleville Ⓕ ▁ Ⓚ 168 3 Ⓛ ▁ Ⓘ § Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ L e s ▁ hospices ▁ d ans ▁ Paris Ⓕ ▁ Ⓚ 168 4 Ⓛ ▁ Ⓘ § Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ id ▁ id Ⓕ ▁ Ⓚ 168 5 Ⓛ ▁ Ⓘ § Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ V ↑ e ↓ ▁ hé lin Ⓕ ▁ Ⓚ 168 6 Ⓛ ▁ Ⓘ Jardin Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ id Ⓕ ▁ Ⓚ 168 7 Ⓛ ▁ Ⓘ maison Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ id Ⓕ ▁ Ⓚ 168 8 Ⓛ ▁ Ⓘ Jardin Ⓙ
+▁ Ⓖ L e s → C la m ard s Ⓗ ▁ Ⓔ A l ly ▁ Joseph ▁ Mari e Ⓕ ▁ Ⓚ 6 45 Ⓛ ▁ Ⓘ T Ⓙ ▁ Ⓐ 37 20 Ⓑ ▁ Ⓒ Vig Ⓓ
+▁ Ⓖ § Ⓗ ▁ Ⓔ H é ricour t ▁ Pierre ▁ Saturnin Ⓕ ▁ Ⓚ 64 6 Ⓛ ▁ Ⓘ T Ⓙ ▁ Ⓐ 37 21 → P ↑ t e ↓ 37 22 → chemin Ⓑ ▁ Ⓒ T → T → " Ⓓ
+▁ Ⓖ § Ⓗ ▁ Ⓔ H é ricour t ▁ Louis ▁ Victor Ⓕ ▁ Ⓚ 6 47 Ⓛ ▁ Ⓘ T Ⓙ ▁ Ⓐ P tie ▁ 37 22 → chemin Ⓑ ▁ Ⓒ T → " Ⓓ
+▁ Ⓖ § Ⓗ ▁ Ⓔ Rameau ▁ Pierre ▁ C ô m e Ⓕ ▁ Ⓚ 6 48 Ⓛ ▁ Ⓘ Vigne Ⓙ ▁ Ⓐ 37 26 → 37 24 Ⓑ ▁ Ⓒ Vig → T Ⓓ
+▁ Ⓖ § Ⓗ ▁ Ⓔ M é rillon ▁ Jean ▁ Denis , ▁ V ↑ v e ↓ Ⓕ ▁ Ⓚ 6 49 Ⓛ ▁ Ⓘ T Ⓙ ▁ Ⓐ 37 25 Ⓑ ▁ Ⓒ T Ⓓ
+▁ Ⓖ § Ⓗ ▁ Ⓔ B erger ▁ A mbroise ▁ ma g lo ir e Ⓕ ▁ Ⓚ 6 50 Ⓛ ▁ Ⓘ T Ⓙ ▁ Ⓐ 37 26 Ⓑ ▁ Ⓒ T Ⓓ
+▁ Ⓖ § Ⓗ ▁ Ⓔ V e r n e au ▁ Jean , ▁ dit ▁ le → D o g u e Ⓕ ▁ Ⓚ 65 1 Ⓛ ▁ Ⓘ Vigne Ⓙ ▁ Ⓐ p tie ▁ 37 27 Ⓑ ▁ Ⓒ Vig Ⓓ
+▁ Ⓖ § Ⓗ ▁ Ⓔ B erger ▁ Bapt iste Ⓕ ▁ Ⓚ 65 2 Ⓛ ▁ Ⓘ T Ⓙ ▁ Ⓐ P ↑ tie ↓ ▁ 37 27 → 37 28 Ⓑ ▁ Ⓒ Vig → T Ⓓ
+▁ Ⓖ § Ⓗ ▁ Ⓔ A n c e lot ▁ nicolas , ▁ dit ▁ ancel on → Veuve Ⓕ ▁ Ⓚ 6 59 Ⓛ ▁ Ⓘ T Ⓙ ▁ Ⓐ P ↑ tie ↓ ▁ 37 29 Ⓑ ▁ Ⓒ T Ⓓ
+▁ Ⓖ § Ⓗ ▁ Ⓔ M ous c adet ▁ Pierre ▁ Grégoire → à ▁ Font enay Ⓕ ▁ Ⓚ 65 4 Ⓛ ▁ Ⓘ T Ⓙ ▁ Ⓐ P ↑ tie ↓ ▁ 37 29 Ⓑ ▁ Ⓒ T Ⓓ
+▁ Ⓖ § Ⓗ ▁ Ⓔ B euze ville ▁ charles , ▁ dit → M i ch on Ⓕ ▁ Ⓚ 65 5 Ⓛ ▁ Ⓘ T Ⓙ ▁ Ⓐ 3 732 Ⓑ ▁ Ⓒ Vig Ⓓ
+▁ Ⓖ § Ⓗ ▁ Ⓔ H é ricour d ▁ Louis ▁ Gabriel Ⓕ ▁ Ⓚ 65 6 Ⓛ ▁ Ⓘ T Ⓙ ▁ Ⓐ 3 731 Ⓑ ▁ Ⓒ T Ⓓ
+▁ Ⓖ § Ⓗ ▁ Ⓔ A n c e lot ▁ Pierre ▁ Saturnin , ▁ dit ▁ C ar a b in Ⓕ ▁ Ⓚ 65 7 Ⓛ ▁ Ⓘ T Ⓙ ▁ Ⓐ 37 30 Ⓑ ▁ Ⓒ T Ⓓ
+▁ Ⓖ § Ⓗ ▁ Ⓔ A n c e lot ▁ Nicolas ▁ Joseph Ⓕ ▁ Ⓚ 65 8 Ⓛ ▁ Ⓘ T Ⓙ ▁ Ⓐ P ↑ tie ↓ ▁ 37 33 Ⓑ ▁ Ⓒ T Ⓓ
+▁ Ⓜ 101 Ⓝ ▁ Ⓔ L ar mé e ▁ J ▁ D Ⓕ ▁ Ⓚ 49 6 Ⓛ ▁ Ⓘ vig n e Ⓙ
+▁ Ⓜ 81 Ⓝ ▁ Ⓔ G au t hier ▁ P ↑ re ↓ ▁ f ↑ ois ↓ Ⓕ ▁ Ⓚ 49 7 Ⓛ ▁ Ⓘ id Ⓙ
+▁ Ⓜ 159 Ⓝ ▁ Ⓔ R i ch ard ▁ taill e ur → de ▁ pierre Ⓕ ▁ Ⓚ 49 8 Ⓛ ▁ Ⓘ terre Ⓙ
+▁ Ⓜ 101 Ⓝ ▁ Ⓔ L ar mé e ▁ J ↑ n ↓ ▁ B ↑ t e ↓ Ⓕ ▁ Ⓚ 49 9 Ⓛ ▁ Ⓘ id Ⓙ
+▁ Ⓜ 1 82 Ⓝ ▁ Ⓔ Thi vot ▁ bapt . Ⓕ ▁ Ⓚ 50 0 Ⓛ ▁ Ⓘ vig n e Ⓙ
+▁ Ⓜ 18 3 Ⓝ ▁ Ⓔ V ↑ e ↓ ▁ Thi vot ▁ à ▁ c resne Ⓕ ▁ Ⓚ 50 1 Ⓛ ▁ Ⓘ terre Ⓙ
+▁ Ⓜ 81 Ⓝ ▁ Ⓔ G au t hier ▁ P ↑ re ↓ ▁ f ↑ ois ↓ Ⓕ ▁ Ⓚ 50 2 Ⓛ ▁ Ⓘ vig n e Ⓙ
+▁ Ⓜ 101 Ⓝ ▁ Ⓔ L ar mé e Ⓕ ▁ Ⓚ 50 9 Ⓛ ▁ Ⓘ id Ⓙ
+▁ Ⓜ 23 Ⓝ ▁ Ⓔ B ou ch e r ▁ michel Ⓕ ▁ Ⓚ 50 4 Ⓛ ▁ Ⓘ id Ⓙ
+▁ Ⓜ 73 Ⓝ ▁ Ⓔ F e r ry ▁ J ↑ n ↓ ▁ louis Ⓕ ▁ Ⓚ 50 5 Ⓛ ▁ Ⓘ id Ⓙ
+▁ Ⓜ 1 82 Ⓝ ▁ Ⓔ Thi vot ▁ bapt Ⓕ ▁ Ⓚ 50 6 Ⓛ ▁ Ⓘ id Ⓙ
+▁ Ⓜ 101 Ⓝ ▁ Ⓔ L ar mé e ▁ J ↑ n ↓ Ⓕ ▁ Ⓚ 50 7 Ⓛ ▁ Ⓘ id Ⓙ
+▁ Ⓜ 6 Ⓝ ▁ Ⓔ Aug r ot ▁ font ain ier Ⓕ ▁ Ⓚ 50 8 Ⓛ ▁ Ⓘ Jardin →× v erger ± Ⓙ
+▁ Ⓜ 6 Ⓝ ▁ Ⓔ id Ⓕ ▁ Ⓚ 50 9 Ⓛ ▁ Ⓘ × bâtiment ±→ Maison Ⓙ
+▁ Ⓜ 6 Ⓝ ▁ Ⓔ id Ⓕ ▁ Ⓚ 5 10 Ⓛ ▁ Ⓘ vig n e Ⓙ
+▁ Ⓖ Ru e ▁ des ▁ Carrière s Ⓗ ▁ Ⓔ S o ci é té ▁ de ▁ la ▁ G ar e Ⓕ ▁ Ⓚ 295 Ⓛ ▁ Ⓘ Jardin Ⓙ ▁ Ⓐ 220 ▁ portion → 222 → 2 23 → 2 24 → 2 25 → 226 Ⓑ ▁ Ⓒ Jardin → ré s e r voi r → f our → maison → bât → bât Ⓓ
+▁ Ⓖ Ru e ▁ de → Ⓗ ▁ Ⓔ L e mon nier ▁ J ↑ n ↓ ▁ F ois Ⓕ ▁ Ⓚ 29 6 Ⓛ ▁ Ⓘ Jardin Ⓙ ▁ Ⓐ 220 p Ⓑ ▁ Ⓒ Jardin Ⓓ
+▁ Ⓖ Paris Ⓗ ▁ Ⓔ Idem Ⓕ ▁ Ⓚ 29 7 Ⓛ ▁ Ⓘ Jardin Ⓙ ▁ Ⓐ 220 p Ⓑ ▁ Ⓒ Jardin Ⓓ
+▁ Ⓖ § Ⓗ ▁ Ⓔ D e s t o uches ▁ auguste Ⓕ ▁ Ⓚ 298 Ⓛ ▁ Ⓘ maison ▁ bt → e t ▁ cour → n ° 63 Ⓙ ▁ Ⓐ 220 p → 2 21 Ⓑ ▁ Ⓒ Jardin → Maison Ⓓ
+▁ Ⓖ § Ⓗ ▁ Ⓔ B e r tau t ▁ antoine → veuve Ⓕ ▁ Ⓚ 29 9 Ⓛ ▁ Ⓘ maison →× e t ± ▁ cour → n ° 61 Ⓙ ▁ Ⓐ 220 p Ⓑ ▁ Ⓒ Jardin Ⓓ
+▁ Ⓖ § Ⓗ ▁ Ⓔ L e mon nier ▁ J n ▁ F r Ⓕ ▁ Ⓚ 300 Ⓛ ▁ Ⓘ maison → n ° 59 Ⓙ ▁ Ⓐ 220 p Ⓑ ▁ Ⓒ Ø Ⓓ
+▁ Ⓖ § Ⓗ ▁ Ⓔ id e m Ⓕ ▁ Ⓚ 30 1 Ⓛ ▁ Ⓘ maison ▁ bat → e t ▁ cour Ⓙ ▁ Ⓐ 220 p Ⓑ ▁ Ⓒ Ø Ⓓ
+▁ Ⓖ § Ⓗ ▁ Ⓔ M a sson Ⓕ ▁ Ⓚ 30 2 Ⓛ ▁ Ⓘ Jardin Ⓙ ▁ Ⓐ 220 p Ⓑ ▁ Ⓒ Ø Ⓓ
+▁ Ⓖ § Ⓗ ▁ Ⓔ id e m Ⓕ ▁ Ⓚ 303 Ⓛ ▁ Ⓘ n ° 55 → maison ▁ b ↑ t ↓→ e t ▁ cour Ⓙ ▁ Ⓐ 220 p Ⓑ ▁ Ⓒ Ø Ⓓ
+▁ Ⓖ § Ⓗ ▁ Ⓔ T h e v e n e z ▁ E t ↑ e ↓ ▁ ant ↑ e ↓ Ⓕ ▁ Ⓚ 303 ↑ bis ↓ Ⓛ ▁ Ⓘ m ↑ on ↓ ▁ B ↑ t ↓→ cour → n ° 57 Ⓙ ▁ Ⓐ Ø Ⓑ ▁ Ⓒ Ø Ⓓ
+▁ Ⓖ § Ⓗ ▁ Ⓜ 37 9 Ⓝ ▁ Ⓔ P h il li p p e t z ▁ F ré d é ri c Ⓕ ▁ Ⓚ 304 Ⓛ ▁ Ⓘ Maison ▁ bt ▁ e t ▁ cour Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ P e t z e l Ⓕ ▁ Ⓚ 30 5 Ⓛ ▁ Ⓘ Jardin Ⓙ ▁ Ⓐ 220 p Ⓑ ▁ Ⓒ Ø Ⓓ
+▁ Ⓖ § Ⓗ ▁ Ⓔ S u li an ▁ ( D e s an ut ) → pierre ▁ R ay mon d Ⓕ ▁ Ⓚ 30 6 Ⓛ ▁ Ⓘ Jardin Ⓙ ▁ Ⓐ 220 p Ⓑ ▁ Ⓒ Ø Ⓓ
+▁ Ⓖ § Ⓗ ▁ Ⓔ id e m Ⓕ ▁ Ⓚ 307 Ⓛ ▁ Ⓘ maison ▁ b ↑ t ↓→ e t ▁ cour Ⓙ ▁ Ⓐ 220 p Ⓑ ▁ Ⓒ Ø Ⓓ
+▁ Ⓖ § Ⓗ ▁ Ⓔ id e m Ⓕ ▁ Ⓚ 30 8 Ⓛ ▁ Ⓘ maison Ⓙ ▁ Ⓐ 220 p Ⓑ ▁ Ⓒ Ø Ⓓ
+▁ Ⓖ L e s ▁ F l ouvi ers Ⓗ ▁ Ⓔ C as s e n ▁ de ▁ C i abl ice ▁ augustin ▁ marie ▁ s y l v ain → Paris Ⓕ ▁ Ⓚ 80 7 Ⓛ ▁ Ⓘ T Ⓙ ▁ Ⓐ 3 63 Ⓑ ▁ Ⓒ T Ⓓ
+▁ Ⓖ id Ⓗ ▁ Ⓔ D e la nou e ▁ marie ▁ g e n e v i èv e ▁ ( d ↑ e l le ↓ ) ▁ Paris Ⓕ ▁ Ⓚ 80 8 Ⓛ ▁ Ⓘ T Ⓙ ▁ Ⓐ 3 63 ↑ 2 ↓ Ⓑ ▁ Ⓒ T Ⓓ
+▁ Ⓖ § Ⓗ ▁ Ⓔ B out té ▁ Charles ▁ Joseph ▁ denis , ▁ Paris → ( Veuve ) Ⓕ ▁ Ⓚ 80 9 Ⓛ ▁ Ⓘ T Ⓙ ▁ Ⓐ 3 64 Ⓑ ▁ Ⓒ T Ⓓ
+▁ Ⓖ § Ⓗ ▁ Ⓔ L e le u ▁ h u bert ▁ Noël , ▁ Paris Ⓕ ▁ Ⓚ 8 10 Ⓛ ▁ Ⓘ T Ⓙ ▁ Ⓐ 3 64 ↑ 2 ↓ Ⓑ ▁ Ⓒ T Ⓓ
+▁ Ⓖ § Ⓗ ▁ Ⓔ Pi or s ▁ augustin , ▁ V ↑ e ↓ Ⓕ ▁ Ⓚ 81 1 Ⓛ ▁ Ⓘ T Ⓙ ▁ Ⓐ 3 64 ↑ 3 ↓ Ⓑ ▁ Ⓒ T Ⓓ
+▁ Ⓖ § Ⓗ ▁ Ⓔ L e le u ▁ h u bert ▁ Noël , ▁ Paris Ⓕ ▁ Ⓚ 8 12 Ⓛ ▁ Ⓘ T Ⓙ ▁ Ⓐ 3 68 Ⓑ ▁ Ⓒ T Ⓓ
+▁ Ⓖ § Ⓗ ▁ Ⓔ D u rand ▁ Jean ▁ Etienne , ▁ les ▁ h ↑ ers ↓ , ▁ à ▁ b i c è tre Ⓕ ▁ Ⓚ 81 3 Ⓛ ▁ Ⓘ T Ⓙ ▁ Ⓐ 3 69 Ⓑ ▁ Ⓒ T Ⓓ
+▁ Ⓖ § Ⓗ ▁ Ⓔ D e la nou e ▁ Toussaint , ▁ Or ly Ⓕ ▁ Ⓚ 81 4 Ⓛ ▁ Ⓘ T Ⓙ
+▁ Ⓖ § Ⓗ ▁ Ⓔ Pi ger on , ▁ Paris Ⓕ ▁ Ⓚ 8 15 Ⓛ ▁ Ⓘ T Ⓙ ▁ Ⓐ 3 66 → 36 7 Ⓑ ▁ Ⓒ T → T Ⓓ
+▁ Ⓖ § Ⓗ ▁ Ⓔ C out é ▁ Jean ▁ Jacques Ⓕ ▁ Ⓚ 81 6 Ⓛ ▁ Ⓘ T Ⓙ ▁ Ⓐ 3 65 Ⓑ ▁ Ⓒ T Ⓓ
+▁ Ⓖ L e ▁ Trav y Ⓗ ▁ Ⓔ hé bert ▁ Louis ▁ V ↑ e ↓ , ▁ Or ly Ⓕ ▁ Ⓚ 81 7 Ⓛ ▁ Ⓘ T Ⓙ ▁ Ⓐ 45 6 Ⓑ ▁ Ⓒ T Ⓓ
+▁ Ⓖ d Ⓗ ▁ Ⓔ M m ↑ e ↓ ▁ L ér ault ▁ V ↑ e ↓ , ▁ né e ▁ V éron , ▁ Paris Ⓕ ▁ Ⓚ 81 8 Ⓛ ▁ Ⓘ T Ⓙ ▁ Ⓐ 45 7 Ⓑ ▁ Ⓒ T Ⓓ
+▁ Ⓖ § Ⓗ ▁ Ⓔ L e roy ▁ de ▁ la ▁ B rière ▁ F ur cy ▁ marie ▁ nicolas , ▁ Or ly Ⓕ ▁ Ⓚ 81 9 Ⓛ ▁ Ⓘ T Ⓙ ▁ Ⓐ 4 58 Ⓑ ▁ Ⓒ T Ⓓ
+▁ Ⓖ § Ⓗ ▁ Ⓔ B a sset ▁ Philippe , ▁ V ↑ e ↓ , ▁ y ères Ⓕ ▁ Ⓚ 8 20 Ⓛ ▁ Ⓘ T Ⓙ ▁ Ⓐ 4 59 Ⓑ ▁ Ⓒ T Ⓓ

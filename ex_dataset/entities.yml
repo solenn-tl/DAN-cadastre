@@ -1,0 +1,9 @@
+---
+entities:
+- ancien_numero_parcelle
+- ancienne_nature
+- identite
+- lieu-dit
+- nature
+- numero_parcelle
+- numero_proprietaire

@@ -1,0 +1,1823 @@
+Ⓖ le ▁ Bouvy ▁ Ⓗ Ⓔ Marbot ▁ ( ▁ le ▁ Baron ▁ )Ⓕ ▁ Ⓚ 141 ▁ Ⓛ Ⓘ reservoir ▁ Ⓙ Ⓐ p ▁ . ▁ 134 ▁ Ⓑ Ⓒ Bois ▁ Ⓓ
+Ⓖ§Ⓗ ▁ Ⓔ§Ⓕ ▁ Ⓚ 142 ▁ Ⓛ Ⓘ( ▁ pavillon ▁ )→ ▁ bâtiment ▁ Ⓙ Ⓐ 140 ▁ Ⓑ Ⓒ pavillon ▁ Ⓓ
+Ⓖ§Ⓗ ▁ Ⓔ§Ⓕ ▁ Ⓚ 143 ▁ Ⓛ Ⓘ Terre ▁ Ⓙ Ⓐ p ▁ . ▁ 134 ▁ → ▁ p ▁ . ▁ 139 ▁ Ⓑ Ⓒ Bois ▁ → ▁ pré ▁ Ⓓ
+Ⓖ§Ⓗ ▁ Ⓔ§Ⓕ ▁ Ⓚ 144 ▁ Ⓛ Ⓘ Bois ▁ → ▁ taillis ▁ Ⓙ Ⓐ p ▁ . ▁ 134 ▁ Ⓑ Ⓒ Bois ▁ Ⓓ
+Ⓖ§Ⓗ ▁ Ⓔ§Ⓕ ▁ Ⓚ 145 ▁ Ⓛ Ⓘ pré ▁ Ⓙ Ⓐ p ▁ . ▁ 141 ▁ ↑ ▁ bis ▁ ↓→ ▁ p ▁ . ▁ 139 ▁ → ▁ p ▁ . ▁ 140 ▁ ↑ ▁ bis ▁ ↓→ ▁ p ▁ . ▁ 141 ▁ Ⓑ Ⓒ Terre ▁ → ▁ pré ▁ → ▁ Terre ▁ → ▁ Terre ▁ Ⓓ
+Ⓖ§Ⓗ ▁ Ⓔ§Ⓕ ▁ Ⓚ 146 ▁ Ⓛ Ⓘ Terre ▁ Ⓙ Ⓐ p ▁ . ▁ 141 ▁ → ▁ p ▁ . ▁ 141 ▁ ↑ ▁ bis ▁ ↓Ⓑ ▁ Ⓒ T ▁ → ▁ T ▁ Ⓓ
+Ⓖ§Ⓗ ▁ Ⓔ§Ⓕ ▁ Ⓚ 147 ▁ Ⓛ Ⓘ Terre ▁ Ⓙ Ⓐ p ▁ . ▁ 134 ▁ Ⓑ Ⓒ Bois ▁ Ⓓ
+Ⓖ§Ⓗ ▁ Ⓔ§Ⓕ ▁ Ⓚ 148 ▁ Ⓛ Ⓘ Bois ▁ taillis ▁ Ⓙ Ⓐ p ▁ . ▁ 134 ▁ Ⓑ Ⓒ Bois ▁ Ⓓ
+Ⓖ§Ⓗ ▁ Ⓔ§Ⓕ ▁ Ⓚ 149 ▁ Ⓛ Ⓘ Terre ▁ Ⓙ Ⓐ p ▁ . ▁ 140 ▁ ↑ ▁ bis ▁ ↓→ ▁ p ▁ . ▁ 141 ▁ ↑ ▁ bis ▁ ↓→ ▁ p ▁ . ▁ 141 ▁ Ⓑ Ⓒ T ▁ → ▁ T ▁ → ▁ T ▁ Ⓓ
+Ⓖ§Ⓗ ▁ Ⓔ§Ⓕ ▁ Ⓚ 150 ▁ Ⓛ Ⓘ Ru ▁ ou ▁ → ▁ fossé ▁ Ⓙ Ⓐ 142 ▁ Ⓑ Ⓒ fossé ▁ Ⓓ
+Ⓖ§Ⓗ ▁ Ⓔ Delaville ▁ Leroux ▁ Ⓕ Ⓚ 151 ▁ Ⓛ Ⓘ Terre ▁ Ⓙ Ⓐ 143 ▁ Ⓑ Ⓒ T ▁ Ⓓ
+Ⓖ Pont ▁ Japhet ▁ Ⓗ Ⓔ Bertrand ▁ achille ▁ Ⓕ Ⓚ 52 ▁ suite ▁ Ⓛ Ⓘ terre ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Besval ▁ Jean ▁ françois ▁ antoine ▁ Ⓕ Ⓚ§Ⓛ ▁ Ⓘ§Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Blondeau ▁ émile ▁ pierre ▁ Ⓕ Ⓚ§Ⓛ ▁ Ⓘ§Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Boulot ▁ isidore ▁ Ⓕ Ⓚ§Ⓛ ▁ Ⓘ§Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Brodin ▁ charles ▁ guillaume ▁ Ⓕ Ⓚ§Ⓛ ▁ Ⓘ§Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Casteron ▁ victor ▁ Ⓕ Ⓚ§Ⓛ ▁ Ⓘ§Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Caudy ▁ mathias ▁ Ⓕ Ⓚ§Ⓛ ▁ Ⓘ§Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Choquet ▁ pierre ▁ Ⓕ Ⓚ§Ⓛ ▁ Ⓘ§Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ C ▁ ↑ ▁ ie ▁ ↓ ▁ anonyme ▁ du ▁ ch ▁ ↑ ▁ in ▁ ↓ ▁ de ▁ fer ▁ de ▁ Paris ▁ à ▁ Lyon ▁ Ⓕ Ⓚ§Ⓛ ▁ Ⓘ§Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Corbier ▁ émile ▁ Joseph ▁ Ⓕ Ⓚ§Ⓛ ▁ Ⓘ§Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Coudray ▁ Jean ▁ françois ▁ Ⓕ Ⓚ§Ⓛ ▁ Ⓘ§Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Courbassier ▁ henri ▁ clément ▁ Ⓕ Ⓚ§Ⓛ ▁ Ⓘ§Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Daniel ▁ Joseph ▁ Ⓕ Ⓚ§Ⓛ ▁ Ⓘ§Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Daunot ▁ Ⓕ Ⓚ§Ⓛ ▁ Ⓘ§Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Defeux ▁ françois ▁ alphonse ▁ Ⓕ Ⓚ§Ⓛ ▁ Ⓘ§Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Deunougeot ▁ françois ▁ xavier ▁ Ⓕ Ⓚ§Ⓛ ▁ Ⓘ§Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Descorps ▁ Jean ▁ Ⓕ Ⓚ§Ⓛ ▁ Ⓘ§Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Devidal ▁ Benoït ▁ Ⓕ Ⓚ§Ⓛ ▁ Ⓘ§Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Devin ▁ louis ▁ Joseph ▁ Ⓕ Ⓚ§Ⓛ ▁ Ⓘ§Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Dieudonné ▁ Jean ▁ B ▁ ↑ ▁ te ▁ ↓Ⓕ ▁ Ⓚ§Ⓛ ▁ Ⓘ§Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Doby ▁ augustin ▁ françois ▁ joseph ▁ Ⓕ Ⓚ§Ⓛ ▁ Ⓘ§Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Dominique ▁ michel ▁ Ⓕ Ⓚ§Ⓛ ▁ Ⓘ§Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Dromer ▁ veuve ▁ née ▁ Vivier ▁ Ⓕ Ⓚ§Ⓛ ▁ Ⓘ§Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Duverny ▁ françois ▁ gustave ▁ Ⓕ Ⓚ§Ⓛ ▁ Ⓘ§Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Filippi ▁ ambroise ▁ Ⓕ Ⓚ§Ⓛ ▁ Ⓘ§Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ François ▁ théodore ▁ adolphe ▁ Ⓕ Ⓚ§Ⓛ ▁ Ⓘ§Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Geffrier ▁ henri ▁ louis ▁ Ⓕ Ⓚ§Ⓛ ▁ Ⓘ§Ⓙ
+Ⓖ× ▁ les ▁ Girouettes ▁ ±Ⓗ ▁ Ⓔ× ▁ Blain ▁ des ▁ Cormiers ▁ ±Ⓕ ▁ Ⓚ× ▁ 15 ▁ ±Ⓛ ▁ Ⓘ× ▁ Terre ▁ ±Ⓙ ▁ Ⓐ× ▁ 33 ▁ ±Ⓑ ▁ Ⓒ× ▁ T ▁ ±Ⓓ
+Ⓖ×§±Ⓗ ▁ Ⓔ× ▁ Balestre ▁ à ▁ Sceaux ▁ ±Ⓕ ▁ Ⓚ× ▁ 16 ▁ ±Ⓛ ▁ Ⓘ× ▁ T ▁ ±Ⓙ ▁ Ⓐ 23 ▁ Ⓑ Ⓒ T ▁ Ⓓ
+Ⓖ§Ⓗ ▁ Ⓔ Mevothon ▁ les ▁ h ▁ ↑ ▁ ers ▁ ↓Ⓕ ▁ Ⓚ 17p ▁ Ⓛ Ⓘ T ▁ Ⓙ Ⓐ 24 ▁ → ▁ 25 ▁ Ⓑ Ⓒ T ▁ Ⓓ
+Ⓖ§Ⓗ ▁ Ⓔ Cornu ▁ pierre ▁ Ⓕ Ⓚ 18p ▁ Ⓛ Ⓘ T ▁ Ⓙ Ⓐ 26 ▁ Ⓑ Ⓒ T ▁ Ⓓ
+Ⓖ§Ⓗ ▁ Ⓔ Trié ▁ philibert ▁ Ⓕ Ⓚ 19p ▁ Ⓛ Ⓘ T ▁ Ⓙ Ⓐ 27 ▁ Ⓑ Ⓒ T ▁ Ⓓ
+Ⓖ§Ⓗ ▁ Ⓔ Lavenant ▁ Louis ▁ f ▁ ↑ ▁ ois ▁ ↓Ⓕ ▁ Ⓚ 20p ▁ Ⓛ Ⓘ T ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Ples ▁ matins ▁ Scévola ▁ Ⓕ Ⓚ 21p ▁ Ⓛ Ⓘ T ▁ Ⓙ Ⓐ 29 ▁ → ▁ 30 ▁ Ⓑ Ⓒ T ▁ Ⓓ
+Ⓖ§Ⓗ ▁ Ⓔ Levé ▁ claude ▁ Ⓕ Ⓚ 22 ▁ Ⓛ Ⓘ T ▁ Ⓙ Ⓐ 31 ▁ Ⓑ Ⓒ T ▁ Ⓓ
+Ⓖ§Ⓗ ▁ Ⓔ Cousin ▁ dem ▁ ricourt ▁ V ▁ ↑ ▁ e ▁ ↓Ⓕ ▁ Ⓚ 53p ▁ Ⓛ Ⓘ T ▁ Ⓙ Ⓐ 42 ▁ Ⓑ Ⓒ T ▁ Ⓓ
+Ⓖ§Ⓗ ▁ Ⓔ Blain ▁ des ▁ cormiers ▁ Ⓕ Ⓚ 24p ▁ Ⓛ Ⓘ T ▁ Ⓙ Ⓐ 43 ▁ Ⓑ Ⓒ T ▁ Ⓓ
+Ⓖ§Ⓗ ▁ Ⓔ Cousin ▁ de ▁ mericard ▁ V ▁ ↑ ▁ e ▁ ↓Ⓕ ▁ Ⓚ 25 ▁ Ⓛ Ⓘ T ▁ Ⓙ Ⓐ 47 ▁ Ⓑ Ⓒ T ▁ Ⓓ
+Ⓖ§Ⓗ ▁ Ⓔ Nouvial ▁ jean ▁ joseph ▁ Ⓕ Ⓚ 26 ▁ Ⓛ Ⓘ T ▁ Ⓙ Ⓐ 46 ▁ Ⓑ Ⓒ T ▁ Ⓓ
+Ⓖ§Ⓗ ▁ Ⓔ Renard ▁ ch ▁ ↑ ▁ es ▁ ↓ ▁ nicolas ▁ Ⓕ Ⓚ 27 ▁ Ⓛ Ⓘ T ▁ Ⓙ Ⓐ 45 ▁ Ⓑ Ⓒ T ▁ Ⓓ
+Ⓖ§Ⓗ ▁ Ⓔ Nouvial ▁ jean ▁ joseph ▁ Ⓕ Ⓚ 28p ▁ Ⓛ Ⓘ T ▁ Ⓙ Ⓐ 41 ▁ → ▁ 44 ▁ → ▁ 48 ▁ Ⓑ Ⓒ T ▁ Ⓓ
+Ⓖ Les ▁ Grandes ▁ → ▁ Terres ▁ Ⓗ Ⓔ Mentienne ▁ Clément ▁ Charles ▁ g ▁ ↑ ▁ dre ▁ ↓ ▁ Quire ▁ Ⓕ Ⓚ 1 ▁ Ⓛ Ⓘ T ▁ Ⓙ Ⓐ P ▁ ↑ ▁ tie ▁ ↓ ▁ 2050 ▁ Ⓑ Ⓒ T ▁ Ⓓ
+Ⓖ id ▁ Ⓗ Ⓔ Quéru ▁ pierre ▁ françois ▁ Ⓕ Ⓚ 2 ▁ Ⓛ Ⓘ T ▁ Ⓙ Ⓐ P ▁ ↑ ▁ tie ▁ ↓ ▁ 2050 ▁ Ⓑ Ⓒ T ▁ Ⓓ
+Ⓖ§Ⓗ ▁ Ⓔ Mortier ▁ Vincent ▁ noël ▁ Ⓕ Ⓚ 3 ▁ Ⓛ Ⓘ T ▁ Ⓙ Ⓐ 2049 ▁ Ⓑ Ⓒ T ▁ Ⓓ
+Ⓖ§Ⓗ ▁ Ⓔ Mentienne ▁ Armand ▁ Louis ▁ Ⓕ Ⓚ 4 ▁ Ⓛ Ⓘ T ▁ Ⓙ Ⓐ 2048 ▁ Ⓑ Ⓒ T ▁ Ⓓ
+Ⓖ§Ⓗ ▁ Ⓔ Mentienne ▁ Louis ▁ Alexandre ▁ → ▁ fils ▁ , ▁ dit ▁ Beaulaid ▁ Ⓕ Ⓚ 5 ▁ Ⓛ Ⓘ T ▁ Ⓙ Ⓐ 2045 ▁ → ▁ 2046 ▁ → ▁ 2047 ▁ Ⓑ Ⓒ Vig ▁ .→ ▁ T ▁ → ▁ T ▁ Ⓓ
+Ⓖ§Ⓗ ▁ Ⓔ Desnyau ▁ Pierre ▁ henri ▁ Ⓕ Ⓚ 6 ▁ Ⓛ Ⓘ T ▁ et ▁ vigne ▁ Ⓙ Ⓐ 2043 ▁ → ▁ 2044 ▁ Ⓑ Ⓒ Vig ▁ → ▁ T ▁ Ⓓ
+Ⓖ§Ⓗ ▁ Ⓔ Mortier ▁ Rose ▁ hyacinthe ▁ Ⓕ Ⓚ 7 ▁ Ⓛ Ⓘ T ▁ Ⓙ Ⓐ 2042 ▁ Ⓑ Ⓒ Vig ▁ Ⓓ
+Ⓖ§Ⓗ ▁ Ⓔ Piquet ▁ Joseph ▁ Maurice ▁ → ▁ à ▁ Villiers ▁ Ⓕ Ⓚ 8 ▁ Ⓛ Ⓘ Vigne ▁ Ⓙ Ⓐ 2044 ▁ ↑ ▁ bis ▁ ↓→ ▁ 2045 ▁ ↑ ▁ bis ▁ ↓Ⓑ ▁ Ⓒ T ▁ → ▁ T ▁ Ⓓ
+Ⓖ§Ⓗ ▁ Ⓔ Granger ▁ Auguste ▁ Abel ▁ à ▁ → ▁ Villers ▁ Ⓕ Ⓚ 9 ▁ Ⓛ Ⓘ T ▁ Ⓙ Ⓐ 2042 ▁ ↑ ▁ bis ▁ ↓→ ▁ 2046 ▁ ↑ ▁ bis ▁ ↓Ⓑ ▁ Ⓒ T ▁ → ▁ T ▁ Ⓓ
+Ⓖ§Ⓗ ▁ Ⓔ Mentienne ▁ Armand ▁ Louis ▁ Ⓕ Ⓚ 10 ▁ Ⓛ Ⓘ T ▁ Ⓙ Ⓐ P ▁ ↑ ▁ tie ▁ ↓ ▁ 2041 ▁ ↑ ▁ bis ▁ ↓→ ▁ 2041 ▁ ↑ ▁ 3 ▁ ↓Ⓑ ▁ Ⓒ T ▁ → ▁ T ▁ Ⓓ
+Ⓖ§Ⓗ ▁ Ⓔ Mentienne ▁ françois ▁ Ⓕ Ⓚ 11 ▁ Ⓛ Ⓘ T ▁ Ⓙ Ⓐ P ▁ ↑ ▁ tie ▁ ↓ ▁ 2041 ▁ ↑ ▁ bis ▁ ↓Ⓑ ▁ Ⓒ T ▁ Ⓓ
+Ⓖ§Ⓗ ▁ Ⓔ Desnyau ▁ Pierre ▁ henri ▁ Ⓕ Ⓚ 12 ▁ Ⓛ Ⓘ Vigne ▁ Ⓙ Ⓐ P ▁ ↑ ▁ tie ▁ ↓ ▁ 2041 ▁ ↑ ▁ bis ▁ ↓Ⓑ ▁ Ⓒ T ▁ Ⓓ
+Ⓖ§Ⓗ ▁ Ⓔ Mortier ▁ Rose ▁ hyacinthe ▁ Ⓕ Ⓚ 13 ▁ Ⓛ Ⓘ Vigne ▁ Ⓙ Ⓐ P ▁ ↑ ▁ tie ▁ ↓ ▁ 2041 ▁ ↑ ▁ bis ▁ ↓Ⓑ ▁ Ⓒ T ▁ Ⓓ
+Ⓖ§Ⓗ ▁ Ⓔ Quéru ▁ Pierre ▁ françois ▁ Ⓕ Ⓚ 14 ▁ Ⓛ Ⓘ T ▁ . ▁ et ▁ vigne ▁ Ⓙ Ⓐ 2041 ▁ Ⓑ Ⓒ T ▁ Ⓓ
+Ⓖ Les ▁ → ▁ Clamards ▁ Ⓗ Ⓔ Rameau ▁ Roch ▁ Quentin ▁ Ⓕ Ⓚ 673 ▁ Ⓛ Ⓘ T ▁ Ⓙ Ⓐ 3747 ▁ Ⓑ Ⓒ T ▁ . ▁ Vig ▁ Ⓓ
+Ⓖ id ▁ Ⓗ Ⓔ Soudieux ▁ Saturnin ▁ di ▁ ❌→ ▁ mandre ▁ Ⓕ Ⓚ 674 ▁ Ⓛ Ⓘ T ▁ Ⓙ Ⓐ 9749 ▁ Ⓑ Ⓒ Vig ▁ Ⓓ
+Ⓖ§Ⓗ ▁ Ⓔ Soudieux ▁ Louis ▁ jacques ▁ , ▁ H ▁ ↑ ▁ ers ▁ ↓Ⓕ ▁ Ⓚ 675 ▁ Ⓛ Ⓘ Vigne ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Josset ▁ françois ▁ marie ▁ Ⓕ Ⓚ 676 ▁ Ⓛ Ⓘ T ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Ancelet ▁ nicolas ▁ , ▁ dit ▁ ancelet ▁ Veuve ▁ Ⓕ Ⓚ 677 ▁ Ⓛ Ⓘ T ▁ Ⓙ Ⓐ 3751 ▁ Ⓑ Ⓒ T ▁ Ⓓ
+Ⓖ§Ⓗ ▁ Ⓔ Ancelet ▁ Saturnin ▁ Dominique ▁ Ⓕ Ⓚ 678 ▁ Ⓛ Ⓘ T ▁ Ⓙ Ⓐ 3572 ▁ Ⓑ Ⓒ Vig ▁ Ⓓ
+Ⓖ§Ⓗ ▁ Ⓔ Ancelet ▁ Alexandre ▁ Ⓕ Ⓚ 679 ▁ Ⓛ Ⓘ T ▁ Ⓙ Ⓐ 3755 ▁ Ⓑ Ⓒ T ▁ Ⓓ
+Ⓖ§Ⓗ ▁ Ⓔ Foucault ▁ Pierre ▁ Ⓕ Ⓚ 680 ▁ Ⓛ Ⓘ T ▁ Ⓙ Ⓐ 9753 ▁ → ▁ 9754 ▁ Ⓑ Ⓒ T ▁ → ▁ Vig ▁ Ⓓ
+Ⓖ§Ⓗ ▁ Ⓔ Leblanc ▁ Victor ▁ Ⓕ Ⓚ 681 ▁ Ⓛ Ⓘ Jardin ▁ Ⓙ Ⓐ P ▁ ↑ ▁ tie ▁ ↓ ▁ 9789 ▁ ↑ ▁ bis ▁ ↓→ ▁ Chemin ▁ Ⓑ Ⓒ Chemin ▁ →→"Ⓓ
+Ⓖ§Ⓗ ▁ Ⓔ Dampierre ▁ ( ▁ Le ▁ Comte ▁ )Ⓕ ▁ Ⓚ 682 ▁ Ⓛ Ⓘ Jardin ▁ Ⓙ Ⓐ 3767 ▁ ↑ ▁ bis ▁ ↓Ⓑ ▁ Ⓒ Jardin ▁ Ⓓ
+Ⓖ§Ⓗ ▁ Ⓔ Lesaint ▁ Jean ▁ Baptiste ▁ Ⓕ Ⓚ 683 ▁ Ⓛ Ⓘ Jardin ▁ Ⓙ Ⓐ 3768 ▁ Ⓑ Ⓒ Verger ▁ Ⓓ
+Ⓖ§Ⓗ ▁ Ⓔ Mérillon ▁ félix ▁ Ⓕ Ⓚ 684 ▁ Ⓛ Ⓘ Jardin ▁ Ⓙ Ⓐ 3769 ▁ Ⓑ Ⓒ Vig ▁ Ⓓ
+Ⓖ§Ⓗ ▁ Ⓔ Mérillon ▁ Jean ▁ Denis ▁ , ▁ V ▁ ↑ ▁ ve ▁ ↓Ⓕ ▁ Ⓚ 685 ▁ Ⓛ Ⓘ Jardin ▁ Ⓙ Ⓐ 3770 ▁ Ⓑ Ⓒ Verger ▁ Ⓓ
+Ⓖ§Ⓗ ▁ Ⓔ Mérillon ▁ Dominique ▁ Ⓕ Ⓚ 686 ▁ Ⓛ Ⓘ Jardin ▁ Ⓙ Ⓐ 3771 ▁ Ⓑ Ⓒ Verger ▁ Ⓓ
+Ⓜ 7 ▁ Ⓝ Ⓔ Ancelet ▁ × ▁ f ▁ ↑ ▁ ois ▁ ↓ ▁ V ▁ ↑ ▁ e ▁ ↓± ▁ nicolas ▁ Ⓕ Ⓚ 622 ▁ Ⓛ Ⓘ Terre ▁ Ⓙ
+Ⓜ 116 ▁ Ⓝ Ⓔ M ▁ ↑ ▁ r ▁ ↓ ▁ Dhaussonville ▁ Ⓕ Ⓚ 623 ▁ Ⓛ Ⓘ id ▁ Ⓙ
+Ⓜ 332 ▁ Ⓝ Ⓔ Montmarthe ▁ V ▁ ↑ ▁ e ▁ ↓ ▁ ant ▁ ↑ ▁ e ▁ ↓Ⓕ ▁ Ⓚ 25 ▁ Ⓛ Ⓘ§Ⓙ
+Ⓜ 18 ▁ Ⓝ Ⓔ ancelet ▁ f ▁ ↑ ▁ re ▁ ↓Ⓕ ▁ Ⓚ 26 ▁ Ⓛ Ⓘ§Ⓙ
+Ⓜ 193 ▁ Ⓝ Ⓔ hericourt ▁ D ▁ ↑ ▁ que ▁ ↓ ▁ andré ▁ Ⓕ Ⓚ 27 ▁ Ⓛ Ⓘ§Ⓙ
+Ⓜ 123 ▁ Ⓝ Ⓔ Duval ▁ sat ▁ ↑ ▁ in ▁ ↓ ▁ veuve ▁ Ⓕ Ⓚ 28 ▁ Ⓛ Ⓘ§Ⓙ
+Ⓜ 116 ▁ Ⓝ Ⓔ M ▁ ↑ ▁ r ▁ ↓ ▁ Dhaussonville ▁ Ⓕ Ⓚ 29 ▁ Ⓛ Ⓘ§Ⓙ
+Ⓜ 105 ▁ Ⓝ Ⓔ M ▁ ↑ ▁ r ▁ ↓ ▁ Cury ▁ Ⓕ Ⓚ 630 ▁ Ⓛ Ⓘ§Ⓙ
+Ⓜ 217 ▁ Ⓝ Ⓔ Lallegerie ▁ Et ▁ ↑ ▁ e ▁ ↓ ▁ J ▁ ↑ ▁ n ▁ ↓Ⓕ ▁ Ⓚ 31 ▁ Ⓛ Ⓘ§Ⓙ
+Ⓜ 49 ▁ Ⓝ Ⓔ Beuzeville ▁ J ▁ ↑ ▁ n ▁ ↓ ▁ marie ▁ Ⓕ Ⓚ 32 ▁ Ⓛ Ⓘ§Ⓙ
+Ⓜ 40 ▁ Ⓝ Ⓔ Berger ▁ Louis ▁ Ⓕ Ⓚ 33 ▁ Ⓛ Ⓘ§Ⓙ
+Ⓜ 217 ▁ Ⓝ Ⓔ Lallegerie ▁ Et ▁ ↑ ▁ e ▁ ↓ ▁ J ▁ ↑ ▁ n ▁ ↓Ⓕ ▁ Ⓚ 34 ▁ Ⓛ Ⓘ§Ⓙ
+Ⓜ 436 ▁ Ⓝ Ⓔ Soudieux ▁ sat ▁ ↑ ▁ n ▁ ↓ ▁ balot ▁ Ⓕ Ⓚ 35 ▁ Ⓛ Ⓘ§Ⓙ
+Ⓜ× ▁ 306 ▁ ±Ⓝ ▁ Ⓔ× ▁ Merillon ▁ D ▁ ↑ ▁ que ▁ ↓± ▁ inconnus ▁ Ⓕ Ⓚ 36 ▁ Ⓛ Ⓘ§Ⓙ
+Ⓜ 135 ▁ Ⓝ Ⓔ Foucault ▁ michel ▁ Ⓕ Ⓚ 37 ▁ Ⓛ Ⓘ§Ⓙ
+Ⓜ 434 ▁ Ⓝ Ⓔ Soudieux ▁ J ▁ ↑ ▁ n ▁ ↓ ▁ louis ▁ Ⓕ Ⓚ 38 ▁ Ⓛ Ⓘ§Ⓙ
+Ⓜ 409 ▁ Ⓝ Ⓔ Rameau ▁ J ▁ ↑ ▁ n ▁ ↓ ▁ louis ▁ fils ▁ veuve ▁ Ⓕ Ⓚ 39 ▁ Ⓛ Ⓘ§Ⓙ
+Ⓜ× ▁ 324 ▁ ±→ ▁ 102 ▁ ↑ ▁ bis ▁ ↓Ⓝ ▁ Ⓔ× ▁ Mezard ▁ n ▁ ↑ ▁ as ▁ ↓± ▁ Courtois ▁ louis ▁ Ⓕ Ⓚ 640 ▁ Ⓛ Ⓘ§Ⓙ
+Ⓜ 40 ▁ Ⓝ Ⓔ Berger ▁ louis ▁ Ⓕ Ⓚ 41 ▁ Ⓛ Ⓘ§Ⓙ
+Ⓜ 116 ▁ Ⓝ Ⓔ M ▁ ↑ ▁ r ▁ ↓ ▁ Dhaussonville ▁ Ⓕ Ⓚ 42 ▁ Ⓛ Ⓘ§Ⓙ
+Ⓜ 116 ▁ Ⓝ Ⓔ Le ▁ même ▁ Ⓕ Ⓚ 43 ▁ Ⓛ Ⓘ§Ⓙ
+Ⓖ La ▁ → ▁ Corneille ▁ Ⓗ Ⓔ Courière ▁ françoise ▁ Ⓕ Ⓚ 1103 ▁ Ⓛ Ⓘ T ▁ Ⓙ Ⓐ 2801 ▁ Ⓑ Ⓒ Vig ▁ Ⓓ
+Ⓖ id ▁ Ⓗ Ⓔ Mérillon ▁ Ⓕ Ⓚ 1104 ▁ Ⓛ Ⓘ T ▁ Ⓙ Ⓐ 2802 ▁ Ⓑ Ⓒ T ▁ Ⓓ
+Ⓖ§Ⓗ ▁ Ⓔ Ancelet ▁ André ▁ Ⓕ Ⓚ 1105 ▁ Ⓛ Ⓘ Vigne ▁ Ⓙ Ⓐ 2803 ▁ Ⓑ Ⓒ T ▁ Ⓓ
+Ⓖ§Ⓗ ▁ Ⓔ Subtil ▁ Denis ▁ Pierre ▁ Ⓕ Ⓚ 1106 ▁ Ⓛ Ⓘ T ▁ Ⓙ Ⓐ 2086 ▁ ↑ ▁ bis ▁ ↓Ⓑ ▁ Ⓒ T ▁ . ▁ Vig ▁ .Ⓓ
+Ⓖ§Ⓗ ▁ Ⓔ Mérillon ▁ félix ▁ Ⓕ Ⓚ 1107 ▁ Ⓛ Ⓘ Vigne ▁ Ⓙ Ⓐ 2806 ▁ Ⓑ Ⓒ T ▁ Ⓓ
+Ⓖ§Ⓗ ▁ Ⓔ Ancelet ▁ nicolas ▁ , ▁ dit ▁ Ancelon ▁ → ▁ Veuve ▁ Ⓕ Ⓚ 1108 ▁ Ⓛ Ⓘ T ▁ Ⓙ Ⓐ 2820 ▁ Ⓑ Ⓒ Vig ▁ Ⓓ
+Ⓖ§Ⓗ ▁ Ⓔ Lameau ▁ Marie ▁ Saturnin ▁ , ▁ f ▁ ↑ ▁ dre ▁ ↓→ ▁ Vitry ▁ Ⓕ Ⓚ 1109 ▁ Ⓛ Ⓘ T ▁ Ⓙ Ⓐ 2809 ▁ Ⓑ Ⓒ T ▁ Ⓓ
+Ⓖ§Ⓗ ▁ Ⓔ Mouscadet ▁ Pierre ▁ Grégoire ▁ → ▁ à ▁ fontenay ▁ Ⓕ Ⓚ 1110 ▁ Ⓛ Ⓘ T ▁ Ⓙ Ⓐ P ▁ ↑ ▁ tie ▁ ↓ ▁ 2811 ▁ ↑ ▁ bis ▁ ↓→ ▁ 2811 ▁ Ⓑ Ⓒ T ▁ → ▁ T ▁ Ⓓ
+Ⓖ§Ⓗ ▁ Ⓔ Berger ▁ Baptiste ▁ Ⓕ Ⓚ 1111 ▁ Ⓛ Ⓘ Vigne ▁ Ⓙ Ⓐ 2813 ▁ Ⓑ Ⓒ T ▁ Ⓓ
+Ⓖ§Ⓗ ▁ Ⓔ Bosset ▁ félix ▁ , ▁ à ▁ → ▁ Paris ▁ Ⓕ Ⓚ 1112 ▁ Ⓛ Ⓘ T ▁ Ⓙ Ⓐ P ▁ ↑ ▁ ie ▁ ↓ ▁ 2811 ▁ ↑ ▁ bis ▁ ↓Ⓑ ▁ Ⓒ T ▁ Ⓓ
+Ⓖ§Ⓗ ▁ Ⓔ Saussary ▁ fils ▁ Ⓕ Ⓚ 1113 ▁ Ⓛ Ⓘ Vigne ▁ u ▁ t ▁ Ⓙ Ⓐ 2815 ▁ Ⓑ Ⓒ T ▁ Ⓓ
+Ⓖ§Ⓗ ▁ Ⓔ Robin ▁ Toussaint ▁ , ▁ à ▁ → ▁ fontenay ▁ Ⓕ Ⓚ 1114 ▁ Ⓛ Ⓘ T ▁ Ⓙ Ⓐ 2817 ▁ Ⓑ Ⓒ T ▁ Ⓓ
+Ⓖ§Ⓗ ▁ Ⓜ 1115 ▁ Ⓝ Ⓔ Berger ▁ Louis ▁ Simon ▁ Ⓕ Ⓚ 1115 ▁ Ⓛ Ⓘ Vigne ▁ Ⓙ Ⓐ 2816 ▁ Ⓑ Ⓒ T ▁ Ⓓ
+Ⓖ§Ⓗ ▁ Ⓔ Surault ▁ Jean ▁ , ▁ à ▁ fontenay ▁ Ⓕ Ⓚ 1116 ▁ Ⓛ Ⓘ Vigne ▁ Ⓙ Ⓐ 2818 ▁ Ⓑ Ⓒ T ▁ Ⓓ
+Ⓖ Les ▁ Marlières ▁ Ⓗ Ⓔ Giraudeau ▁ louis ▁ Ⓕ Ⓚ 1012 ▁ Ⓛ Ⓘ vigne ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ voie ▁ publique ▁ Ⓕ Ⓚ 1013 ▁ Ⓛ Ⓘ vigne ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Biard ▁ raphaël ▁ julien ▁ Ⓕ Ⓚ 1014 ▁ Ⓛ Ⓘ vigne ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Fontaine ▁ françois ▁ J ▁ ↑ ▁ h ▁ ↓Ⓕ ▁ Ⓚ 1015 ▁ Ⓛ Ⓘ vigne ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ voie ▁ publique ▁ Ⓕ Ⓚ 1015 ▁ Ⓛ Ⓘ vigne ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Biard ▁ raphaël ▁ julien ▁ Ⓕ Ⓚ 1016 ▁ Ⓛ Ⓘ vigne ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Victor ▁ Désiré ▁ Ⓕ Ⓚ 1017 ▁ Ⓛ Ⓘ vigne ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ voie ▁ publique ▁ Ⓕ Ⓚ 1017 ▁ Ⓛ Ⓘ vigne ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Ancelot ▁ charles ▁ dominique ▁ Ⓕ Ⓚ 1018 ▁ Ⓛ Ⓘ T ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Giraudeau ▁ louis ▁ Ⓕ Ⓚ 1019 ▁ Ⓛ Ⓘ T ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Vitry ▁ Jean ▁ B ▁ ↑ ▁ te ▁ ↓ ▁ alexandre ▁ Ⓕ Ⓚ 1020 ▁ Ⓛ Ⓘ T ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Barillet ▁ paul ▁ désiré ▁ Ⓕ Ⓚ 1021 ▁ Ⓛ Ⓘ T ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Héricourt ▁ gabriel ▁ Ⓕ Ⓚ 1022 ▁ Ⓛ Ⓘ vigne ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Barillet ▁ louis ▁ jules ▁ Ⓕ Ⓚ 1023 ▁ Ⓛ Ⓘ T ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Bachereau ▁ léopold ▁ arsène ▁ Ⓕ Ⓚ 1024 ▁ Ⓛ Ⓘ T ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Misgault ▁ Léon ▁ michel ▁ Ⓕ Ⓚ 1025 ▁ Ⓛ Ⓘ T ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ id ▁ Ⓕ Ⓚ 1026 ▁ Ⓛ Ⓘ vigne ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ id ▁ Ⓕ Ⓚ 1027 ▁ Ⓛ Ⓘ T ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ id ▁ Ⓕ Ⓚ 1028 ▁ Ⓛ Ⓘ T ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Ancelet ▁ françois ▁ antoine ▁ Ⓕ Ⓚ 1029 ▁ Ⓛ Ⓘ T ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Prinbel ▁ Ⓕ Ⓚ 1030 ▁ Ⓛ Ⓘ T ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ voie ▁ publique ▁ Ⓕ Ⓚ 1030 ▁ Ⓛ Ⓘ T ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Bachereau ▁ Léopold ▁ arsène ▁ Ⓕ Ⓚ 1031 ▁ Ⓛ Ⓘ T ▁ Ⓙ
+Ⓖ Derrière ▁ le ▁ petit ▁ pré ▁ Ⓗ Ⓔ Coiffier ▁ pierre ▁ honoré ▁ Ⓕ Ⓚ 1032 ▁ Ⓛ Ⓘ vigne ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ voie ▁ publique ▁ Ⓕ Ⓚ 1032 ▁ Ⓛ Ⓘ id ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Rameau ▁ Jean ▁ françois ▁ Ⓕ Ⓚ 1033 ▁ Ⓛ Ⓘ vigne ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Ancelet ▁ charles ▁ dominique ▁ Ⓕ Ⓚ 1034 ▁ Ⓛ Ⓘ§Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Laizier ▁ louis ▁ adolphe ▁ Ⓕ Ⓚ 1035 ▁ Ⓛ Ⓘ T ▁ Ⓙ
+Ⓖ La ▁ pointe ▁ → ▁ grande ▁ route ▁ de ▁ Choisy ▁ → ▁ n ▁ ° ▁ 21 ▁ Ⓗ Ⓔ Margat ▁ Aug ▁ ↑ ▁ te ▁ ↓Ⓕ ▁ Ⓚ 1445 ▁ Ⓛ Ⓘ Maison ▁ Ⓙ Ⓐ pti ▁ 1326 ▁ Ⓑ Ⓒ T ▁ Ⓓ
+Ⓖ id ▁ n ▁ ° ▁ 21 ▁ Ⓗ Ⓔ id ▁ Ⓕ Ⓚ 1446 ▁ Ⓛ Ⓘ Maison ▁ Ⓙ Ⓐ pti ▁ 1326 ▁ Ⓑ Ⓒ T ▁ Ⓓ
+Ⓖ l ▁ ' ▁ Echat ▁ Ⓗ Ⓔ Bizet ▁ mathieu ▁ V ▁ ↑ ▁ e ▁ ↓Ⓕ ▁ Ⓚ 85 ▁ Ⓛ Ⓘ vigne ▁ Ⓙ Ⓐ 190 ▁ Ⓑ Ⓒ vigne ▁ Ⓓ
+Ⓖ§Ⓗ ▁ Ⓔ Potel ▁ jean ▁ crisostôme ▁ Ⓕ Ⓚ 86 ▁ Ⓛ Ⓘ terre ▁ Ⓙ Ⓐ 191 ▁ , ▁ 192 ▁ Ⓑ Ⓒ T ▁ Ⓓ
+Ⓖ§Ⓗ ▁ Ⓔ Lecouteux ▁ simon ▁ Ⓕ Ⓚ 87 ▁ Ⓛ Ⓘ terre ▁ Ⓙ Ⓐ 193 ▁ Ⓑ Ⓒ T ▁ Ⓓ
+Ⓖ§Ⓗ ▁ Ⓔ Potel ▁ jean ▁ Crisostôme ▁ Ⓕ Ⓚ 88 ▁ Ⓛ Ⓘ terre ▁ Ⓙ Ⓐ 194 ▁ , ▁ 195 ▁ Ⓑ Ⓒ T ▁ Ⓓ
+Ⓖ la ▁ maison ▁ des ▁ → ▁ Briques ▁ Ⓗ Ⓔ Fevre ▁ jean ▁ claude ▁ Ⓕ Ⓚ 89 ▁ Ⓛ Ⓘ jardin ▁ Ⓙ Ⓐ 196 ▁ portion ▁ Ⓑ Ⓒ☼Ⓓ
+Ⓖ§Ⓗ ▁ Ⓔ Fesre ▁ jean ▁ claude ▁ V ▁ ↑ ▁ e ▁ ↓Ⓕ ▁ Ⓚ 90 ▁ Ⓛ Ⓘ maison ▁ et ▁ → ▁ cour ▁ → ▁ n ▁ ° ▁ 12 ▁ Ⓙ Ⓐ 196 ▁ portion ▁ Ⓑ Ⓒ☼Ⓓ
+Ⓖ§Ⓗ ▁ Ⓔ Lecouteux ▁ pierre ▁ Marthe ▁ Ⓕ Ⓚ 91 ▁ Ⓛ Ⓘ Terre ▁ Ⓙ Ⓐ 196 ▁ portion ▁ Ⓑ Ⓒ T ▁ Ⓓ
+Ⓖ le ▁ chemin ▁ du ▁ → ▁ Bois ▁ Ⓗ Ⓔ Lecouteux ▁ pierre ▁ Marthe ▁ Ⓕ Ⓚ 92 ▁ Ⓛ Ⓘ Terre ▁ Ⓙ Ⓐ 197 ▁ → ▁ 198 ▁ portion ▁ → ▁ 199 ▁ portion ▁ Ⓑ Ⓒ T ▁ → ▁ T ▁ → ▁ T ▁ Ⓓ
+Ⓖ§Ⓗ ▁ Ⓔ Pelez ▁ de ▁ la ▁ Lozère ▁ Ⓕ Ⓚ 93 ▁ Ⓛ Ⓘ Terre ▁ Ⓙ Ⓐ 200 ▁ → ▁ 198 ▁ portion ▁ → ▁ 199 ▁ portion ▁ Ⓑ Ⓒ T ▁ → ▁ T ▁ → ▁ T ▁ Ⓓ
+Ⓖ§Ⓗ ▁ Ⓔ feuillet ▁ nicolas ▁ Thomas ▁ V ▁ ↑ ▁ e ▁ ↓Ⓕ ▁ Ⓚ 94 ▁ Ⓛ Ⓘ Terre ▁ Ⓙ Ⓐ 201 ▁ Ⓑ Ⓒ T ▁ Ⓓ
+Ⓖ§Ⓗ ▁ Ⓔ Courtaigne ▁ françois ▁ Ⓕ Ⓚ 95 ▁ Ⓛ Ⓘ Terre ▁ Ⓙ Ⓐ 262 ▁ part ▁ .Ⓑ ▁ Ⓒ T ▁ Ⓓ
+Ⓖ§Ⓗ ▁ Ⓔ Courtaigne ▁ françois ▁ Ⓕ Ⓚ 96 ▁ Ⓛ Ⓘ vigne ▁ Ⓙ Ⓐ 202 ▁ portion ▁ Ⓑ Ⓒ T ▁ Ⓓ
+Ⓖ§Ⓗ ▁ Ⓔ Feron ▁ françois ▁ Ⓕ Ⓚ 97 ▁ Ⓛ Ⓘ Terre ▁ Ⓙ Ⓐ 203 ▁ , ▁ 204 ▁ Ⓑ Ⓒ T ▁ Ⓓ
+Ⓖ§Ⓗ ▁ Ⓔ Feron ▁ françois ▁ Ⓕ Ⓚ 98 ▁ Ⓛ Ⓘ vigne ▁ Ⓙ Ⓐ 205 ▁ Ⓑ Ⓒ vigne ▁ Ⓓ
+Ⓖ Les ▁ Roses ▁ Ⓗ Ⓔ Pigeron ▁ Ⓕ Ⓚ 43 ▁ Ⓛ Ⓘ Terre ▁ Ⓙ Ⓐ 47 ▁ Ⓑ Ⓒ Terre ▁ Ⓓ
+Ⓖ§Ⓗ ▁ Ⓔ Hallé ▁ louis ▁ germain ▁ Ⓕ Ⓚ 44 ▁ Ⓛ Ⓘ T ▁ Ⓙ Ⓐ 48 ▁ Ⓑ Ⓒ T ▁ Ⓓ
+Ⓖ§Ⓗ ▁ Ⓔ Salmé ▁ jean ▁ Ⓕ Ⓚ 45 ▁ Ⓛ Ⓘ Vigne ▁ Ⓙ Ⓐ 49 ▁ Ⓑ Ⓒ Vig ▁ .Ⓓ
+Ⓖ§Ⓗ ▁ Ⓔ Rousseau ▁ louis ▁ F ▁ ↑ ▁ ois ▁ ↓Ⓕ ▁ Ⓚ 46 ▁ Ⓛ Ⓘ Terre ▁ Ⓙ Ⓐ 50 ▁ Ⓑ Ⓒ T ▁ Ⓓ
+Ⓖ§Ⓗ ▁ Ⓔ Morizot ▁ marie ▁ arnoult ▁ Ⓕ Ⓚ 47 ▁ Ⓛ Ⓘ T ▁ Ⓙ Ⓐ 51 ▁ Ⓑ Ⓒ Vig ▁ .Ⓓ
+Ⓖ§Ⓗ ▁ Ⓔ Salmé ▁ jean ▁ Ⓕ Ⓚ 48 ▁ Ⓛ Ⓘ T ▁ Ⓙ Ⓐ 52 ▁ Ⓑ Ⓒ T ▁ Ⓓ
+Ⓖ§Ⓗ ▁ Ⓔ Delkayré ▁ jean ▁ Ⓕ Ⓚ 49 ▁ Ⓛ Ⓘ T ▁ Ⓙ Ⓐ 43 ▁ .Ⓑ ▁ Ⓒ T ▁ Ⓓ
+Ⓖ§Ⓗ ▁ Ⓔ Delanoue ▁ pre ▁ toussains ▁ Ⓕ Ⓚ 50 ▁ Ⓛ Ⓘ Vigne ▁ Ⓙ Ⓐ 54 ▁ Ⓑ Ⓒ Vig ▁ .Ⓓ
+Ⓖ§Ⓗ ▁ Ⓔ Cabouset ▁ jean ▁ robert ▁ Ⓕ Ⓚ 51 ▁ Ⓛ Ⓘ T ▁ Ⓙ Ⓐ 55 ▁ Ⓑ Ⓒ V ▁ .Ⓓ
+Ⓖ§Ⓗ ▁ Ⓔ Salmé ▁ jean ▁ Ⓕ Ⓚ 52 ▁ Ⓛ Ⓘ Vigne ▁ Ⓙ Ⓐ 56 ▁ Ⓑ Ⓒ V ▁ .Ⓓ
+Ⓖ§Ⓗ ▁ Ⓔ Morizot ▁ marie ▁ arnould ▁ Ⓕ Ⓚ 53 ▁ Ⓛ Ⓘ Vigne ▁ Ⓙ Ⓐ☼Ⓑ ▁ Ⓒ☼Ⓓ
+Ⓖ§Ⓗ ▁ Ⓔ id ▁ Ⓕ Ⓚ 54 ▁ Ⓛ Ⓘ Terre ▁ Ⓙ Ⓐ 57 ▁ Ⓑ Ⓒ V ▁ .Ⓓ
+Ⓖ§Ⓗ ▁ Ⓔ Bonneau ▁ louis ▁ B ▁ ↑❌❌❌↓Ⓕ ▁ Ⓚ 55 ▁ Ⓛ Ⓘ T ▁ Ⓙ Ⓐ 58 ▁ Ⓑ Ⓒ T ▁ Ⓓ
+Ⓖ§Ⓗ ▁ Ⓔ Salmé ▁ jean ▁ Ⓕ Ⓚ 56 ▁ Ⓛ Ⓘ T ▁ Ⓙ Ⓐ 59 ▁ Ⓑ Ⓒ V ▁ .Ⓓ
+Ⓖ Le ▁ Clos ▁ → ▁ S ▁ ↑ ▁ te ▁ ↓ ▁ Catherine ▁ Ⓗ Ⓔ Benoit ▁ Louis ▁ François ▁ , ▁ g ▁ ↑ ▁ dre ▁ ↓→ ▁ Rouyer ▁ Ⓕ Ⓚ 1401 ▁ Ⓛ Ⓘ Vigne ▁ Ⓙ Ⓐ 2203 ▁ Ⓑ Ⓒ T ▁ Ⓓ
+Ⓖ id ▁ Ⓗ Ⓔ Loripherne ▁ →× ▁ Loriferne ▁ Michel ▁ ± ▁ Louis ▁ Auguste ▁ → ▁ id ▁ et ▁ Michel ▁ Ⓕ Ⓚ 1402 ▁ Ⓛ Ⓘ T ▁ Ⓙ Ⓐ 2204 ▁ Ⓑ Ⓒ T ▁ Ⓓ
+Ⓖ§Ⓗ ▁ Ⓔ Basseville ▁ Pierre ▁ François ▁ Ⓕ Ⓚ 1403 ▁ Ⓛ Ⓘ T ▁ Ⓙ Ⓐ 2205 ▁ Ⓑ Ⓒ T ▁ Ⓓ
+Ⓖ§Ⓗ ▁ Ⓔ Benoit ▁ françois ▁ benoit ▁ →× ▁ actar ▁ nicolas ▁ louis ▁ , ▁ Vanve ▁ ±Ⓕ ▁ Ⓚ 1404 ▁ Ⓛ Ⓘ T ▁ Ⓙ Ⓐ P ▁ ↑ ▁ tie ▁ ↓ ▁ 2205 ▁ Ⓑ Ⓒ T ▁ Ⓓ
+Ⓖ§Ⓗ ▁ Ⓔ Charles ▁ à ▁ → ▁ Bellevue ▁ Ⓕ Ⓚ 1405 ▁ Ⓛ Ⓘ T ▁ Ⓙ Ⓐ P ▁ ↑ ▁ tie ▁ ↓ ▁ 2201 ▁ Ⓑ Ⓒ T ▁ Ⓓ
+Ⓖ§Ⓗ ▁ Ⓔ Bessault ▁ Toussaint ▁ à ▁ → ▁ Champigny ▁ Ⓕ Ⓚ 1406 ▁ Ⓛ Ⓘ T ▁ Ⓙ Ⓐ 2206 ▁ Ⓑ Ⓒ T ▁ Ⓓ
+Ⓖ§Ⓗ ▁ Ⓔ Quéru ▁ Pierre ▁ François ▁ Ⓕ Ⓚ 1407 ▁ Ⓛ Ⓘ T ▁ Ⓙ Ⓐ 2210 ▁ → ▁ 2211 ▁ Ⓑ Ⓒ T ▁ → ▁ T ▁ Ⓓ
+Ⓖ§Ⓗ ▁ Ⓔ Rentienne ▁ Ambroise ▁ Amédée ▁ Ⓕ Ⓚ 1408 ▁ Ⓛ Ⓘ T ▁ Ⓙ Ⓐ S ▁ ↑ ▁ te ▁ ↓ ▁ 2219 ▁ → ▁ P ▁ ↑ ▁ tie ▁ ↓ ▁ 2219 ▁ ↑ ▁ bis ▁ ↓Ⓑ ▁ Ⓒ T ▁ Ⓓ
+Ⓖ§Ⓗ ▁ Ⓔ Rentienne ▁ henri ▁ Ⓕ Ⓚ 1409 ▁ Ⓛ Ⓘ T ▁ Ⓙ Ⓐ S ▁ ↑ ▁ te ▁ ↓ ▁ 2219 ▁ → ▁ S ▁ ↑ ▁ te ▁ ↓ ▁ 2219 ▁ ↑ ▁ bis ▁ ↓Ⓑ ▁ Ⓒ T ▁ Ⓓ
+Ⓖ§Ⓗ ▁ Ⓔ Rentienne ▁ Clément ▁ Charles ▁ , ▁ g ▁ ↑ ▁ dre ▁ ↓→ ▁ quésu ▁ Ⓕ Ⓚ 1210 ▁ Ⓛ Ⓘ T ▁ Ⓙ Ⓐ 2220 ▁ Ⓑ Ⓒ T ▁ Ⓓ
+Ⓖ§Ⓗ ▁ Ⓔ Bonval ▁ Pierre ▁ Michel ▁ Ⓕ Ⓚ 1411 ▁ Ⓛ Ⓘ Vigne ▁ T ▁ Ⓙ Ⓐ F ▁ ↑ ▁ ra ▁ ↓ ▁ 2221 ▁ Ⓑ Ⓒ T ▁ Ⓓ
+Ⓖ§Ⓗ ▁ Ⓔ Quière ▁ Louis ▁ Alexis ▁ fils ▁ → ▁ Lèvnard ▁ Ⓕ Ⓚ 1412 ▁ Ⓛ Ⓘ T ▁ Ⓙ Ⓐ 2207 ▁ → ▁ 2209 ▁ Ⓑ Ⓒ Vig ▁ → ▁ T ▁ Ⓓ
+Ⓖ§Ⓗ ▁ Ⓔ❌❌ ▁ erci ▁ Barthelemy ▁ Bernard ▁ Ⓕ Ⓚ 1413 ▁ Ⓛ Ⓘ T ▁ Ⓙ Ⓐ P ▁ ↑ ▁ tie ▁ ↓ ▁ 2208 ▁ Ⓑ Ⓒ T ▁ Ⓓ
+Ⓖ§Ⓗ ▁ Ⓔ Seguin ▁ Théodore ▁ Ⓕ Ⓚ 1414 ▁ Ⓛ Ⓐ P ▁ ↑ ▁ tie ▁ ↓ ▁ 2208 ▁ Ⓑ Ⓒ T ▁ Ⓓ
+Ⓜ 317 ▁ Ⓝ Ⓔ Varlet ▁ J ▁ ↑ ▁ ques ▁ ↓Ⓕ ▁ Ⓚ 1228 ▁ Ⓛ Ⓘ Terre ▁ Ⓙ
+Ⓜ× ▁ 127 ▁ ±→ ▁ 292 ▁ ↑ ▁ bis ▁ ↓Ⓝ ▁ Ⓔ× ▁ Gaucher ▁ rené ▁ p ▁ ↑ ▁ re ▁ ↓ ▁ la ▁ Veuve ▁ ±→ ▁ Rousseau ▁ Ⓕ Ⓚ 1229 ▁ Ⓛ Ⓘ id ▁ Ⓙ
+Ⓜ× ▁ 127 ▁ ±Ⓝ ▁ Ⓔ Idem ▁ Ⓕ Ⓚ 1230 ▁ Ⓛ Ⓘ Vigne ▁ Ⓙ
+Ⓜ 228 ▁ Ⓝ Ⓔ Metivier ▁ Louis ▁ P ▁ ↑ ▁ re ▁ ↓Ⓕ ▁ Ⓚ 1231 ▁ Ⓛ Ⓘ Terre ▁ Ⓙ
+Ⓜ 24 ▁ Ⓝ Ⓔ Benoit ▁ alex ▁ ↑ ▁ dre ▁ ↓Ⓕ ▁ Ⓚ 1232 ▁ Ⓛ Ⓘ Vig ▁ Ⓙ
+Ⓜ× ▁ 127 ▁ ±→ ▁ 292 ▁ ↑ ▁ bis ▁ ↓Ⓝ ▁ Ⓔ× ▁ Gauchet ▁ rené ▁ f ▁ ↑ ▁ re ▁ ↓ ▁ la ▁ Veuve ▁ ±→ ▁ Rousseau ▁ Ⓕ Ⓚ 1233 ▁ Ⓛ Ⓘ id ▁ Ⓙ
+Ⓜ 57 ▁ Ⓝ Ⓔ Boursaut ▁ p ▁ ↑ ▁ re ▁ ↓ ▁ C ▁ ↑ ▁ de ▁ ↓ ▁ Philibert ▁ Ⓕ Ⓚ 1234 ▁ Ⓛ Ⓘ Terre ▁ Ⓙ
+Ⓜ 24 ▁ Ⓝ Ⓔ Benoit ▁ alex ▁ ↑ ▁ dre ▁ ↓Ⓕ ▁ Ⓚ 1235 ▁ Ⓛ Ⓘ id ▁ Ⓙ
+Ⓜ 162 ▁ Ⓝ Ⓔ Jourdain ▁ J ▁ ↑ ▁ n ▁ ↓ ▁ L ▁ ↑ ▁ s ▁ ↓ ▁ Veuve ▁ Ⓕ Ⓚ 1236 ▁ Ⓛ Ⓘ id ▁ Ⓙ
+Ⓜ 70 ▁ Ⓝ Ⓔ Chevalier ▁ P ▁ ↑ ▁ re ▁ ↓ ▁ louis ▁ Ⓕ Ⓚ 1237 ▁ Ⓛ Ⓘ id ▁ Ⓙ
+Ⓜ 191 ▁ Ⓝ Ⓔ Lottin ▁ V ▁ ↑ ▁ ve ▁ Ⓕ Ⓚ 1238 ▁ Ⓛ Ⓘ id ▁ Ⓙ
+Ⓜ× ▁ 106 ▁ ±→ ▁ 165 ▁ ↑ ▁ bis ▁ ↓Ⓝ ▁ Ⓔ× ▁ Dobzat ▁ les ▁ h ▁ ↑ ▁ rs ▁ ↓± ▁ Philibée ▁ Ⓕ Ⓚ 1239 ▁ Ⓛ Ⓘ id ▁ Ⓙ
+Ⓜ 45 ▁ Ⓝ Ⓔ Bonnaire ▁ Ch ▁ ↑ ▁ es ▁ ↓Ⓕ ▁ Ⓚ 1240 ▁ Ⓛ Ⓘ Je ▁ Vig ▁ Ⓙ
+Ⓜ 197 ▁ Ⓝ Ⓔ Maintrieux ▁ f ▁ ↑ ▁ ois ▁ ↓Ⓕ ▁ Ⓚ 1241 ▁ Ⓛ Ⓘ Vig ▁ Ⓙ
+Ⓜ× ▁ 252 ▁ ±→ ▁ 215 ▁ Ⓝ Ⓔ× ▁ Perraut ▁ Louis ▁ ± ▁ Mentienne ▁ louis ▁ Ⓕ Ⓚ 1242 ▁ Ⓛ Ⓘ id ▁ Ⓙ
+Ⓜ 197 ▁ Ⓝ Ⓔ Maintrieux ▁ f ▁ ↑ ▁ ois ▁ ↓Ⓕ ▁ Ⓚ 1243 ▁ Ⓛ Ⓘ Terre ▁ Ⓙ
+Ⓜ 238 ▁ Ⓝ Ⓔ Remy ▁ → ▁ Mortier ▁ × ▁ J ▁ ↑ ▁ ques ▁ ↓ ▁ dit ▁ Chaumont ▁ ±Ⓕ ▁ Ⓚ 1243 ▁ ↑ ▁ bis ▁ ↓Ⓛ ▁ Ⓘ Vig ▁ .Ⓙ
+Ⓜ× ▁ 127 ▁ ±→ ▁ 292 ▁ ↑ ▁ bis ▁ Ⓝ Ⓔ× ▁ Gaucher ▁ rené ▁ p ▁ ↑ ▁ re ▁ ↓ ▁ la ▁ Veuve ▁ ±→ ▁ Rousseau ▁ Ⓕ Ⓚ 1244 ▁ Ⓛ Ⓘ Vig ▁ Ⓙ
+Ⓜ 277 ▁ Ⓝ Ⓔ Queru ▁ f ▁ ↑ ▁ ois ▁ ↓ ▁ Leonard ▁ Ⓕ Ⓚ 1245 ▁ Ⓛ Ⓘ vig ▁ Ⓙ
+Ⓜ 212 ▁ Ⓝ Ⓔ Mentienne ▁ J ▁ ↑ ▁ n ▁ ↓Ⓕ ▁ Ⓚ 1246 ▁ Ⓛ Ⓘ id ▁ Ⓙ
+Ⓖ Rue ▁ du ▁ moulin ▁ → ▁ de ▁ cachan ▁ Ⓗ Ⓔ Lecomte ▁ charles ▁ vincent ▁ Ⓕ Ⓚ 701 ▁ Ⓛ Ⓘ batiment ▁ Ⓙ Ⓐ p ▁ . ▁ 335 ▁ Ⓑ Ⓒ j ▁ Ⓓ
+Ⓖ§Ⓗ ▁ Ⓔ Leroy ▁ denis ▁ ant ▁ ↑ ▁ ne ▁ ↓ ▁ m ▁ ↑ ▁ tre ▁ ↓ ▁ maçon ▁ Ⓕ Ⓚ 702 ▁ Ⓛ Ⓘ jardin ▁ Ⓙ Ⓐ p ▁ . ▁ 335 ▁ Ⓑ Ⓒ j ▁ Ⓓ
+Ⓖ§Ⓗ ▁ Ⓔ houillon ▁ J ▁ ↑ ▁ h ▁ ↓ ▁ amitié ▁ Ⓕ Ⓚ 703 ▁ Ⓛ Ⓘ jardin ▁ Ⓙ Ⓐ p ▁ . ▁ 335 ▁ Ⓑ Ⓒ j ▁ Ⓓ
+Ⓖ§Ⓗ ▁ Ⓔ Nouvial ▁ jean ▁ louis ▁ Ⓕ Ⓚ 704 ▁ Ⓛ Ⓘ Terre ▁ Ⓙ Ⓐ p ▁ . ▁ 335 ▁ → ▁ p ▁ . ▁ 336 ▁ Ⓑ Ⓒ j ▁ → ▁ pepin ▁ Ⓓ
+Ⓖ§Ⓗ ▁ Ⓔ id ▁ Ⓕ Ⓚ 705 ▁ Ⓛ Ⓘ bâtiment ▁ Ⓙ Ⓐ p ▁ . ▁ 335 ▁ Ⓑ Ⓒ j ▁ Ⓓ
+Ⓖ§Ⓗ ▁ Ⓔ Depitre ▁ Ⓕ Ⓚ 706 ▁ Ⓛ Ⓘ Terre ▁ Ⓙ Ⓐ p ▁ . ▁ 336 ▁ Ⓑ Ⓒ pépin ▁ Ⓓ
+Ⓖ§Ⓗ ▁ Ⓔ Raybaud ▁ pierre ▁ Ⓕ Ⓚ 707 ▁ Ⓛ Ⓘ Terre ▁ Ⓙ Ⓐ 333 ▁ → ▁ 334 ▁ Ⓑ Ⓒ T ▁ → ▁ t ▁ . ▁ pl ▁ .Ⓓ
+Ⓖ la ▁ belle ▁ image ▁ Ⓗ Ⓔ Calmet ▁ armand ▁ N ▁ ↑ ▁ as ▁ ↓ ▁ f ▁ ↑ ▁ ois ▁ ↓Ⓕ ▁ Ⓚ 708 ▁ Ⓛ Ⓘ Terre ▁ Ⓙ Ⓐ p ▁ . ▁ 295 ▁ → ▁ et ▁ 295 ▁ ↑ ▁ bis ▁ ↓Ⓑ ▁ Ⓒ T ▁ Ⓓ
+Ⓖ Rue ▁ dumoulin ▁ → ▁ de ▁ cachan ▁ Ⓗ Ⓔ Pommiès ▁ alexandre ▁ Ⓕ Ⓚ 709 ▁ Ⓛ Ⓘ T ▁ .Ⓙ ▁ Ⓐ p ▁ . ▁ 295 ▁ Ⓑ Ⓒ T ▁ Ⓓ
+Ⓖ§Ⓗ ▁ Ⓔ Coudrot ▁ Ⓕ Ⓚ 710 ▁ Ⓛ Ⓘ jardin ▁ Ⓙ Ⓐ p ▁ . ▁ 295 ▁ Ⓑ Ⓒ T ▁ Ⓓ
+Ⓖ§Ⓗ ▁ Ⓜ 114 ▁ Ⓝ Ⓔ§Ⓕ ▁ Ⓚ 711 ▁ Ⓛ Ⓘ bâtiment ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Pepin ▁ jacques ▁ claude ▁ Ⓕ Ⓚ 712 ▁ Ⓛ Ⓘ bâtiment ▁ → ▁ n ▁ ° ▁ 28 ▁ Ⓙ Ⓐ p ▁ . ▁ 295 ▁ Ⓑ Ⓒ T ▁ Ⓓ
+Ⓖ§Ⓗ ▁ Ⓔ id ▁ Ⓕ Ⓚ 713 ▁ Ⓛ Ⓘ jardin ▁ Ⓙ Ⓐ p ▁ . ▁ 295 ▁ Ⓑ Ⓒ T ▁ Ⓓ
+Ⓖ§Ⓗ ▁ Ⓔ§Ⓕ ▁ Ⓚ 714 ▁ Ⓛ Ⓘ bâtiment ▁ Ⓙ Ⓐ p ▁ . ▁ 295 ▁ Ⓑ Ⓒ T ▁ Ⓓ
+Ⓖ Les ▁ Lozaits ▁ Ⓗ Ⓜ 397 ▁ Ⓝ Ⓔ Massuet ▁ louis ▁ michel ▁ Ⓕ Ⓚ 475 ▁ Ⓛ Ⓘ terre ▁ Ⓙ Ⓐ 1068 ▁ → ▁ 1069 ▁ Ⓑ
+Ⓖ§Ⓗ ▁ Ⓜ 322 ▁ Ⓝ Ⓔ Leduc ▁ pierre ▁ denis ▁ Ⓕ Ⓚ 476 ▁ Ⓛ Ⓘ terre ▁ Ⓙ Ⓐ 1065 ▁ → ▁ 1066 ▁ → ▁ 1067 ▁ Ⓑ
+Ⓖ§Ⓗ ▁ Ⓜ 211 ▁ Ⓝ Ⓔ Gabillot ▁ louis ▁ lambert ▁ Ⓕ Ⓚ 477 ▁ Ⓛ Ⓘ terre ▁ Ⓙ Ⓐ 1064 ▁ Ⓑ
+Ⓖ§Ⓗ ▁ Ⓜ 420 ▁ Ⓝ Ⓔ Mayeux ▁ pierre ▁ françois ▁ Ⓕ Ⓚ 478 ▁ Ⓛ Ⓘ terre ▁ Ⓙ Ⓐ 1063 ▁ Ⓑ
+Ⓖ§Ⓗ ▁ Ⓜ 479 ▁ Ⓝ Ⓔ Chatenay ▁ Jean ▁ Marie ▁ → ▁ abel ▁ Ⓕ Ⓚ 479 ▁ Ⓛ Ⓘ§Ⓙ ▁ Ⓐ 1061 ▁ → ▁ 1061 ▁ ↑ ▁ bis ▁ ↓Ⓑ
+Ⓖ§Ⓗ ▁ Ⓜ 190 ▁ Ⓝ Ⓔ Fleury ▁ gabriel ▁ françois ▁ Ⓕ Ⓚ 480 ▁ Ⓛ Ⓘ terre ▁ Ⓙ Ⓐ 1061 ▁ → ▁ 1061 ▁ ↑ ▁ bis ▁ ↓Ⓑ
+Ⓖ§Ⓗ ▁ Ⓜ 246 ▁ Ⓝ Ⓔ Guillemain ▁ frédéric ▁ a ▁ → ▁ Vitry ▁ Ⓕ Ⓚ 481 ▁ Ⓛ Ⓘ terre ▁ Ⓙ Ⓐ 1061 ▁ → ▁ 1061 ▁ ↑ ▁ bis ▁ ↓Ⓑ
+Ⓖ§Ⓗ ▁ Ⓜ 394 ▁ Ⓝ Ⓔ Massuet ▁ Jean ▁ Pierre ▁ Ⓕ Ⓚ 482 ▁ Ⓛ Ⓘ terre ▁ Ⓙ Ⓐ 1059 ▁ → ▁ 1060 ▁ Ⓑ
+Ⓖ§Ⓗ ▁ Ⓜ 437 ▁ Ⓝ Ⓔ Moncouteau ▁ Claude ▁ lambert ▁ Ⓕ Ⓚ 483 ▁ Ⓛ Ⓘ terre ▁ Ⓙ Ⓐ 1057 ▁ → ▁ 1058 ▁ Ⓑ
+Ⓖ§Ⓗ ▁ Ⓜ 391 ▁ Ⓝ Ⓔ Massuet ▁ ↑ ▁ cyr ▁ ↓ ▁ J ▁ ↑ ▁ n ▁ ↓ ▁ baptiste ▁ Ⓕ Ⓚ 484 ▁ Ⓛ Ⓘ pep ▁ ↑ ▁ re ▁ ↓Ⓙ ▁ Ⓐ 1056bis ▁ Ⓑ
+Ⓖ§Ⓗ ▁ Ⓔ Mayeux ▁ pierre ▁ f ▁ ↑ ▁ çois ▁ ↓Ⓕ ▁ Ⓚ 485 ▁ Ⓛ Ⓘ terre ▁ Ⓙ Ⓐ 1056 ▁ → ▁ 1055 ▁ p ▁ ↑ ▁ tie ▁ ↓Ⓑ ▁ Ⓒ§Ⓓ
+Ⓖ§Ⓗ ▁ Ⓔ Thévenot ▁ Jean ▁ louis ▁ Ⓕ Ⓚ 486 ▁ Ⓛ Ⓘ terre ▁ Ⓙ Ⓐ 1055 ▁ p ▁ ↑ ▁ tie ▁ ↓→ ▁ 1054p ▁ ↑ ▁ tie ▁ ↓Ⓑ ▁ Ⓒ§Ⓓ
+Ⓖ§Ⓗ ▁ Ⓔ Pepin ▁ edme ▁ louis ▁ Ⓕ Ⓚ 487 ▁ Ⓛ Ⓘ terre ▁ Ⓙ Ⓐ 1054 ▁ p ▁ ↑ ▁ tie ▁ ↓→ ▁ 1055 ▁ ↑ ▁ bis ▁ ↓ ▁ n ▁ ' ▁ existe ▁ pas ▁ sur ▁ le ▁ plan ▁ Ⓑ Ⓒ§Ⓓ
+Ⓖ§Ⓗ ▁ Ⓔ Serre ▁ de ▁ St ▁ Roman ▁ Ⓕ Ⓚ 488 ▁ Ⓛ Ⓘ terre ▁ Ⓙ Ⓐ 1072 ▁ → ▁ 1073 ▁ p ▁ ↑ ▁ tie ▁ ↓Ⓑ ▁ Ⓒ§Ⓓ
+Ⓖ Les ▁ Roses ▁ Ⓗ Ⓔ Morizot ▁ louis ▁ antoine ▁ Ⓕ Ⓚ 57 ▁ Ⓛ Ⓘ Terre ▁ Ⓙ Ⓐ 60 ▁ Ⓑ Ⓒ Terre ▁ Ⓓ
+Ⓖ§Ⓗ ▁ Ⓔ Beaupied ▁ Jean ▁ Jacques ▁ Ⓕ Ⓚ 58 ▁ Ⓛ Ⓘ T ▁ Ⓙ Ⓐ 61 ▁ Ⓑ Ⓒ Vig ▁ Ⓓ
+Ⓖ§Ⓗ ▁ Ⓔ Degarne ▁ jean ▁ Ⓕ Ⓚ 59 ▁ Ⓛ Ⓘ T ▁ Ⓙ Ⓐ 62 ▁ Ⓑ Ⓒ V ▁ Ⓓ
+Ⓖ§Ⓗ ▁ Ⓔ auger ▁ nicolas ▁ joseph ▁ Ⓕ Ⓚ 60 ▁ Ⓛ Ⓘ T ▁ Ⓙ Ⓐ 63 ▁ Ⓑ Ⓒ V ▁ .Ⓓ
+Ⓖ§Ⓗ ▁ Ⓔ Lompageu ▁ P ▁ ↑ ▁ re ▁ ↓ ▁ jean ▁ Ⓕ Ⓚ 61 ▁ Ⓛ Ⓘ T ▁ Ⓙ Ⓐ 64 ▁ Ⓑ Ⓒ V ▁ .Ⓓ
+Ⓖ§Ⓗ ▁ Ⓔ Delanoue ▁ toussaint ▁ Ⓕ Ⓚ 62 ▁ Ⓛ Ⓘ T ▁ Ⓙ Ⓐ☼Ⓑ ▁ Ⓒ☼Ⓓ
+Ⓖ§Ⓗ ▁ Ⓔ id ▁ Ⓕ Ⓚ 63 ▁ Ⓛ Ⓘ Vigne ▁ Ⓙ Ⓐ 65 ▁ Ⓑ Ⓒ V ▁ .Ⓓ
+Ⓖ§Ⓗ ▁ Ⓔ Baloche ▁ bernard ▁ Ⓕ Ⓚ 64 ▁ Ⓛ Ⓘ T ▁ Ⓙ Ⓐ 66 ▁ Ⓑ Ⓒ V ▁ .Ⓓ
+Ⓖ§Ⓗ ▁ Ⓔ Pescheux ▁ germain ▁ p ▁ ↑ ▁ re ▁ ↓Ⓕ ▁ Ⓚ 65 ▁ Ⓛ Ⓘ T ▁ Ⓙ Ⓐ 67 ▁ Ⓑ Ⓒ V ▁ Ⓓ
+Ⓖ§Ⓗ ▁ Ⓔ Minier ▁ louis ▁ jacques ▁ Ⓕ Ⓚ 66 ▁ Ⓛ Ⓘ T ▁ Ⓙ Ⓐ 68 ▁ → ▁ 69 ▁ Ⓑ Ⓒ V ▁ → ▁ V ▁ Ⓓ
+Ⓖ§Ⓗ ▁ Ⓔ ferres ▁ louise ▁ désiré ▁ gertrude ▁ Ⓕ Ⓚ 67 ▁ Ⓛ Ⓘ T ▁ Ⓙ Ⓐ 70 ▁ Ⓑ Ⓒ T ▁ Ⓓ
+Ⓖ§Ⓗ ▁ Ⓔ Pigeron ▁ Ⓕ Ⓚ 68 ▁ Ⓛ Ⓘ T ▁ Ⓙ Ⓐ 71 ▁ Ⓑ Ⓒ V ▁ Ⓓ
+Ⓖ§Ⓗ ▁ Ⓔ Lebon ▁ jean ▁ Ⓕ Ⓚ 69 ▁ Ⓛ Ⓘ T ▁ Ⓙ Ⓐ 72 ▁ Ⓑ Ⓒ T ▁ Ⓓ
+Ⓖ§Ⓗ ▁ Ⓔ Basses ▁ philippe ▁ Ⓕ Ⓚ 70 ▁ Ⓛ Ⓘ T ▁ Ⓙ Ⓐ 73 ▁ Ⓑ Ⓒ T ▁ Ⓓ
+Ⓖ le ▁ chemin ▁ du ▁ → ▁ Bois ▁ Ⓗ Ⓜ 75 ▁ Ⓝ Ⓔ Lecouteure ▁ simon ▁ Ⓕ Ⓚ 99 ▁ Ⓛ Ⓘ Terre ▁ Ⓙ Ⓐ 206 ▁ Ⓑ Ⓒ T ▁ Ⓓ
+Ⓖ§Ⓗ ▁ Ⓜ 98 ▁ Ⓝ Ⓔ Pelet ▁ de ▁ la ▁ Lozère ▁ Ⓕ Ⓚ 100 ▁ Ⓛ Ⓘ Terre ▁ Ⓙ Ⓐ 207 ▁ Ⓑ Ⓒ T ▁ Ⓓ
+Ⓖ§Ⓗ ▁ Ⓜ 75 ▁ Ⓝ Ⓔ Lecouteux ▁ simon ▁ Ⓕ Ⓚ 101 ▁ Ⓛ Ⓘ Terre ▁ Ⓙ Ⓐ 208 ▁ Ⓑ Ⓒ T ▁ Ⓓ
+Ⓖ§Ⓗ ▁ Ⓜ 68 ▁ Ⓝ Ⓔ Labbé ▁ Louis ▁ Ⓕ Ⓚ 102 ▁ Ⓛ Ⓘ Terre ▁ Ⓙ Ⓐ 209 ▁ Ⓑ Ⓒ T ▁ Ⓓ
+Ⓖ§Ⓗ ▁ Ⓜ 75 ▁ Ⓝ Ⓔ Lecouteux ▁ Simon ▁ Ⓕ Ⓚ 103 ▁ Ⓛ Ⓘ Terre ▁ Ⓙ Ⓐ 212 ▁ , ▁ 213 ▁ , ▁ 214 ▁ Ⓑ Ⓒ T ▁ Ⓓ
+Ⓖ§Ⓗ ▁ Ⓜ 63 ▁ Ⓝ Ⓔ Hôtel ▁ Dieu ▁ de ▁ Paris ▁ Ⓕ Ⓚ 104 ▁ Ⓛ Ⓘ Terre ▁ Ⓙ Ⓐ 211 ▁ Ⓑ Ⓒ T ▁ Ⓓ
+Ⓖ§Ⓗ ▁ Ⓜ 104 ▁ Ⓝ Ⓔ Pior ▁ veuve ▁ Ⓕ Ⓚ 105 ▁ Ⓛ Ⓘ Terre ▁ Ⓙ Ⓐ 210 ▁ Ⓑ Ⓒ T ▁ Ⓓ
+Ⓖ Ø ▁ Ⓗ Ⓜ 49bis ▁ Ⓝ Ⓔ Fournier ▁ athanase ▁ à ▁ Prescy ▁ Ⓕ Ⓚ 105 ▁ ↑ ▁ bis ▁ ↓Ⓛ ▁ Ⓘ Terre ▁ Ⓙ Ⓐ Ø ▁ Ⓑ Ⓒ T ▁ Ⓓ
+Ⓖ Les ▁ Bouvets ▁ Ⓗ Ⓜ 63 ▁ Ⓝ Ⓔ hôtel ▁ Dieu ▁ de ▁ Paris ▁ Ⓕ Ⓚ 106 ▁ Ⓛ Ⓘ Terre ▁ Ⓙ Ⓐ 226 ▁ Ⓑ Ⓒ T ▁ Ⓓ
+Ⓖ§Ⓗ ▁ Ⓜ 43 ▁ Ⓝ Ⓔ Duval ▁ prosper ▁ Ⓕ Ⓚ 107 ▁ Ⓛ Ⓘ terre ▁ Ⓙ Ⓐ 229 ▁ Ⓑ Ⓒ T ▁ Ⓓ
+Ⓖ§Ⓗ ▁ Ⓜ 63 ▁ Ⓝ Ⓔ hôtel ▁ Dieu ▁ de ▁ Paris ▁ Ⓕ Ⓚ 108 ▁ Ⓛ Ⓘ Terre ▁ Ⓙ Ⓐ 230 ▁ Ⓑ Ⓒ T ▁ Ⓓ
+Ⓖ§Ⓗ ▁ Ⓜ 109 ▁ Ⓝ Ⓔ Prevost ▁ Louis ▁ denis ▁ Ⓕ Ⓚ 109 ▁ Ⓛ Ⓘ Terre ▁ Ⓙ Ⓐ 231 ▁ Ⓑ Ⓒ pré ▁ Ⓓ
+Ⓖ§Ⓗ ▁ Ⓜ 63 ▁ Ⓝ Ⓔ hôtel ▁ Dieu ▁ de ▁ Paris ▁ Ⓕ Ⓚ 110 ▁ Ⓛ Ⓘ Terre ▁ Ⓙ Ⓐ 232 ▁ Ⓑ Ⓒ Terre ▁ Ⓓ
+Ⓖ§Ⓗ ▁ Ⓜ 125 ▁ Ⓝ Ⓔ Thomas ▁ Jean ▁ François ▁ Ⓕ Ⓚ 111 ▁ Ⓛ Ⓘ Terre ▁ Ⓙ Ⓐ 233 ▁ Ⓑ Ⓒ pré ▁ Ⓓ
+Ⓖ§Ⓗ ▁ Ⓜ 63 ▁ Ⓝ Ⓔ hôtel ▁ Dieu ▁ de ▁ Paris ▁ Ⓕ Ⓚ 112 ▁ Ⓛ Ⓘ Terre ▁ Ⓙ Ⓐ 235 ▁ Ⓑ Ⓒ pré ▁ Ⓓ
+Ⓖ Le ▁ Plantre ▁ Ⓗ Ⓔ Massuet ▁ louis ▁ gaspard ▁ Ⓕ Ⓚ 213 ▁ Ⓛ Ⓘ Terre ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ J ▁ ↑ ▁ n ▁ ↓ ▁ J ▁ ↑ ▁ ques ▁ ↓ ▁ denis ▁ → ▁ Godefroy ▁ × ▁ Denis ▁ ch ▁ ±Ⓕ ▁ Ⓚ 241 ▁ Ⓛ Ⓘ Terre ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Cocher ▁ nicolas ▁ Ⓕ Ⓚ 215 ▁ Ⓛ Ⓘ Terre ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ J ▁ ↑ ▁ n ▁ ↓ ▁ J ▁ ↑ ▁ ques ▁ ↓ ▁ denis ▁ → ▁ Godefroy ▁ denis ▁ Ch ▁ ↑ ▁ re ▁ ↓ ▁ J ▁ ↑ ▁ n ▁ ↓Ⓕ ▁ Ⓚ 216 ▁ Ⓛ Ⓘ Terre ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Dufresne ▁ jean ▁ germain ▁ Ⓕ Ⓚ 217 ▁ Ⓛ Ⓘ Terre ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ× ▁ Corday ▁ à ▁ Vitry ▁ ±→ ▁ mayeux ▁ a ▁ Villejuif ▁ Ⓕ Ⓚ 218 ▁ Ⓛ Ⓘ Terre ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Leroy ▁ louis ▁ georges ▁ Ⓕ Ⓚ 219 ▁ Ⓛ Ⓘ Terre ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Lebourlier ▁ n ▁ ↑ ▁ as ▁ ↓ ▁ hector ▁ Ⓕ Ⓚ 220 ▁ Ⓛ Ⓘ Terre ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Leroy ▁ jean ▁ gilles ▁ Ⓕ Ⓚ 221 ▁ Ⓛ Ⓘ Terre ▁ Ⓙ
+Ⓖ× ▁ Rue ▁ du ▁ Cimetière ▁ ±Ⓗ ▁ Ⓔ Boujard ▁ a ▁ Paris ▁ Ⓕ Ⓚ 27 ▁ . ▁ Voir ▁ le ▁ n ▁ ° ▁ 27 ▁ ↑ ▁ bis ▁ ↓→× ▁ 222 ▁ ±→ ▁ 27 ▁ Ⓛ Ⓘ× ▁ Pièce ▁ d ▁ ' ▁ eau ▁ ±Ⓙ
+Ⓖ× ▁ id ▁ ±Ⓗ ▁ Ⓔ Boujard ▁ à ▁ Paris ▁ Ⓕ Ⓚ 27 ▁ Voir ▁ le ▁ n ▁ ° ▁ 27 ▁ ↑ ▁ tri ▁ ↓→× ▁ 223 ▁ ±→ ▁ 27 ▁ Ⓛ Ⓘ× ▁ Pièce ▁ d ▁ ' ▁ eau ▁ ±Ⓙ
+Ⓖ× ▁ Les ▁ sablons ▁ ±Ⓗ ▁ Ⓔ hospices ▁ de ▁ Paris ▁ Ⓕ Ⓚ 108 ▁ → ▁ Voir ▁ le ▁ n ▁ ° ▁ 109 ▁ ↑ ▁ bis ▁ →× ▁ 224 ▁ ±→ ▁ 109 ▁ Ⓛ Ⓘ× ▁ T ▁ plantée ▁ ±Ⓙ
+Ⓖ× ▁ Maison ▁ blanche ▁ ±Ⓗ ▁ Ⓔ malbezin ▁ alcistre ▁ →× ▁ Menager ▁ Ⓕ Ⓚ 126 ▁ Voir ▁ le ▁ n ▁ ° ▁ 126 ▁ ↑ ▁ bis ▁ ↓→ ▁ 225 ▁ → ▁ 127 ▁ Ⓛ Ⓘ× ▁ sol ▁ ±Ⓙ
+Ⓖ id ▁ Ⓗ Ⓔ id ▁ Ⓕ Ⓚ 225 ▁ Ⓛ Ⓘ× ▁ Maison ▁ ±Ⓙ
+Ⓖ❌ ▁ e ▁ × ▁ heloux ▁ ±Ⓗ ▁ Ⓔ Dufresne ▁ abel ▁ jean ▁ henry ▁ Ⓕ Ⓚ 2 ▁ Voir ▁ le ▁ n ▁ ° ▁ 2 ▁ ↑ ▁ bis ▁ ↓→ ▁ 226 ▁ → ▁ 3031 ▁ Ⓛ Ⓘ× ▁ Jardin ▁ ±Ⓙ
+Ⓖ× ▁ Rue ▁ de ▁ la ▁ montagne ▁ ±Ⓗ ▁ Ⓔ Prieur ▁ aimé ▁ J ▁ ↑ ▁ n ▁ ↓ ▁ b ▁ ↑ ▁ te ▁ ↓Ⓕ ▁ Ⓚ 57 ▁ Voir ▁ le ▁ n ▁ ° ▁ 57 ▁ ↑ ▁ bis ▁ ↓→ ▁ 227 ▁ → ▁ 58 ▁ Ⓛ Ⓘ× ▁ Terrain ▁ ±Ⓙ
+Ⓖ× ▁ Route ▁ de ▁ fontainebleau ▁ ±Ⓗ ▁ Ⓔ Olivier ▁ Ⓕ Ⓚ mur ▁ d ▁ ' ▁ Enceinte ▁ Voir ▁ le ▁ n ▁ ° ▁ 147 ▁ ↑ ▁ bis ▁ ↓→ ▁ 228 ▁ → ▁ 149 ▁ Ⓛ Ⓘ sol ▁ et ▁ cour ▁ →× ▁ Terrain ▁ ±Ⓙ
+Ⓖ id ▁ Ⓗ Ⓔ 228 ▁ Ⓕ Ⓚ id ▁ Ⓛ Ⓘ Maison ▁ Ⓙ
+Ⓜ 578 ▁ bis ▁ Ⓝ Ⓔ Lecoq ▁ maçon ▁ Ⓕ Ⓚ× ▁ 229 ▁ ±→ ▁ 149 ▁ Ⓛ Ⓘ× ▁ Terrain ▁ ±Ⓙ
+Ⓖ× ▁ id ▁ ±Ⓗ ▁ Ⓔ hospices ▁ de ▁ Paris ▁ Ⓕ Ⓚ 149 ▁ → ▁ 230 ▁ Voir ▁ le ▁ n ▁ ° ▁ 149 ▁ ↑ ▁ tr ▁ ↓→ ▁ 150 ▁ Ⓛ Ⓘ× ▁ Terrain ▁ ×Ⓙ
+Ⓖ× ▁ Les ▁ Plantres ▁ ±Ⓗ ▁ Ⓔ Fleury ▁ ( ▁ ptassier ▁ ) ▁ germain ▁ felix ▁ Ⓕ Ⓚ 159 ▁ Voir ▁ le ▁ n ▁ ° ▁ 158 ▁ ↑ ▁ bis ▁ ↓→ ▁ 231 ▁ → ▁ S ▁ ↑ ▁ on ▁ ↓ ▁ F ▁ Ⓛ Ⓘ× ▁ Terrain ▁ ±Ⓙ
+Ⓖ Route ▁ de ▁ Charenton ▁ Ⓗ Ⓔ Mitauls ▁ Jean ▁ , ▁ route ▁ de ▁ Charenton ▁ Ⓕ Ⓚ 684 ▁ Ⓛ Ⓘ sol ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Mitauls ▁ Jean ▁ id ▁ Ⓕ Ⓚ 684 ▁ Ⓛ Ⓘ maison ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Mitauls ▁ Jean ▁ id ▁ Ⓕ Ⓚ 685 ▁ Ⓛ Ⓘ Jard ▁ . ▁ d ▁ ' ▁ ag ▁ ↑ ▁ t ▁ ↓.Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Mitauls ▁ Jean ▁ id ▁ Ⓕ Ⓚ 686 ▁ Ⓛ Ⓘ sol ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Mitauls ▁ Jean ▁ id ▁ Ⓕ Ⓚ 686 ▁ Ⓛ Ⓘ manège ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Mitauls ▁ Jean ▁ id ▁ Ⓕ Ⓚ 687 ▁ Ⓛ Ⓘ jard ▁ . ▁ d ▁ ' ▁ agt ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Mitauls ▁ Jean ▁ id ▁ Ⓕ Ⓚ 688 ▁ Ⓛ Ⓘ cour ▁ de ▁ fabrique ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Mitauls ▁ Jean ▁ id ▁ Ⓕ Ⓚ 689 ▁ Ⓛ Ⓘ sol ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Mitauls ▁ Jean ▁ id ▁ Ⓕ Ⓚ 689 ▁ Ⓛ Ⓘ fabrique ▁ de ▁ colle ▁ forte ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Mitauls ▁ Jean ▁ id ▁ Ⓕ Ⓚ 689 ▁ ↑ ▁ bis ▁ ↓Ⓛ ▁ Ⓘ Terrain ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Mitauls ▁ Jean ▁ id ▁ Ⓕ Ⓚ 690 ▁ Ⓛ Ⓘ fabrique ▁ de ▁ produits ▁ → ▁ chimiques ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Mitauls ▁ Jean ▁ id ▁ Ⓕ Ⓚ 691 ▁ Ⓛ Ⓘ sol ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Mitauls ▁ Jean ▁ id ▁ Ⓕ Ⓚ 691 ▁ Ⓛ Ⓘ maison ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Mitauls ▁ Jean ▁ id ▁ Ⓕ Ⓚ 692 ▁ Ⓛ Ⓘ fabrique ▁ de ▁ produits ▁ → ▁ chimiques ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Mitauls ▁ Jean ▁ id ▁ Ⓕ Ⓚ 693 ▁ Ⓛ Ⓘ fabrique ▁ de ▁ colle ▁ forte ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Mitauls ▁ Jean ▁ id ▁ Ⓕ Ⓚ 693 ▁ ↑ ▁ bis ▁ ↓Ⓛ ▁ Ⓘ sol ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Mitauls ▁ Jean ▁ id ▁ Ⓕ Ⓚ 693 ▁ ↑ ▁ bis ▁ ↓Ⓛ ▁ Ⓘ bâtiment ▁ de ▁ machine ▁ → ▁ à ▁ vapeur ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Mitauls ▁ Jean ▁ id ▁ Ⓕ Ⓚ 694 ▁ Ⓛ Ⓘ fabrique ▁ de ▁ produits ▁ chimiques ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Mitauls ▁ Jean ▁ id ▁ Ⓕ Ⓚ 694 ▁ ↑ ▁ bis ▁ ↓Ⓛ ▁ Ⓘ fabrique ▁ de ▁ carton ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Mitauls ▁ Jean ▁ id ▁ Ⓕ Ⓚ 695 ▁ Ⓛ Ⓘ sol ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Mitauls ▁ Jean ▁ id ▁ Ⓕ Ⓚ 695 ▁ ↑ ▁ bis ▁ ↓Ⓛ ▁ Ⓘ sol ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Mitauls ▁ Jean ▁ id ▁ Ⓕ Ⓚ 695 ▁ ↑ ▁ bis ▁ ↓Ⓛ ▁ Ⓘ maison ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Mitauls ▁ Jean ▁ id ▁ Ⓕ Ⓚ 695 ▁ ↑ ▁ bis ▁ ↓Ⓛ ▁ Ⓘ maison ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Mitauls ▁ Jean ▁ id ▁ Ⓕ Ⓚ 696 ▁ Ⓛ Ⓘ terrains ▁ à ▁ bâtir ▁ Ⓙ
+Ⓜ 90 ▁ ↑ ▁ bis ▁ ↓Ⓝ ▁ Ⓔ Coiffier ▁ J ▁ ↑ ▁ n ▁ ↓ ▁ B ▁ ↑ ▁ te ▁ ↓ ▁ seraphin ▁ Ⓕ Ⓚ 644 ▁ Ⓛ Ⓘ Terre ▁ Ⓙ
+Ⓜ 198 ▁ Ⓝ Ⓔ Hericourt ▁ Louis ▁ Ⓕ Ⓚ 644 ▁ ↑ ▁ bis ▁ ↓Ⓛ ▁ Ⓘ id ▁ Ⓙ
+Ⓜ 331 ▁ Ⓝ Ⓔ Montmarthe ▁ Ph ▁ ↑ ▁ e ▁ ↓ ▁ veuve ▁ Ⓕ Ⓚ 45 ▁ Ⓛ Ⓘ id ▁ Ⓙ
+Ⓜ 429 ▁ Ⓝ Ⓔ M ▁ Saussay ▁ fils ▁ Ⓕ Ⓚ 45 ▁ ↑ ▁ bis ▁ ↓Ⓛ ▁ Ⓘ§Ⓙ
+Ⓜ 231 ▁ Ⓝ Ⓔ Lameau ▁ V ▁ ↑ ▁ e ▁ ↓ ▁ saturnin ▁ h ▁ ↑ ▁ ers ▁ ↓Ⓕ ▁ Ⓚ 46 ▁ Ⓛ Ⓘ§Ⓙ
+Ⓜ 116 ▁ Ⓝ Ⓔ M ▁ ↑ ▁ v ▁ ↓ ▁ Dhaussonville ▁ Ⓕ Ⓚ 47 ▁ Ⓛ Ⓘ vig ▁ Ⓙ
+Ⓜ 32 ▁ Ⓝ Ⓔ Bataille ▁ simon ▁ Ⓕ Ⓚ 48 ▁ Ⓛ Ⓘ Terre ▁ Ⓙ
+Ⓜ 32 ▁ Ⓝ Ⓔ Le ▁ même ▁ Ⓕ Ⓚ 48 ▁ ↑ ▁ bis ▁ ↓Ⓛ ▁ Ⓘ id ▁ Ⓙ
+Ⓜ 87 ▁ Ⓝ Ⓔ Coiffier ▁ J ▁ ↑ ▁ n ▁ ↓ ▁ F ▁ ↑ ▁ ois ▁ ↓Ⓕ ▁ Ⓚ 49 ▁ Ⓛ Ⓘ§Ⓙ
+Ⓜ× ▁ 40 ▁ ±→ ▁ 434 ▁ ↑ ▁ bis ▁ ↓Ⓝ ▁ Ⓔ× ▁ Berger ▁ Louis ▁ ± ▁ Foudaux ▁ F ▁ ↑ ▁ ou ▁ ↓ ▁ Vincent ▁ Ⓕ Ⓚ 650 ▁ Ⓛ Ⓘ§Ⓙ
+Ⓜ 31 ▁ Ⓝ Ⓔ Bastien ▁ Laurent ▁ Ⓕ Ⓚ 51 ▁ Ⓛ Ⓘ vig ▁ Ⓙ
+Ⓜ 123 ▁ Ⓝ Ⓔ Duval ▁ sat ▁ ↑ ▁ nin ▁ ↓ ▁ veuve ▁ Ⓕ Ⓚ 52 ▁ Ⓛ Ⓘ Terre ▁ Ⓙ
+Ⓜ 307 ▁ Ⓝ Ⓔ Merillon ▁ J ▁ ↑ ▁ n ▁ ↓ ▁ Sat ▁ ↑ ▁ nin ▁ ↓Ⓕ ▁ Ⓚ 53 ▁ Ⓛ Ⓘ id ▁ Ⓙ
+Ⓜ× ▁ 6 ▁ ±→ ▁ 33 ▁ Ⓝ Ⓔ× ▁ ancelet ▁ V ▁ ↑ ▁ e ▁ ↓ ▁ Jacq ▁ .± ▁ Bataille ▁ J ▁ ↑ ▁ n ▁ ↓ ▁ bap ▁ ↑ ▁ te ▁ ↓Ⓕ ▁ Ⓚ 54 ▁ Ⓛ Ⓘ§Ⓙ
+Ⓜ× ▁ 460 ▁ ±→ ▁ 432 ▁ Ⓝ Ⓔ× ▁ Vitry ▁ veuve ▁ maurice ▁ ± ▁ Soudieux ▁ L ▁ ↑ ▁ is ▁ ↓ ▁ J ▁ ↑ ▁ ques ▁ ↓Ⓕ ▁ Ⓚ 55 ▁ Ⓛ Ⓘ§Ⓙ
+Ⓜ 307 ▁ Ⓝ Ⓔ Merillon ▁ J ▁ ↑ ▁ n ▁ ↓ ▁ Sat ▁ ↑ ▁ in ▁ ↓Ⓕ ▁ Ⓚ 56 ▁ Ⓛ Ⓘ ter ▁ .Ⓙ
+Ⓜ 307 ▁ Ⓝ Ⓔ Le ▁ même ▁ Ⓕ Ⓚ 57 ▁ Ⓛ Ⓘ vig ▁ .Ⓙ
+Ⓜ 443 ▁ Ⓝ Ⓔ Soudieux ▁ augustin ▁ Ⓕ Ⓚ 58 ▁ Ⓛ Ⓘ id ▁ Ⓙ
+Ⓜ× ▁ 73 ▁ ±→ ▁ 22 ▁ ↑ ▁ bis ▁ ↓Ⓝ ▁ Ⓔ× ▁ Carteron ▁ ± ▁ Autray ▁ Vincent ▁ félix ▁ Ⓕ Ⓚ 58 ▁ ↑ ▁ bis ▁ ↓Ⓛ ▁ Ⓘ§Ⓙ
+Ⓜ 105 ▁ Ⓝ Ⓔ N ▁ ↑ ▁ v ▁ ↓ ▁ Cury ▁ Ⓕ Ⓚ 59 ▁ Ⓛ Ⓘ Terre ▁ Ⓙ
+Ⓜ 105 ▁ Ⓝ Ⓔ Le ▁ même ▁ Ⓕ Ⓚ 660 ▁ Ⓛ Ⓘ id ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓜ 70 ▁ Ⓝ Ⓔ Cadot ▁ P ▁ ↑ ▁ re ▁ ↓ ▁ F ▁ ↑ ▁ ois ▁ ↓ ▁ font ▁ .Ⓕ ▁ Ⓚ 61 ▁ Ⓛ Ⓘ§Ⓙ
+Ⓖ Les ▁ Roses ▁ Ⓗ Ⓔ Delanoue ▁ toussaint ▁ Ⓕ Ⓚ 71 ▁ Ⓛ Ⓘ Terre ▁ Ⓙ Ⓐ 74 ▁ Ⓑ Ⓒ Terre ▁ Ⓓ
+Ⓖ§Ⓗ ▁ Ⓔ Leportier ▁ louis ▁ germain ▁ Ⓕ Ⓚ 72 ▁ Ⓛ Ⓘ T ▁ Ⓙ Ⓐ 75 ▁ Ⓑ Ⓒ T ▁ Ⓓ
+Ⓖ§Ⓗ ▁ Ⓔ Sejourné ▁ louis ▁ laurent ▁ Ⓕ Ⓚ 73 ▁ Ⓛ Ⓘ Vigne ▁ Ⓙ Ⓐ 76 ▁ Ⓑ Ⓒ T ▁ Ⓓ
+Ⓖ§Ⓗ ▁ Ⓔ Legendre ▁ louis ▁ philippe ▁ Ⓕ Ⓚ 74 ▁ Ⓛ Ⓘ Vig ▁ .Ⓙ ▁ Ⓐ 77 ▁ → ▁ 78 ▁ → ▁ 79 ▁ Ⓑ Ⓒ T ▁ → ▁ T ▁ → ▁ Vig ▁ Ⓓ
+Ⓖ§Ⓗ ▁ Ⓔ Guay ▁ jacques ▁ fils ▁ Ⓕ Ⓚ 75 ▁ Ⓛ Ⓘ Terre ▁ Ⓙ Ⓐ 80 ▁ Ⓑ Ⓒ T ▁ Ⓓ
+Ⓖ§Ⓗ ▁ Ⓔ Gerande ▁ ( ▁ de ▁ )Ⓕ ▁ Ⓚ 76 ▁ Ⓛ Ⓘ T ▁ Ⓙ Ⓐ 81 ▁ Ⓑ Ⓒ T ▁ Ⓓ
+Ⓖ§Ⓗ ▁ Ⓔ Delanoue ▁ J ▁ ↑ ▁ n ▁ ↓ ▁ B ▁ ↑ ▁ te ▁ ↓ ▁ toussaint ▁ Ⓕ Ⓚ 77 ▁ Ⓛ Ⓘ T ▁ Ⓙ Ⓐ 82 ▁ Ⓑ Ⓒ T ▁ Ⓓ
+Ⓖ§Ⓗ ▁ Ⓔ Meneux ▁ ch ▁ ↑ ▁ es ▁ ↓ ▁ nicolas ▁ Ⓕ Ⓚ 78 ▁ Ⓛ Ⓘ T ▁ Ⓙ Ⓐ 83 ▁ → ▁ 84 ▁ Ⓑ Ⓒ Vig ▁ → ▁ T ▁ Ⓓ
+Ⓖ§Ⓗ ▁ Ⓔ Gerando ▁ ( ▁ de ▁ )Ⓕ ▁ Ⓚ 79 ▁ Ⓛ Ⓘ T ▁ Ⓙ Ⓐ 85 ▁ Ⓑ Ⓒ T ▁ Ⓓ
+Ⓖ§Ⓗ ▁ Ⓔ Minier ▁ Toussaint ▁ Ⓕ Ⓚ 80 ▁ Ⓛ Ⓘ T ▁ Ⓙ Ⓐ 86 ▁ Ⓑ Ⓒ Vig ▁ Ⓓ
+Ⓖ§Ⓗ ▁ Ⓔ Auger ▁ nicolas ▁ joseph ▁ Ⓕ Ⓚ 81 ▁ Ⓛ Ⓘ T ▁ Ⓙ Ⓐ 87 ▁ → ▁ 185 ▁ Ⓑ Ⓒ T ▁ → ▁ T ▁ Ⓓ
+Ⓖ§Ⓗ ▁ Ⓔ Beaupré ▁ jeune ▁ louis ▁ Ⓕ Ⓚ 82 ▁ Ⓛ Ⓘ T ▁ Ⓙ Ⓐ 88 ▁ Ⓑ Ⓒ T ▁ Ⓓ
+Ⓖ§Ⓗ ▁ Ⓔ Pescheux ▁ germain ▁ p ▁ ↑ ▁ re ▁ ↓Ⓕ ▁ Ⓚ 83 ▁ Ⓛ Ⓘ vigne ▁ Ⓙ Ⓐ 89 ▁ Ⓑ Ⓒ Vig ▁ Ⓓ
+Ⓖ§Ⓗ ▁ Ⓔ Mizard ▁ alexandre ▁ Ⓕ Ⓚ 84 ▁ Ⓛ Ⓘ Vig ▁ .Ⓙ ▁ Ⓐ 90 ▁ Ⓑ Ⓒ T ▁ Ⓓ
+Ⓖ Grande ▁ → ▁ Rue ▁ Ⓗ Ⓔ fresne ▁ ( ▁ Commune ▁ de ▁ )Ⓕ ▁ Ⓚ 629 ▁ Ⓛ Ⓘ Cimetière ▁ Ⓙ Ⓐ 409 ▁ Ⓑ Ⓒ Cimetière ▁ Ⓓ
+Ⓖ§Ⓗ ▁ Ⓔ Boulogne ▁ prosper ▁ Ⓕ Ⓚ 630 ▁ Ⓛ Ⓘ jardin ▁ Ⓙ Ⓐ 408 ▁ Ⓑ Ⓒ j ▁ ↑ ▁ in ▁ ↓Ⓓ
+Ⓖ§Ⓗ ▁ Ⓔ idem ▁ Ⓕ Ⓚ 631 ▁ Ⓛ Ⓘ maison ▁ et ▁ → ▁ cour ▁ → ▁ n ▁ ° ▁ 22 ▁ Ⓙ Ⓐ 410p ▁ Ⓑ Ⓒ M ▁ ↑ ▁ on ▁ ↓Ⓓ
+Ⓖ§Ⓗ ▁ Ⓔ id ▁ Ⓕ Ⓚ 632 ▁ Ⓛ Ⓘ maison ▁ et ▁ → ▁ cour ▁ → ▁ n ▁ ° ▁ 24 ▁ Ⓙ Ⓐ 410p ▁ Ⓑ Ⓒ M ▁ ↑ ▁ on ▁ ↓Ⓓ
+Ⓖ§Ⓗ ▁ Ⓔ Philippe ▁ alex ▁ ↑ ▁ dre ▁ ↓ ▁ f ▁ ↑ ▁ ois ▁ ↓ ▁ aug ▁ ↑ ▁ te ▁ ↓Ⓕ ▁ Ⓚ 633 ▁ Ⓛ Ⓘ maison ▁ cour ▁ → ▁ et ▁ B ▁ ↑ ▁ t ▁ ↓→ ▁ n ▁ ° ▁ 26 ▁ Ⓙ Ⓐ 411 ▁ Ⓑ Ⓒ M ▁ ↑ ▁ on ▁ ↓Ⓓ
+Ⓖ§Ⓗ ▁ Ⓔ id ▁ Ⓕ Ⓚ 634 ▁ Ⓛ Ⓘ jardin ▁ Ⓙ Ⓐ 412 ▁ Ⓑ Ⓒ j ▁ ↑ ▁ in ▁ ↓Ⓓ
+Ⓖ§Ⓗ ▁ Ⓔ Chaillou ▁ Louis ▁ frédéric ▁ Ⓕ Ⓚ 635 ▁ Ⓛ Ⓘ jardin ▁ Ⓙ Ⓐ 413 ▁ Ⓑ Ⓒ j ▁ ↑ ▁ in ▁ ↓Ⓓ
+Ⓖ§Ⓗ ▁ Ⓔ idem ▁ Ⓕ Ⓚ 636 ▁ Ⓛ Ⓘ maison ▁ cour ▁ → ▁ et ▁ B ▁ ↑ ▁ t ▁ ↓→ ▁ n ▁ ° ▁ 28 ▁ Ⓙ Ⓐ 414 ▁ → ▁ 415 ▁ Ⓑ Ⓒ M ▁ ↑ ▁ on ▁ ↓Ⓓ
+Ⓖ§Ⓗ ▁ Ⓔ Viel ▁ pierre ▁ Ⓕ Ⓚ 637 ▁ Ⓛ Ⓘ maison ▁ cour ▁ → ▁ et ▁ B ▁ ↑ ▁ t ▁ ↓→ ▁ n ▁ ° ▁ 30 ▁ Ⓙ Ⓐ 416 ▁ Ⓑ Ⓒ M ▁ ↑ ▁ on ▁ ↓Ⓓ
+Ⓖ§Ⓗ ▁ Ⓔ Tavernier ▁ firmin ▁ alexandre ▁ Ⓕ Ⓚ 638 ▁ Ⓛ Ⓘ jardin ▁ Ⓙ Ⓐ 420 ▁ → ▁ 421 ▁ → ▁ 422 ▁ Ⓑ Ⓒ j ▁ ↑ ▁ in ▁ ↓Ⓓ
+Ⓖ§Ⓗ ▁ Ⓔ id ▁ Ⓕ Ⓚ 639 ▁ Ⓛ Ⓘ maison ▁ cour ▁ → ▁ et ▁ B ▁ ↑ ▁ t ▁ → ▁ n ▁ ° ▁ 32 ▁ Ⓙ Ⓐ 417 ▁ → ▁ 418 ▁ → ▁ 419 ▁ Ⓑ Ⓒ M ▁ ↑ ▁ on ▁ ↓Ⓓ
+Ⓖ§Ⓗ ▁ Ⓔ Silvestre ▁ marie ▁ anne ▁ →× ▁ simone ▁ ±Ⓕ ▁ Ⓚ 640 ▁ Ⓛ Ⓘ maison ▁ cour ▁ → ▁ et ▁ B ▁ ↑ ▁ t ▁ ↓→ ▁ n ▁ ° ▁ 34 ▁ Ⓙ Ⓐ 423 ▁ → ▁ 424 ▁ → ▁ 425 ▁ → ▁ 426 ▁ → ▁ 427p ▁ Ⓑ Ⓒ M ▁ ↑ ▁ on ▁ ↓→ ▁ M ▁ ↑ ▁ on ▁ ↓→ ▁ J ▁ ↑ ▁ in ▁ ↓Ⓓ
+Ⓖ§Ⓗ ▁ Ⓔ Baloche ▁ p ▁ ↑ ▁ re ▁ ↓ ▁ Ruttin ▁ Ⓕ Ⓚ 640 ▁ ↑ ▁ bis ▁ ↓Ⓛ ▁ Ⓘ m ▁ ↑ ▁ on ▁ ↓ ▁ cour ▁ et ▁ B ▁ ↑ ▁ t ▁ ↓→ ▁ n ▁ ° ▁ 34 ▁ ↑ ▁ bis ▁ ↓Ⓙ ▁ Ⓐ Ø ▁ Ⓑ Ⓒ Ø ▁ Ⓓ
+Ⓖ§Ⓗ ▁ Ⓔ Silvestre ▁ × ▁ idem ▁ ± ▁ marie ▁ anne ▁ Ⓕ Ⓚ 641 ▁ Ⓛ Ⓘ jardin ▁ Ⓙ Ⓐ 427 ▁ p ▁ Ⓑ Ⓒ j ▁ ↑ ▁ in ▁ ↓Ⓓ
+Ⓖ§Ⓗ ▁ Ⓔ Baloche ▁ p ▁ ↑ ▁ re ▁ ↓ ▁ Ruffin ▁ Ⓕ Ⓚ 641 ▁ ↑ ▁ bis ▁ ↓Ⓛ ▁ Ⓘ jardin ▁ Ⓙ Ⓐ Ø ▁ Ⓑ Ⓒ Ø ▁ Ⓓ
+Ⓖ§Ⓗ ▁ Ⓔ Chevé ▁ arsenne ▁ ch ▁ ↑ ▁ es ▁ ↓ ▁ f ▁ ↑ ▁ ois ▁ ↓Ⓕ ▁ Ⓚ 642 ▁ Ⓛ Ⓘ jardin ▁ Ⓙ Ⓐ 428 ▁ p ▁ Ⓑ Ⓒ j ▁ ↑ ▁ in ▁ ↓Ⓓ
+Ⓖ La ▁ → ▁ Couture ▁ du ▁ moulin ▁ Ⓗ Ⓔ Piors ▁ augustin ▁ , ▁ V ▁ ↑ ▁ e ▁ ↓Ⓕ ▁ Ⓚ 239 ▁ Ⓛ Ⓘ T ▁ Ⓙ Ⓐ 138 ▁ → ▁ 138 ▁ ↑ ▁ 6 ▁ ↓→ ▁ 138 ▁ ↑ ▁ 7 ▁ ↓Ⓑ ▁ Ⓒ T ▁ → ▁ T ▁ ps ▁ → ▁ J ▁ Ⓓ
+Ⓖ Le ▁ → ▁ Moulin ▁ de ▁ Thiais ▁ Ⓗ Ⓔ Idem ▁ Ⓕ Ⓚ 240 ▁ Ⓛ Ⓘ M ▁ ↑ ▁ lin ▁ ↓ ▁ T ▁ Ⓙ Ⓐ 138 ▁ ↑ ▁ 2 ▁ ↓→ ▁ 128 ▁ ↑ ▁ 3 ▁ ↓Ⓑ ▁ Ⓒ moulin ▁ → ▁ à ▁ vent ▁ →Ⓓ
+Ⓖ id ▁ Ⓗ Ⓔ Idem ▁ Ⓕ Ⓚ 241 ▁ Ⓛ Ⓘ M ▁ ↑ ▁ in ▁ ↓Ⓙ ▁ Ⓐ 138 ▁ ↑ ▁ 4 ▁ ↓→ ▁ 138 ▁ ↑ ▁ 5 ▁ ↓Ⓑ ▁ Ⓒ m ▁ c ▁ → ▁ J ▁ et ▁ cour ▁ Ⓓ
+Ⓖ avenue ▁ du ▁ Plateau ▁ Ⓗ Ⓔ Dubois ▁ Petié ▁ Louis ▁ Charles ▁ André ▁ , ▁ Paris ▁ Ⓕ Ⓚ 242 ▁ Ⓛ Ⓘ T ▁ Ⓙ Ⓐ 137 ▁ Ⓑ Ⓒ T ▁ Ⓓ
+Ⓖ id ▁ Ⓗ Ⓔ Migon ▁ de ▁ Berty ▁ ange ▁ maximilien ▁ simon ▁ , ▁ Paris ▁ Ⓕ Ⓚ 243 ▁ Ⓛ Ⓘ T ▁ Ⓙ Ⓐ 250 ▁ Ⓑ Ⓒ T ▁ Ⓓ
+Ⓖ Les ▁ 15 ▁ arpens ▁ Ⓗ Ⓔ Defresne ▁ honoré ▁ frédéric ▁ dit ▁ Bizet ▁ , ▁ Vitry ▁ Ⓕ Ⓚ 244 ▁ Ⓛ Ⓘ T ▁ Ⓙ Ⓐ p ▁ . ▁ 349 ▁ Ⓑ Ⓒ☼Ⓓ
+Ⓖ id ▁ Ⓗ Ⓔ Duchange ▁ Jean ▁ Pierre ▁ , ▁ Vitry ▁ Ⓕ Ⓚ 245 ▁ Ⓛ Ⓘ T ▁ Ⓙ Ⓐ p ▁ . ▁ 349 ▁ Ⓑ Ⓒ☼Ⓓ
+Ⓖ§Ⓗ ▁ Ⓔ Leprince ▁ andré ▁ marguerite ▁ Ⓕ Ⓚ 246 ▁ Ⓛ Ⓘ T ▁ Ⓙ Ⓐ p ▁ . ▁ 349 ▁ Ⓑ Ⓒ☼Ⓓ
+Ⓖ§Ⓗ ▁ Ⓔ Idem ▁ Ⓕ Ⓚ 247 ▁ Ⓛ Ⓘ Pip ▁ Ⓙ Ⓐ p ▁ . ▁ 249 ▁ Ⓑ Ⓒ☼Ⓓ
+Ⓖ§Ⓗ ▁ Ⓔ Maton ▁ Pierre ▁ Jean ▁ Basile ▁ , ▁ Vitry ▁ Ⓕ Ⓚ 248 ▁ Ⓛ Ⓘ T ▁ Ⓙ Ⓐ p ▁ . ▁ 349 ▁ Ⓑ Ⓒ T ▁ Ⓓ
+Ⓖ§Ⓗ ▁ Ⓔ Grognet ▁ Philippe ▁ Julien ▁ , ▁ Vitry ▁ Ⓕ Ⓚ 249 ▁ Ⓛ Ⓘ Pep ▁ .Ⓙ ▁ Ⓐ p ▁ . ▁ 349 ▁ Ⓑ Ⓒ Ø ▁ Ⓓ
+Ⓖ§Ⓗ ▁ Ⓔ Idem ▁ Ⓕ Ⓚ 250 ▁ Ⓛ Ⓘ T ▁ Ⓙ Ⓐ p ▁ . ▁ 249 ▁ Ⓑ Ⓒ Ø ▁ Ⓓ
+Ⓖ§Ⓗ ▁ Ⓔ Thévenoi ▁ jean ▁ louis ▁ père ▁ g ▁ ↑ ▁ dre ▁ ↓ ▁ bizon ▁ , ▁ vitry ▁ Ⓕ Ⓚ 251 ▁ Ⓛ Ⓘ T ▁ Ⓙ Ⓐ p ▁ . ▁ 349 ▁ Ⓑ Ⓒ Ø ▁ Ⓓ
+Ⓖ§Ⓗ ▁ Ⓔ Lamy ▁ Jean ▁ Louis ▁ denis ▁ Félix ▁ Ⓕ Ⓚ 352 ▁ Ⓛ Ⓘ T ▁ Ⓙ Ⓐ p ▁ . ▁ 349 ▁ Ⓑ Ⓒ Ø ▁ Ⓓ
+Ⓜ× ▁ 145 ▁ ±→ ▁ 147 ▁ Ⓝ Ⓔ Gugnot ▁ J ▁ ↑ ▁ n ▁ ↓ ▁ Claude ▁ Ⓕ Ⓚ 1247 ▁ Ⓛ Ⓘ Vigne ▁ Ⓙ
+Ⓜ 112 ▁ Ⓝ Ⓔ Enjalvan ▁ Ⓕ Ⓚ 1248 ▁ Ⓛ Ⓘ id ▁ Ⓙ
+Ⓜ 213 ▁ Ⓝ Ⓔ Mentienne ▁ alex ▁ ↑ ▁ dre ▁ ↓Ⓕ ▁ Ⓚ 1249 ▁ Ⓛ Ⓘ id ▁ Ⓙ
+Ⓜ 26 ▁ Ⓝ Ⓔ Benoist ▁ J ▁ ↑ ▁ h ▁ ↓ ▁ J ▁ ↑ ▁ n ▁ ↓Ⓕ ▁ Ⓚ 1250 ▁ Ⓛ Ⓘ id ▁ Ⓙ
+Ⓜ 26 ▁ Ⓝ Ⓔ idem ▁ Ⓕ Ⓚ 1251 ▁ Ⓛ Ⓘ Terre ▁ Ⓙ
+Ⓜ 26 ▁ Ⓝ Ⓔ§Ⓕ ▁ Ⓚ 1252 ▁ Ⓛ Ⓘ Vig ▁ .Ⓙ
+Ⓜ 222 ▁ Ⓝ Ⓔ Mentienne ▁ J ▁ ↑ ▁ n ▁ ↓ ▁ Louis ▁ Ⓕ Ⓚ 1253 ▁ Ⓛ Ⓘ id ▁ Ⓙ
+Ⓜ 162 ▁ Ⓝ Ⓔ Jourdain ▁ J ▁ ↑ ▁ n ▁ ↓ ▁ Louis ▁ Veuve ▁ Ⓕ Ⓚ 1254 ▁ Ⓛ Ⓘ Terre ▁ Ⓙ
+Ⓜ 252 ▁ Ⓝ Ⓔ Perrigaut ▁ andré ▁ F ▁ ↑ ▁ is ▁ ↓Ⓕ ▁ Ⓚ 1255 ▁ Ⓛ Ⓘ Vig ▁ Ⓙ
+Ⓜ 304 ▁ Ⓝ Ⓔ Sellier ▁ J ▁ ↑ ▁ ques ▁ ↓ ▁ Georges ▁ Ⓕ Ⓚ 1256 ▁ Ⓛ Ⓘ id ▁ Ⓙ
+Ⓜ 278 ▁ Ⓝ Ⓔ Quevu ▁ F ▁ ↑ ▁ ois ▁ ↓ ▁ N ▁ ↑ ▁ as ▁ ↓Ⓕ ▁ Ⓚ 1257 ▁ Ⓛ Ⓘ id ▁ Ⓙ
+Ⓜ 278 ▁ Ⓝ Ⓔ idem ▁ Ⓕ Ⓚ 1258 ▁ Ⓛ Ⓘ Terre ▁ Ⓙ
+Ⓜ 9 ▁ Ⓝ Ⓔ Basire ▁ guill ▁ ↑ ▁ e ▁ ↓ ▁ Veuve ▁ Ⓕ Ⓚ 1259 ▁ Ⓛ Ⓘ Vig ▁ Ⓙ
+Ⓜ 276 ▁ Ⓝ Ⓔ Queru ▁ P ▁ ↑ ▁ re ▁ ↓ ▁ marie ▁ Ⓕ Ⓚ 1260 ▁ Ⓛ Ⓘ Terre ▁ Ⓙ
+Ⓜ 24 ▁ Ⓝ Ⓔ Benoit ▁ alex ▁ ↑ ▁ dre ▁ ↓Ⓕ ▁ Ⓚ 1261 ▁ Ⓛ Ⓘ id ▁ Ⓙ
+Ⓜ 228 ▁ Ⓝ Ⓔ Metivier ▁ Louis ▁ F ▁ ↑ ▁ re ▁ ↓Ⓕ ▁ Ⓚ 1262 ▁ Ⓛ Ⓘ id ▁ Ⓙ
+Ⓜ 124 ▁ Ⓝ Ⓔ Garreau ▁ Louise ▁ michel ▁ Ⓕ Ⓚ 1263 ▁ Ⓛ Ⓘ Vig ▁ Ⓙ
+Ⓜ 210 ▁ Ⓝ Ⓔ Mentienne ▁ Louis ▁ gervais ▁ Ⓕ Ⓚ 1264 ▁ Ⓛ Ⓘ id ▁ Ⓙ
+Ⓜ 298 ▁ Ⓝ Ⓔ Sellier ▁ F ▁ ↑ ▁ s ▁ ↓ ▁ marie ▁ Ⓕ Ⓚ 1265 ▁ Ⓛ Ⓘ Terre ▁ Ⓙ
+Ⓜ 97 ▁ Ⓝ Ⓔ Desnyau ▁ J ▁ ↑ ▁ n ▁ ↓ ▁ Alex ▁ ↑ ▁ dre ▁ ↓Ⓕ ▁ Ⓚ 1265 ▁ ↑ ▁ bis ▁ ↓Ⓛ ▁ Ⓘ id ▁ Ⓙ
+Ⓖ Le ▁ Coin ▁ → ▁ du ▁ Bois ▁ Ⓗ Ⓔ Barillet ▁ Antoine ▁ Saturnin ▁ Ⓕ Ⓚ 1145 ▁ Ⓛ Ⓘ T ▁ Ⓙ Ⓐ 2543 ▁ Ⓑ Ⓒ T ▁ Ⓓ
+Ⓖ id ▁ Ⓗ Ⓔ Lameau ▁ Achille ▁ Ⓕ Ⓚ 1146 ▁ Ⓛ Ⓘ T ▁ Ⓙ Ⓐ 2544 ▁ → ▁ 2545 ▁ → ▁ 2546 ▁ Ⓑ Ⓒ T ▁ → ▁ T ▁ → ▁ T ▁ Ⓓ
+Ⓖ§Ⓗ ▁ Ⓔ Mérillon ▁ Jean ▁ Saturnin ▁ V ▁ ↑ ▁ ve ▁ ↓Ⓕ ▁ Ⓚ 1147 ▁ Ⓛ Ⓘ T ▁ Ⓙ Ⓐ 2546 ▁ Ⓑ Ⓒ T ▁ Ⓓ
+Ⓖ§Ⓗ ▁ Ⓔ Sourdieux ▁ Louis ▁ fils ▁ Breteuil ▁ Ⓕ Ⓚ 1148 ▁ Ⓛ Ⓘ T ▁ Ⓙ Ⓐ 2548 ▁ Ⓑ Ⓒ T ▁ Ⓓ
+Ⓖ§Ⓗ ▁ Ⓔ Mérillon ▁ Félix ▁ Ⓕ Ⓚ 1149 ▁ Ⓛ Ⓘ T ▁ Ⓙ Ⓐ 2549 ▁ Ⓑ Ⓒ T ▁ Ⓓ
+Ⓖ§Ⓗ ▁ Ⓔ Montmarthe ▁ Philippe ▁ Antoine ▁ → ▁ Nicolas ▁ Ⓕ Ⓚ 1150 ▁ Ⓛ Ⓘ Vigne ▁ Ⓙ Ⓐ P ▁ ↑ ▁ tie ▁ ↓ ▁ 2550 ▁ Ⓑ Ⓒ T ▁ Ⓓ
+Ⓖ§Ⓗ ▁ Ⓔ Lameau ▁ Jean ▁ , ▁ fils ▁ → ▁ Saturnin ▁ Ⓕ Ⓚ 1151 ▁ Ⓛ Ⓘ T ▁ Ⓙ Ⓐ P ▁ ↑ ▁ tie ▁ ↓ ▁ 2550 ▁ Ⓑ Ⓒ T ▁ Ⓓ
+Ⓖ§Ⓗ ▁ Ⓔ Soudieux ▁ Pierre ▁ Louis ▁ Ⓕ Ⓚ 1152 ▁ Ⓛ Ⓘ T ▁ Ⓙ Ⓐ 2553 ▁ → ▁ 2554 ▁ Ⓑ Ⓒ T ▁ → ▁ vign ▁ Ⓓ
+Ⓖ§Ⓗ ▁ Ⓔ Lesaint ▁ Jean ▁ Baptiste ▁ Ⓕ Ⓚ 1153 ▁ Ⓛ Ⓘ T ▁ Ⓙ Ⓐ 2551 ▁ → ▁ 2552 ▁ Ⓑ Ⓒ T ▁ → ▁ T ▁ Ⓓ
+Ⓖ§Ⓗ ▁ Ⓔ Héricourt ▁ Germain ▁ , ▁ fils ▁ → ▁ Cun ▁ ❌❌ ▁ urd ▁ Ⓕ Ⓚ 1154 ▁ Ⓛ Ⓘ T ▁ Ⓙ Ⓐ P ▁ ↑ ▁ tie ▁ ↓ ▁ 2556 ▁ Ⓑ Ⓒ T ▁ Ⓓ
+Ⓖ§Ⓗ ▁ Ⓔ Héricourt ▁ Augustine ▁ , ▁ à ▁ → ▁ Paris ▁ Ⓕ Ⓚ 1155 ▁ Ⓛ Ⓘ T ▁ Ⓙ Ⓐ P ▁ ↑ ▁ tie ▁ ↓ ▁ 2556 ▁ Ⓑ Ⓒ T ▁ Ⓓ
+Ⓖ§Ⓗ ▁ Ⓔ Berger ▁ Baptiste ▁ Ⓕ Ⓚ 1156 ▁ Ⓛ Ⓘ T ▁ Ⓙ Ⓐ 2559 ▁ Ⓑ Ⓒ T ▁ Ⓓ
+Ⓖ§Ⓗ ▁ Ⓔ Josset ▁ Jean ▁ Veuve ▁ Ⓕ Ⓚ 1157 ▁ Ⓛ Ⓘ T ▁ Ⓙ Ⓐ Ptie ▁ 2557 ▁ → ▁ 2558 ▁ Ⓑ Ⓒ T ▁ → ▁ Vig ▁ Ⓓ
+Ⓖ§Ⓗ ▁ Ⓔ Pequesne ▁ Pierre ▁ Louis ▁ Ⓕ Ⓚ 1158 ▁ Ⓛ Ⓘ T ▁ Ⓙ Ⓐ P ▁ ↑ ▁ tie ▁ ↓Ⓑ ▁ Ⓒ T ▁ Ⓓ
+Ⓖ Rue ▁ →Ⓗ ▁ Ⓔ Franckairt ▁ Ⓕ Ⓚ 236 ▁ Ⓛ Ⓘ Sol ▁ et ▁ terre ▁ Ⓙ
+Ⓖ Mongénot ▁ Ⓗ Ⓔ id ▁ Ⓕ Ⓚ 236 ▁ Ⓛ Ⓘ Maison ▁ → ▁ batimens ▁ → ▁ et ▁ hangar ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Mongenot ▁ claude ▁ f ▁ ↑ ▁ os ▁ ↓Ⓕ ▁ Ⓚ 236 ▁ ↑ ▁ bis ▁ ↓Ⓛ ▁ Ⓘ Jardin ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ id ▁ Ⓕ Ⓚ 236 ▁ ter ▁ Ⓛ Ⓘ Sol ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ id ▁ Ⓕ Ⓚ 236 ▁ ↑ ▁ ter ▁ ↓Ⓛ ▁ Ⓘ batiment ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Franckairt ▁ Ⓕ Ⓚ 237 ▁ Ⓛ Ⓘ J ▁ ↑ ▁ din ▁ ↓ ▁ potager ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ id ▁ Ⓕ Ⓚ 237 ▁ ↑ ▁ bis ▁ ↓Ⓛ ▁ Ⓘ Sol ▁ et ▁ cour ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ id ▁ Ⓕ Ⓚ 237 ▁ ↑ ▁ bis ▁ ↓Ⓛ ▁ Ⓘ bâtiment ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Dammartin ▁ Ⓕ Ⓚ 238 ▁ Ⓛ Ⓘ J ▁ ↑ ▁ din ▁ ↓ ▁ potager ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Minot ▁ Veuve ▁ Ⓕ Ⓚ 238 ▁ ↑ ▁ bis ▁ ↓Ⓛ ▁ Ⓘ Sol ▁ et ▁ cour ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ id ▁ Ⓕ Ⓚ 238 ▁ ↑ ▁ bis ▁ ↓Ⓛ ▁ Ⓘ bâtiment ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ id ▁ Ⓕ Ⓚ 238 ▁ ↑ ▁ ter ▁ ↓Ⓛ ▁ Ⓘ Jardin ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Dammartin ▁ Ⓕ Ⓚ 239 ▁ Ⓛ Ⓘ Sol ▁ et ▁ cour ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ id ▁ Ⓕ Ⓚ 239 ▁ Ⓛ Ⓘ M ▁ ↑ ▁ on ▁ ↓ ▁ et ▁ b ▁ ↑ ▁ t ▁ ↓Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Minot ▁ Veuve ▁ Ⓕ Ⓚ 239 ▁ ↑ ▁ bis ▁ ↓Ⓛ ▁ Ⓘ Sol ▁ et ▁ cour ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ id ▁ Ⓕ Ⓚ 239 ▁ ↑ ▁ bis ▁ ↓Ⓛ ▁ Ⓘ Maison ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Conard ▁ V ▁ ↑ ▁ ve ▁ ↓Ⓕ ▁ Ⓚ 240 ▁ Ⓛ Ⓘ passage ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ id ▁ Ⓕ Ⓚ 241 ▁ Ⓛ Ⓘ Jardin ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ id ▁ Ⓕ Ⓚ 242 ▁ Ⓛ Ⓘ Sol ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ id ▁ Ⓕ Ⓚ 242 ▁ Ⓛ Ⓐ M ▁ ↑ ▁ on ▁ ↓ ▁ et ▁ B ▁ ↑ ▁ t ▁ ↓Ⓑ
+Ⓖ le ▁ Bourg ▁ → ▁ Rue ▁ des ▁ cochets ▁ Ⓗ Ⓔ Lagoutte ▁ nég ▁ Ⓕ Ⓚ 127 ▁ Ⓛ Ⓘ jardin ▁ Ⓙ Ⓐ 215p ▁ Ⓑ Ⓒ☼Ⓓ
+Ⓖ§Ⓗ ▁ Ⓔ Lagoutte ▁ Ⓕ Ⓚ 128 ▁ Ⓛ Ⓘ bâtiment ▁ → ▁ et ▁ cour ▁ Ⓙ Ⓐ 215 ▁ p ▁ Ⓑ Ⓒ☼Ⓓ
+Ⓖ§Ⓗ ▁ Ⓔ Lagoutte ▁ Ⓕ Ⓚ 129 ▁ Ⓛ Ⓘ batim ▁ ↑ ▁ t ▁ ↓ ▁ et ▁ → ▁ cour ▁ Ⓙ Ⓐ 215p ▁ Ⓑ Ⓒ☼Ⓓ
+Ⓖ§Ⓗ ▁ Ⓔ Lagoutte ▁ Ⓕ Ⓚ 130 ▁ Ⓛ Ⓘ Terre ▁ → ▁ ou ▁ jardin ▁ Ⓙ Ⓐ 215p ▁ Ⓑ Ⓒ jardin ▁ → ▁ et ▁ parc ▁ Ⓓ
+Ⓖ§Ⓗ ▁ Ⓔ Lagoutte ▁ Ⓕ Ⓚ 131 ▁ Ⓛ Ⓘ bâtiment ▁ Ⓙ Ⓐ 215p ▁ Ⓑ Ⓒ Ø ▁ Ⓓ
+Ⓖ§Ⓗ ▁ Ⓔ Lagoutte ▁ Ⓕ Ⓚ 132 ▁ Ⓛ Ⓘ jardin ▁ d ▁ ' ▁ ag ▁ ↑ ▁ t ▁ ↓Ⓙ ▁ Ⓐ 215p ▁ Ⓑ Ⓒ Ø ▁ Ⓓ
+Ⓖ§Ⓗ ▁ Ⓔ Lagoutte ▁ Ⓕ Ⓚ 133 ▁ Ⓛ Ⓘ Maison ▁ → ▁ cour ▁ et ▁ B ▁ ↑ ▁ t ▁ ↓→ ▁ n ▁ ° ▁ 10 ▁ Ⓙ Ⓐ 216 ▁ Ⓑ Ⓒ maison ▁ → ▁ et ▁ cour ▁ Ⓓ
+Ⓖ§Ⓗ ▁ Ⓔ Lecouteure ▁ pierre ▁ Marthe ▁ Ⓕ Ⓚ 134 ▁ Ⓛ Ⓘ Maison ▁ cour ▁ → ▁ et ▁ B ▁ ↑ ▁ t ▁ ↓ ▁ de ▁ la ▁ → ▁ caserne ▁ → ▁ n ▁ ° ▁ 8 ▁ Ⓙ Ⓐ 216p ▁ → ▁ 217 ▁ → ▁ 218 ▁ → ▁ 215p ▁ Ⓑ Ⓒ maison ▁ → ▁ ferme ▁ → ▁ jardin ▁ → ▁ jardin ▁ Ⓓ
+Ⓖ Rue ▁ basse ▁ S ▁ ↑ ▁ t ▁ ↓ ▁ pierre ▁ Ⓗ Ⓔ Lecouteure ▁ p ▁ ↑ ▁ re ▁ ↓ ▁ Marthe ▁ Ⓕ Ⓚ 135 ▁ Ⓛ Ⓘ Cour ▁ et ▁ bat ▁ ↑ ▁ t ▁ ↓→ ▁ n ▁ ° ▁ 10 ▁ Ⓙ Ⓐ 218p ▁ Ⓑ Ⓒ jardin ▁ Ⓓ
+Ⓖ§Ⓗ ▁ Ⓔ Lecouteure ▁ p ▁ ↑ ▁ re ▁ ↓ ▁ Marthe ▁ Ⓕ Ⓚ 136 ▁ Ⓛ Ⓘ jardin ▁ Ⓙ Ⓐ 218p ▁ Ⓑ Ⓒ jardin ▁ Ⓓ
+Ⓖ§Ⓗ ▁ Ⓔ Lecouteure ▁ p ▁ ↑ ▁ re ▁ ↓ ▁ Marthe ▁ Ⓕ Ⓚ 137 ▁ Ⓛ Ⓘ Maison ▁ → ▁ n ▁ ° ▁ 8 ▁ Ⓙ Ⓐ 218 ▁ → ▁ 219 ▁ p ▁ Ⓑ Ⓒ jardin ▁ → ▁ bâtiment ▁ et ▁ cour ▁ Ⓓ
+Ⓖ§Ⓗ ▁ Ⓔ Lecouteure ▁ p ▁ ↑ ▁ re ▁ ↓ ▁ Marthe ▁ Ⓕ Ⓚ 138 ▁ Ⓛ Ⓘ jardin ▁ Ⓙ Ⓐ 215 ▁ p ▁ .→ ▁ 218 ▁ p ▁ Ⓑ Ⓒ jardin ▁ Ⓓ
+Ⓖ§Ⓗ ▁ Ⓔ Lecouteure ▁ p ▁ ↑ ▁ re ▁ ↓ ▁ Marthe ▁ Ⓕ Ⓚ 139 ▁ Ⓛ Ⓘ maison ▁ rn ▁ construction ▁ → ▁ p ▁ . ▁ la ▁ caserne ▁ Ⓙ Ⓐ 218 ▁ p ▁ .→ ▁ 219 ▁ .Ⓑ ▁ Ⓒ jardin ▁ → ▁ bat ▁ ↑ ▁ t ▁ ↓ ▁ et ▁ → ▁ cour ▁ Ⓓ
+Ⓖ§Ⓗ ▁ Ⓔ Lecouteure ▁ p ▁ ↑ ▁ re ▁ ↓ ▁ Marthe ▁ Ⓕ Ⓚ 140 ▁ Ⓛ Ⓘ Maison ▁ → ▁ n ▁ ° ▁ 6 ▁ Ⓙ Ⓐ 219 ▁ Ⓑ Ⓒ batiment ▁ → ▁ et ▁ cour ▁ Ⓓ
+Ⓖ Derrière ▁ le ▁ Petit ▁ Pré ▁ Ⓗ Ⓔ Lameau ▁ louis ▁ jules ▁ Ⓕ Ⓚ 1088 ▁ Ⓛ Ⓘ T ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Bérault ▁ Eugène ▁ Ⓕ Ⓚ 1089 ▁ Ⓛ Ⓘ T ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Beuzeville ▁ henri ▁ Ⓕ Ⓚ 1089 ▁ Ⓛ Ⓘ T ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Jolivet ▁ J ▁ ↑ ▁ n ▁ ↓ ▁ B ▁ ↑ ▁ te ▁ ↓Ⓕ ▁ Ⓚ 1090 ▁ Ⓛ Ⓘ T ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Lapic ▁ françois ▁ Bonaventure ▁ Ⓕ Ⓚ 1091 ▁ Ⓛ Ⓘ T ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Ledoux ▁ alexandre ▁ eugène ▁ Ⓕ Ⓚ 1092 ▁ Ⓛ Ⓘ T ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Barillet ▁ eugène ▁ auguste ▁ Ⓕ Ⓚ 1093 ▁ Ⓛ Ⓘ vigne ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ id ▁ Ⓕ Ⓚ 1093 ▁ Ⓛ Ⓘ vigne ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Coiffier ▁ pierre ▁ honoré ▁ Ⓕ Ⓚ 1094 ▁ Ⓛ Ⓘ T ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Rolland ▁ françois ▁ eugène ▁ Ⓕ Ⓚ 1094 ▁ Ⓛ Ⓘ T ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ id ▁ Ⓕ Ⓚ 1095 ▁ Ⓛ Ⓘ vigne ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Mérillon ▁ saturnin ▁ veuve ▁ Ⓕ Ⓚ 1096 ▁ Ⓛ Ⓘ T ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Rolland ▁ françois ▁ eugène ▁ Ⓕ Ⓚ 1096 ▁ Ⓛ Ⓘ T ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Primi ▁ Jean ▁ Ⓕ Ⓚ 1097 ▁ Ⓛ Ⓘ T ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Rolland ▁ françois ▁ Eugène ▁ Ⓕ Ⓚ 1097 ▁ Ⓛ Ⓘ T ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ id ▁ Ⓕ Ⓚ 1098 ▁ Ⓛ Ⓘ T ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Primi ▁ Jean ▁ Ⓕ Ⓚ 1099 ▁ Ⓛ Ⓘ T ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Rolland ▁ françois ▁ Eugène ▁ Ⓕ Ⓚ 1099 ▁ Ⓛ Ⓘ T ▁ Ⓙ
+Ⓖ Le ▁ Petit ▁ Pré ▁ Ⓗ Ⓔ Berger ▁ félix ▁ Ⓕ Ⓚ 1100 ▁ Ⓛ Ⓘ T ▁ . ▁ et ▁ vigne ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Boucher ▁ d ▁ ' ▁ argis ▁ Ⓕ Ⓚ 1100 ▁ Ⓛ Ⓘ id ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Bouillet ▁ hippolyte ▁ Ⓕ Ⓚ 1100 ▁ Ⓛ Ⓘ§Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Breteil ▁ charles ▁ Ⓕ Ⓚ 1100 ▁ Ⓛ Ⓘ§Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ id ▁ Ⓕ Ⓚ 1100 ▁ Ⓛ Ⓘ§Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Chapelle ▁ françois ▁ Ⓕ Ⓚ 1100 ▁ Ⓛ Ⓘ§Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Cholet ▁ léon ▁ alexandre ▁ Ⓕ Ⓚ 1100 ▁ Ⓛ Ⓘ§Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Delettre ▁ ernest ▁ Ⓕ Ⓚ 1100 ▁ Ⓛ Ⓘ§Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Dreux ▁ mathieu ▁ Ⓕ Ⓚ 1100 ▁ Ⓛ Ⓘ§Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ id ▁ Ⓕ Ⓚ 1100 ▁ Ⓛ Ⓘ§Ⓙ
+Ⓖ Chemin ▁ de ▁ Jean ▁ Ⓗ Ⓔ Gaston ▁ Jules ▁ édouard ▁ Ⓕ Ⓚ 81 ▁ Ⓛ Ⓘ pré ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Joussard ▁ Jean ▁ louis ▁ Ⓕ Ⓚ§Ⓛ ▁ Ⓘ§Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Paloque ▁ Jean ▁ Ⓕ Ⓚ§Ⓛ ▁ Ⓘ§Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Perrot ▁ francois ▁ Ⓕ Ⓚ§Ⓛ ▁ Ⓘ§Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Andouillé ▁ alexandre ▁ flavien ▁ Ⓕ Ⓚ 82 ▁ Ⓛ Ⓘ pré ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Archambaut ▁ Remy ▁ Ⓕ Ⓚ§Ⓛ ▁ Ⓘ§Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Besval ▁ Jean ▁ francois ▁ antoine ▁ Ⓕ Ⓚ§Ⓛ ▁ Ⓘ§Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Blocus ▁ henri ▁ Ⓕ Ⓚ§Ⓛ ▁ Ⓘ§Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ id ▁ Ⓕ Ⓚ§Ⓛ ▁ Ⓘ§Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Brunat ▁ marie ▁ madeleine ▁ Ⓕ Ⓚ§Ⓛ ▁ Ⓘ§Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Chatelain ▁ jean ▁ pierre ▁ Ⓕ Ⓚ§Ⓛ ▁ Ⓘ§Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Colas ▁ jean ▁ veuve ▁ Ⓕ Ⓚ§Ⓛ ▁ Ⓘ§Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Collignon ▁ Eugène ▁ Ⓕ Ⓚ§Ⓛ ▁ Ⓘ§Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Convers ▁ edme ▁ ernest ▁ Ⓕ Ⓚ§Ⓛ ▁ Ⓘ§Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Crispin ▁ désiré ▁ augustin ▁ Ⓕ Ⓚ§Ⓛ ▁ Ⓘ§Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Dominique ▁ michel ▁ Ⓕ Ⓚ§Ⓛ ▁ Ⓘ§Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Franco ▁ césar ▁ Charles ▁ Ⓕ Ⓚ§Ⓛ ▁ Ⓘ§Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Fraysse ▁ Joseph ▁ Ⓕ Ⓚ§Ⓛ ▁ Ⓘ§Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Hablot ▁ Bernard ▁ Ⓕ Ⓚ§Ⓛ ▁ Ⓘ§Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Huet ▁ Casimir ▁ Ⓕ Ⓚ§Ⓛ ▁ Ⓘ§Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ id ▁ Ⓕ Ⓚ§Ⓛ ▁ Ⓘ§Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Janart ▁ Louis ▁ Joseph ▁ Ⓕ Ⓚ§Ⓛ ▁ Ⓘ§Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Jury ▁ Jean ▁ Ⓕ Ⓚ§Ⓛ ▁ Ⓘ§Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Manginot ▁ louis ▁ françois ▁ Ⓕ Ⓚ§Ⓛ ▁ Ⓘ§Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ id ▁ Ⓕ Ⓚ§Ⓛ ▁ Ⓘ§Ⓙ
+Ⓖ grande ▁ Rue ▁ Ⓗ Ⓔ Delaporte ▁ felix ▁ aug ▁ ↑ ▁ te ▁ ↓Ⓕ ▁ Ⓚ 253 ▁ Ⓛ Ⓘ jardin ▁ Ⓙ Ⓐ 16 ▁ Ⓑ Ⓒ jardin ▁ Ⓓ
+Ⓖ§Ⓗ ▁ Ⓔ Delaporte ▁ félix ▁ aug ▁ ↑ ▁ te ▁ ↓Ⓕ ▁ Ⓚ 254 ▁ Ⓛ Ⓘ maison ▁ → ▁ n ▁ ° ▁ 11 ▁ Ⓙ Ⓐ 17 ▁ Ⓑ Ⓒ maison ▁ Ⓓ
+Ⓖ§Ⓗ ▁ Ⓔ Saintin ▁ Cuny ▁ Ⓕ Ⓚ 255 ▁ Ⓛ Ⓘ maison ▁ → ▁ cour ▁ et ▁ bt ▁ → ▁ n ▁ ° ▁ 13 ▁ Ⓙ Ⓐ 19 ▁ Ⓑ Ⓒ× ▁ jardin ▁ ±→ ▁ maison ▁ Ⓓ
+Ⓖ§Ⓗ ▁ Ⓔ Saintin ▁ Cuny ▁ Ⓕ Ⓚ 256 ▁ Ⓛ Ⓘ jardin ▁ Ⓙ Ⓐ 18 ▁ Ⓑ Ⓒ jardin ▁ Ⓓ
+Ⓖ§Ⓗ ▁ Ⓔ Desilles ▁ pierre ▁ V ▁ ↑ ▁ e ▁ ↓ ▁ léonard ▁ Ⓕ Ⓚ 257 ▁ Ⓛ Ⓘ Maison ▁ → ▁ cour ▁ et ▁ B ▁ ↑ ▁ t ▁ ↓→ ▁ n ▁ ° ▁ 15 ▁ Ⓙ Ⓐ 20 ▁ portion ▁ → ▁ 21 ▁ Ⓑ Ⓒ jardin ▁ → ▁ maison ▁ Ⓓ
+Ⓖ§Ⓗ ▁ Ⓔ Desilles ▁ pierre ▁ V ▁ ↑ ▁ e ▁ ↓ ▁ léonard ▁ Ⓕ Ⓚ 258 ▁ Ⓛ Ⓘ jardin ▁ Ⓙ Ⓐ 20 ▁ portion ▁ Ⓑ Ⓒ jardin ▁ Ⓓ
+Ⓖ§Ⓗ ▁ Ⓔ Desilles ▁ pierre ▁ V ▁ ↑ ▁ e ▁ ↓ ▁ léonard ▁ Ⓕ Ⓚ 259 ▁ Ⓛ Ⓘ maison ▁ → ▁ n ▁ ° ▁ 17 ▁ Ⓙ Ⓐ 20 ▁ portion ▁ → ▁ 21 ▁ portion ▁ Ⓑ Ⓒ jardin ▁ → ▁ maison ▁ Ⓓ
+Ⓖ§Ⓗ ▁ Ⓔ Desilles ▁ pierre ▁ V ▁ ↑ ▁ e ▁ ↓ ▁ léonard ▁ Ⓕ Ⓚ 260 ▁ Ⓛ Ⓘ maison ▁ et ▁ → ▁ cour ▁ → ▁ n ▁ ° ▁ 19 ▁ Ⓙ Ⓐ 22 ▁ p ▁ Ⓑ Ⓒ maison ▁ Ⓓ
+Ⓖ§Ⓗ ▁ Ⓔ Malvaux ▁ pierre ▁ Ⓕ Ⓚ 261 ▁ Ⓛ Ⓘ jardin ▁ Ⓙ Ⓐ 23 ▁ portion ▁ → ▁ 26 ▁ Ⓑ Ⓒ jardin ▁ → ▁ jardin ▁ Ⓓ
+Ⓖ§Ⓗ ▁ Ⓔ Malvaux ▁ pierre ▁ Ⓕ Ⓚ 262 ▁ Ⓛ Ⓘ maison ▁ → ▁ 21 ▁ Ⓙ Ⓐ 25 ▁ portion ▁ Ⓑ Ⓒ maison ▁ → ▁ cour ▁ Ⓓ
+Ⓖ§Ⓗ ▁ Ⓔ Ramelert ▁ Côme ▁ Ⓕ Ⓚ 263 ▁ Ⓛ Ⓘ maison ▁ cour ▁ → ▁ et ▁ bt ▁ → ▁ n ▁ ° ▁ 23 ▁ Ⓙ Ⓐ 25 ▁ Ⓑ Ⓒ maison ▁ → ▁ et ▁ cour ▁ Ⓓ
+Ⓖ§Ⓗ ▁ Ⓔ Malvaux ▁ pierre ▁ Ⓕ Ⓚ 264 ▁ Ⓛ Ⓘ maison ▁ cour ▁ → ▁ et ▁ Bt ▁ → ▁ n ▁ ° ▁ 21 ▁ Ⓙ Ⓐ 23 ▁ portion ▁ → ▁ 24 ▁ → ▁ 25 ▁ portion ▁ Ⓑ Ⓒ jardin ▁ → ▁ maison ▁ → ▁ et ▁ cour ▁ → ▁ maison ▁ Ⓓ
+Ⓖ§Ⓗ ▁ Ⓔ Platard ▁ jean ▁ louis ▁ Ⓕ Ⓚ 265 ▁ Ⓛ Ⓘ maison ▁ cour ▁ et ▁ → ▁ B ▁ ↑ ▁ t ▁ ↓ ▁ ( ▁ usine ▁ pour ▁ → ▁ filer ▁ le ▁ coton ▁ )→ ▁ n ▁ ° ▁ 34 ▁ ↑ ▁ bis ▁ ↓Ⓙ ▁ Ⓐ S ▁ .↑ ▁ on ▁ ↓ ▁ C ▁ → ▁ 111 ▁ portion ▁ Ⓑ Ⓒ maison ▁ Ⓓ
+Ⓖ§Ⓗ ▁ Ⓔ Plataret ▁ Jeanlouis ▁ Ⓕ Ⓚ 266 ▁ Ⓛ Ⓘ jardin ▁ Ⓙ Ⓐ 110 ▁ portion ▁ Ⓑ Ⓒ jardin ▁ Ⓓ
+Ⓖ Grattecoq ▁ Ⓗ Ⓔ audry ▁ toussaint ▁ p ▁ ↑ ▁ re ▁ ↓Ⓕ ▁ Ⓚ 728 ▁ Ⓛ Ⓘ Terre ▁ Ⓙ Ⓐ 757 ▁ Ⓑ Ⓒ vigne ▁ Ⓓ
+Ⓖ§Ⓗ ▁ Ⓔ Noël ▁ louis ▁ laurent ▁ Ⓕ Ⓚ 729 ▁ Ⓛ Ⓘ T ▁ Ⓙ Ⓐ 758 ▁ Ⓑ Ⓒ Terre ▁ Ⓓ
+Ⓖ§Ⓗ ▁ Ⓔ Delanoue ▁ p ▁ ↑ ▁ re ▁ ↓ ▁ toussaint ▁ V ▁ ↑ ▁ e ▁ ↓Ⓕ ▁ Ⓚ 730 ▁ Ⓛ Ⓘ Vig ▁ Ⓙ Ⓐ 759 ▁ Ⓑ Ⓒ T ▁ Ⓓ
+Ⓖ§Ⓗ ▁ Ⓔ hallé ▁ B ▁ ↑ ▁ te ▁ ↓ ▁ toussaint ▁ Ⓕ Ⓚ 731 ▁ Ⓛ Ⓘ Vig ▁ Ⓙ Ⓐ 760 ▁ Ⓑ Ⓒ T ▁ Ⓓ
+Ⓖ§Ⓗ ▁ Ⓔ Pigeron ▁ Ⓕ Ⓚ 732 ▁ Ⓛ Ⓘ Vig ▁ Ⓙ Ⓐ 761 ▁ Ⓑ Ⓒ Vig ▁ Ⓓ
+Ⓖ§Ⓗ ▁ Ⓔ Moreau ▁ noël ▁ Ⓕ Ⓚ 733 ▁ Ⓛ Ⓘ Terre ▁ Ⓙ Ⓐ 762 ▁ → ▁ 763 ▁ Ⓑ Ⓒ Vig ▁ → ▁ Vig ▁ Ⓓ
+Ⓖ§Ⓗ ▁ Ⓔ Vandard ▁ thomas ▁ V ▁ ↑ ▁ e ▁ ↓Ⓕ ▁ Ⓚ 734 ▁ Ⓛ Ⓘ Terre ▁ Ⓙ Ⓐ 764 ▁ → ▁ 765 ▁ Ⓑ Ⓒ Terre ▁ → ▁ T ▁ Ⓓ
+Ⓖ§Ⓗ ▁ Ⓔ Baron ▁ p ▁ ↑ ▁ re ▁ ↓ ▁ denis ▁ Ⓕ Ⓚ 735 ▁ Ⓛ Ⓘ vigne ▁ Ⓙ Ⓐ 766 ▁ Ⓑ Ⓒ Vig ▁ Ⓓ
+Ⓖ§Ⓗ ▁ Ⓔ auger ▁ nicolas ▁ joseph ▁ Ⓕ Ⓚ 736 ▁ Ⓛ Ⓘ Terre ▁ Ⓙ Ⓐ 767 ▁ Ⓑ Ⓒ Terre ▁ Ⓓ
+Ⓖ§Ⓗ ▁ Ⓔ Vodoyer ▁ jean ▁ marie ▁ Ⓕ Ⓚ 737 ▁ Ⓛ Ⓘ Vig ▁ Ⓙ Ⓐ☼Ⓑ ▁ Ⓒ☼Ⓓ
+Ⓖ§Ⓗ ▁ Ⓔ Minier ▁ Toussaint ▁ Ⓕ Ⓚ 738 ▁ Ⓛ Ⓘ Vig ▁ Ⓙ Ⓐ 768 ▁ Ⓑ Ⓒ T ▁ Ⓓ
+Ⓖ§Ⓗ ▁ Ⓔ Minier ▁ louis ▁ jacques ▁ Ⓕ Ⓚ 739 ▁ Ⓛ Ⓘ Vig ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Chamblin ▁ philippe ▁ Ⓕ Ⓚ 740 ▁ Ⓛ Ⓘ Terre ▁ Ⓙ Ⓐ 769 ▁ Ⓑ Ⓒ T ▁ Ⓓ
+Ⓖ§Ⓗ ▁ Ⓔ Brigault ▁ louis ▁ Ⓕ Ⓚ 741 ▁ Ⓛ Ⓘ vigne ▁ Ⓙ Ⓐ 770 ▁ → ▁ 771 ▁ Ⓑ Ⓒ Vig ▁ → ▁ Terre ▁ Ⓓ
+Ⓖ Les ▁ → ▁ Cailles ▁ Ⓗ Ⓔ Lameau ▁ Lisandre ▁ , ▁ à ▁ → ▁ fontenay ▁ Ⓕ Ⓚ 1565 ▁ Ⓛ Ⓘ T ▁ Ⓙ Ⓐ 2312 ▁ Ⓑ Ⓒ T ▁ Ⓓ
+Ⓖ id ▁ Ⓗ Ⓔ Breton ▁ Pierre ▁ Constant ▁ à ▁ → ▁ Fontenay ▁ Ⓕ Ⓚ 1566 ▁ Ⓛ Ⓘ T ▁ Ⓙ Ⓐ 2310 ▁ Ⓑ Ⓒ T ▁ Ⓓ
+Ⓖ§Ⓗ ▁ Ⓔ Héricourt ▁ Grégoire ▁ à ▁ → ▁ Fontenay ▁ Ⓕ Ⓚ 1567 ▁ Ⓛ Ⓘ T ▁ Ⓙ Ⓐ fra ▁ . ▁ 2307 ▁ Ⓑ Ⓒ T ▁ Ⓓ
+Ⓖ§Ⓗ ▁ Ⓔ Papin ▁ Brutus ▁ à ▁ → ▁ Fontenay ▁ Ⓕ Ⓚ 1568 ▁ Ⓛ Ⓘ T ▁ Ⓙ Ⓐ Fra ▁ . ▁ 2307 ▁ Ⓑ Ⓒ T ▁ Ⓓ
+Ⓖ§Ⓗ ▁ Ⓔ Paruelle ▁ Pierre ▁ Jean ▁ , ▁ fils ▁ → ▁ à ▁ Fontenay ▁ Ⓕ Ⓚ 1569 ▁ Ⓛ Ⓘ T ▁ Ⓙ Ⓐ fra ▁ 2307 ▁ Ⓑ Ⓒ T ▁ Ⓓ
+Ⓖ§Ⓗ ▁ Ⓔ Héricourt ▁ Jean ▁ Louis ▁ → ▁ à ▁ Fontenay ▁ Ⓕ Ⓚ 1570 ▁ Ⓛ Ⓘ T ▁ Ⓙ Ⓐ Fra ▁ 2307 ▁ Ⓑ Ⓒ T ▁ Ⓓ
+Ⓖ§Ⓗ ▁ Ⓔ Marinier ▁ Narcisse ▁ à ▁ → ▁ Fontenay ▁ Ⓕ Ⓚ 1571 ▁ Ⓛ Ⓘ T ▁ Ⓙ Ⓐ 2305 ▁ Ⓑ Ⓒ T ▁ Ⓓ
+Ⓖ§Ⓗ ▁ Ⓔ Bécharet ▁ Jean ▁ Pierre ▁ , ▁ g ▁ ↑ ▁ dre ▁ ↓→ ▁ Lamour ▁ , ▁ à ▁ Fontenay ▁ Ⓕ Ⓚ 1572 ▁ Ⓛ Ⓘ T ▁ Ⓙ Ⓐ 2306 ▁ Ⓑ Ⓒ T ▁ Ⓓ
+Ⓖ§Ⓗ ▁ Ⓔ Berger ▁ Baptiste ▁ Ⓕ Ⓚ 1573 ▁ Ⓛ Ⓘ T ▁ Ⓙ Ⓐ 2303 ▁ Ⓑ Ⓒ T ▁ Ⓓ
+Ⓖ§Ⓗ ▁ Ⓔ Misgault ▁ Jean ▁ Louis ▁ Ⓕ Ⓚ 1574 ▁ Ⓛ Ⓘ T ▁ Ⓙ Ⓐ 2302 ▁ Ⓑ Ⓒ T ▁ Ⓓ
+Ⓖ§Ⓗ ▁ Ⓔ Provost ▁ Vincent ▁ Ⓕ Ⓚ 1575 ▁ Ⓛ Ⓘ T ▁ Ⓙ Ⓐ 2301 ▁ Ⓑ Ⓒ Vig ▁ Ⓓ
+Ⓖ§Ⓗ ▁ Ⓔ Saussay ▁ Père ▁ Ⓕ Ⓚ 1576 ▁ Ⓛ Ⓘ T ▁ Ⓙ Ⓐ 2198 ▁ → ▁ 2199 ▁ → ▁ 2300 ▁ Ⓑ Ⓒ T ▁ → ▁ Vig ▁ → ▁ T ▁ Ⓓ
+Ⓖ§Ⓗ ▁ Ⓔ Rameau ▁ Jean ▁ Louis ▁ fils ▁ → ▁ françois ▁ Ⓕ Ⓚ 1577 ▁ Ⓛ Ⓘ T ▁ Ⓙ Ⓐ 2197 ▁ Ⓑ Ⓒ T ▁ Ⓓ
+Ⓖ§Ⓗ ▁ Ⓔ Saussary ▁ Ⓕ Ⓚ 1578 ▁ Ⓛ Ⓘ Vigne ▁ Ⓙ Ⓐ 2196 ▁ Ⓑ Ⓒ Vig ▁ Ⓓ
+Ⓖ Chemin ▁ de ▁ Jean ▁ Ⓗ Ⓔ quénot ▁ Sylvie ▁ Ⓕ Ⓚ 82 ▁ Ⓛ Ⓘ pré ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Raison ▁ léonard ▁ Ⓕ Ⓚ§Ⓛ ▁ Ⓘ§Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Razurel ▁ auguste ▁ édouard ▁ Ⓕ Ⓚ§Ⓛ ▁ Ⓘ§Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Rollandet ▁ antoine ▁ françois ▁ Ⓕ Ⓚ§Ⓛ ▁ Ⓘ§Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Roulin ▁ fidèle ▁ Ⓕ Ⓚ§Ⓛ ▁ Ⓘ§Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Salvet ▁ louis ▁ Ⓕ Ⓚ§Ⓛ ▁ Ⓘ§Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Voie ▁ publique ▁ Ⓕ Ⓚ§Ⓛ ▁ Ⓘ§Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Lenoble ▁ merlin ▁ Ⓕ Ⓚ 83 ▁ Ⓛ Ⓘ terre ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Machart ▁ merlin ▁ Ⓕ Ⓚ id ▁ Ⓛ Ⓘ terre ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Benard ▁ Jean ▁ Baptiste ▁ Ⓕ Ⓚ 84 ▁ Ⓛ Ⓘ pré ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Dodun ▁ de ▁ Keroman ▁ , ▁ le ▁ Comte ▁ Ⓕ Ⓚ id ▁ Ⓛ Ⓘ id ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ id ▁ Ⓕ Ⓚ§Ⓛ ▁ Ⓘ§Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ id ▁ Ⓕ Ⓚ§Ⓛ ▁ Ⓘ§Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ id ▁ Ⓕ Ⓚ§Ⓛ ▁ Ⓘ§Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Dodun ▁ de ▁ Kéroman ▁ , ▁ la ▁ marquise ▁ Ⓕ Ⓚ§Ⓛ ▁ Ⓘ§Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Dodun ▁ de ▁ Kéroman ▁ agathe ▁ veuve ▁ → ▁ moussac ▁ Ⓕ Ⓚ§Ⓛ ▁ Ⓘ§Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Dodun ▁ de ▁ Kéroman ▁ léone ▁ , ▁ dame ▁ de ▁ → ▁ Bouteillies ▁ Ⓕ Ⓚ§Ⓛ ▁ Ⓘ§Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Huignard ▁ mélanie ▁ félicité ▁ Ⓕ Ⓚ§Ⓛ ▁ Ⓘ§Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Jaboeuf ▁ Jean ▁ Baptiste ▁ Ⓕ Ⓚ§Ⓛ ▁ Ⓘ§Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Melzessard ▁ Ⓕ Ⓚ§Ⓛ ▁ Ⓘ§Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Moulinet ▁ alphonse ▁ Ⓕ Ⓚ§Ⓛ ▁ Ⓘ§Ⓙ
+Ⓖ le ▁ nassier ▁ Ⓗ Ⓔ Alexandre ▁ Baptiste ▁ Ⓕ Ⓚ 85 ▁ Ⓛ Ⓘ pré ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Alexandre ▁ Joseph ▁ fils ▁ Ⓕ Ⓚ§Ⓛ ▁ Ⓘ§Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Alingry ▁ victor ▁ verrier ▁ Ⓕ Ⓚ§Ⓛ ▁ Ⓘ§Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Anjain ▁ auguste ▁ joseph ▁ Ⓕ Ⓚ§Ⓛ ▁ Ⓘ§Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Aubry ▁ Joseph ▁ Ⓕ Ⓚ§Ⓛ ▁ Ⓘ§Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Avoine ▁ Benoit ▁ Ⓕ Ⓚ§Ⓛ ▁ Ⓘ§Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Becquerelle ▁ Jean ▁ François ▁ Ⓕ Ⓚ§Ⓛ ▁ Ⓘ§Ⓙ
+Ⓜ 9 ▁ Ⓝ Ⓔ Barreau ▁ Guillaume ▁ Ⓕ Ⓚ 286 ▁ Ⓛ Ⓘ Jardin ▁ Ⓙ
+Ⓜ 51 ▁ Ⓝ Ⓔ V ▁ ↑ ▁ e ▁ ↓ ▁ Courtois ▁ Ⓕ Ⓚ 287 ▁ Ⓛ Ⓘ Maison ▁ → ▁ bât ▁ et ▁ cour ▁ Ⓙ
+Ⓜ 138 ▁ Ⓝ Ⓔ Monier ▁ peintre ▁ Ⓕ Ⓚ 288 ▁ Ⓛ Ⓘ M ▁ ↑ ▁ on ▁ ↓→ ▁ id ▁ Ⓙ
+Ⓜ 65 ▁ Ⓝ Ⓔ 289 ▁ Ⓕ Ⓚ V ▁ ↑ ▁ e ▁ ↓ ▁ Demanche ▁ Ⓛ Ⓘ M ▁ ↑ ▁ on ▁ ↓→ ▁ id ▁ Ⓙ
+Ⓜ 108 ▁ Ⓝ Ⓔ V ▁ ↑ ▁ e ▁ ↓ ▁ Lecolant ▁ al ▁ ↑ ▁ cl ▁ ↑ ▁ de ▁ ↓Ⓕ ▁ Ⓚ 290 ▁ Ⓛ Ⓘ M ▁ ↑ ▁ on ▁ ↓→ ▁ id ▁ Ⓙ
+Ⓜ 149 ▁ ↑ ▁ bis ▁ ↓→× ▁ 76 ▁ ±Ⓝ ▁ Ⓔ× ▁ fain ▁ ± ▁ Pontois ▁ → ▁ Jean ▁ paschal ▁ Ⓕ Ⓚ 291 ▁ Ⓛ Ⓘ vigne ▁ Ⓙ
+Ⓜ 149 ▁ bis ▁ →× ▁ 76 ▁ ±Ⓝ ▁ Ⓔ id ▁ Ⓕ Ⓚ 292 ▁ Ⓛ Ⓘ terre ▁ Ⓙ
+Ⓜ 149 ▁ ↑ ▁ bis ▁ ↓→× ▁ 76 ▁ ±Ⓝ ▁ Ⓔ id ▁ Ⓕ Ⓚ 293 ▁ Ⓛ Ⓘ vigne ▁ Ⓙ
+Ⓜ 149 ▁ ↑ ▁ bis ▁ ↓→× ▁ 76 ▁ ±Ⓝ ▁ Ⓔ id ▁ Ⓕ Ⓚ 294 ▁ Ⓛ Ⓘ Potager ▁ Ⓙ
+Ⓜ 149 ▁ ↑ ▁ bis ▁ ↓→× ▁ 76 ▁ ±Ⓝ ▁ Ⓔ id ▁ Ⓕ Ⓚ 295 ▁ Ⓛ Ⓘ Pature ▁ → ▁ d ▁ ' ▁ agrément ▁ Ⓙ
+Ⓜ 149 ▁ ↑ ▁ bis ▁ ↓→× ▁ 76 ▁ ±Ⓝ ▁ Ⓔ id ▁ Ⓕ Ⓚ 296 ▁ Ⓛ Ⓘ bois ▁ → ▁ d ▁ ' ▁ agrément ▁ Ⓙ
+Ⓜ 149 ▁ ↑ ▁ bis ▁ ↓→× ▁ 112 ▁ .±Ⓝ ▁ Ⓔ× ▁ V ▁ ↑ ▁ e ▁ ↓ ▁ Linotte ▁ ± ▁ fils ▁ Ⓕ Ⓚ 297 ▁ Ⓛ Ⓘ terrain ▁ → ▁ d ▁ ' ▁ agrément ▁ Ⓙ
+Ⓜ 149 ▁ ↑ ▁ bis ▁ ↓→× ▁ 112 ▁ .±Ⓝ ▁ Ⓔ id ▁ Ⓕ Ⓚ 298 ▁ Ⓛ Ⓘ Jardin ▁ → ▁ anglais ▁ Ⓙ
+Ⓜ 149 ▁ ↑ ▁ bis ▁ ↓→× ▁ 112 ▁ .±Ⓝ ▁ Ⓔ id ▁ Ⓕ Ⓚ 299 ▁ Ⓛ Ⓘ Maison ▁ → ▁ batiment ▁ → ▁ et ▁ cour ▁ → ▁ et ▁ filature ▁ Ⓙ
+Ⓜ 11 ▁ Ⓝ Ⓔ V ▁ ↑ ▁ e ▁ ↓ ▁ Blin ▁ Ⓕ Ⓚ 300 ▁ Ⓛ Ⓘ Maison ▁ → ▁ bat ▁ ↑ ▁ i ▁ ↓ ▁ et ▁ Cour ▁ Ⓙ
+Ⓖ les ▁ sablons ▁ Ⓗ Ⓔ serouge ▁ J ▁ ↑ ▁ n ▁ ↓ ▁ B ▁ ↑ ▁ te ▁ ↓Ⓕ ▁ Ⓚ 701 ▁ Ⓛ Ⓘ Terre ▁ Ⓙ Ⓐ p ▁ . ▁ 1507 ▁ Ⓑ Ⓒ☼Ⓓ
+Ⓖ§Ⓗ ▁ Ⓔ Chatelain ▁ ch ▁ ↑ ▁ u ▁ ↓ ▁ père ▁ Ⓕ Ⓚ 702 ▁ Ⓛ Ⓘ T ▁ Ⓙ Ⓐ p ▁ . ▁ 1507 ▁ Ⓑ Ⓒ T ▁ Ⓓ
+Ⓖ§Ⓗ ▁ Ⓔ Beurrier ▁ p ▁ ↑ ▁ re ▁ ↓ ▁ honoré ▁ Ⓕ Ⓚ 703 ▁ Ⓛ Ⓘ T ▁ Ⓙ Ⓐ 1514 ▁ → ▁ 1514 ▁ ↑ ▁ bis ▁ ↓→ ▁ 1515 ▁ → ▁ 1515 ▁ ↑ ▁ bis ▁ ↓Ⓑ ▁ Ⓒ T ▁ Ⓓ
+Ⓖ§Ⓗ ▁ Ⓔ Guillaumes ▁ René ▁ Ⓕ Ⓚ 704 ▁ Ⓛ Ⓘ T ▁ Ⓙ Ⓐ 1516 ▁ → ▁ 1517 ▁ Ⓑ Ⓒ T ▁ Ⓓ
+Ⓖ§Ⓗ ▁ Ⓔ Bleuze ▁ jacques ▁ Ⓕ Ⓚ 705 ▁ Ⓛ Ⓘ T ▁ Ⓙ Ⓐ 1525 ▁ Ⓑ Ⓒ T ▁ Ⓓ
+Ⓖ§Ⓗ ▁ Ⓔ Delporte ▁ hyacinthe ▁ Ⓕ Ⓚ 706 ▁ Ⓛ Ⓘ T ▁ Ⓙ Ⓐ 1528 ▁ → ▁ 124 ▁ Ⓑ Ⓒ V ▁ → ▁ T ▁ Ⓓ
+Ⓖ§Ⓗ ▁ Ⓔ Bronzac ▁ Ⓕ Ⓚ 707 ▁ Ⓛ Ⓘ T ▁ Ⓙ Ⓐ 1526 ▁ Ⓑ Ⓒ T ▁ → ▁ T ▁ Ⓓ
+Ⓖ§Ⓗ ▁ Ⓔ huard ▁ jacques ▁ et ▁ consors ▁ Ⓕ Ⓚ 708 ▁ Ⓛ Ⓘ T ▁ .Ⓙ ▁ Ⓐ 1527 ▁ Ⓑ Ⓒ Vigne ▁ → ▁ V ▁ Ⓓ
+Ⓖ§Ⓗ ▁ Ⓔ Chatelain ▁ ch ▁ ↑ ▁ es ▁ ↓ ▁ D ▁ ↑ ▁ t ▁ ↓ ▁ brisset ▁ Ⓕ Ⓚ 709 ▁ Ⓛ Ⓘ T ▁ Ⓙ Ⓐ 1530 ▁ Ⓑ Ⓒ T ▁ Ⓓ
+Ⓖ§Ⓗ ▁ Ⓔ Guitet ▁ Ⓕ Ⓚ 710 ▁ Ⓛ Ⓘ T ▁ Ⓙ Ⓐ 1534 ▁ Ⓑ Ⓒ T ▁ Ⓓ
+Ⓖ§Ⓗ ▁ Ⓔ Chandennies ▁ p ▁ ↑ ▁ re ▁ ↓ ▁ f ▁ ↑ ▁ ois ▁ ↓Ⓕ ▁ Ⓚ 711 ▁ Ⓛ Ⓘ T ▁ Ⓙ Ⓐ p ▁ . ▁ 1535 ▁ Ⓑ Ⓒ V ▁ Ⓓ
+Ⓖ§Ⓗ ▁ Ⓔ Chatelain ▁ ch ▁ ↑ ▁ u ▁ ↓ ▁ d ▁ ↑ ▁ t ▁ ↓ ▁ brisset ▁ Ⓕ Ⓚ 712 ▁ Ⓛ Ⓘ T ▁ Ⓙ Ⓐ p ▁ 1535 ▁ Ⓑ Ⓒ Ø ▁ Ⓓ
+Ⓖ§Ⓗ ▁ Ⓔ id ▁ Ⓕ Ⓚ 713 ▁ Ⓛ Ⓘ T ▁ Ⓙ Ⓐ 1536 ▁ Ⓑ Ⓒ V ▁ Ⓓ
+Ⓖ§Ⓗ ▁ Ⓔ Mozet ▁ charles ▁ f ▁ ↑ ▁ ois ▁ ↓Ⓕ ▁ Ⓚ 714 ▁ Ⓛ Ⓘ T ▁ Ⓙ Ⓐ 1537 ▁ Ⓑ Ⓒ T ▁ Ⓓ
+Ⓖ grande ▁ Rue ▁ Ⓗ Ⓔ Collin ▁ vincent ▁ joseph ▁ Ⓕ Ⓚ 267 ▁ Ⓛ Ⓘ jardin ▁ Ⓙ Ⓐ S ▁ . ▁ ec ▁ C ▁ → ▁ 110 ▁ p ▁ Ⓑ Ⓒ jardin ▁ Ⓓ
+Ⓖ§Ⓗ ▁ Ⓔ Collin ▁ vincent ▁ Joseph ▁ Ⓕ Ⓚ 268 ▁ Ⓛ Ⓘ maison ▁ cour ▁ → ▁ et ▁ → ▁ n ▁ ° ▁ 34 ▁ Ⓙ Ⓐ 111 ▁ p ▁ .Ⓑ ▁ Ⓒ maison ▁ et ▁ → ▁ cour ▁ Ⓓ
+Ⓖ§Ⓗ ▁ Ⓔ Lemaire ▁ pierre ▁ joseph ▁ Ⓕ Ⓚ 269 ▁ Ⓛ Ⓘ maison ▁ cour ▁ → ▁ et ▁ → ▁ n ▁ ° ▁ 32 ▁ Ⓙ Ⓐ 111 ▁ portion ▁ Ⓑ Ⓒ maison ▁ Ⓓ
+Ⓖ§Ⓗ ▁ Ⓔ Lemaire ▁ pierre ▁ joseph ▁ Ⓕ Ⓚ 270 ▁ Ⓛ Ⓘ jardin ▁ Ⓙ Ⓐ 104 ▁ .→ ▁ 110p ▁ → ▁ 105p ▁ → ▁ 103 ▁ → ▁ 111 ▁ portion ▁ Ⓑ Ⓒ maison ▁ → ▁ jardin ▁ → ▁ jardin ▁ → ▁ jardin ▁ → ▁ maison ▁ Ⓓ
+Ⓖ§Ⓗ ▁ Ⓔ Bèquemont ▁ adolphe ▁ Ⓕ Ⓚ 271 ▁ Ⓛ Ⓘ jardin ▁ Ⓙ Ⓐ 105 ▁ → ▁ 110p ▁ .→ ▁ 103p ▁ Ⓑ Ⓒ jardin ▁ → ▁ jardin ▁ → ▁ jardin ▁ Ⓓ
+Ⓖ§Ⓗ ▁ Ⓔ Bèquemont ▁ adolphe ▁ Ⓕ Ⓚ 272 ▁ Ⓛ Ⓘ maison ▁ cour ▁ → ▁ et ▁ B ▁ .→ ▁ n ▁ ° ▁ 30 ▁ Ⓙ Ⓐ 106 ▁ → ▁ 105p ▁ Ⓑ Ⓒ maison ▁ et ▁ → ▁ cour ▁ → ▁ jardin ▁ Ⓓ
+Ⓖ§Ⓗ ▁ Ⓔ Pros ▁ Octave ▁ Ⓕ Ⓚ 273 ▁ Ⓛ Ⓘ jardin ▁ Ⓙ Ⓐ 102p ▁ → ▁ 105p ▁ → ▁ 103p ▁ Ⓑ Ⓒ maison ▁ → ▁ jardin ▁ → ▁ jardin ▁ Ⓓ
+Ⓖ§Ⓗ ▁ Ⓔ Pros ▁ Octave ▁ Ⓕ Ⓚ maison ▁ → ▁ n ▁ ° ▁ 28 ▁ Ⓛ Ⓘ 274 ▁ Ⓙ Ⓐ 102 ▁ Ⓑ Ⓒ maison ▁ Ⓓ
+Ⓖ§Ⓗ ▁ Ⓔ Paris ▁ auguste ▁ Ⓕ Ⓚ 275 ▁ Ⓛ Ⓘ maison ▁ → ▁ n ▁ ° ▁ 26 ▁ Ⓙ Ⓐ 102p ▁ → ▁ 101p ▁ → ▁ 100p ▁ → ▁ 105p ▁ Ⓑ Ⓒ maison ▁ → ▁ maison ▁ → ▁ terre ▁ → ▁ jardin ▁ Ⓓ
+Ⓖ§Ⓗ ▁ Ⓔ Paris ▁ auguste ▁ Ⓕ Ⓚ 276 ▁ Ⓛ Ⓘ jardin ▁ Ⓙ Ⓐ 100p ▁ → ▁ 101 ▁ portion ▁ → ▁ 105 ▁ portion ▁ Ⓑ Ⓒ terre ▁ → ▁ maison ▁ → ▁ jardin ▁ Ⓓ
+Ⓖ§Ⓗ ▁ Ⓔ Paris ▁ auguste ▁ Ⓕ Ⓚ 277 ▁ Ⓛ Ⓘ bâtiment ▁ Ⓙ Ⓐ 105p ▁ .Ⓑ ▁ Ⓒ jardin ▁ Ⓓ
+Ⓖ§ ▁ P ▁ à ▁ → ▁ alfortville ▁ Ⓗ Ⓔ= ▁ & ▁ Baillet ▁ → ▁ Didier ▁ à ▁ Charenton ▁ Ⓕ Ⓚ 278 ▁ Ⓛ Ⓘ Terre ▁ Ⓙ Ⓐ 100p ▁ → ▁ 105p ▁ Ⓑ Ⓒ Terre ▁ → ▁ Terre ▁ → ▁ jardin ▁ Ⓓ
+Ⓖ§Ⓗ ▁ Ⓔ Paris ▁ aug ▁ ↑ ▁ te ▁ ↓Ⓕ ▁ Ⓚ 279 ▁ Ⓛ Ⓘ maison ▁ → ▁ n ▁ ° ▁ 24 ▁ ↑ ▁ bis ▁ ↓Ⓙ ▁ Ⓐ 99p ▁ .Ⓑ ▁ Ⓒ maison ▁ Ⓓ
+Ⓖ§Ⓗ ▁ Ⓔ Paris ▁ aug ▁ ↑ ▁ te ▁ ↓Ⓕ ▁ Ⓚ 280 ▁ Ⓛ Ⓘ jardin ▁ Ⓙ Ⓐ 99p ▁ → ▁ 100 ▁ portion ▁ Ⓑ Ⓒ maison ▁ → ▁ et ▁ cour ▁ → ▁ Terre ▁ Ⓓ
+Ⓖ Brèche ▁ des ▁ → ▁ Vinots ▁ Ⓗ Ⓜ 169 ▁ Ⓝ Ⓔ Motteau ▁ Claude ▁ Spire ▁ Ⓕ Ⓚ 538 ▁ Ⓛ Ⓘ terre ▁ → ▁ à ▁ vigne ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓜ 50 ▁ Ⓝ Ⓔ Deville ▁ françois ▁ deutier ▁ Ⓕ Ⓚ 539 ▁ Ⓛ Ⓘ Terre ▁ → ▁ à ▁ vig ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓜ 194 ▁ Ⓝ Ⓔ Neron ▁ Denis ▁ Ⓕ Ⓚ 540 ▁ Ⓛ Ⓘ Vigne ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓜ 227 ▁ Ⓝ Ⓔ Thibaud ▁ Jean ▁ charles ▁ Ⓕ Ⓚ 541 ▁ Ⓛ Ⓘ vigne ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓜ 124 ▁ Ⓝ Ⓔ Gueriu ▁ Ch ▁ ↑ ▁ ls ▁ ↓ ▁ Saschal ▁ Ⓕ Ⓚ 542 ▁ Ⓛ Ⓘ terre ▁ à ▁ vigne ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓜ 73 ▁ Ⓝ Ⓔ Frelé ▁ les ▁ héritiers ▁ Ⓕ Ⓚ 543 ▁ Ⓛ Ⓘ Vigne ▁ Ⓙ
+Ⓖ Les ▁ fosses ▁ Ⓗ Ⓜ 90 ▁ ↑ ▁ bis ▁ ↓Ⓝ ▁ Ⓔ Gauthier ▁ louis ▁ ch ▁ ↑ ▁ es ▁ ↓ ▁ × ▁ louis ▁ ±→ ▁ à ▁ Varennes ▁ Ⓕ Ⓚ 544 ▁ Ⓛ Ⓘ terre ▁ → ▁ à ▁ vigne ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓜ 172 ▁ Ⓝ Ⓔ Motteau ▁ F ▁ ↑ ▁ ois ▁ ↓ ▁ a ▁ perigny ▁ Ⓕ Ⓚ 545 ▁ Ⓛ Ⓘ terre ▁ → ▁ à ▁ vig ▁ .Ⓙ
+Ⓖ§Ⓗ ▁ Ⓜ 90 ▁ ↑ ▁ bis ▁ ↓Ⓝ ▁ Ⓔ Gauthier ▁ × ▁ M ▁ ↑ ▁ lle ▁ ↓±→ ▁ louis ▁ charles ▁ à ▁ Varennes ▁ Ⓕ Ⓚ 5461 ▁ Ⓛ Ⓘ Terr ▁ → ▁ à ▁ vig ▁ .Ⓙ
+Ⓖ§Ⓗ ▁ Ⓜ 33 ▁ Ⓝ Ⓔ Delaroche ▁ sebastien ▁ Ⓕ Ⓚ 547 ▁ Ⓛ Ⓘ vigne ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓜ 33 ▁ Ⓝ Ⓔ 548 ▁ Ⓕ Ⓚ"Ⓛ ▁ Ⓘ terre ▁ → ▁ à ▁ vig ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓜ 176 ▁ Ⓝ Ⓔ Motteau ▁ Etienne ▁ Le ▁ père ▁ Ⓕ Ⓚ 549 ▁ Ⓛ Ⓘ terre ▁ → ▁ à ▁ vig ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓜ 78 ▁ Ⓝ Ⓔ Foucaut ▁ françois ▁ Ⓕ Ⓚ 550 ▁ Ⓛ Ⓘ terre ▁ → ▁ à ▁ vig ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓜ 189 ▁ Ⓝ Ⓔ Motteau ▁ F ▁ ↑ ▁ ois ▁ ↓ ▁ henry ▁ Ⓕ Ⓚ 551 ▁ Ⓛ Ⓘ vigne ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓜ 36 ▁ Ⓝ Ⓔ Delaroche ▁ augustin ▁ Ⓕ Ⓚ 552 ▁ Ⓛ Ⓘ vigne ▁ Ⓙ
+Ⓖ les ▁ sablons ▁ Ⓗ Ⓔ Bleuze ▁ jacques ▁ Ⓕ Ⓚ 715 ▁ Ⓛ Ⓘ Terre ▁ Ⓙ Ⓐ 1543 ▁ → ▁ 1544 ▁ Ⓑ Ⓒ T ▁ → ▁ berge ▁ Ⓓ
+Ⓖ§Ⓗ ▁ Ⓔ Leclerc ▁ claude ▁ félix ▁ Ⓕ Ⓚ 716 ▁ Ⓛ Ⓘ T ▁ Ⓙ Ⓐ 1542 ▁ Ⓑ Ⓒ T ▁ Ⓓ
+Ⓖ§Ⓗ ▁ Ⓔ Auboin ▁ Ⓕ Ⓚ 171 ▁ Ⓛ Ⓘ T ▁ .Ⓙ ▁ Ⓐ 1545 ▁ → ▁ 1546 ▁ Ⓑ Ⓒ berge ▁ → ▁ T ▁ Ⓓ
+Ⓖ§Ⓗ ▁ Ⓔ Chandennier ▁ P ▁ ↑ ▁ re ▁ ↓ ▁ F ▁ ↑ ▁ ois ▁ ↓Ⓕ ▁ Ⓚ 718 ▁ Ⓛ Ⓘ T ▁ Ⓙ Ⓐ 1552 ▁ Ⓑ Ⓒ T ▁ Ⓓ
+Ⓖ§Ⓗ ▁ Ⓔ Regnault ▁ pierre ▁ Louis ▁ Ⓕ Ⓚ 719 ▁ Ⓛ Ⓘ T ▁ .Ⓙ ▁ Ⓐ 1553 ▁ Ⓑ Ⓒ T ▁ Ⓓ
+Ⓖ§Ⓗ ▁ Ⓔ Garriau ▁ victor ▁ f ▁ ↑ ▁ ois ▁ ↓Ⓕ ▁ Ⓚ 720 ▁ Ⓛ Ⓘ T ▁ Ⓙ Ⓐ 1555 ▁ Ⓑ Ⓒ T ▁ Ⓓ
+Ⓖ§Ⓗ ▁ Ⓔ Lambert ▁ jean ▁ pierre ▁ Ⓕ Ⓚ 721 ▁ Ⓛ Ⓘ T ▁ Ⓙ Ⓐ 1563 ▁ Ⓑ Ⓒ T ▁ Ⓓ
+Ⓖ§Ⓗ ▁ Ⓔ Massuet ▁ denis ▁ marie ▁ Ⓕ Ⓚ 722 ▁ Ⓛ Ⓘ T ▁ .Ⓙ ▁ Ⓐ 1564 ▁ Ⓑ Ⓒ T ▁ Ⓓ
+Ⓖ§Ⓗ ▁ Ⓔ Mayeux ▁ J ▁ ↑ ▁ ques ▁ ↓ ▁ Louis ▁ Ⓕ Ⓚ 723 ▁ Ⓛ Ⓘ T ▁ .Ⓙ ▁ Ⓐ 1566 ▁ Ⓑ Ⓒ T ▁ Ⓓ
+Ⓖ§Ⓗ ▁ Ⓔ Duruble ▁ alex ▁ ↑ ▁ dre ▁ ↓ ▁ pierre ▁ Ⓕ Ⓚ 724 ▁ Ⓛ Ⓘ T ▁ Ⓙ Ⓐ 1565 ▁ Ⓑ Ⓒ T ▁ Ⓓ
+Ⓖ Les ▁ frettes ▁ Ⓗ Ⓔ Lanjainois ▁ Ⓕ Ⓚ 725 ▁ Ⓛ Ⓘ T ▁ . ▁ planté ▁ Ⓙ Ⓐ 1578 ▁ Ⓑ Ⓒ pépinière ▁ Ⓓ
+Ⓖ§Ⓗ ▁ Ⓔ Benoît ▁ P ▁ ↑ ▁ re ▁ ↓ ▁ stanislas ▁ Ⓕ Ⓚ 726 ▁ Ⓛ Ⓘ T ▁ . ▁ planté ▁ Ⓙ Ⓐ 1579 ▁ → ▁ 1580 ▁ Ⓑ Ⓒ T ▁ → ▁ pep ▁ .Ⓓ
+Ⓖ§Ⓗ ▁ Ⓔ Chevalier ▁ louis ▁ Ⓕ Ⓚ 727 ▁ Ⓛ Ⓘ T ▁ .Ⓙ ▁ Ⓐ 1572 ▁ Ⓑ Ⓒ T ▁ Ⓓ
+Ⓖ§Ⓗ ▁ Ⓔ Duruble ▁ alex ▁ ↑ ▁ dre ▁ ↓ ▁ pierre ▁ Ⓕ Ⓚ 728 ▁ Ⓛ Ⓘ T ▁ .Ⓙ ▁ Ⓐ 1573 ▁ Ⓑ Ⓒ T ▁ Ⓓ
+Ⓖ Rue ▁ du ▁ Paroy ▁ Ⓗ Ⓔ Touzelin ▁ marie ▁ julien ▁ Ⓕ Ⓚ 139 ▁ Ⓛ Ⓘ sol ▁ →× ▁ batiment ▁ ­±Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Touzelin ▁ marie ▁ Julien ▁ Ⓕ Ⓚ 140 ▁ Ⓛ Ⓘ Jardin ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Touzelin ▁ marie ▁ Julien ▁ Ⓕ Ⓚ 141 ▁ Ⓛ Ⓘ sol ▁ et ▁ cour ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ id ▁ Ⓕ Ⓚ 141 ▁ Ⓛ Ⓘ n ▁ ° ▁ 9 ▁ Maison ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Touzelin ▁ marie ▁ Julien ▁ Ⓕ Ⓚ 142 ▁ Ⓛ Ⓘ Jardin ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Touzelin ▁ marie ▁ Julien ▁ Ⓕ Ⓚ 143 ▁ Ⓛ Ⓘ sol ▁ et ▁ cour ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ id ▁ Ⓕ Ⓚ 143 ▁ Ⓛ Ⓘ Maison ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Touzelin ▁ marie ▁ julien ▁ Ⓕ Ⓚ 1444 ▁ Ⓛ Ⓘ Etendoir ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Leroy ▁ sauveure ▁ gabriel ▁ Ⓕ Ⓚ 145 ▁ Ⓛ Ⓘ Jardin ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Leroy ▁ sauveur ▁ gabriel ▁ Ⓕ Ⓚ 146 ▁ Ⓛ Ⓘ Jardin ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Leroy ▁ sauveur ▁ gabriel ▁ Ⓕ Ⓚ 147 ▁ Ⓛ Ⓘ sol ▁ bâtiment ▁ → ▁ et ▁ cour ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ id ▁ Ⓕ Ⓚ 147 ▁ Ⓛ Ⓘ N ▁ ° ▁ 13 ▁ Maison ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Dedouvre ▁ p ▁ ↑ ▁ re ▁ ↓ ▁ f ▁ ↑ ▁ ois ▁ ↓Ⓕ ▁ Ⓚ 148 ▁ Ⓛ Ⓘ Terre ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Dedouvre ▁ p ▁ ↑ ▁ re ▁ ↓ ▁ f ▁ ↑ ▁ ois ▁ ↓Ⓕ ▁ Ⓚ 149 ▁ Ⓛ Ⓘ Terre ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Dedouvre ▁ p ▁ ↑ ▁ re ▁ ↓ ▁ f ▁ ↑ ▁ ois ▁ ↓Ⓕ ▁ Ⓚ 150 ▁ Ⓛ Ⓘ Terre ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ id ▁ Ⓕ Ⓚ 151 ▁ Ⓛ Ⓘ sol ▁ et ▁ cour ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Dedouvre ▁ p ▁ ↑ ▁ re ▁ ↓ ▁ f ▁ ↑ ▁ ois ▁ ↓Ⓕ ▁ Ⓚ 151 ▁ Ⓛ Ⓘ Coulerie ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Dedouvre ▁ p ▁ ↑ ▁ re ▁ ↓ ▁ f ▁ ↑ ▁ ois ▁ ↓Ⓕ ▁ Ⓚ 152 ▁ Ⓛ Ⓘ sol ▁ et ▁ cour ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ id ▁ Ⓕ Ⓚ 152 ▁ Ⓛ Ⓘ n ▁ ° ▁ 15 ▁ Maison ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Dedouvre ▁ p ▁ ↑ ▁ re ▁ ↓ ▁ f ▁ ↑ ▁ ois ▁ ↓Ⓕ ▁ Ⓚ 153 ▁ Ⓛ Ⓘ Etendoir ▁ Ⓙ
+Ⓜ 328 ▁ ↑ ▁ bis ▁ ↓Ⓝ ▁ Ⓔ Misgault ▁ × ▁ louis ▁ ± ▁ Jean ▁ Sébastien ▁ Ⓕ Ⓚ 842 ▁ ↑ ▁ bis ▁ ↓Ⓛ ▁ Ⓘ Terre ▁ Ⓙ
+Ⓜ 415 ▁ Ⓝ Ⓔ Rameau ▁ J ▁ ↑ ▁ n ▁ ↓ ▁ B ▁ ↑ ▁ te ▁ ↓Ⓕ ▁ Ⓚ 43 ▁ Ⓛ Ⓘ id ▁ Ⓙ
+Ⓜ 231 ▁ Ⓝ Ⓔ Lameau ▁ Saturnin ▁ veuve ▁ h ▁ ↑ ▁ ers ▁ ↓Ⓕ ▁ Ⓚ 44 ▁ Ⓛ Ⓘ§Ⓙ
+Ⓜ× ▁ 324 ▁ ±→ ▁ 102 ▁ ↑ ▁ bis ▁ ↓Ⓝ ▁ Ⓔ× ▁ Mezard ▁ N ▁ ↑ ▁ as ▁ ↓± ▁ Courtois ▁ louis ▁ Ⓕ Ⓚ 45 ▁ Ⓛ Ⓘ vig ▁ Ⓙ
+Ⓜ 429 ▁ Ⓝ Ⓔ saussay ▁ Père ▁ Ⓕ Ⓚ 46 ▁ Ⓛ Ⓘ Terre ▁ Ⓙ
+Ⓜ 85 ▁ Ⓝ Ⓔ Coiffier ▁ andré ▁ l ▁ ' ▁ ainé ▁ Ⓕ Ⓚ 47 ▁ Ⓛ Ⓘ id ▁ Ⓙ
+Ⓜ 415 ▁ Ⓝ Ⓔ Rameau ▁ J ▁ ↑ ▁ n ▁ ↓ ▁ B ▁ ↑ ▁ te ▁ ↓Ⓕ ▁ Ⓚ 47 ▁ ↑ ▁ bis ▁ ↓Ⓛ ▁ Ⓘ§Ⓙ
+Ⓜ 415 ▁ Ⓝ Ⓔ Le ▁ même ▁ Ⓕ Ⓚ 48 ▁ Ⓛ Ⓘ§Ⓙ
+Ⓜ 231 ▁ Ⓝ Ⓔ Lameau ▁ Sat ▁ ↑ ▁ nin ▁ ↓ ▁ veuve ▁ Ⓕ Ⓚ 49 ▁ Ⓛ Ⓘ§Ⓙ
+Ⓜ 415 ▁ Ⓝ Ⓔ× ▁ R ▁ ± ▁ Rameau ▁ J ▁ ↑ ▁ n ▁ ↓ ▁ B ▁ ↑ ▁ te ▁ ↓Ⓕ ▁ Ⓚ 850 ▁ Ⓛ Ⓘ§Ⓙ
+Ⓜ 328 ▁ ↑ ▁ bis ▁ ↓→× ▁ 328 ▁ ±Ⓝ ▁ Ⓔ Misgault ▁ × ▁ louis ▁ ± ▁ Jean ▁ Sébastien ▁ Ⓕ Ⓚ 52 ▁ Ⓛ Ⓘ§Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Rameau ▁ J ▁ ↑ ▁ n ▁ ↓ ▁ f ▁ ↑ ▁ ois ▁ ↓ ▁ veuve ▁ Ⓕ Ⓚ 53 ▁ Ⓛ Ⓘ§Ⓙ
+Ⓜ 326 ▁ ↑ ▁ bis ▁ ↓→× ▁ 322 ▁ ±Ⓝ ▁ Ⓔ Misgault ▁ × ▁ louis ▁ ± ▁ Jean ▁ bap ▁ ↑ ▁ te ▁ ↓Ⓕ ▁ Ⓚ 54 ▁ Ⓛ Ⓘ§Ⓙ
+Ⓜ 456 ▁ Ⓝ Ⓔ Verneau ▁ J ▁ ↑ ▁ n ▁ ↓ ▁ B ▁ ↑ ▁ te ▁ ↓Ⓕ ▁ Ⓚ 55 ▁ Ⓛ Ⓘ§Ⓙ
+Ⓜ 453 ▁ Ⓝ Ⓔ Verneau ▁ n ▁ ↑ ▁ as ▁ ↓Ⓕ ▁ Ⓚ 55 ▁ ↑ ▁ bis ▁ ↓Ⓛ ▁ Ⓘ§Ⓙ
+Ⓜ 89 ▁ ↑ ▁ bis ▁ ↑→× ▁ 41 ▁ ±Ⓝ ▁ Ⓔ Coiffier ▁ ch ▁ ↑ ▁ es ▁ ↓ ▁ × ▁ Père ▁ ± ▁ vincent ▁ Ⓕ Ⓚ 56 ▁ Ⓛ Ⓘ§Ⓙ
+Ⓜ 441 ▁ Ⓝ Ⓔ Soudieux ▁ vinc ▁ ↑ ▁ t ▁ ↓Ⓕ ▁ Ⓚ 57 ▁ Ⓛ Ⓘ§Ⓙ
+Ⓜ 318 ▁ Ⓝ Ⓔ Mezard ▁ sat ▁ ↑ ▁ in ▁ ↓Ⓕ ▁ Ⓚ 58 ▁ Ⓛ Ⓘ§Ⓙ
+Ⓜ 18 ▁ Ⓝ Ⓔ ancelet ▁ f ▁ ↑ ▁ re ▁ ↓Ⓕ ▁ Ⓚ 59 ▁ Ⓛ Ⓘ§Ⓙ
+Ⓖ§Ⓗ ▁ Ⓜ 436 ▁ Ⓝ Ⓔ Soudieux ▁ Sat ▁ ↑ ▁ in ▁ ↓ ▁ balot ▁ Ⓕ Ⓚ 860 ▁ Ⓛ Ⓘ§Ⓙ
+Ⓖ grande ▁ Rue ▁ Ⓗ Ⓔ Paris ▁ aug ▁ ↑ ▁ te ▁ ↓Ⓕ ▁ Ⓚ 281 ▁ Ⓛ Ⓘ maison ▁ cour ▁ → ▁ et ▁ B ▁ ↑ ▁ t ▁ ↓→ ▁ n ▁ ° ▁ 24 ▁ Ⓙ Ⓐ s ▁ ↑ ▁ ion ▁ ↓ ▁ C ▁ → ▁ 99 ▁ p ▁ Ⓑ Ⓒ maison ▁ Ⓓ
+Ⓖ§Ⓗ ▁ Ⓔ Paris ▁ aug ▁ ↑ ▁ te ▁ ↓Ⓕ ▁ Ⓚ 282 ▁ Ⓛ Ⓘ jardin ▁ Ⓙ Ⓐ 98 ▁ → ▁ 99p ▁ Ⓑ Ⓒ jardin ▁ → ▁ maison ▁ Ⓓ
+Ⓖ§ ▁ p ▁ à ▁ → ▁ alfortville ▁ Ⓗ Ⓔ Merlin ▁ à ▁ Beauvais ▁ Ⓕ Ⓚ 283 ▁ Ⓛ Ⓘ terre ▁ Ⓙ Ⓐ 97 ▁ → ▁ 100 ▁ partie ▁ Ⓑ Ⓒ terre ▁ → ▁ terre ▁ Ⓓ
+Ⓖ§Ⓗ ▁ Ⓔ Bèquemont ▁ adolphe ▁ Ⓕ Ⓚ 284 ▁ Ⓛ Ⓘ tour ▁ d ▁ ' ▁ échelle ▁ Ⓙ Ⓐ 105 ▁ p ▁ Ⓑ Ⓒ jardin ▁ Ⓓ
+Ⓖ× ▁ le ▁ Bourg ▁ ±Ⓗ ▁ Ⓔ= ▁ & ▁ Baillet ▁ →× ▁ Didier ▁ = ▁ à ▁ charenton ▁ ±Ⓕ ▁ Ⓚ× ▁ 285 ▁ ±Ⓛ ▁ Ⓘ× ▁ jardin ▁ ±Ⓙ ▁ Ⓐ× ▁ 96 ▁ ±Ⓑ ▁ Ⓒ× ▁ jardin ▁ ±Ⓓ
+Ⓖ§Ⓗ ▁ Ⓔ× ▁ Lecouteux ▁ simon ▁ ±Ⓕ ▁ Ⓚ× ▁ 286 ▁ ±Ⓛ ▁ Ⓘ× ▁ terrain ▁ planté ▁ ±Ⓙ ▁ Ⓐ× ▁ 93 ▁ ±Ⓑ ▁ Ⓒ× ▁ pâture ▁ ±Ⓓ
+Ⓖ§Ⓗ ▁ Ⓔ Becquemont ▁ adolphe ▁ →( ▁ Didier ▁ à ▁ charenton ▁ pour ▁ → ▁ droit ▁ de ▁ passage ▁ )Ⓕ ▁ Ⓚ× ▁ 287 ▁ ±Ⓛ ▁ Ⓘ× ▁ pâture ▁ ±Ⓙ ▁ Ⓐ× ▁ 94p ▁ → ▁ 95 ▁ ±Ⓑ ▁ Ⓒ× ▁ pâture ▁ → ▁ fossé ▁ ±Ⓓ
+Ⓖ§Ⓗ ▁ Ⓔ Bèquemont ▁ adolphe ▁ Ⓕ Ⓚ 288 ▁ Ⓛ Ⓘ pâture ▁ plantée ▁ → ▁ de ▁ peupliers ▁ Ⓙ Ⓐ 94 ▁ Ⓑ Ⓒ pâture ▁ Ⓓ
+Ⓖ§Ⓗ ▁ Ⓔ Bèquemont ▁ adolphe ▁ Ⓕ Ⓚ 294 ▁ Ⓛ Ⓘ fossé ▁ Ⓙ Ⓐ 108 ▁ Ⓑ Ⓒ fossé ▁ Ⓓ
+Ⓖ§Ⓗ ▁ Ⓔ Bèquemont ▁ adolphe ▁ Ⓕ Ⓚ 290 ▁ Ⓛ Ⓘ jardin ▁ Ⓙ Ⓐ 107 ▁ Ⓑ Ⓒ jardin ▁ Ⓓ
+Ⓖ§Ⓗ ▁ Ⓔ Bèquemont ▁ adolphe ▁ Ⓕ Ⓚ 291 ▁ Ⓛ Ⓘ pré ▁ Ⓙ Ⓐ 107 ▁ ↑ ▁ bis ▁ ↓→ ▁ 109 ▁ Ⓑ Ⓒ passage ▁ → ▁ friche ▁ Ⓓ
+Ⓖ§Ⓗ ▁ Ⓔ Delaporte ▁ Louis ▁ félix ▁ aug ▁ ↑ ▁ te ▁ ↓Ⓕ ▁ Ⓚ 292 ▁ Ⓛ Ⓘ jardin ▁ Ⓙ Ⓐ 114 ▁ → ▁ 114 ▁ ↑ ▁ bis ▁ ↓→ ▁ 115 ▁ Ⓑ Ⓒ pré ▁ → ▁ friche ▁ → ▁ jardin ▁ Ⓓ
+Ⓖ§Ⓗ ▁ Ⓔ Deterville ▁ Ⓕ Ⓚ 293 ▁ Ⓛ Ⓘ jardin ▁ Ⓙ Ⓐ 113p ▁ Ⓑ Ⓒ jardin ▁ Ⓓ
+Ⓖ grande ▁ Rue ▁ Ⓗ Ⓔ Deterville ▁ Ⓕ Ⓚ 294 ▁ Ⓛ Ⓘ maison ▁ cour ▁ → ▁ et ▁ B ▁ ↑ ▁ te ▁ ↓→ ▁ n ▁ ° ▁ 36 ▁ Ⓙ Ⓐ 112 ▁ Ⓑ Ⓒ ferme ▁ Ⓓ
+Ⓖ Le ▁ thillard ▁ Ⓗ Ⓔ Héricourt ▁ joséphine ▁ Ⓕ Ⓚ 1247 ▁ Ⓛ Ⓘ T ▁ . ▁ et ▁ vigne ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Héricourt ▁ louis ▁ gabriel ▁ Ⓕ Ⓚ 1247 ▁ Ⓛ Ⓘ§Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Martin ▁ jacques ▁ Ⓕ Ⓚ 1247 ▁ Ⓛ Ⓘ§Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Ancelet ▁ dominique ▁ fils ▁ Ⓕ Ⓚ 1248 ▁ Ⓛ Ⓘ t ▁ . ▁ et ▁ vigne ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Barillet ▁ alphonse ▁ léon ▁ Ⓕ Ⓚ 1248 ▁ Ⓛ Ⓘ id ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Héricourt ▁ françois ▁ Nicolas ▁ Ⓕ Ⓚ 1249 ▁ Ⓛ Ⓘ T ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Guillemmiot ▁ Paul ▁ Ⓕ Ⓚ 1250 ▁ Ⓛ Ⓘ T ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Rameau ▁ auguste ▁ eugène ▁ Ⓕ Ⓚ 1250 ▁ Ⓛ Ⓘ T ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Beuzeville ▁ désiré ▁ zéphirin ▁ Ⓕ Ⓚ 1251 ▁ Ⓛ Ⓘ T ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Naudet ▁ Victor ▁ Ⓕ Ⓚ 1252 ▁ Ⓛ Ⓘ T ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Rameau ▁ Jean ▁ françois ▁ Ⓕ Ⓚ 1253 ▁ Ⓛ Ⓘ T ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Misgault ▁ J ▁ ↑ ▁ n ▁ ↓ ▁ B ▁ ↑ ▁ te ▁ ↓ ▁ fils ▁ louis ▁ Ⓕ Ⓚ 1254 ▁ Ⓛ Ⓘ T ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Lameau ▁ Pierre ▁ Joseph ▁ Ⓕ Ⓚ 1255 ▁ Ⓛ Ⓘ T ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ id ▁ Ⓕ Ⓚ 1255 ▁ Ⓛ Ⓘ T ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Lapie ▁ Léon ▁ Louis ▁ Ⓕ Ⓚ 1256 ▁ Ⓛ Ⓘ T ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Rose ▁ louis ▁ alexis ▁ Ⓕ Ⓚ 1257 ▁ Ⓛ Ⓘ T ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Héricourt ▁ Louis ▁ Victor ▁ Ⓕ Ⓚ 1258 ▁ Ⓛ Ⓘ T ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Barillet ▁ Charles ▁ V ▁ ↑ ▁ e ▁ ↓Ⓕ ▁ Ⓚ 1259 ▁ Ⓛ Ⓘ T ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Prévost ▁ V ▁ ↑ ▁ e ▁ ↓ ▁ née ▁ Saussay ▁ Ⓕ Ⓚ 1260 ▁ Ⓛ Ⓘ T ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Léon ▁ J ▁ ↑ ▁ n ▁ ↓ ▁ B ▁ ↑ ▁ te ▁ ↓ ▁ V ▁ ↑ ▁ e ▁ ↓ ▁ née ▁ Rameau ▁ Ⓕ Ⓚ 1261 ▁ Ⓛ Ⓘ T ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Martin ▁ D ▁ ↑ ▁ e ▁ ↓Ⓕ ▁ Ⓚ 1262 ▁ Ⓛ Ⓘ T ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Rameau ▁ louis ▁ Victor ▁ Ⓕ Ⓚ 1263 ▁ Ⓛ Ⓘ vigne ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Misgault ▁ louis ▁ mineur ▁ Ⓕ Ⓚ 1264 ▁ Ⓛ Ⓘ vigne ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Courtois ▁ Louis ▁ g ▁ ↑ ▁ dre ▁ ↓ ▁ Mezard ▁ Ⓕ Ⓚ 1265 ▁ Ⓛ Ⓘ vigne ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ André ▁ alexandre ▁ edouard ▁ Ⓕ Ⓚ 1266 ▁ Ⓛ Ⓘ vigne ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Lalégery ▁ Denis ▁ joseph ▁ Ⓕ Ⓚ 1267 ▁ Ⓛ Ⓘ T ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Lepoutre ▁ Joseph ▁ Ⓕ Ⓚ 1268 ▁ Ⓛ Ⓘ T ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Soudieux ▁ Louis ▁ Joseph ▁ Ⓕ Ⓚ 1268 ▁ Ⓛ Ⓘ T ▁ Ⓙ
+Ⓖ le ▁ petit ▁ jardin ▁ Ⓗ Ⓔ andré ▁ adelaïde ▁ J ▁ ↑ ▁ n ▁ ↓→ ▁ Biquet ▁ × ▁ alexandre ▁ ±Ⓕ ▁ Ⓚ 21 ▁ Ⓛ Ⓘ Terre ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Desloges ▁ noël ▁ f ▁ ↑ ▁ ois ▁ ↓Ⓕ ▁ Ⓚ 22 ▁ Ⓛ Ⓘ Terre ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Clavier ▁ gendre ▁ de ▁ la ▁ V ▁ ↑ ▁ e ▁ ↓ ▁ monesuteau ▁ Ⓕ Ⓚ 23 ▁ Ⓛ Ⓘ Terre ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ moncouteau ▁ germain ▁ jean ▁ Ⓕ Ⓚ 24 ▁ Ⓛ Ⓘ Terre ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ moncouteau ▁ germain ▁ jean ▁ Ⓕ Ⓚ 25 ▁ Ⓛ Ⓘ Terre ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Leroy ▁ louis ▁ nicolas ▁ →× ▁ Leroy ▁ jean ▁ nicolas ▁ fils ▁ ±Ⓕ ▁ Ⓚ 26 ▁ Ⓛ Ⓘ Terre ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Pillet ▁ claude ▁ denis ▁ Ⓕ Ⓚ 27 ▁ Ⓛ Ⓘ Terre ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Leclerc ▁ p ▁ ↑ ▁ re ▁ ↓ ▁ louis ▁ Ⓕ Ⓚ 28 ▁ Ⓛ Ⓘ Terre ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Tournemire ▁ avocat ▁ h ▁ ↑ ▁ ers ▁ ↓Ⓕ ▁ Ⓚ 29 ▁ Ⓛ Ⓘ Terre ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Gallet ▁ jean ▁ tous ▁ ↑ ▁ t ▁ ↓Ⓕ ▁ Ⓚ 30 ▁ Ⓛ Ⓘ→ ▁ Terre ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Bourgoin ▁ p ▁ ↑ ▁ re ▁ ↓Ⓕ ▁ Ⓚ 31 ▁ Ⓛ Ⓘ Terre ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Pepin ▁ J ▁ ↑ ▁ n ▁ ↓ ▁ B ▁ ↑ ▁ te ▁ ↓ ▁ à ▁ Villejuif ▁ →× ▁ Menon ▁ louis ▁ roche ▁ ±Ⓕ ▁ Ⓚ 32 ▁ Ⓛ Ⓘ Terre ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Luisette ▁ henry ▁ V ▁ ↑ ▁ e ▁ ↓Ⓕ ▁ Ⓚ 33 ▁ Ⓛ Ⓘ Terre ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Clavier ▁ françois ▁ Ⓕ Ⓚ 34 ▁ Ⓛ Ⓘ Terre ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Chatenay ▁ J ▁ ↑ ▁ n ▁ ↓ ▁ marie ▁ abel ▁ Ⓕ Ⓚ 35 ▁ Ⓛ Ⓘ Terre ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Cally ▁ V ▁ ↑ ▁ e ▁ ↓ ▁ a ▁ ivry ▁ →× ▁ fretté ▁ guillaume ▁ tell ▁ ±Ⓕ ▁ Ⓚ 36 ▁ Ⓛ Ⓘ Terre ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Labouraux ▁ martin ▁ Ⓕ Ⓚ 37 ▁ Ⓛ Ⓘ Terre ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Luisette ▁ henry ▁ V ▁ ↑ ▁ e ▁ ↓Ⓕ ▁ Ⓚ 38 ▁ Ⓛ Ⓘ Terre ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Luisette ▁ henry ▁ V ▁ ↑ ▁ e ▁ ↓→ ▁ amiot ▁ louis ▁ alexandre ▁ Ⓕ Ⓚ 39 ▁ Ⓛ Ⓘ Terre ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Moncouteau ▁ jean ▁ maris ▁ Ⓕ Ⓚ 40 ▁ Ⓛ Ⓘ Terre ▁ Ⓙ
+Ⓖ fauconneres ▁ Ⓗ Ⓔ Leroy ▁ , ▁ fils ▁ de ▁ Clement ▁ Ⓕ Ⓚ 57 ▁ Ⓛ Ⓘ T ▁ Ⓙ Ⓐ P ▁ 286 ▁ Ⓑ Ⓒ T ▁ Ⓓ
+Ⓖ Ø ▁ Ⓗ Ⓔ Haingnerelle ▁ Ⓕ Ⓚ 58 ▁ Ⓛ Ⓘ T ▁ Ⓙ Ⓐ 285 ▁ Ⓑ Ⓒ T ▁ Ⓓ
+Ⓖ Ø ▁ Ⓗ Ⓔ Montebelle ▁ la ▁ Duchesse ▁ Ⓕ Ⓚ 59 ▁ Ⓛ Ⓘ T ▁ Ⓙ Ⓐ 284 ▁ Ⓑ Ⓒ T ▁ Ⓓ
+Ⓖ Ø ▁ Ⓗ Ⓔ Leroy ▁ Louis ▁ Ⓕ Ⓚ 60 ▁ Ⓛ Ⓘ T ▁ Ⓙ Ⓐ 283 ▁ Ⓑ Ⓒ T ▁ Ⓓ
+Ⓖ Ø ▁ Ⓗ Ⓔ Noblet ▁ , ▁ N ▁ ↑ ▁ as ▁ ↓ ▁ Veuve ▁ Ⓕ Ⓚ 61 ▁ Ⓛ Ⓘ T ▁ Ⓙ Ⓐ 282 ▁ Ⓑ Ⓒ T ▁ Ⓓ
+Ⓖ Ø ▁ Ⓗ Ⓔ Montebello ▁ la ▁ Duchesse ▁ Ⓕ Ⓚ 62 ▁ Ⓛ Ⓘ T ▁ Ⓙ Ⓐ 281 ▁ Ⓑ Ⓒ T ▁ Ⓓ
+Ⓖ Ø ▁ Ⓗ Ⓔ Leroy ▁ Germain ▁ Louis ▁ Ⓕ Ⓚ 63 ▁ Ⓛ Ⓘ T ▁ Ⓙ Ⓐ 280 ▁ Ⓑ Ⓒ T ▁ Ⓓ
+Ⓖ Ø ▁ Ⓗ Ⓔ Bourdillat ▁ , ▁ J ▁ ↑ ▁ n ▁ ↓ ▁ F ▁ ↑ ▁ ois ▁ ↓Ⓕ ▁ Ⓚ 64 ▁ Ⓛ Ⓘ T ▁ Ⓙ Ⓐ 269 ▁ ↑ ▁ bis ▁ ↓Ⓑ ▁ Ⓒ T ▁ Ⓓ
+Ⓖ Ø ▁ Ⓗ Ⓔ Perdrier ▁ , ▁ vincent ▁ Pascal ▁ Ⓕ Ⓚ 65 ▁ Ⓛ Ⓘ T ▁ Ⓙ Ⓐ 269 ▁ Ⓑ Ⓒ T ▁ Ⓓ
+Ⓖ Ø ▁ Ⓗ Ⓔ Perrin ▁ , ▁ Constant ▁ Ⓕ Ⓚ 66 ▁ Ⓛ Ⓘ T ▁ Ⓙ Ⓐ 268 ▁ Ⓑ Ⓒ T ▁ Ⓓ
+Ⓖ Ø ▁ Ⓗ Ⓔ Jolly ▁ , ▁ Jean ▁ Marie ▁ Ⓕ Ⓚ 67 ▁ Ⓛ Ⓘ T ▁ Ⓙ Ⓐ 267 ▁ Ⓑ Ⓒ T ▁ Ⓓ
+Ⓖ Ø ▁ Ⓗ Ⓔ Gallet ▁ , ▁ Jean ▁ F ▁ ↑ ▁ ois ▁ ↓Ⓕ ▁ Ⓚ 68 ▁ Ⓛ Ⓘ T ▁ Ⓙ Ⓐ 266 ▁ Ⓑ Ⓒ T ▁ Ⓓ
+Ⓖ Ø ▁ Ⓗ Ⓔ Faure ▁ , ▁ le ▁ Comte ▁ Ⓕ Ⓚ 69 ▁ Ⓛ Ⓘ T ▁ Ⓙ Ⓐ 264 ▁ Ⓑ Ⓒ T ▁ Ⓓ
+Ⓖ Ø ▁ Ⓗ Ⓔ Jolly ▁ , ▁ Jean ▁ Marie ▁ Ⓕ Ⓚ 70 ▁ Ⓛ Ⓘ T ▁ Ⓙ Ⓐ 263 ▁ Ⓑ Ⓒ T ▁ Ⓓ
+Ⓖ Port ▁ à ▁ l ▁ ' ▁ anglais ▁ Ⓗ Ⓔ Charte ▁ Etienne ▁ Ⓕ Ⓚ 95 ▁ Ⓛ Ⓘ terre ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Châtre ▁ pierre ▁ Ⓕ Ⓚ§Ⓛ ▁ Ⓘ§Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Chery ▁ lucie ▁ et ▁ Aline ▁ Ⓕ Ⓚ§Ⓛ ▁ Ⓘ§Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Chevillotte ▁ come ▁ Ⓕ Ⓚ§Ⓛ ▁ Ⓘ§Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ chichérit ▁ françois ▁ auguste ▁ Ⓕ Ⓚ§Ⓛ ▁ Ⓘ§Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ chicot ▁ alfred ▁ clément ▁ Ⓕ Ⓚ§Ⓛ ▁ Ⓘ§Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ chomette ▁ veuve ▁ Ⓕ Ⓚ§Ⓛ ▁ Ⓘ§Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ id ▁ Ⓕ Ⓚ§Ⓛ ▁ Ⓘ§Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Colin ▁ hippolyte ▁ Ⓕ Ⓚ§Ⓛ ▁ Ⓘ§Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Collin ▁ charles ▁ hyppolite ▁ Ⓕ Ⓚ§Ⓛ ▁ Ⓘ§Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ id ▁ Ⓕ Ⓚ§Ⓛ ▁ Ⓘ§Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Collin ▁ Jean ▁ B ▁ ↑ ▁ te ▁ ↓Ⓕ ▁ Ⓚ§Ⓛ ▁ Ⓘ§Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Combe ▁ Jean ▁ Louis ▁ Ⓕ Ⓚ§Ⓛ ▁ Ⓘ§Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ C ▁ ↑ ▁ ie ▁ ↓ ▁ parisienne ▁ du ▁ gaz ▁ Ⓕ Ⓚ§Ⓛ ▁ Ⓘ§Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Convers ▁ edme ▁ ernest ▁ Ⓕ Ⓚ§Ⓛ ▁ Ⓘ§Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Coquette ▁ léon ▁ et ▁ Coquette ▁ Louis ▁ → ▁ alfred ▁ Ⓕ Ⓚ§Ⓛ ▁ Ⓘ§Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Corbes ▁ alfred ▁ eugène ▁ Ⓕ Ⓚ§Ⓛ ▁ Ⓘ§Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Coste ▁ pierre ▁ Ⓕ Ⓚ§Ⓛ ▁ Ⓘ§Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Coste ▁ veuve ▁ née ▁ Géant ▁ sophie ▁ Ⓕ Ⓚ§Ⓛ ▁ Ⓘ§Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Cousin ▁ Ⓕ Ⓚ§Ⓛ ▁ Ⓘ§Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Cousin ▁ juliette ▁ angélina ▁ Ⓕ Ⓚ§Ⓛ ▁ Ⓘ§Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Crespy ▁ Jean ▁ Jacques ▁ Ⓕ Ⓚ§Ⓛ ▁ Ⓘ§Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Crispin ▁ désiré ▁ augustin ▁ Ⓕ Ⓚ§Ⓛ ▁ Ⓘ§Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Cuignet ▁ Elie ▁ Constant ▁ Ⓕ Ⓚ§Ⓛ ▁ Ⓘ§Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Cuvellier ▁ louis ▁ aloise ▁ veuve ▁ Ⓕ Ⓚ§Ⓛ ▁ Ⓘ§Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Damourette ▁ françois ▁ auguste ▁ Ⓕ Ⓚ§Ⓛ ▁ Ⓘ§Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Decamp ▁ marie ▁ alois ▁ Ⓕ Ⓚ§Ⓛ ▁ Ⓘ§Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ id ▁ Ⓕ Ⓚ§Ⓛ ▁ Ⓘ§Ⓙ
+Ⓜ 321 ▁ Ⓝ Ⓔ Visse ▁ germain ▁ Ⓕ Ⓚ 2056 ▁ Ⓛ Ⓘ Terre ▁ Ⓙ
+Ⓜ 89 ▁ Ⓝ Ⓔ Desnyau ▁ michel ▁ Ⓕ Ⓚ 2057 ▁ Ⓛ Ⓘ Je ▁ vig ▁ Ⓙ
+Ⓜ 89 ▁ Ⓝ Ⓔ Idem ▁ Ⓕ Ⓚ 2058 ▁ Ⓛ Ⓘ Terre ▁ Ⓙ
+Ⓜ 91 ▁ Ⓝ Ⓔ Desnyau ▁ F ▁ ↑ ▁ re ▁ ↓ ▁ Louis ▁ Ⓕ Ⓚ 2059 ▁ Ⓛ Ⓘ id ▁ Ⓙ
+Ⓜ 93 ▁ Ⓝ Ⓔ Desnyau ▁ Et ▁ ↑ ▁ e ▁ ↓ ▁ f ▁ ↑ ▁ ois ▁ ↓Ⓕ ▁ Ⓚ 2060 ▁ Ⓛ Ⓘ id ▁ Ⓙ
+Ⓜ 310 ▁ Ⓝ Ⓔ Soudieux ▁ Ch ▁ ↑ ▁ es ▁ ↓ ▁ Louis ▁ Ⓕ Ⓚ 2061 ▁ Ⓛ Ⓘ id ▁ Ⓙ
+Ⓜ 102 ▁ Ⓝ Ⓔ Desnyau ▁ L ▁ ↑ ▁ s ▁ ↓ ▁ Laurent ▁ Ⓕ Ⓚ 2062 ▁ Ⓛ Ⓘ id ▁ Ⓙ
+Ⓜ 150 ▁ Ⓝ Ⓔ Guillemain ▁ henry ▁ h ▁ ↑ ▁ s ▁ ↓Ⓕ ▁ Ⓚ 1063 ▁ Ⓛ Ⓘ id ▁ Ⓙ
+Ⓜ 280 ▁ Ⓝ Ⓔ queru ▁ C ▁ ↑ ▁ de ▁ ↓ ▁ Vincent ▁ Ⓕ Ⓚ 2064 ▁ Ⓛ Ⓘ id ▁ Ⓙ
+Ⓖ les ▁ Cressetes ▁ Ⓗ Ⓜ 214 ▁ Ⓝ Ⓔ Mentienne ▁ Aubin ▁ Ⓕ Ⓚ 2065 ▁ Ⓛ Ⓘ Id ▁ Ⓙ
+Ⓜ 41 ▁ Ⓝ Ⓔ Boisseau ▁ p ▁ ↑ ▁ re ▁ ↓ ▁ Etienne ▁ Ⓕ Ⓚ 2066 ▁ Ⓛ Ⓘ Vigne ▁ Ⓙ
+Ⓜ 103 ▁ Ⓝ Ⓔ Desnyau ▁ P ▁ ↑ ▁ re ▁ ↓ ▁ andré ▁ Ⓕ Ⓚ 2067 ▁ Ⓛ Ⓘ Terre ▁ Ⓙ
+Ⓜ 29 ▁ Ⓝ Ⓔ Benoist ▁ P ▁ ↑ ▁ re ▁ ↓ ▁ michel ▁ le ▁ Je ▁ Ⓕ Ⓚ 2068 ▁ Ⓛ Ⓘ id ▁ Ⓙ
+Ⓜ 56 ▁ Ⓝ Ⓔ Boursaut ▁ J ▁ ↑ ▁ n ▁ ↓ ▁ C ▁ ↑ ▁ de ▁ ↓Ⓕ ▁ Ⓚ 2069 ▁ Ⓛ Ⓘ id ▁ Ⓙ
+Ⓜ× ▁ 98 ▁ ±→ ▁ 94 ▁ ↑ ▁ bis ▁ ↓Ⓝ ▁ Ⓔ DEsnyau ▁ × ▁ J ▁ ↑ ▁ n ▁ ↓ ▁ antoine ▁ ± ▁ marie ▁ denise ▁ Ⓕ Ⓚ 2070 ▁ Ⓛ Ⓘ id ▁ Ⓙ
+Ⓜ 304 ▁ Ⓝ Ⓔ Sellier ▁ J ▁ ↑ ▁ ques ▁ ↓ ▁ georges ▁ Ⓕ Ⓚ 2071 ▁ Ⓛ Ⓘ id ▁ Ⓙ
+Ⓜ 189 ▁ Ⓝ Ⓔ× ▁ Livernois ▁ Etienne ▁ ± ▁ Livernet ▁ → ▁ Joseph ▁ achile ▁ Ⓕ Ⓚ 2072 ▁ Ⓛ Ⓘ id ▁ Ⓙ
+Ⓜ× ▁ 87 ▁ ±→ ▁ 191 ▁ ↑ ▁ bis ▁ ↓Ⓝ ▁ Ⓔ× ▁ Delauge ▁ Louis ▁ ± ▁ Ciseau ▁ p ▁ ↑ ▁ re ▁ ↓Ⓕ ▁ Ⓚ 2073 ▁ Ⓛ Ⓘ Bois ▁ Ⓙ
+Ⓜ 166 ▁ Ⓝ Ⓔ Lamarre ▁ Ⓕ Ⓚ 2074 ▁ Ⓛ Ⓘ Terre ▁ Ⓙ
+Ⓜ 166 ▁ Ⓝ Ⓔ Idem ▁ Ⓕ Ⓚ 2075 ▁ Ⓛ Ⓘ Idem ▁ Ⓙ
+Ⓖ les ▁ frettes ▁ Ⓗ Ⓔ Gallais ▁ Joseph ▁ Ⓕ Ⓚ 757 ▁ Ⓛ Ⓘ Terre ▁ Ⓙ Ⓐ 1618 ▁ Ⓑ Ⓒ T ▁ Ⓓ
+Ⓖ§Ⓗ ▁ Ⓔ Beurrier ▁ pierre ▁ honoré ▁ Ⓕ Ⓚ 758 ▁ Ⓛ Ⓘ vigne ▁ Ⓙ Ⓐ 1620 ▁ → ▁ 1621 ▁ → ▁ 1622 ▁ Ⓑ Ⓒ T ▁ → ▁ V ▁ Ⓓ
+Ⓖ§Ⓗ ▁ Ⓔ Brice ▁ j ▁ ↑ ▁ h ▁ ↓ ▁ marie ▁ Ⓕ Ⓚ 759 ▁ Ⓛ Ⓘ V ▁ .Ⓙ ▁ Ⓐ 1623 ▁ Ⓑ Ⓒ V ▁ Ⓓ
+Ⓖ§Ⓗ ▁ Ⓔ Nicolas ▁ j ▁ ↑ ▁ n ▁ ↓ ▁ philippe ▁ Ⓕ Ⓚ 760 ▁ Ⓛ Ⓘ T ▁ Ⓙ Ⓐ 1626 ▁ Ⓑ Ⓒ T ▁ Ⓓ
+Ⓖ§Ⓗ ▁ Ⓔ Picard ▁ georges ▁ Ⓕ Ⓚ 761 ▁ Ⓛ Ⓘ V ▁ Ⓙ Ⓐ 1625 ▁ Ⓑ Ⓒ V ▁ Ⓓ
+Ⓖ§Ⓗ ▁ Ⓔ Beurrier ▁ p ▁ ↑ ▁ re ▁ ↓ ▁ honoré ▁ Ⓕ Ⓚ 762 ▁ Ⓛ Ⓘ V ▁ .Ⓙ ▁ Ⓐ 1633 ▁ → ▁ 1334 ▁ Ⓑ Ⓒ T ▁ → ▁ V ▁ Ⓓ
+Ⓖ§Ⓗ ▁ Ⓔ Deu ▁ j ▁ ↑ ▁ n ▁ ↓ ▁ B ▁ ↑ ▁ te ▁ ↓ ▁ gendre ▁ mauciut ▁ Ⓕ Ⓚ 763 ▁ Ⓛ Ⓘ T ▁ Ⓙ Ⓐ 1635 ▁ → ▁ 1636 ▁ Ⓑ Ⓒ V ▁ → ▁ T ▁ Ⓓ
+Ⓖ§Ⓗ ▁ Ⓔ Guenot ▁ jacques ▁ Ⓕ Ⓚ 764 ▁ Ⓛ Ⓘ T ▁ Ⓙ Ⓐ 1637 ▁ Ⓑ Ⓒ V ▁ Ⓓ
+Ⓖ§Ⓗ ▁ Ⓔ Chenevas ▁ Louis ▁ Fructidor ▁ Ⓕ Ⓚ 765 ▁ Ⓛ Ⓘ vigne ▁ Ⓙ Ⓐ 1642 ▁ Ⓑ Ⓒ V ▁ Ⓓ
+Ⓖ§Ⓗ ▁ Ⓔ Chanterelle ▁ Nicolas ▁ Ⓕ Ⓚ 766 ▁ Ⓛ Ⓘ T ▁ Ⓙ Ⓐ p ▁ . ▁ 1643 ▁ Ⓑ Ⓒ T ▁ . ▁ pl ▁ .Ⓓ
+Ⓖ§Ⓗ ▁ Ⓔ huart ▁ joseph ▁ Ⓕ Ⓚ 767 ▁ Ⓛ Ⓘ T ▁ Ⓙ Ⓐ p ▁ . ▁ 1643 ▁ Ⓑ Ⓒ Ø ▁ Ⓓ
+Ⓖ§Ⓗ ▁ Ⓔ Mozeau ▁ ant ▁ ↑ ▁ ne ▁ ↓ ▁ Louis ▁ Ⓕ Ⓚ 768 ▁ Ⓛ Ⓘ T ▁ Ⓙ Ⓐ 1647 ▁ Ⓑ Ⓒ V ▁ Ⓓ
+Ⓖ§Ⓗ ▁ Ⓔ Betancourt ▁ antoine ▁ Ⓕ Ⓚ 769 ▁ Ⓛ Ⓘ T ▁ Ⓙ Ⓐ 1644 ▁ Ⓑ Ⓒ V ▁ Ⓓ
+Ⓖ§Ⓗ ▁ Ⓔ Chanevas ▁ victor ▁ ch ▁ ↑ ▁ es ▁ ↓Ⓕ ▁ Ⓚ 770 ▁ Ⓛ Ⓘ× ▁ T ▁ ±→ ▁ vigne ▁ Ⓙ Ⓐ 1645 ▁ → ▁ 1646 ▁ Ⓑ Ⓒ V ▁ Ⓓ
+Ⓖ grande ▁ rue ▁ →Ⓗ ▁ Ⓔ Saint ▁ Laurent ▁ ( ▁ baron ▁ de ▁ )Ⓕ ▁ Ⓚ 41 ▁ Ⓛ Ⓘ jardin ▁ p ▁ .Ⓙ
+Ⓖ de ▁ st ▁ - ▁ mandé ▁ Ⓗ Ⓔ idem ▁ Ⓕ Ⓚ 42 ▁ Ⓛ Ⓘ jardin ▁ p ▁ .Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ idem ▁ Ⓕ Ⓚ 43 ▁ Ⓛ Ⓘ jardin ▁ p ▁ .Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ idem ▁ Ⓕ Ⓚ 44 ▁ Ⓛ Ⓘ sol ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ idem ▁ Ⓕ Ⓚ 44 ▁ Ⓛ Ⓘ maison ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ idem ▁ Ⓕ Ⓚ 45 ▁ Ⓛ Ⓘ sol ▁ et ▁ coure ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ idem ▁ Ⓕ Ⓚ 45 ▁ Ⓛ Ⓘ m ▁ ↑ ▁ on ▁ ↓ ▁ et ▁ b ▁ ↑ ▁ t ▁ ↓Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ idem ▁ Ⓕ Ⓚ 46 ▁ Ⓛ Ⓘ jardin ▁ d ▁ ' ▁ agt ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ idem ▁ Ⓕ Ⓚ 47 ▁ Ⓛ Ⓘ sol ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ idem ▁ Ⓕ Ⓚ 47 ▁ Ⓛ Ⓘ maison ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ id ▁ Ⓕ Ⓚ 47 ▁ ↑ ▁ bis ▁ ↓Ⓛ ▁ Ⓘ pavillon ▁ Ⓙ
+Ⓖ avenue ▁ du ▁ → ▁ bel ▁ air ▁ Ⓗ Ⓔ Saint ▁ Mandé ▁ ( ▁ commune ▁ de ▁ )Ⓕ ▁ Ⓚ 48 ▁ Ⓛ Ⓘ jardin ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ idem ▁ Ⓕ Ⓚ 49 ▁ Ⓛ Ⓘ sol ▁ et ▁ cour ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ idem ▁ Ⓕ Ⓚ 49 ▁ Ⓛ Ⓘ mairie ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ idem ▁ Ⓕ Ⓚ 50 ▁ Ⓛ Ⓘ Jardin ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ idem ▁ Ⓕ Ⓚ 51 ▁ Ⓛ Ⓘ jardin ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ idem ▁ Ⓕ Ⓚ 52 ▁ Ⓛ Ⓘ jardin ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ idem ▁ Ⓕ Ⓚ 53 ▁ Ⓛ Ⓘ Jardin ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ L ▁ ' ▁ Etat ▁ Ⓕ Ⓚ 54 ▁ Ⓛ Ⓘ sol ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ idem ▁ Ⓕ Ⓚ 54 ▁ Ⓛ Ⓘ maison ▁ de ▁ → ▁ garde ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ idem ▁ Ⓕ Ⓚ 55 ▁ Ⓛ Ⓘ sol ▁ Ⓙ
+Ⓖ Les ▁ Pierys ▁ Ⓗ Ⓔ Mouscadet ▁ pierre ▁ louis ▁ Ⓕ Ⓚ 1378 ▁ Ⓛ Ⓘ vigne ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Rameau ▁ helvetuis ▁ françois ▁ Ⓕ Ⓚ 1379 ▁ Ⓛ Ⓘ vigne ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Coiffier ▁ charles ▁ armand ▁ Ⓕ Ⓚ 1380 ▁ Ⓛ Ⓘ T ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ C ▁ ↑ ▁ ie ▁ ↓ ▁ des ▁ ch ▁ ↑ ▁ ins ▁ ↓ ▁ de ▁ fer ▁ de ▁ l ▁ ' ▁ est ▁ Ⓕ Ⓚ 1380 ▁ Ⓛ Ⓘ T ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ id ▁ Ⓕ Ⓚ 1380 ▁ Ⓛ Ⓘ T ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ voie ▁ publique ▁ Ⓕ Ⓚ 1380 ▁ Ⓛ Ⓘ T ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ C ▁ ↑ ▁ ie ▁ ↓ ▁ des ▁ chemins ▁ de ▁ fer ▁ de ▁ l ▁ ' ▁ Est ▁ Ⓕ Ⓚ 1381 ▁ Ⓛ Ⓘ vigne ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Meyer ▁ philippe ▁ Ⓕ Ⓚ 1381 ▁ Ⓛ Ⓘ§Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ id ▁ Ⓕ Ⓚ 1381 ▁ Ⓛ Ⓘ§Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ voie ▁ publique ▁ Ⓕ Ⓚ 1381 ▁ Ⓛ Ⓘ§Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Baudier ▁ louis ▁ auguste ▁ Ⓕ Ⓚ 1382 ▁ Ⓛ Ⓘ T ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Lapie ▁ Léon ▁ louis ▁ Ⓕ Ⓚ 1383 ▁ Ⓛ Ⓘ T ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Soudieux ▁ charles ▁ louis ▁ Ⓕ Ⓚ 1384 ▁ Ⓛ Ⓘ T ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Coiffier ▁ Pierre ▁ Louis ▁ Ⓕ Ⓚ 1385 ▁ Ⓛ Ⓘ T ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ C ▁ ↑ ▁ ie ▁ ↓ ▁ Ch ▁ ↑ ▁ ins ▁ ↓ ▁ de ▁ fer ▁ de ▁ l ▁ ' ▁ est ▁ Ⓕ Ⓚ 1386 ▁ Ⓛ Ⓘ vigne ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Lalegéry ▁ Emmanuel ▁ désiré ▁ Ⓕ Ⓚ 1386 ▁ Ⓛ Ⓘ§Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ voie ▁ publique ▁ Ⓕ Ⓚ 1386 ▁ Ⓛ Ⓘ§Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Coiffier ▁ Pierre ▁ Louis ▁ Ⓕ Ⓚ 1387 ▁ Ⓛ Ⓘ vigne ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ C ▁ ↑ ▁ ie ▁ ↓ ▁ des ▁ ch ▁ ↑ ▁ ins ▁ ↓ ▁ de ▁ fer ▁ de ▁ l ▁ ' ▁ Est ▁ Ⓕ Ⓚ 1387 ▁ Ⓛ Ⓘ§Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ voie ▁ publique ▁ Ⓕ Ⓚ 1387 ▁ Ⓛ Ⓘ§Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Foucault ▁ Pierre ▁ Louis ▁ alphonse ▁ Ⓕ Ⓚ 1388 ▁ Ⓛ Ⓘ T ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ id ▁ Ⓕ Ⓚ 1389 ▁ Ⓛ Ⓘ T ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Bataille ▁ louise ▁ Eugénie ▁ Joséphine ▁ Ⓕ Ⓚ 1390 ▁ Ⓛ Ⓘ T ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ C ▁ ↑ ▁ ie ▁ ↓ ▁ des ▁ chemins ▁ de ▁ fer ▁ de ▁ l ▁ ' ▁ est ▁ Ⓕ Ⓚ 1390 ▁ Ⓛ Ⓘ T ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ voie ▁ publique ▁ Ⓕ Ⓚ 1390 ▁ Ⓛ Ⓘ T ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Beuzeville ▁ Jean ▁ louis ▁ Ⓕ Ⓚ 1391 ▁ Ⓛ Ⓘ vigne ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ C ▁ ↑ ▁ ie ▁ ↓ ▁ des ▁ chemins ▁ de ▁ fer ▁ de ▁ l ▁ ' ▁ Est ▁ Ⓕ Ⓚ 1391 ▁ Ⓛ Ⓘ§Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ voie ▁ publique ▁ Ⓕ Ⓚ 1391 ▁ Ⓛ Ⓘ§Ⓙ
+Ⓖ Rue ▁ du ▁ vieux ▁ Chemin ▁ → ▁ de ▁ charenton ▁ Ⓗ Ⓔ Mangon ▁ marie ▁ marc ▁ , ▁ rue ▁ → ▁ du ▁ chemin ▁ vert ▁ Ⓕ Ⓚ 649 ▁ Ⓛ Ⓘ Jardin ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Boulmier ▁ honoré ▁ , ▁ rue ▁ du ▁ vieux ▁ → ▁ chemin ▁ de ▁ charenton ▁ Ⓕ Ⓚ 650 ▁ Ⓛ Ⓘ sol ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Boulmier ▁ françois ▁ id ▁ Ⓕ Ⓚ 650 ▁ Ⓛ Ⓐ maison ▁ Ⓑ
+Ⓖ§Ⓗ ▁ Ⓔ Boulmier ▁ françois ▁ id ▁ Ⓕ Ⓚ 651 ▁ Ⓛ Ⓘ Jardin ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Prunios ▁ Jean ▁ , ▁ gendre ▁ moreau ▁ → ▁ rue ▁ du ▁ chemin ▁ vert ▁ Ⓕ Ⓚ 652 ▁ Ⓛ Ⓘ Jardin ▁ Ⓙ
+Ⓖ Rue ▁ du ▁ Chemin ▁ vert ▁ Ⓗ Ⓔ Prunios ▁ Jean ▁ , ▁ gendre ▁ moreau ▁ → ▁ id ▁ Ⓕ Ⓚ 653 ▁ Ⓛ Ⓘ sol ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Prunios ▁ Jean ▁ , ▁ gendre ▁ moreau ▁ → ▁ id ▁ Ⓕ Ⓚ 653 ▁ Ⓛ Ⓘ maison ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Royer ▁ Jean ▁ louis ▁ mathieu ▁ rue ▁ → ▁ du ▁ vieux ▁ Ch ▁ ↑ ▁ min ▁ ↓ ▁ de ▁ charenton ▁ Ⓕ Ⓚ 654 ▁ Ⓛ Ⓘ Jardin ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Royer ▁ Jean ▁ louis ▁ mathieu ▁ id ▁ Ⓕ Ⓚ 655 ▁ Ⓛ Ⓘ Terre ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ de ▁ Nicolaï ▁ Le ▁ marquis ▁ Ⓕ Ⓚ 655 ▁ ↑ ▁ bis ▁ ↓Ⓛ ▁ Ⓘ contre ▁ - ▁ allée ▁ Ⓙ
+Ⓖ allée ▁ des ▁ noyers ▁ Ⓗ Ⓔ de ▁ Nicolaï ▁ id ▁ Ⓕ Ⓚ 656 ▁ Ⓛ Ⓘ Terre ▁ plantée ▁ Ⓙ
+Ⓖ Route ▁ de ▁ charenton ▁ Ⓗ Ⓔ de ▁ Nicolaï ▁ id ▁ Ⓕ Ⓚ 657 ▁ Ⓛ Ⓘ Terre ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Contour ▁ Gabriel ▁ le ▁ jeune ▁ , ▁ à ▁ → ▁ francvilliers ▁ Ⓕ Ⓚ 658 ▁ Ⓛ Ⓘ Jardin ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Contour ▁ Gabriel ▁ le ▁ jeune ▁ id ▁ Ⓕ Ⓚ 659 ▁ Ⓛ Ⓘ jard ▁ . ▁ d ▁ ' ▁ agremnt ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Contour ▁ Gabriel ▁ le ▁ jeune ▁ id ▁ Ⓕ Ⓚ 660 ▁ Ⓛ Ⓘ sol ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Fleury ▁ pierre ▁ , ▁ traiteur ▁ , ▁ route ▁ → ▁ de ▁ charenton ▁ Ⓕ Ⓚ 660 ▁ Ⓛ Ⓘ maison ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Contour ▁ Gabriel ▁ le ▁ jeune ▁ , ▁ à ▁ → ▁ francvilliers ▁ Ⓕ Ⓚ 661 ▁ Ⓛ Ⓘ sol ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Marchand ▁ Jean ▁ Charles ▁ → ▁ cabaretier ▁ route ▁ de ▁ charenton ▁ Ⓕ Ⓚ 661 ▁ Ⓛ Ⓘ maison ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Contour ▁ Gabriel ▁ jeune ▁ Ⓕ Ⓚ 662 ▁ Ⓛ Ⓘ sol ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Gaudin ▁ - ▁ Desseval ▁ Jean ▁ → ▁ Germain ▁ , ▁ route ▁ de ▁ charenton ▁ Ⓕ Ⓚ 662 ▁ Ⓛ Ⓘ maison ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Royer ▁ Jean ▁ louis ▁ , ▁ route ▁ de ▁ → ▁ charenton ▁ Ⓕ Ⓚ 664 ▁ Ⓛ Ⓘ sol ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Royer ▁ Jean ▁ louis ▁ marc ▁ id ▁ Ⓕ Ⓚ 664 ▁ Ⓛ Ⓘ bâtiment ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Royer ▁ Jean ▁ louis ▁ marc ▁ id ▁ Ⓕ Ⓚ 665 ▁ Ⓛ Ⓘ sol ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Gitard ▁ Veuve ▁ , ▁ rue ▁ des ▁ charbonniers ▁ → ▁ à ▁ Paris ▁ Ⓕ Ⓚ 665 ▁ Ⓛ Ⓘ maison ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Royer ▁ Jean ▁ louis ▁ marc ▁ , ▁ route ▁ → ▁ de ▁ charenton ▁ Ⓕ Ⓚ 666 ▁ Ⓛ Ⓘ Jard ▁ d ▁ ' ▁ agt ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Royer ▁ Jean ▁ louis ▁ marc ▁ id ▁ Ⓕ Ⓚ 667 ▁ Ⓛ Ⓘ sol ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Royer ▁ Jean ▁ louis ▁ marc ▁ id ▁ Ⓕ Ⓚ 667 ▁ Ⓛ Ⓘ maison ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Royer ▁ Jean ▁ louis ▁ marc ▁ id ▁ Ⓕ Ⓚ 668 ▁ Ⓛ Ⓘ sol ▁ Ⓙ
+Ⓖ La ▁ petite ▁ jardine ▁ Ⓗ Ⓔ Colombier ▁ jean ▁ germain ▁ Ⓕ Ⓚ 80 ▁ Ⓛ Ⓘ Terre ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Colombier ▁ jean ▁ germain ▁ Ⓕ Ⓚ 81 ▁ Ⓛ Ⓘ Terre ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Defresne ▁ J ▁ ↑ ▁ n ▁ ↓ ▁ J ▁ ↑ ▁ ques ▁ ↓ ▁ louis ▁ Ⓕ Ⓚ 82 ▁ Ⓛ Ⓘ Terre ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Bouquet ▁ Cousin ▁ Ⓕ Ⓚ 83 ▁ Ⓛ Ⓘ Terre ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Leprince ▁ a ▁ Vitry ▁ →× ▁ Barre ▁ J ▁ ↑ ▁ n ▁ ↓ ▁ louis ▁ david ▁ maurice ▁ ±Ⓕ ▁ Ⓚ 84 ▁ Ⓛ Ⓘ Terre ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Sergent ▁ louis ▁ marie ▁ victor ▁ Ⓕ Ⓚ 85 ▁ Ⓛ Ⓘ× ▁ Plantation ▁ ±→ ▁ pépinière ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ sergent ▁ louis ▁ marie ▁ victor ▁ Ⓕ Ⓚ 86 ▁ Ⓛ Ⓘ Terre ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Bourdillat ▁ Jean ▁ Ⓕ Ⓚ 87 ▁ Ⓛ Ⓘ Terre ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Sergent ▁ marie ▁ denis ▁ alphonse ▁ Ⓕ Ⓚ 88 ▁ Ⓛ Ⓘ Terre ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ sergent ▁ marie ▁ denis ▁ alphonse ▁ Ⓕ Ⓚ 89 ▁ Ⓛ Ⓘ× ▁ Plantation ▁ ±→ ▁ pepinière ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ sergent ▁ marie ▁ denis ▁ alphonse ▁ Ⓕ Ⓚ 90 ▁ Ⓛ Ⓘ Terre ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ sergent ▁ marie ▁ denis ▁ alphonse ▁ Ⓕ Ⓚ 91 ▁ Ⓛ Ⓘ Terre ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ sergent ▁ marie ▁ denis ▁ alphonse ▁ Ⓕ Ⓚ 92 ▁ Ⓛ Ⓘ× ▁ Plantation ▁ ±→ ▁ pépinière ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ sergent ▁ marie ▁ denis ▁ alphonse ▁ Ⓕ Ⓚ 93 ▁ Ⓛ Ⓘ Terre ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ J ▁ ↑ ▁ n ▁ ↓ ▁ J ▁ ↑ ▁ ques ▁ ↓ ▁ denis ▁ → ▁ Godefroy ▁ × ▁ denis ▁ ch ▁ ↑ ▁ re ▁ ↓±Ⓕ ▁ Ⓚ 94 ▁ Ⓛ Ⓘ Terre ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Massuet ▁ louis ▁ gaspard ▁ Ⓕ Ⓚ 95 ▁ Ⓛ Ⓘ Terre ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ adam ▁ J ▁ ↑ ▁ n ▁ ↓ ▁ sulpice ▁ les ▁ h ▁ ↑ ▁ ers ▁ ↓→× ▁ fleury ▁ jean ▁ f ▁ ↑ ▁ ois ▁ ↓Ⓕ ▁ Ⓚ 96 ▁ Ⓛ Ⓘ Terre ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Praguet ▁ germain ▁ mathurin ▁ Ⓕ Ⓚ 97 ▁ Ⓛ Ⓘ Terre ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Vaudoyer ▁ honoré ▁ louis ▁ Ⓕ Ⓚ 98 ▁ Ⓛ Ⓘ Terre ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Gabillot ▁ claude ▁ lambert ▁ Ⓕ Ⓚ 99 ▁ Ⓛ Ⓘ Terre ▁ Ⓙ
+Ⓖ Les ▁ Pierys ▁ Ⓗ Ⓔ Thévenard ▁ Louis ▁ adrien ▁ Ⓕ Ⓚ 1392 ▁ Ⓛ Ⓘ T ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ C ▁ ↑ ▁ ie ▁ ↓ ▁ des ▁ che ▁ ↑ ▁ ins ▁ ↓ ▁ de ▁ fer ▁ de ▁ l ▁ ' ▁ Est ▁ Ⓕ Ⓚ 1393 ▁ Ⓛ Ⓘ vigne ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Ledoux ▁ alexandre ▁ eugène ▁ Ⓕ Ⓚ 1393 ▁ Ⓛ Ⓘ§Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ voie ▁ publique ▁ Ⓕ Ⓚ 1393 ▁ Ⓛ Ⓘ§Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Coiffier ▁ Charles ▁ armand ▁ Ⓕ Ⓚ 1394 ▁ Ⓛ Ⓘ vigne ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Ledoux ▁ alexandre ▁ eugène ▁ Ⓕ Ⓚ 1395 ▁ Ⓛ Ⓘ id ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ C ▁ ↑ ▁ ie ▁ ↓ ▁ des ▁ chemins ▁ de ▁ fer ▁ de ▁ l ▁ ' ▁ Est ▁ Ⓕ Ⓚ 1396 ▁ Ⓛ Ⓘ vigne ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Ledoux ▁ alexandre ▁ eugène ▁ Ⓕ Ⓚ 1396 ▁ Ⓛ Ⓘ§Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ voie ▁ publique ▁ Ⓕ Ⓚ 1396 ▁ Ⓛ Ⓘ§Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ C ▁ ↑ ▁ ie ▁ ↓ ▁ des ▁ ch ▁ ↑ ▁ mins ▁ ↓ ▁ de ▁ fer ▁ de ▁ l ▁ ' ▁ Est ▁ Ⓕ Ⓚ 1397 ▁ Ⓛ Ⓘ T ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ id ▁ Ⓕ Ⓚ 1398p ▁ Ⓛ Ⓘ T ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Thévenard ▁ louis ▁ adrien ▁ Ⓕ Ⓚ 1398 ▁ Ⓛ Ⓘ T ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ voie ▁ publique ▁ Ⓕ Ⓚ 1398 ▁ Ⓛ Ⓘ T ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Marinier ▁ francis ▁ barthélemy ▁ Ⓕ Ⓚ 1399 ▁ Ⓛ Ⓘ T ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Ancelet ▁ Charles ▁ Dominique ▁ Ⓕ Ⓚ 1400 ▁ Ⓛ Ⓘ Pâture ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Bécheret ▁ Jean ▁ B ▁ ↑ ▁ te ▁ ↓ ▁ fils ▁ Ⓕ Ⓚ 1401 ▁ Ⓛ Ⓘ vigne ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Soudrieux ▁ adolphe ▁ laurent ▁ Ⓕ Ⓚ 1402 ▁ Ⓛ Ⓘ vigne ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ C ▁ ↑ ▁ ie ▁ ↓ ▁ des ▁ chemins ▁ de ▁ fer ▁ de ▁ l ▁ ' ▁ Est ▁ Ⓕ Ⓚ 1403p ▁ Ⓛ Ⓘ T ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Thévenard ▁ louis ▁ adrien ▁ Ⓕ Ⓚ 1403 ▁ Ⓛ Ⓘ T ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ voie ▁ publique ▁ Ⓕ Ⓚ 1403 ▁ Ⓛ Ⓘ T ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Berger ▁ V ▁ ↑ ▁ e ▁ ↓ ▁ Berger ▁ Louis ▁ Ⓕ Ⓚ 1404p ▁ Ⓛ Ⓘ T ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ C ▁ ↑ ▁ ie ▁ ↓ ▁ des ▁ ch ▁ ↑ ▁ mins ▁ ↓ ▁ de ▁ fer ▁ de ▁ l ▁ ' ▁ Est ▁ Ⓕ Ⓚ 1404 ▁ Ⓛ Ⓘ T ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ voie ▁ publique ▁ Ⓕ Ⓚ 1404 ▁ Ⓛ Ⓘ T ▁ Ⓙ
+Ⓖ 21 ▁ Ⓗ Ⓔ Lalégery ▁ Denis ▁ Joseph ▁ Ⓕ Ⓚ 1405 ▁ Ⓛ Ⓘ T ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Barillet ▁ louis ▁ jules ▁ Ⓕ Ⓚ 1406 ▁ Ⓛ Ⓘ vigne ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Héricourt ▁ louis ▁ gabriel ▁ Ⓕ Ⓚ 1407 ▁ Ⓛ Ⓘ vigne ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ C ▁ ↑ ▁ ie ▁ ↓ ▁ Ch ▁ ↑ ▁ mins ▁ de ▁ fer ▁ de ▁ l ▁ ' ▁ Est ▁ Ⓕ Ⓚ 1408p ▁ Ⓛ Ⓘ T ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Soudrieux ▁ louis ▁ joseph ▁ Ⓕ Ⓚ 1408 ▁ Ⓛ Ⓘ T ▁ Ⓙ
+Ⓖ fauconnieres ▁ Ⓗ Ⓔ Clere ▁ Jean ▁ Jacques ▁ Ⓕ Ⓚ 85 ▁ Ⓛ Ⓘ T ▁ Ⓙ Ⓐ P ▁ . ▁ 253 ▁ Ⓑ Ⓒ T ▁ Ⓓ
+Ⓖ Ø ▁ Ⓗ Ⓔ id ▁ Ⓕ Ⓚ 86 ▁ Ⓛ Ⓘ T ▁ Ⓙ Ⓐ P ▁ . ▁ 253 ▁ Ⓑ Ⓒ T ▁ Ⓓ
+Ⓖ Ø ▁ Ⓗ Ⓔ Billard ▁ Ⓕ Ⓚ 87 ▁ Ⓛ Ⓘ T ▁ Ⓙ Ⓐ P ▁ . ▁ 252 ▁ Ⓑ Ⓒ T ▁ Ⓓ
+Ⓖ Ø ▁ Ⓗ Ⓔ id ▁ Ⓕ Ⓚ 88 ▁ Ⓛ Ⓘ T ▁ Ⓙ Ⓐ P ▁ . ▁ 252 ▁ Ⓑ Ⓒ T ▁ Ⓓ
+Ⓖ Ø ▁ Ⓗ Ⓔ Jolly ▁ Jean ▁ Louis ▁ Ⓕ Ⓚ 89 ▁ Ⓛ Ⓘ T ▁ Ⓙ Ⓐ P ▁ . ▁ 251 ▁ Ⓑ Ⓒ T ▁ Ⓓ
+Ⓖ ø ▁ Ⓗ Ⓔ id ▁ Ⓕ Ⓚ 90 ▁ Ⓛ Ⓘ T ▁ Ⓙ Ⓐ p ▁ . ▁ 251 ▁ Ⓑ Ⓒ T ▁ Ⓓ
+Ⓖ Ø ▁ Ⓗ Ⓔ Vincent ▁ , ▁ L ▁ ↑ ▁ is ▁ ↓ ▁ Julien ▁ → ▁ Alexandre ▁ Ⓕ Ⓚ 91 ▁ Ⓛ Ⓘ T ▁ Ⓙ Ⓐ P250 ▁ Ⓑ Ⓒ T ▁ Ⓓ
+Ⓖ Ø ▁ Ⓗ Ⓔ id ▁ Ⓕ Ⓚ 92 ▁ Ⓛ Ⓘ T ▁ Ⓙ Ⓐ P ▁ . ▁ 250 ▁ Ⓑ Ⓒ T ▁ Ⓓ
+Ⓖ Ø ▁ Ⓗ Ⓔ Collet ▁ , ▁ Jean ▁ F ▁ ↑ ▁ ois ▁ ↓ ▁ N ▁ ↑ ▁ as ▁ ↓Ⓕ ▁ Ⓚ 93 ▁ Ⓛ Ⓘ T ▁ Ⓙ Ⓐ P ▁ . ▁ 249 ▁ Ⓑ Ⓒ T ▁ Ⓓ
+Ⓖ ø ▁ Ⓗ Ⓔ id ▁ Ⓕ Ⓚ 94 ▁ Ⓛ Ⓘ T ▁ Ⓙ Ⓐ p ▁ . ▁ 249 ▁ Ⓑ Ⓒ T ▁ Ⓓ
+Ⓖ Ø ▁ Ⓗ Ⓔ Collet ▁ , ▁ F ▁ ↑ ▁ ois ▁ ↓ ▁ Louis ▁ Ⓕ Ⓚ 95 ▁ Ⓛ Ⓘ T ▁ Ⓙ Ⓐ P ▁ . ▁ 248 ▁ Ⓑ Ⓒ T ▁ Ⓓ
+Ⓖ Ø ▁ Ⓗ Ⓔ id ▁ Ⓕ Ⓚ 96 ▁ Ⓛ Ⓘ T ▁ Ⓙ Ⓐ P ▁ . ▁ 248 ▁ Ⓑ Ⓒ T ▁ Ⓓ
+Ⓖ Ø ▁ Ⓗ Ⓔ Gallet ▁ Jean ▁ F ▁ ↑ ▁ ois ▁ ↓Ⓕ ▁ Ⓚ 97 ▁ Ⓛ Ⓘ T ▁ Ⓙ Ⓐ P ▁ . ▁ 245 ▁ Ⓑ Ⓒ T ▁ Ⓓ
+Ⓖ Ø ▁ Ⓗ Ⓔ id ▁ Ⓕ Ⓚ 98 ▁ Ⓛ Ⓘ T ▁ Ⓙ Ⓐ P ▁ . ▁ 245 ▁ Ⓑ Ⓒ T ▁ Ⓓ
+Ⓖ Le ▁ petit ▁ pont ▁ Ⓗ Ⓔ Pillet ▁ G ▁ ↑❌❌❌↓ ▁ lo ▁ ❌❌❌❌ ▁ rue ▁ de ▁ la ▁ g ▁ ❌ ▁ rne ▁ 2 ▁ Ⓕ Ⓚ 41 ▁ Ⓛ Ⓘ Vigne ▁ Ⓙ
+Ⓖ id ▁ Ⓗ Ⓔ Pillet ▁ g ▁ ↑ ▁ ai ▁ ↓ ▁ Lo ▁ ❌❌❌ ▁ id ▁ Ⓕ Ⓚ 42 ▁ Ⓛ Ⓘ Vigne ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Cochet ▁ N ▁ ↑ ▁ as ▁ ↓ ▁ fils ▁ rue ▁ de ▁ Paris ▁ 9 ▁ Ⓕ Ⓚ 43 ▁ Ⓛ Ⓘ Terre ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Pillet ▁ And ▁ ↑ ▁ e ▁ ↓ ▁ J ▁ ↑❌❌❌↓ ▁ marie ▁ rue ▁ du ▁ four ▁ 16 ▁ Ⓕ Ⓚ 44 ▁ Ⓛ Ⓘ Terre ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Muzard ▁ P ▁ ↑ ▁ re ▁ ↓ ▁ marie ▁ rue ▁ du ▁ Liégat ▁ Ⓕ Ⓚ 45 ▁ Ⓛ Ⓘ Vigne ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Pillet ▁ G ▁ ↑ ▁ ain ▁ ↓ ▁ lo ▁ ❌❌❌❌ ▁ rue ▁ de ▁ la ▁ g ▁ ❌ ▁ rne ▁ 2 ▁ Ⓕ Ⓚ 46 ▁ Ⓛ Ⓘ Vigne ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Dubois ▁ Eugène ▁ J ▁ ↑ ▁ h ▁ ↓ ▁ Napoléon ▁ à ▁ Vitry ▁ Ⓕ Ⓚ 47 ▁ Ⓛ Ⓘ Terre ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Dubois ▁ id ▁ Ⓕ Ⓚ 48 ▁ Ⓛ Ⓘ Terre ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Ivry ▁ la ▁ Commune ▁ Ⓕ Ⓚ 49 ▁ Ⓛ Ⓘ ancien ▁ chemin ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Ivry ▁ la ▁ Commune ▁ Ⓕ Ⓚ 50 ▁ Ⓛ Ⓘ ancien ▁ chemin ▁ Ⓙ
+Ⓖ Voie ▁ des ▁ Noyers ▁ Ⓗ Ⓔ Serize ▁ à ▁ Paris ▁ Ⓕ Ⓚ 51 ▁ Ⓛ Ⓘ Terre ▁ Ⓙ
+Ⓖ id ▁ Ⓗ Ⓔ Serize ▁ Ⓕ Ⓚ 52 ▁ Ⓛ Ⓘ Vigne ▁ Ⓙ
+Ⓖ id ▁ Ⓗ Ⓔ Serize ▁ id ▁ Ⓕ Ⓚ 53 ▁ Ⓛ Ⓘ Vigne ▁ Ⓙ
+Ⓖ id ▁ Ⓗ Ⓔ Serize ▁ id ▁ Ⓕ Ⓚ 54 ▁ Ⓛ Ⓘ Vigne ▁ Ⓙ
+Ⓖ Rue ▁ de ▁ Beauvais ▁ Ⓗ Ⓔ Serize ▁ id ▁ Ⓕ Ⓚ 55 ▁ Ⓛ Ⓘ Terre ▁ Ⓙ
+Ⓖ id ▁ Ⓗ Ⓔ Serize ▁ id ▁ Ⓕ Ⓚ 56 ▁ Ⓛ Ⓘ Route ▁ →× ▁ Vigne ▁ ±Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Serize ▁ id ▁ Ⓕ Ⓚ 57 ▁ Ⓛ Ⓘ Route ▁ →× ▁ Vigne ▁ ±Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Serize ▁ id ▁ Ⓕ Ⓚ 58 ▁ Ⓛ Ⓘ Terre ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Serize ▁ id ▁ Ⓕ Ⓚ 59 ▁ Ⓛ Ⓘ Vigne ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Grattey ▁ rue ▁ mongolfier ▁ Ⓕ Ⓚ 60 ▁ Ⓛ Ⓘ Batiment ▁ Ⓙ
+Ⓖ Rue ▁ de ▁ → ▁ Beauvais ▁ Ⓗ Ⓔ Gratté ▁ × ▁ y ▁ ± ▁ rue ▁ montgolfier ▁ Ⓕ Ⓚ 61 ▁ Ⓛ Ⓘ Jardin ▁ Ⓙ
+Ⓖ id ▁ Ⓗ Ⓔ Gratté ▁ × ▁ y ▁ ± ▁ id ▁ Ⓕ Ⓚ 62 ▁ Ⓛ Ⓘ maison ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ id ▁ Ⓕ Ⓚ 62 ▁ Ⓛ Ⓘ sol ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Gratté ▁ × ▁ y ▁ ± ▁ id ▁ Ⓕ Ⓚ 63 ▁ Ⓛ Ⓘ sol ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ id ▁ Ⓕ Ⓚ 63 ▁ Ⓛ Ⓘ maison ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Serize ▁ à ▁ Paris ▁ Ⓕ Ⓚ 64 ▁ Ⓛ Ⓘ Bâtiment ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Sérize ▁ à ▁ id ▁ Ⓕ Ⓚ 65 ▁ Ⓛ Ⓘ Vigne ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Serize ▁ à ▁ id ▁ Ⓕ Ⓚ 66 ▁ Ⓛ Ⓘ× ▁ Jardin ▁ ±→ ▁ Terre ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Serize ▁ à ▁ id ▁ Ⓕ Ⓚ 67 ▁ Ⓛ Ⓘ passage ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Dyé ▁ Edme ▁ à ▁ Paris ▁ rue ▁ Royer ▁ Collard ▁ Ⓕ Ⓚ 68 ▁ Ⓛ Ⓘ Jardin ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Dyé ▁ Edme ▁ id ▁ Ⓕ Ⓚ 69 ▁ Ⓛ Ⓘ sol ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ id ▁ Ⓕ Ⓚ 69 ▁ Ⓛ Ⓘ maison ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Amiot ▁ J ▁ ↑ ▁ n ▁ ↓ ▁ florentin ▁ à ▁ p ▁ . ▁ frambourg ▁ Ⓕ Ⓚ 70 ▁ Ⓛ Ⓘ Jardin ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Amiot ▁ id ▁ Ⓕ Ⓚ 71 ▁ Ⓛ Ⓘ Jardin ▁ →× ▁ Bas ▁ d ▁ ' ▁ agrement ▁ ±Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Amiot ▁ id ▁ Ⓕ Ⓚ 72 ▁ Ⓛ Ⓘ sol ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ id ▁ Ⓕ Ⓚ 72 ▁ Ⓛ Ⓘ maison ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Amiot ▁ id ▁ Ⓕ Ⓚ 73 ▁ Ⓛ Ⓘ sol ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ id ▁ Ⓕ Ⓚ 73 ▁ Ⓛ Ⓘ maison ▁ Ⓙ
+Ⓖ Place ▁ S ▁ ↑ ▁ t ▁ ↓→ ▁ frambourg ▁ Ⓗ Ⓔ Amiot ▁ id ▁ Ⓕ Ⓚ 74 ▁ Ⓛ Ⓘ sol ▁ Ⓙ
+Ⓖ id ▁ Ⓗ Ⓔ id ▁ Ⓕ Ⓚ 74 ▁ Ⓛ Ⓘ maison ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ× ▁ Amiot ▁ id ▁ ±Ⓕ ▁ Ⓚ× ▁ 75 ▁ ±Ⓛ ▁ Ⓘ× ▁ Bat ▁ ±Ⓙ
+Ⓜ 326 ▁ Ⓝ Ⓔ Millin ▁ Geroges ▁ marie ▁ Ⓕ Ⓚ 129 ▁ ↑ ▁ bis ▁ ↓Ⓛ ▁ Ⓘ Pré ▁ Ⓙ
+Ⓜ 325 ▁ Ⓝ Ⓔ Millin ▁ alex ▁ ↑ ▁ re ▁ ↓ ▁ Robert ▁ Ⓕ Ⓚ 130 ▁ Ⓛ Ⓘ ter ▁ Ⓙ
+Ⓔ× ▁ Le ▁ même ▁ ± ▁ Nul ▁ Ⓕ Ⓚ× ▁ 131 ▁ ±Ⓛ ▁ Ⓘ× ▁ id ▁ ±Ⓙ
+Ⓜ× ▁ 112 ▁ ±→ ▁ 285 ▁ ↑ ▁ bis ▁ ↓Ⓝ ▁ Ⓔ M ▁ ↑ ▁ r ▁ ↓ ▁ × ▁ Delauge ▁ ± ▁ Louis ▁ Ⓕ Ⓚ 132 ▁ Ⓛ Ⓘ id ▁ → ▁ Ile ▁ Ⓙ
+Ⓜ× ▁ 112 ▁ ±→ ▁ 285 ▁ ↑ ▁ bis ▁ ↓Ⓝ ▁ Ⓔ Le ▁ même ▁ Ⓕ Ⓚ 132 ▁ ↑ ▁ bis ▁ ↓Ⓛ ▁ Ⓘ terrain ▁ planté ▁ Ⓙ
+Ⓜ× ▁ 112 ▁ ±Ⓝ ▁ Ⓔ Le ▁ même ▁ Ⓕ Ⓚ 132 ▁ ↑ ▁ 3 ▁ °↓Ⓛ ▁ Ⓘ Idem ▁ Ⓙ
+Ⓜ 356 ▁ ↑ ▁ bis ▁ ↓Ⓝ ▁ Ⓔ Fain ▁ Jean ▁ Bapt ▁ ↑ ▁ e ▁ ↓Ⓕ ▁ Ⓚ 133 ▁ Ⓛ Ⓘ Ile ▁ ter ▁ . ▁ et ▁ arbres ▁ Ⓙ
+Ⓜ 407 ▁ Ⓝ Ⓔ queru ▁ Jean ▁ louis ▁ Ⓕ Ⓚ 133 ▁ ↑ ▁ bis ▁ ↓Ⓛ ▁ Ⓘ ter ▁ , ▁ et ▁ Pré ▁ Ⓙ
+Ⓜ 208 ▁ Ⓝ Ⓔ Issard ▁ fils ▁ a ▁ bry ▁ Ⓕ Ⓚ 133 ▁ ↑ ▁ 3 ▁ °↓Ⓛ ▁ Ⓘ Pré ▁ et ▁ saules ▁ Ⓙ
+Ⓜ 208 ▁ Ⓝ Ⓔ Le ▁ même ▁ Ⓕ Ⓚ 134 ▁ Ⓛ Ⓘ Pré ▁ → ▁ terrain ▁ planté ▁ Ⓙ
+Ⓜ 406 ▁ Ⓝ Ⓔ queru ▁ × ▁ Et ▁ ↑ ▁ e ▁ ↓± ▁ f ▁ ↑ ▁ ois ▁ ↓ ▁ N ▁ ↑ ▁ as ▁ ↓ ▁ a ▁ bry ▁ Ⓕ Ⓚ 134 ▁ ↑ ▁ bis ▁ ↓Ⓛ ▁ Ⓘ id ▁ Ⓙ
+Ⓜ 64 ▁ Ⓝ Ⓔ Bonnaire ▁ fils ▁ à ▁ Bry ▁ Ⓕ Ⓚ 134 ▁ ↑ ▁ 3 ▁ °↓Ⓛ ▁ Ⓘ id ▁ Ⓙ
+Ⓜ 326 ▁ Ⓝ Ⓔ Millin ▁ Georges ▁ marie ▁ Ⓕ Ⓚ 135 ▁ Ⓛ Ⓘ sabliere ▁ Ⓙ
+Ⓜ 36 ▁ ↑ ▁ bis ▁ ↓→× ▁ 42 ▁ ±Ⓝ ▁ Ⓔ Belleville ▁ n ▁ ↑ ▁ las ▁ ↓→× ▁ Beuzeville ▁ n ▁ ↑ ▁ as ▁ ↓± ▁ à ▁ Bry ▁ Ⓕ Ⓚ 135 ▁ ↑ ▁ bis ▁ ↓Ⓛ ▁ Ⓘ Pré ▁ et ▁ saules ▁ Ⓙ
+Ⓜ 326 ▁ Ⓝ Ⓔ Millin ▁ Geroges ▁ marie ▁ Ⓕ Ⓚ 136 ▁ Ⓛ Ⓘ ter ▁ Ⓙ
+Ⓜ 94 ▁ Ⓝ Ⓔ La ▁ commune ▁ Ⓕ Ⓚ 137 ▁ Ⓛ Ⓘ Berge ▁ Ⓙ
+Ⓜ 326 ▁ Ⓝ Ⓔ Millin ▁ Georges ▁ marie ▁ Ⓕ Ⓚ 138 ▁ Ⓛ Ⓘ Ter ▁ Ⓙ
+Ⓜ 325 ▁ Ⓝ Ⓔ Millin ▁ alex ▁ ↑ ▁ re ▁ ↓ ▁ Robert ▁ Ⓕ Ⓚ 138 ▁ ↑ ▁ bis ▁ ↓Ⓛ ▁ Ⓘ id ▁ Ⓙ
+Ⓜ 326 ▁ Ⓝ Ⓔ Millin ▁ Georges ▁ marie ▁ Ⓕ Ⓚ 140 ▁ Ⓛ Ⓘ orge ▁ et ▁ seigle ▁ Ⓙ
+Ⓜ 15 ▁ Ⓝ Ⓔ 141 ▁ Ⓕ Ⓚ ancelot ▁ alex ▁ ↑ ▁ re ▁ ↓Ⓛ ▁ Ⓘ seigle ▁ Ⓙ
+Ⓖ Port ▁ à ▁ l ▁ ' ▁ anglais ▁ Ⓗ Ⓔ d ▁ ↑ ▁ e ▁ ↓ ▁ véron ▁ née ▁ Labbé ▁ Julie ▁ Ⓕ Ⓚ 999 ▁ Ⓛ Ⓘ terre ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Antraigues ▁ jean ▁ Ⓕ Ⓚ 100 ▁ Ⓛ Ⓘ terre ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ id ▁ Ⓕ Ⓚ§Ⓛ ▁ Ⓘ§Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Beaugé ▁ louis ▁ Ⓕ Ⓚ§Ⓛ ▁ Ⓘ§Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Berthelot ▁ Claude ▁ Ⓕ Ⓚ§Ⓛ ▁ Ⓘ§Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Berthelot ▁ Etienne ▁ victor ▁ Ⓕ Ⓚ§Ⓛ ▁ Ⓘ§Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Berthod ▁ Ⓕ Ⓚ§Ⓛ ▁ Ⓘ§Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Biliont ▁ Benoit ▁ aimé ▁ Ⓕ Ⓚ§Ⓛ ▁ Ⓘ§Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Blein ▁ aimé ▁ Ⓕ Ⓚ§Ⓛ ▁ Ⓘ§Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Bonnion ▁ Charlotte ▁ épouse ▁ Colliard ▁ Ⓕ Ⓚ§Ⓛ ▁ Ⓘ§Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Brard ▁ Gilbert ▁ Ⓕ Ⓚ§Ⓛ ▁ Ⓘ§Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Chevalier ▁ martin ▁ Ⓕ Ⓚ§Ⓛ ▁ Ⓘ§Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ§Ⓕ ▁ Ⓚ§Ⓛ ▁ Ⓘ§Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ§Ⓕ ▁ Ⓚ§Ⓛ ▁ Ⓘ§Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ§Ⓕ ▁ Ⓚ§Ⓛ ▁ Ⓘ§Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ§Ⓕ ▁ Ⓚ§Ⓛ ▁ Ⓘ§Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Clémencet ▁ charlotte ▁ aimée ▁ d ▁ ↑ ▁ elle ▁ ↓Ⓕ ▁ Ⓚ§Ⓛ ▁ Ⓘ§Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Daubert ▁ gaspard ▁ Ⓕ Ⓚ§Ⓛ ▁ Ⓘ§Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ David ▁ charles ▁ veuve ▁ Ⓕ Ⓚ§Ⓛ ▁ Ⓘ§Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Davois ▁ louis ▁ veuve ▁ Ⓕ Ⓚ§Ⓛ ▁ Ⓘ§Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Desnoyers ▁ Ⓕ Ⓚ§Ⓛ ▁ Ⓘ§Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Dodun ▁ de ▁ Keroman ▁ , ▁ le ▁ comte ▁ Ⓕ Ⓚ§Ⓛ ▁ Ⓘ§Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Dodun ▁ de ▁ Kéroman ▁ , ▁ la ▁ marquise ▁ Ⓕ Ⓚ§Ⓛ ▁ Ⓘ§Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Dodun ▁ de ▁ Kéroman ▁ agathe ▁ v ▁ ↑ ▁ ve ▁ ↓→ ▁ Moussac ▁ Ⓕ Ⓚ§Ⓛ ▁ Ⓘ§Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Grave ▁ françois ▁ henri ▁ Ⓕ Ⓚ§Ⓛ ▁ Ⓘ§Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ id ▁ Ⓕ Ⓚ§Ⓛ ▁ Ⓘ§Ⓙ
+Ⓖ Prairie ▁ des ▁ Presles ▁ Ⓗ Ⓔ Vitry ▁ françois ▁ et ▁ consorts ▁ Ⓕ Ⓚ 10 ▁ Ⓛ Ⓘ T ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Laligéry ▁ Emmanuel ▁ désiré ▁ Ⓕ Ⓚ 11 ▁ Ⓛ Ⓘ T ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Ancelet ▁ louis ▁ auguste ▁ et ▁ Rethers ▁ henri ▁ Ⓕ Ⓚ 12 ▁ Ⓛ Ⓘ T ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Reuzeville ▁ charles ▁ alexis ▁ Ⓕ Ⓚ 13 ▁ Ⓛ Ⓘ T ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Ancelet ▁ charles ▁ dominique ▁ Ⓕ Ⓚ 14 ▁ Ⓛ Ⓘ T ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ id ▁ Ⓕ Ⓚ 15 ▁ Ⓛ Ⓘ T ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Laizier ▁ louis ▁ adolphe ▁ Ⓕ Ⓚ 16 ▁ Ⓛ Ⓘ T ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Lalegéry ▁ denis ▁ joseph ▁ Ⓕ Ⓚ 17 ▁ Ⓛ Ⓘ T ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Tardif ▁ Delorme ▁ Ⓕ Ⓚ 18 ▁ Ⓛ Ⓘ T ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ id ▁ Ⓕ Ⓚ 19 ▁ Ⓛ Ⓘ T ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Beuzeville ▁ thimothée ▁ fils ▁ Ⓕ Ⓚ 20 ▁ Ⓛ Ⓘ T ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Anastasie ▁ Ⓕ Ⓚ 21 ▁ Ⓛ Ⓘ T ▁ . ▁ et ▁ Peupliers ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Barberet ▁ pierre ▁ germain ▁ Ⓕ Ⓚ 21 ▁ Ⓛ Ⓘ id ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Ruvée ▁ Constant ▁ Ⓕ Ⓚ 21 ▁ Ⓛ Ⓘ§Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Chamiot ▁ propser ▁ Ⓕ Ⓚ 21 ▁ Ⓛ Ⓘ§Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ id ▁ Ⓕ Ⓚ 21 ▁ Ⓛ Ⓘ§Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Cochois ▁ alfred ▁ Ⓕ Ⓚ 21 ▁ Ⓛ Ⓘ§Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Cuchet ▁ auguste ▁ Marius ▁ Ⓕ Ⓚ 21 ▁ Ⓛ Ⓘ§Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ id ▁ Ⓕ Ⓚ 21 ▁ Ⓛ Ⓘ§Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Delorme ▁ édouard ▁ Ⓕ Ⓚ 21 ▁ Ⓛ Ⓘ§Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Dumez ▁ théophile ▁ Ⓕ Ⓚ 21 ▁ Ⓛ Ⓘ§Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Hue ▁ alexandre ▁ Ⓕ Ⓚ 21 ▁ Ⓛ Ⓘ§Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Jarry ▁ onésime ▁ Ⓕ Ⓚ 21 ▁ Ⓛ Ⓘ§Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Jeannin ▁ alphonse ▁ Ⓕ Ⓚ 21 ▁ Ⓛ Ⓘ§Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Leroux ▁ auguste ▁ marie ▁ Ⓕ Ⓚ 21 ▁ Ⓛ Ⓘ§Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Mackels ▁ henri ▁ Ⓕ Ⓚ 21 ▁ Ⓛ Ⓘ§Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Michin ▁ auguste ▁ Ⓕ Ⓚ 21 ▁ Ⓛ Ⓘ§Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Rousselle ▁ charles ▁ ernest ▁ Ⓕ Ⓚ 21 ▁ Ⓛ Ⓘ§Ⓙ
+Ⓖ Place ▁ St ▁ → ▁ frambourg ▁ Ⓗ Ⓔ Gelon ▁ J ▁ ↑ ▁ e ▁ ↓ ▁ Jules ▁ place ▁ St ▁ frambourg ▁ Ⓕ Ⓚ 91 ▁ Ⓛ Ⓘ Bat ▁ Ⓙ
+Ⓖ id ▁ Ⓗ Ⓔ Amiot ▁ Jean ▁ florentin ▁ →× ▁ Gelin ▁ je ▁ jules ▁ ± ▁ id ▁ Ⓕ Ⓚ 92 ▁ Ⓛ Ⓘ Route ▁ →× ▁ Bois ▁ d ▁ ' ▁ agrément ▁ ±Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Amiot ▁ Jean ▁ Florentin ▁ →× ▁ Fouilloux ▁ f ▁ ↑ ▁ cois ▁ ↓ ▁ rue ▁ de ▁ Bercy ▁ 100 ▁ ±→ ▁ à ▁ Bercy ▁ Ⓕ Ⓚ 93 ▁ Ⓛ Ⓘ Route ▁ →× ▁ Bois ▁ d ▁ ' ▁ agrément ▁ ±Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ fouilloux ▁ j ▁ ↑ ▁ ean ▁ ↓ ▁ id ▁ Ⓕ Ⓚ 94 ▁ Ⓛ Ⓘ Jardin ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ fouilloux ▁ j ▁ ↑ ▁ ean ▁ ↓ ▁ id ▁ Ⓕ Ⓚ 95 ▁ Ⓛ Ⓘ Sol ▁ et ▁ Bat ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ fouilloux ▁ id ▁ Ⓕ Ⓚ 95 ▁ Ⓛ Ⓘ maison ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ fouilloux ▁ Ⓕ Ⓚ 96 ▁ Ⓛ Ⓘ Jardin ▁ → ▁ marais ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ× ▁ fouilloux ▁ ±Ⓕ ▁ Ⓚ× ▁ 97 ▁ ±Ⓛ ▁ Ⓘ× ▁ Bat ▁ et ▁ Cour ▁ ±Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Fouilloux ▁ Ⓕ Ⓚ 98 ▁ Ⓛ Ⓘ allée ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Fouilloux ▁ Ⓕ Ⓚ 99 ▁ Ⓛ Ⓘ Terrain ▁ Ⓙ
+Ⓖ Rue ▁ du ▁ → ▁ colombier ▁ Ⓗ Ⓔ fouilloux ▁ Ⓕ Ⓚ 100 ▁ Ⓛ Ⓘ sol ▁ et ▁ cour ▁ Ⓙ
+Ⓖ id ▁ Ⓗ Ⓔ id ▁ Ⓕ Ⓚ 100 ▁ Ⓛ Ⓘ maison ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Fouilloux ▁ Ⓕ Ⓚ 101 ▁ Ⓛ Ⓘ sol ▁ et ▁ cour ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ id ▁ Ⓕ Ⓚ 101 ▁ Ⓛ Ⓘ maison ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Fouilloux ▁ Ⓕ Ⓚ 102 ▁ Ⓛ Ⓘ sol ▁ cour ▁ Bat ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ id ▁ Ⓕ Ⓚ 102 ▁ Ⓛ Ⓘ maison ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ fouilloux ▁ Ⓕ Ⓚ 103 ▁ Ⓛ Ⓘ Jardin ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ× ▁ fouilloux ▁ ±Ⓕ ▁ Ⓚ× ▁ 104 ▁ ±Ⓛ ▁ Ⓘ× ▁ Bat ▁ ±Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ× ▁ fouilloux ▁ ±Ⓕ ▁ Ⓚ× ▁ 105 ▁ ±Ⓛ ▁ Ⓘ× ▁ Bat ▁ ±Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ fouilloux ▁ Ⓕ Ⓚ 106 ▁ Ⓛ Ⓘ sol ▁ et ▁ Bat ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ id ▁ Ⓕ Ⓚ 106 ▁ Ⓛ Ⓘ maison ▁ Ⓙ
+Ⓖ L ▁ Barnufle ▁ Ⓗ Ⓔ Seguin ▁ f ▁ ↑ ▁ ois ▁ ↓ ▁ Julien ▁ Ⓕ Ⓚ 158 ▁ Ⓛ Ⓘ Terre ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ hospices ▁ de ▁ Paris ▁ Ⓕ Ⓚ 159 ▁ Ⓛ Ⓘ Terre ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Lecoq ▁ g ▁ ↑ ▁ me ▁ ↓ ▁ f ▁ ↑ ▁ ois ▁ ↓ ▁ V ▁ ↑ ▁ e ▁ ↓Ⓕ ▁ Ⓚ 160 ▁ Ⓛ Ⓘ Terre ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Lecoq ▁ g ▁ ↑ ▁ me ▁ ↓ ▁ f ▁ ↑ ▁ ois ▁ ↓ ▁ V ▁ ↑ ▁ e ▁ ↓Ⓕ ▁ Ⓚ 161 ▁ Ⓛ Ⓘ Terre ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ hospices ▁ de ▁ Paris ▁ Ⓕ Ⓚ 161 ▁ ↑ ▁ bis ▁ ↓Ⓛ ▁ Ⓘ Terre ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Chanevas ▁ martial ▁ h ▁ ↑ ▁ ers ▁ ↓→× ▁ Leroy ▁ sauveur ▁ gabriel ▁ ±Ⓕ ▁ Ⓚ 162 ▁ Ⓛ Ⓘ Terre ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ hospices ▁ de ▁ Paris ▁ Ⓕ Ⓚ 162 ▁ ↑ ▁ bis ▁ ↓Ⓛ ▁ Ⓘ Terre ▁ Ⓙ
+Ⓖ Les ▁ Closeaux ▁ Ⓗ Ⓔ Roger ▁ J ▁ ↑ ▁ n ▁ ↓→× ▁ Thomas ▁ à ▁ paris ▁ ±Ⓕ ▁ Ⓚ 163 ▁ Ⓛ Ⓘ Terre ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Roger ▁ J ▁ ↑ ▁ n ▁ ↓→ ▁ Thomas ▁ , ▁ à ▁ paris ▁ Ⓕ Ⓚ 164 ▁ Ⓛ Ⓘ Terre ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Mayeux ▁ p ▁ ↑ ▁ re ▁ ↓ ▁ f ▁ ↑ ▁ ois ▁ ↓Ⓕ ▁ Ⓚ 165 ▁ Ⓛ Ⓘ Terre ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Cousté ▁ p ▁ ↑ ▁ re ▁ ↓ ▁ noël ▁ Ⓕ Ⓚ 166 ▁ Ⓛ Ⓘ Terre ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Cousté ▁ Joseph ▁ Ⓕ Ⓚ 167 ▁ Ⓛ Ⓘ Terre ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Romanu ▁ frédéric ▁ V ▁ ↑ ▁ e ▁ ↓Ⓕ ▁ Ⓚ 167 ▁ ↑ ▁ bis ▁ ↓Ⓛ ▁ Ⓘ Terre ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Romanes ▁ fréderic ▁ V ▁ ↑ ▁ e ▁ ↓Ⓕ ▁ Ⓚ 168 ▁ Ⓛ Ⓘ Terre ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Romanil ▁ claude ▁ alphonse ▁ Ⓕ Ⓚ 168 ▁ ↑ ▁ bis ▁ ↓Ⓛ ▁ Ⓘ Terre ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Bedouvre ▁ f ▁ ↑ ▁ ois ▁ ↓ ▁ pere ▁ Ⓕ Ⓚ 169 ▁ Ⓛ Ⓘ Terre ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Merlin ▁ jean ▁ Vincent ▁ Ⓕ Ⓚ 170 ▁ Ⓛ Ⓘ Terre ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Dedouvre ▁ f ▁ ↑ ▁ ois ▁ ↓ ▁ pere ▁ Ⓕ Ⓚ 171 ▁ Ⓛ Ⓘ Terre ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Sevin ▁ jean ▁ achille ▁ Ⓕ Ⓚ 172 ▁ Ⓛ Ⓘ Terre ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Cousté ▁ p ▁ ↑ ▁ re ▁ ↓ ▁ noël ▁ Ⓕ Ⓚ 173 ▁ Ⓛ Ⓘ Terre ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Trois ▁ volet ▁ les ▁ mineurs ▁ Ⓕ Ⓚ 173 ▁ ↑ ▁ bis ▁ ↓Ⓛ ▁ Ⓘ Terre ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Rouanet ▁ frederic ▁ V ▁ ↑ ▁ e ▁ ↓Ⓕ ▁ Ⓚ 174 ▁ Ⓛ Ⓘ Terre ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Romanet ▁ frederic ▁ V ▁ ↑ ▁ e ▁ ↓Ⓕ ▁ Ⓚ 175 ▁ Ⓛ Ⓘ Terre ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Romanet ▁ frederic ▁ V ▁ ↑ ▁ e ▁ ↓→× ▁ Marquis ▁ J ▁ ↑ ▁ n ▁ ↓ ▁ b ▁ ↑ ▁ te ▁ ↓±Ⓕ ▁ Ⓚ 176 ▁ Ⓛ Ⓘ Terre ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Bagot ▁ gilles ▁ Ⓕ Ⓚ 177 ▁ Ⓛ Ⓘ Carrière ▁ Ⓙ
+Ⓖ Le ▁ Pont ▁ de ▁ Brye ▁ Ⓗ Ⓔ Leduc ▁ Jean ▁ Pierre ▁ Ⓕ Ⓚ 728 ▁ Ⓛ Ⓘ T ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Berger ▁ Jean ▁ pierre ▁ Ⓕ Ⓚ 729 ▁ Ⓛ Ⓘ T ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ André ▁ alexandre ▁ Edouard ▁ Ⓕ Ⓚ 730 ▁ Ⓛ Ⓘ T ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Ancelot ▁ Nicolas ▁ J ▁ ↑ ▁ h ▁ ↓Ⓕ ▁ Ⓚ 731 ▁ Ⓛ Ⓘ T ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Barillet ▁ alphonse ▁ léon ▁ Ⓕ Ⓚ 732 ▁ Ⓛ Ⓘ T ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Barillet ▁ louis ▁ jules ▁ Ⓕ Ⓚ 731 ▁ Ⓛ Ⓘ T ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Barillet ▁ paul ▁ désiré ▁ Ⓕ Ⓚ 731 ▁ Ⓛ Ⓘ T ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Lameau ▁ Jean ▁ Saturnin ▁ Ⓕ Ⓚ 731 ▁ Ⓛ Ⓘ T ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Lameau ▁ Louis ▁ Jules ▁ Ⓕ Ⓚ 731 ▁ Ⓛ Ⓘ T ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Soudieux ▁ louis ▁ joseph ▁ Ⓕ Ⓚ 731 ▁ Ⓛ Ⓘ T ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Hériot ▁ justin ▁ Ⓕ Ⓚ 732 ▁ Ⓛ Ⓘ T ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ id ▁ Ⓕ Ⓚ 732 ▁ Ⓛ Ⓘ T ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ id ▁ Ⓕ Ⓚ 733 ▁ Ⓛ Ⓘ T ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ id ▁ Ⓕ Ⓚ 734 ▁ Ⓛ Ⓘ T ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Vitry ▁ Joseph ▁ Emmanuel ▁ V ▁ ↑ ▁ e ▁ ↓Ⓕ ▁ Ⓚ 735 ▁ Ⓛ Ⓘ T ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Rameau ▁ Louis ▁ honoré ▁ Ⓕ Ⓚ 736 ▁ Ⓛ Ⓘ T ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Fontaine ▁ Ⓕ Ⓚ 737 ▁ Ⓛ Ⓘ T ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Padet ▁ alfred ▁ Ⓕ Ⓚ 738 ▁ Ⓛ Ⓘ T ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Baton ▁ mercier ▁ Ⓕ Ⓚ 739 ▁ Ⓛ Ⓘ T ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Bidermann ▁ Jean ▁ Ⓕ Ⓚ 739 ▁ Ⓛ Ⓘ T ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Laurent ▁ eugène ▁ Ⓕ Ⓚ 739 ▁ Ⓛ Ⓘ T ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Picard ▁ Ernest ▁ Ⓕ Ⓚ 739 ▁ Ⓛ Ⓘ T ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Soudieux ▁ adolphe ▁ laurent ▁ Ⓕ Ⓚ 739 ▁ Ⓛ Ⓘ T ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Laurent ▁ eugène ▁ Ⓕ Ⓚ 740 ▁ Ⓛ Ⓘ T ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Barillet ▁ eugène ▁ auguste ▁ Ⓕ Ⓚ 741 ▁ Ⓛ Ⓘ T ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Gasser ▁ auguste ▁ victor ▁ Ⓕ Ⓚ 742 ▁ Ⓛ Ⓘ T ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Mérillon ▁ saturnin ▁ veuve ▁ Ⓕ Ⓚ 742 ▁ Ⓛ Ⓘ T ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Morin ▁ louis ▁ auguste ▁ Ⓕ Ⓚ 742 ▁ Ⓛ Ⓘ T ▁ Ⓙ
+Ⓖ Port ▁ à ▁ l ▁ ' ▁ anglais ▁ Ⓗ Ⓔ Marchand ▁ Charles ▁ Ⓕ Ⓚ 101 ▁ Ⓛ Ⓘ terre ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Morand ▁ Joseph ▁ Ferdinand ▁ Ⓕ Ⓚ§Ⓛ ▁ Ⓘ§Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Nachbroun ▁ Ignace ▁ Ⓕ Ⓚ§Ⓛ ▁ Ⓘ§Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Paty ▁ antoine ▁ Ⓕ Ⓚ§Ⓛ ▁ Ⓘ§Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Petit ▁ adolphe ▁ Ⓕ Ⓚ§Ⓛ ▁ Ⓘ§Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Porcheron ▁ Claude ▁ hilaire ▁ anatole ▁ Ⓕ Ⓚ§Ⓛ ▁ Ⓘ§Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ id ▁ Ⓕ Ⓚ§Ⓛ ▁ Ⓘ§Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ id ▁ Ⓕ Ⓚ§Ⓛ ▁ Ⓘ§Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ id ▁ Ⓕ Ⓚ§Ⓛ ▁ Ⓘ§Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ id ▁ Ⓕ Ⓚ§Ⓛ ▁ Ⓘ§Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Pradat ▁ Paul ▁ Ⓕ Ⓚ§Ⓛ ▁ Ⓘ§Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Sauthier ▁ Jean ▁ père ▁ Ⓕ Ⓚ§Ⓛ ▁ Ⓘ§Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Servet ▁ Jean ▁ Etienne ▁ Ⓕ Ⓚ§Ⓛ ▁ Ⓘ§Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Touzin ▁ pierre ▁ fils ▁ Ⓕ Ⓚ§Ⓛ ▁ Ⓘ§Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Travailleur ▁ émile ▁ Ⓕ Ⓚ§Ⓛ ▁ Ⓘ§Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Dominique ▁ michel ▁ Ⓕ Ⓚ 102 ▁ Ⓛ Ⓘ pâture ▁ Ⓙ
+Ⓖ Cayenne ▁ Ⓗ Ⓔ id ▁ Ⓕ Ⓚ 103 ▁ Ⓛ Ⓘ terre ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Longhé ▁ pierre ▁ Ⓕ Ⓚ id ▁ Ⓛ Ⓘ id ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Adam ▁ Nicolas ▁ Auguste ▁ Ⓕ Ⓚ 104 ▁ Ⓛ Ⓘ terre ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Alantin ▁ mathurin ▁ à ▁ Ivry ▁ Ⓕ Ⓚ§Ⓛ ▁ Ⓘ§Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Archambault ▁ pavel ▁ nicolas ▁ Ⓕ Ⓚ 21 ▁ Ⓛ Ⓘ 21 ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Augeard ▁ paul ▁ alphonse ▁ Ⓕ Ⓚ§Ⓛ ▁ Ⓘ§Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ id ▁ Ⓕ Ⓚ§Ⓛ ▁ Ⓘ§Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Aussaudou ▁ claude ▁ Ⓕ Ⓚ§Ⓛ ▁ Ⓘ§Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Auzaret ▁ albert ▁ anoré ▁ Ⓕ Ⓚ§Ⓛ ▁ Ⓘ§Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Aria ▁ Jacques ▁ Ⓕ Ⓚ§Ⓛ ▁ Ⓘ§Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Braille ▁ françois ▁ Ⓕ Ⓚ§Ⓛ ▁ Ⓘ§Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Barbier ▁ michel ▁ Ⓕ Ⓚ§Ⓛ ▁ Ⓘ§Ⓙ
+Ⓖ Cayenne ▁ Ⓗ Ⓔ Bataille ▁ alfred ▁ Ⓕ Ⓚ 104 ▁ 5 ▁ Ⓛ Ⓘ terre ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Beauvais ▁ édouard ▁ nicolas ▁ Ⓕ Ⓚ§Ⓛ ▁ Ⓘ§Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Berthelot ▁ claude ▁ Ⓕ Ⓚ§Ⓛ ▁ Ⓘ§Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ id ▁ Ⓕ Ⓚ§Ⓛ ▁ Ⓘ§Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ id ▁ Ⓕ Ⓚ§Ⓛ ▁ Ⓘ§Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ id ▁ Ⓕ Ⓚ§Ⓛ ▁ Ⓘ§Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Blanzac ▁ françois ▁ félix ▁ Ⓕ Ⓚ§Ⓛ ▁ Ⓘ§Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Bonny ▁ claude ▁ Ⓕ Ⓚ§Ⓛ ▁ Ⓘ§Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Bouyer ▁ françois ▁ stanislas ▁ Ⓕ Ⓚ§Ⓛ ▁ Ⓘ§Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Buchy ▁ pierre ▁ gustave ▁ Ⓕ Ⓚ§Ⓛ ▁ Ⓘ§Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ id ▁ Ⓕ Ⓚ§Ⓛ ▁ Ⓘ§Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Caget ▁ louis ▁ alfred ▁ Ⓕ Ⓚ§Ⓛ ▁ Ⓘ§Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Caluivé ▁ ( ▁ de ▁ ) ▁ nestor ▁ jean ▁ marie ▁ Ⓕ Ⓚ§Ⓛ ▁ Ⓘ§Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Cellier ▁ adolphe ▁ et ▁ Labour ▁ armand ▁ Ⓕ Ⓚ§Ⓛ ▁ Ⓘ§Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Chamarande ▁ Etienne ▁ Ⓕ Ⓚ§Ⓛ ▁ Ⓘ§Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Chambaraud ▁ gabriel ▁ Ⓕ Ⓚ§Ⓛ ▁ Ⓘ§Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Chapotat ▁ françois ▁ veuve ▁ Ⓕ Ⓚ§Ⓛ ▁ Ⓘ§Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Charbonnier ▁ edme ▁ Ⓕ Ⓚ§Ⓛ ▁ Ⓘ§Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Charleux ▁ charles ▁ Ⓕ Ⓚ§Ⓛ ▁ Ⓘ§Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Chazeaud ▁ françois ▁ Ⓕ Ⓚ§Ⓛ ▁ Ⓘ§Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Colin ▁ Hippolyte ▁ Ⓕ Ⓚ§Ⓛ ▁ Ⓘ§Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Combeau ▁ pierre ▁ françois ▁ marc ▁ Ⓕ Ⓚ§Ⓛ ▁ Ⓘ§Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Côte ▁ claude ▁ Ⓕ Ⓚ§Ⓛ ▁ Ⓘ§Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Dabé ▁ claude ▁ Ⓕ Ⓚ§Ⓛ ▁ Ⓘ§Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Dard ▁ pierre ▁ gustave ▁ Ⓕ Ⓚ§Ⓛ ▁ Ⓘ§Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ David ▁ Charles ▁ veuve ▁ Ⓕ Ⓚ§Ⓛ ▁ Ⓘ§Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ David ▁ françois ▁ bernard ▁ Ⓕ Ⓚ§Ⓛ ▁ Ⓘ§Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ David ▁ victor ▁ évariste ▁ Ⓕ Ⓚ§Ⓛ ▁ Ⓘ§Ⓙ
+Ⓖ Le ▁ Pont ▁ de ▁ Brye ▁ Ⓗ Ⓔ Rameau ▁ auguste ▁ saturnin ▁ Ⓕ Ⓚ 473 ▁ Ⓛ Ⓘ T ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Coiffier ▁ louis ▁ charles ▁ Ⓕ Ⓚ 744 ▁ Ⓛ Ⓘ T ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Muris ▁ Paul ▁ Laurent ▁ Ⓕ Ⓚ 744 ▁ Ⓛ Ⓘ T ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Beuzeville ▁ charles ▁ alexis ▁ Ⓕ Ⓚ 475 ▁ Ⓛ Ⓘ T ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Roziers ▁ louis ▁ désiré ▁ Ⓕ Ⓚ 475 ▁ Ⓛ Ⓘ T ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Delthil ▁ Ⓕ Ⓚ 746 ▁ Ⓛ Ⓘ T ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Fountaine ▁ thomas ▁ taylor ▁ Ⓕ Ⓚ 747 ▁ Ⓛ Ⓘ T ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Mérillon ▁ auguste ▁ veuve ▁ Ⓕ Ⓚ 747 ▁ Ⓛ Ⓘ T ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Soudieux ▁ charles ▁ louis ▁ Ⓕ Ⓚ 747 ▁ Ⓛ Ⓘ T ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Soudieux ▁ adolphe ▁ laurent ▁ Ⓕ Ⓚ 748 ▁ Ⓛ Ⓘ T ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ id ▁ Ⓕ Ⓚ 748 ▁ Ⓛ Ⓘ T ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Plaisant ▁ félix ▁ Ⓕ Ⓚ 749 ▁ Ⓛ Ⓘ T ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Bassendier ▁ louis ▁ gustave ▁ Ⓕ Ⓚ 750 ▁ Ⓛ Ⓘ T ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Héricourt ▁ françois ▁ maurice ▁ Ⓕ Ⓚ 750 ▁ Ⓛ Ⓘ T ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Héricourt ▁ Louis ▁ Gabriel ▁ Ⓕ Ⓚ 750 ▁ Ⓛ Ⓘ T ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Lameau ▁ Passie ▁ J ▁ ↑ ▁ h ▁ ↓ ▁ achille ▁ Ⓕ Ⓚ 751 ▁ Ⓛ Ⓘ T ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Lameau ▁ louis ▁ jules ▁ Ⓕ Ⓚ 752 ▁ Ⓛ Ⓘ T ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Fountaine ▁ thomas ▁ taylord ▁ Ⓕ Ⓚ 753 ▁ Ⓛ Ⓘ T ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Lecui ▁ augustin ▁ guislain ▁ Ⓕ Ⓚ 753 ▁ Ⓛ Ⓘ T ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Rameau ▁ louis ▁ honoré ▁ Ⓕ Ⓚ 753 ▁ Ⓛ Ⓘ T ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ id ▁ Ⓕ Ⓚ 753 ▁ Ⓛ Ⓘ T ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Ancelet ▁ Charles ▁ dominique ▁ Ⓕ Ⓚ 754 ▁ Ⓛ Ⓘ T ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Ancelet ▁ françois ▁ antoine ▁ Ⓕ Ⓚ 755 ▁ Ⓛ Ⓘ T ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Coiffier ▁ pierre ▁ honoré ▁ Ⓕ Ⓚ 755 ▁ Ⓛ Ⓘ T ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Ancelet ▁ charles ▁ dominique ▁ Ⓕ Ⓚ 756 ▁ Ⓛ Ⓘ T ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Ancelet ▁ françois ▁ antoine ▁ Ⓕ Ⓚ 756 ▁ Ⓛ Ⓘ T ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Ancelet ▁ louis ▁ auguste ▁ Ⓕ Ⓚ 756 ▁ Ⓛ Ⓘ T ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Coiffier ▁ pierre ▁ hervé ▁ Ⓕ Ⓚ 756 ▁ Ⓛ Ⓘ T ▁ Ⓙ
+Ⓜ 411 ▁ Ⓝ Ⓔ Rameau ▁ P ▁ ↑ ▁ re ▁ ↓ ▁ Edme ▁ Ⓕ Ⓚ 660 ▁ Ⓛ Ⓘ Ter ▁ .Ⓙ
+Ⓜ 436 ▁ Ⓝ Ⓔ soudieux ▁ sat ▁ ↑ ▁ in ▁ ↓ ▁ balot ▁ Ⓕ Ⓚ 61 ▁ Ⓛ Ⓘ id ▁ Ⓙ
+Ⓜ 8 ▁ Ⓝ Ⓔ ancelet ▁ J ▁ ↑ ▁ n ▁ ↓ ▁ louis ▁ ant ▁ ↑ ▁ e ▁ ↓Ⓕ ▁ Ⓚ 62 ▁ Ⓛ Ⓘ§Ⓙ
+Ⓜ 84 ▁ Ⓝ Ⓔ Coiffier ▁ andré ▁ Jeune ▁ Ⓕ Ⓚ 64 ▁ Ⓛ Ⓘ§Ⓙ
+Ⓜ 139 ▁ Ⓝ Ⓔ foucault ▁ P ▁ ↑ ▁ re ▁ ↓Ⓕ ▁ Ⓚ 65 ▁ Ⓛ Ⓘ vig ▁ Ⓙ
+Ⓜ 405 ▁ Ⓝ Ⓔ quemain ▁ ch ▁ ↑ ▁ es ▁ ↓ ▁ f ▁ ↑ ▁ ois ▁ ↓Ⓕ ▁ Ⓚ 65 ▁ ↑ ▁ bis ▁ ↓Ⓛ ▁ Ⓘ ter ▁ Ⓙ
+Ⓜ 231 ▁ Ⓝ Ⓔ Lameau ▁ V ▁ ↑ ▁ e ▁ ↓ ▁ Sat ▁ ↑ ▁ in ▁ ↓Ⓕ ▁ Ⓚ 66 ▁ Ⓛ Ⓘ id ▁ Ⓙ
+Ⓜ 309 ▁ Ⓝ Ⓔ Merillon ▁ J ▁ ↑ ▁ n ▁ ↓Ⓕ ▁ Ⓚ 67 ▁ Ⓛ Ⓘ§Ⓙ
+Ⓜ× ▁ 7 ▁ ±→ ▁ 10 ▁ ↑ ▁ bis ▁ ↓Ⓝ ▁ Ⓔ ancelet ▁ × ▁ V ▁ ↑ ▁ e ▁ ↓ ▁ f ▁ ↑ ▁ ois ▁ ↓± ▁ Charles ▁ alex ▁ ↑ ▁ dre ▁ ↓Ⓕ ▁ Ⓚ 68 ▁ Ⓛ Ⓘ§Ⓙ
+Ⓜ 94 ▁ Ⓝ Ⓔ Coiffier ▁ f ▁ ↑ ▁ ois ▁ ↓ ▁ dit ▁ séraphin ▁ Ⓕ Ⓚ 68 ▁ ↑ ▁ bis ▁ ↓Ⓛ ▁ Ⓘ§Ⓙ
+Ⓜ 222 ▁ Ⓝ Ⓔ Lameau ▁ D ▁ ↑ ▁ que ▁ ↓Ⓕ ▁ Ⓚ 69 ▁ Ⓛ Ⓘ§Ⓙ
+Ⓜ 23 ▁ Ⓝ Ⓔ Barillet ▁ ant ▁ ↑ ▁ e ▁ ↓Ⓕ ▁ Ⓚ 670 ▁ Ⓛ Ⓘ§Ⓙ
+Ⓜ 13 ▁ Ⓝ Ⓔ ancelet ▁ Genevieve ▁ Ⓕ Ⓚ 71 ▁ Ⓛ Ⓘ§Ⓙ
+Ⓜ 134 ▁ Ⓝ Ⓔ fly ▁ à ▁ brie ▁ Ⓕ Ⓚ 72 ▁ Ⓛ Ⓘ§Ⓙ
+Ⓜ 223 ▁ Ⓝ Ⓔ Lameau ▁ J ▁ ↑ ▁ n ▁ ↓Ⓕ ▁ Ⓚ 73 ▁ Ⓛ Ⓘ§Ⓙ
+Ⓜ 404 ▁ ↑ ▁ bis ▁ ↓→× ▁ 275 ▁ ±Ⓝ ▁ Ⓔ× ▁ Lepine ▁ veuve ▁ acquereurs ▁ ± ▁ Provost ▁ Ⓕ Ⓚ 74 ▁ Ⓛ Ⓘ ter ▁ Ⓙ
+Ⓜ 138 ▁ Ⓝ Ⓔ Foucault ▁ louis ▁ Jacq ▁ .Ⓕ ▁ Ⓚ 75 ▁ Ⓛ Ⓘ§Ⓙ
+Ⓜ 416 ▁ Ⓝ Ⓔ Rameau ▁ f ▁ ↑ ▁ ois ▁ ↓ ▁ Joseph ▁ Ⓕ Ⓚ 76 ▁ Ⓛ Ⓘ ter ▁ Ⓙ
+Ⓜ 332 ▁ Ⓝ Ⓔ Montmarthe ▁ V ▁ ↑ ▁ e ▁ ↓ ▁ ant ▁ ↑ ▁ e ▁ ↓Ⓕ ▁ Ⓚ 77 ▁ Ⓛ Ⓘ§Ⓙ
+Ⓜ 332 ▁ ↑ ▁ bis ▁ ↓Ⓝ ▁ Ⓔ Montmartre ▁ f ▁ ↑ ▁ çoise ▁ ↓Ⓕ ▁ Ⓚ 77 ▁ ↑ ▁ bis ▁ ↓Ⓛ ▁ Ⓘ§Ⓙ
+Ⓜ 214 ▁ Ⓝ Ⓔ Josset ▁ J ▁ ↑ ▁ a ▁ ↓ ▁ veuve ▁ Ⓕ Ⓚ 78 ▁ Ⓛ Ⓘ§Ⓙ
+Ⓖ Le ▁ Pont ▁ de ▁ Brye ▁ Ⓗ Ⓔ Coiffier ▁ Désiré ▁ sébastien ▁ Ⓕ Ⓚ 771 ▁ Ⓛ Ⓘ T ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Gervais ▁ adolphe ▁ Ⓕ Ⓚ 771 ▁ Ⓛ Ⓘ T ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Pascallet ▁ Jean ▁ Bte ▁ Claude ▁ Ⓕ Ⓚ 771 ▁ Ⓛ Ⓘ T ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Héricourt ▁ françois ▁ maurice ▁ Ⓕ Ⓚ 772 ▁ Ⓛ Ⓘ T ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Lamcau ▁ Pierre ▁ Jh ▁ achille ▁ Ⓕ Ⓚ 113 ▁ Ⓛ
+Ⓖ§Ⓗ ▁ Ⓔ Soudieux ▁ louis ▁ alphonse ▁ Ⓕ Ⓚ 773 ▁ Ⓛ Ⓘ T ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ voie ▁ publique ▁ Ⓕ Ⓚ 773 ▁ Ⓛ Ⓘ T ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Hudrir ▁ Charles ▁ Clément ▁ Ⓕ Ⓚ 774 ▁ Ⓛ Ⓘ T ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Rameau ▁ Paul ▁ Clément ▁ Ⓕ Ⓚ 774 ▁ Ⓛ Ⓘ T ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Coiffier ▁ Sébastien ▁ Joseph ▁ Ⓕ Ⓚ 775 ▁ Ⓛ Ⓘ T ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Soudieux ▁ Louis ▁ Joseph ▁ Ⓕ Ⓚ 776 ▁ Ⓛ Ⓘ T ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ de ▁ Beaufranchet ▁ frères ▁ Ⓕ Ⓚ 777 ▁ Ⓛ Ⓘ T ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ id ▁ Ⓕ Ⓚ 777 ▁ Ⓛ Ⓘ T ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ voie ▁ publique ▁ Ⓕ Ⓚ 777 ▁ Ⓛ Ⓘ T ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Coiffier ▁ désiré ▁ sébastien ▁ Ⓕ Ⓚ 778 ▁ Ⓛ Ⓘ T ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Rameau ▁ helvébais ▁ françois ▁ Ⓕ Ⓚ 778 ▁ Ⓛ Ⓘ T ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Mouscadet ▁ pierre ▁ louis ▁ Ⓕ Ⓚ 779 ▁ Ⓛ Ⓘ T ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Ancelet ▁ nicolas ▁ J ▁ ↑ ▁ h ▁ ↓Ⓕ ▁ Ⓚ 780 ▁ Ⓛ Ⓘ T ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Misgault ▁ J ▁ ↑ ▁ n ▁ ↓ ▁ B ▁ ↑ ▁ te ▁ ↓ ▁ fils ▁ louis ▁ Ⓕ Ⓚ 781 ▁ Ⓛ Ⓘ T ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Fountain ▁ thomas ▁ taylord ▁ Ⓕ Ⓚ 782 ▁ Ⓛ Ⓘ T ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ id ▁ Ⓕ Ⓚ 783 ▁ Ⓛ Ⓘ T ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Misgault ▁ J ▁ ↑ ▁ n ▁ ↓ ▁ B ▁ ↑ ▁ te ▁ ↓ ▁ fils ▁ louis ▁ Ⓕ Ⓚ 783 ▁ Ⓛ Ⓘ T ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ id ▁ Ⓕ Ⓚ 783 ▁ Ⓛ Ⓘ T ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Fountain ▁ thomas ▁ taylord ▁ Ⓕ Ⓚ 784 ▁ Ⓛ Ⓘ T ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ id ▁ Ⓕ Ⓚ 785 ▁ Ⓛ Ⓘ T ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ id ▁ Ⓕ Ⓚ 786 ▁ Ⓛ Ⓘ T ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ id ▁ Ⓕ Ⓚ 787 ▁ Ⓛ Ⓘ T ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ id ▁ Ⓕ Ⓚ 787 ▁ Ⓛ Ⓘ T ▁ Ⓙ
+Ⓖ les ▁ essertes ▁ Ⓗ Ⓜ 1125 ▁ Ⓝ Ⓔ Goulas ▁ eugène ▁ arsène ▁ Ⓕ Ⓚ 1125 ▁ Ⓛ Ⓘ terre ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Hureau ▁ alfred ▁ anatole ▁ tranquille ▁ Ⓕ Ⓚ§Ⓛ ▁ Ⓘ§Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Imhoff ▁ leopold ▁ Ⓕ Ⓚ§Ⓛ ▁ Ⓘ§Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Jeanneret ▁ Jean ▁ Baptiste ▁ Ⓕ Ⓚ§Ⓛ ▁ Ⓘ§Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Lemasson ▁ hilaire ▁ Ⓕ Ⓚ§Ⓛ ▁ Ⓘ§Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Lorquin ▁ casimir ▁ Ⓕ Ⓚ§Ⓛ ▁ Ⓘ§Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Mauduit ▁ louis ▁ romain ▁ Ⓕ Ⓚ§Ⓛ ▁ Ⓘ§Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Philippe ▁ charles ▁ alexandre ▁ Ⓕ Ⓚ§Ⓛ ▁ Ⓘ§Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Poinsot ▁ pierre ▁ Ⓕ Ⓚ§Ⓛ ▁ Ⓘ§Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Radice ▁ angélo ▁ Ⓕ Ⓚ§Ⓛ ▁ Ⓘ§Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Rignault ▁ Jacques ▁ victor ▁ Ⓕ Ⓚ§Ⓛ ▁ Ⓘ§Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Ripaux ▁ Jean ▁ rené ▁ victor ▁ Ⓕ Ⓚ§Ⓛ ▁ Ⓘ§Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Viroux ▁ Jules ▁ Joseph ▁ Ⓕ Ⓚ§Ⓛ ▁ Ⓘ§Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Wacquant ▁ Jean ▁ B ▁ ↑ ▁ te ▁ ↓Ⓕ ▁ Ⓚ§Ⓛ ▁ Ⓘ§Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Witz ▁ vincent ▁ Ⓕ Ⓚ§Ⓛ ▁ Ⓘ§Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Salanson ▁ et ▁ consorts ▁ Ⓕ Ⓚ 113 ▁ Ⓛ Ⓘ terre ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ id ▁ Ⓕ Ⓚ 114 ▁ Ⓛ Ⓘ terre ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ id ▁ Ⓕ Ⓚ 115 ▁ Ⓛ Ⓘ terre ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Pair ▁ lazare ▁ Ⓕ Ⓚ 116 ▁ Ⓛ Ⓘ pré ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Pretet ▁ Jean ▁ B ▁ ↑ ▁ te ▁ ↓ ▁ théodore ▁ Ⓕ Ⓚ§Ⓛ ▁ Ⓘ§Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Salanson ▁ et ▁ consorts ▁ Ⓕ Ⓚ§Ⓛ ▁ Ⓘ§Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ d ▁ ↑ ▁ e ▁ ↓ ▁ véron ▁ née ▁ Labbé ▁ Julie ▁ Ⓕ Ⓚ§Ⓛ ▁ Ⓘ§Ⓙ
+Ⓖ Ile ▁ au ▁ cointre ▁ Ⓗ Ⓔ id ▁ Ⓕ Ⓚ 117 ▁ Ⓛ Ⓘ oseraie ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Mabilat ▁ simon ▁ Ⓕ Ⓚ 118 ▁ Ⓛ Ⓘ pré ▁ planté ▁ de ▁ → ▁ saules ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Piot ▁ edme ▁ Ⓕ Ⓚ§Ⓛ ▁ Ⓘ id ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ id ▁ Ⓕ Ⓚ§Ⓛ ▁ Ⓘ id ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Sève ▁ antoine ▁ Ⓕ Ⓚ§Ⓛ ▁ Ⓘ id ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ d ▁ ↑ ▁ e ▁ ↓ ▁ véron ▁ née ▁ Labbé ▁ Julie ▁ Ⓕ Ⓚ§Ⓛ ▁ Ⓘ id ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ l ▁ ' ▁ Etat ▁ ( ▁ non ▁ imposable ▁ )Ⓕ ▁ Ⓚ 118 ▁ Ⓛ Ⓘ Barrage ▁ du ▁ port ▁ → ▁ à ▁ l ▁ ' ▁ anglais ▁ Ⓙ
+Ⓖ les ▁ hauts ▁ martinets ▁ Ⓗ Ⓔ Sevin ▁ Jean ▁ Achille ▁ → ▁ Couste ▁ p ▁ ↑ ▁ re ▁ ↓ ▁ noël ▁ Ⓕ Ⓚ 100 ▁ Ⓛ Ⓘ Terre ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Lavenant ▁ louis ▁ f ▁ ↑ ▁ ois ▁ ↓ ▁ J ▁ ↑ ▁ n ▁ ↓Ⓕ ▁ Ⓚ 101 ▁ Ⓛ Ⓘ Terre ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Didouvre ▁ p ▁ ↑ ▁ re ▁ ↓ ▁ f ▁ ↑ ▁ ois ▁ ↓Ⓕ ▁ Ⓚ 102 ▁ Ⓛ Ⓘ Terre ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Didouvre ▁ p ▁ ↑ ▁ re ▁ ↓ ▁ f ▁ ↑ ▁ ois ▁ ↓Ⓕ ▁ Ⓚ 103 ▁ Ⓛ Ⓘ Carrière ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ sassin ▁ jean ▁ andré ▁ Ⓕ Ⓚ 104 ▁ Ⓛ Ⓘ Terre ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Guézard ▁ noël ▁ f ▁ ↑ ▁ ois ▁ ↓Ⓕ ▁ Ⓚ 105 ▁ Ⓛ Ⓘ Terre ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Guézard ▁ noël ▁ f ▁ ↑ ▁ ois ▁ ↓Ⓕ ▁ Ⓚ 106 ▁ Ⓛ Ⓘ Carrière ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Guézard ▁ noël ▁ f ▁ ↑ ▁ ois ▁ ↓Ⓕ ▁ Ⓚ 107 ▁ Ⓛ Ⓘ Terre ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Renard ▁ n ▁ ↑ ▁ as ▁ ↓ ▁ ch ▁ ↑ ▁ e ▁ ↓Ⓕ ▁ Ⓚ 108 ▁ Ⓛ Ⓘ Terre ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Michaud ▁ J ▁ ↑ ▁ n ▁ ↓ ▁ p ▁ ↑ ▁ re ▁ ↓Ⓕ ▁ Ⓚ 109 ▁ Ⓛ Ⓘ Terre ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Godefroy ▁ J ▁ F ▁ denis ▁ →× ▁ Masson ▁ n ▁ ↑ ▁ as ▁ ↓ ▁ J ▁ ↑ ▁ n ▁ ↓±Ⓕ ▁ Ⓚ 110 ▁ Ⓛ Ⓘ Terre ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Mayeux ▁ nicolas ▁ →× ▁ Deplanque ▁ Carriu ▁ ±Ⓕ ▁ Ⓚ 111 ▁ Ⓛ Ⓘ Terre ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Mayeux ▁ nicolas ▁ Ⓕ Ⓚ 112 ▁ Ⓛ Ⓘ Terre ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Sassin ▁ jean ▁ Ⓕ Ⓚ 113 ▁ Ⓛ Ⓘ Terre ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Cousté ▁ p ▁ ↑ ▁ re ▁ noël ▁ Ⓕ Ⓚ 114 ▁ Ⓛ Ⓘ Terre ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Chatelain ▁ ch ▁ ↑ ▁ e ▁ ↓→× ▁ Cousté ▁ p ▁ ↑ ▁ re ▁ ↓ ▁ noël ▁ ±Ⓕ ▁ Ⓚ 115 ▁ Ⓛ Ⓘ Terre ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Lavenant ▁ louis ▁ f ▁ ↑ ▁ ois ▁ ↓ ▁ j ▁ ↑ ▁ n ▁ ↓→× ▁ hospices ▁ de ▁ Paris ▁ ±Ⓕ ▁ Ⓚ 116 ▁ Ⓛ Ⓘ Terre ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ sureau ▁ Emmanuel ▁ p ▁ ↑ ▁ re ▁ ↓→× ▁ Benard ▁ g ▁ ↑ ▁ me ▁ ↓ ▁ h ▁ ↑ ▁ ne ▁ ↓Ⓕ ▁ Ⓚ 117 ▁ Ⓛ Ⓘ Terre ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Letrec ▁ Jean ▁ f ▁ ↑ ▁ ois ▁ ↓→× ▁ auvry ▁ ant ▁ ↑ ▁ e ▁ ↓ ▁ blaise ▁ j ▁ ↑ ▁ n ▁ ↓±Ⓕ ▁ Ⓚ 118 ▁ Ⓛ Ⓘ Terre ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Thibaut ▁ Joseph ▁ germain ▁ →× ▁ Gouvernement ▁ ( ▁ le ▁ )±Ⓕ ▁ Ⓚ 119 ▁ Ⓛ Ⓘ Terre ▁ Ⓙ
+Ⓖ Butte ▁ de ▁ villiers ▁ Ⓗ Ⓔ Gaidelin ▁ Lamy ▁ damas ▁ Ⓕ Ⓚ 155 ▁ Ⓛ Ⓘ terre ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Hatrel ▁ ernest ▁ Ⓕ Ⓚ 156 ▁ Ⓛ Ⓘ terre ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Potel ▁ Jean ▁ Chrysostome ▁ Ⓕ Ⓚ 157 ▁ Ⓛ Ⓘ terre ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Forestier ▁ françois ▁ Ⓕ Ⓚ 158 ▁ Ⓛ Ⓘ terre ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ id ▁ Ⓕ Ⓚ 159 ▁ Ⓛ Ⓘ terre ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ id ▁ Ⓕ Ⓚ 160 ▁ Ⓛ Ⓘ terre ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Hatrel ▁ ernest ▁ Ⓕ Ⓚ 161 ▁ Ⓛ Ⓘ terre ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Gaudelin ▁ Lamy ▁ damas ▁ Ⓕ Ⓚ 162 ▁ Ⓛ Ⓘ terre ▁ Ⓙ
+Ⓖ sous ▁ les ▁ marais ▁ Ⓗ Ⓔ Dodun ▁ de ▁ Kéroman ▁ , ▁ la ▁ marquise ▁ Ⓕ Ⓚ 163 ▁ Ⓛ Ⓘ terre ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Dodun ▁ de ▁ Kéroman ▁ agathe ▁ . ▁ veuve ▁ → ▁ Moussac ▁ Ⓕ Ⓚ id ▁ Ⓛ Ⓘ terre ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Gaidelin ▁ Lamy ▁ dama ▁ Ⓕ Ⓚ 164 ▁ Ⓛ Ⓘ terre ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Salanson ▁ et ▁ consorts ▁ Ⓕ Ⓚ 165 ▁ Ⓛ Ⓘ terre ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ id ▁ Ⓕ Ⓚ 166 ▁ Ⓛ Ⓘ terre ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ id ▁ Ⓕ Ⓚ 167 ▁ Ⓛ Ⓘ terre ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Assistance ▁ publique ▁ Ⓕ Ⓚ 168 ▁ Ⓛ Ⓘ terre ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ id ▁ Ⓕ Ⓚ 168 ▁ ↑ ▁ bis ▁ ↓Ⓛ ▁ Ⓘ terre ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Salanson ▁ et ▁ consorts ▁ Ⓕ Ⓚ 169 ▁ Ⓛ Ⓘ terre ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Gaidelin ▁ Lamy ▁ damas ▁ Ⓕ Ⓚ 169 ▁ ↑ ▁ bis ▁ ↓Ⓛ ▁ Ⓘ terre ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Alfortville ▁ la ▁ C ▁ ↑ ▁ ne ▁ ↓ ▁ ( ▁ non ▁ imposable ▁ )Ⓕ ▁ Ⓚ 170 ▁ Ⓛ Ⓘ canal ▁ d ▁ ' ▁ irigation ▁ Ⓙ
+Ⓖ les ▁ marais ▁ Ⓗ Ⓔ C ▁ ↑ ▁ ie ▁ ↓ ▁ du ▁ chemin ▁ de ▁ fer ▁ de ▁ Paris ▁ à ▁ Lyon ▁ Ⓕ Ⓚ 171 ▁ Ⓛ Ⓘ pré ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Salanson ▁ et ▁ consorts ▁ Ⓕ Ⓚ id ▁ Ⓛ Ⓘ pré ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ C ▁ ↑ ▁ ie ▁ ↓ ▁ du ▁ chemin ▁ de ▁ fer ▁ de ▁ Paris ▁ à ▁ Lyon ▁ Ⓕ Ⓚ 172 ▁ Ⓛ Ⓘ terre ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Salanson ▁ et ▁ consorts ▁ Ⓕ Ⓚ id ▁ Ⓛ Ⓘ terre ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ id ▁ Ⓕ Ⓚ 173 ▁ Ⓛ Ⓘ terre ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Bois ▁ Guillaume ▁ Ⓕ Ⓚ 174 ▁ Ⓛ Ⓘ Pré ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Dodun ▁ de ▁ Kéroman ▁ , ▁ la ▁ marquise ▁ Ⓕ Ⓚ§Ⓛ ▁ Ⓘ§Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Dodun ▁ de ▁ Kéoman ▁ agathe ▁ veuve ▁ → ▁ Moussac ▁ Ⓕ Ⓚ§Ⓛ ▁ Ⓘ§Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Hamel ▁ auguste ▁ gabriel ▁ Ⓕ Ⓚ§Ⓛ ▁ Ⓘ§Ⓙ
+Ⓜ 85 ▁ Ⓝ Ⓔ Duchamps ▁ → ▁ pierre ▁ Ⓕ Ⓚ 496 ▁ Ⓛ Ⓘ Vigne ▁ Ⓙ
+Ⓜ 141 ▁ Ⓝ Ⓔ Marchand ▁ → ▁ à ▁ Paris ▁ Ⓕ Ⓚ 497 ▁ Ⓛ Ⓘ id ▁ Ⓙ
+Ⓜ 80 ▁ Ⓝ Ⓔ Dubois ▁ serrurier ▁ Ⓕ Ⓚ 498 ▁ Ⓛ Ⓘ Terre ▁ Ⓙ
+Ⓜ 104 ▁ Ⓝ Ⓔ Gauthier ▁ Louis ▁ Ⓕ Ⓚ 499 ▁ Ⓛ Ⓘ id ▁ Ⓙ
+Ⓜ 153 ▁ Ⓝ Ⓔ Mercier ▁ Denis ▁ Ⓕ Ⓚ 500 ▁ Ⓛ Ⓘ id ▁ Ⓙ
+Ⓜ 164 ▁ Ⓝ Ⓔ Ferrière ▁ Ⓕ Ⓚ 501 ▁ Ⓛ Ⓘ Vigne ▁ Ⓙ
+Ⓜ 106 ▁ Ⓝ Ⓔ Gauthier ▁ Veuve ▁ Ⓕ Ⓚ 502 ▁ Ⓛ Ⓘ id ▁ Ⓙ
+Ⓜ 149 ▁ Ⓝ Ⓔ Martin ▁ Simon ▁ Ⓕ Ⓚ 503 ▁ Ⓛ Ⓘ Terre ▁ Ⓙ
+Ⓜ 73 ▁ Ⓝ Ⓔ Dauvet ▁ Denis ▁ Ⓕ Ⓚ 504 ▁ Ⓛ Ⓘ id ▁ Ⓙ
+Ⓜ 192 ▁ Ⓝ Ⓔ Thivot ▁ maçon ▁ Ⓕ Ⓚ 505 ▁ Ⓛ Ⓘ id ▁ Ⓙ
+Ⓜ 127 ▁ Ⓝ Ⓔ Vecollant ▁ Claude ▁ → ▁ a ▁ Villeneuve ▁ Ⓕ Ⓚ 506 ▁ Ⓛ Ⓘ id ▁ Ⓙ
+Ⓜ 105 ▁ Ⓝ Ⓔ Gauthier ▁ J ▁ ↑ ▁ n ▁ ↓ ▁ Pierre ▁ Ⓕ Ⓚ 507 ▁ Ⓛ Ⓘ Vigne ▁ Ⓙ
+Ⓜ 123 ▁ Ⓝ Ⓔ Larmée ▁ Ⓕ Ⓚ 508 ▁ Ⓛ Ⓘ id ▁ Ⓙ
+Ⓜ 69 ▁ Ⓝ Ⓔ Dameville ▁ F ▁ ↑ ▁ ois ▁ ↓ ▁ ainé ▁ Ⓕ Ⓚ 509 ▁ Ⓛ Ⓘ Terre ▁ Ⓙ
+Ⓜ 111 ▁ Ⓝ Ⓔ hebert ▁ à ▁ Villeneuve ▁ Ⓕ Ⓚ 510 ▁ Ⓛ Ⓘ id ▁ Ⓙ
+Ⓜ 42 ▁ Ⓝ Ⓔ Chayout ▁ michel ▁ → ▁ a ▁ Villeneuve ▁ Ⓕ Ⓚ 481 ▁ Ⓛ Ⓘ Vigne ▁ Ⓙ
+Ⓜ 130 ▁ Ⓝ Ⓔ Lecollant ▁ Veuve ▁ Pierre ▁ → ▁ à ▁ Limeil ▁ Ⓕ Ⓚ 482 ▁ Ⓛ Ⓘ× ▁ Terre ▁ ±→ ▁ Vigne ▁ Ⓙ
+Ⓜ 65 ▁ Ⓝ Ⓔ Cuinier ▁ à ▁ Villeneuve ▁ Ⓕ Ⓚ 489 ▁ Ⓛ Ⓘ id ▁ Ⓙ
+Ⓜ 68 ▁ Ⓝ Ⓔ Dameville ▁ J ▁ ↑ ▁ es ▁ ↓Ⓕ ▁ Ⓚ 484 ▁ Ⓛ Ⓘ Terre ▁ →× ▁ Vigne ▁ ±→ ▁ terre ▁ Ⓙ
+Ⓜ 73 ▁ Ⓝ Ⓔ Dauvet ▁ denis ▁ Ⓕ Ⓚ 485 ▁ Ⓛ Ⓘ Terre ▁ Ⓙ
+Ⓜ 205 ▁ Ⓝ Ⓔ Gauthier ▁ J ▁ ↑ ▁ n ▁ ↓ ▁ Pierre ▁ Ⓕ Ⓚ 486 ▁ Ⓛ Ⓘ Vigne ▁ Ⓙ
+Ⓜ 85 ▁ Ⓝ Ⓔ Duchamps ▁ Pierre ▁ → ▁ à ▁ id ▁ Ⓕ Ⓚ 487 ▁ Ⓛ Ⓘ id ▁ Ⓙ
+Ⓜ 92 ▁ Ⓝ Ⓔ ferrière ▁ Louis ▁ Ⓕ Ⓚ 488 ▁ Ⓛ Ⓘ id ▁ Ⓙ
+Ⓜ 169 ▁ Ⓝ Ⓔ Pierre ▁ Pierre ▁ Ⓕ Ⓚ 489 ▁ Ⓛ Ⓘ Terre ▁ Ⓙ
+Ⓜ 167 ▁ Ⓝ Ⓔ Pierre ▁ Marguerite ▁ Ⓕ Ⓚ 490 ▁ Ⓛ Ⓘ id ▁ Ⓙ
+Ⓜ 196 ▁ Ⓝ Ⓔ Tricart ▁ V ▁ ↑ ▁ e ▁ ↓ ▁ femme ▁ → ▁ duchesne ▁ Ⓕ Ⓚ 491 ▁ Ⓛ Ⓘ id ▁ Ⓙ
+Ⓜ 77 ▁ Ⓝ Ⓔ Desgrouts ▁ Ⓕ Ⓚ 492 ▁ Ⓛ Ⓘ Vigne ▁ Ⓙ
+Ⓜ 65 ▁ Ⓝ Ⓔ Cuinier ▁ Ⓕ Ⓚ 493 ▁ Ⓛ Ⓘ Terre ▁ Ⓙ
+Ⓜ 9 ▁ Ⓝ Ⓔ Barreau ▁ Guillaume ▁ Ⓕ Ⓚ 494 ▁ Ⓛ Ⓘ id ▁ Ⓙ
+Ⓜ 164 ▁ Ⓝ Ⓔ Perriere ▁ Cabaretie ▁ Ⓕ Ⓚ 495 ▁ Ⓛ Ⓘ Vigne ▁ Ⓙ
+Ⓖ Le ▁ Pommier ▁ de ▁ l ▁ ' ▁ Eglise ▁ Ⓗ Ⓔ Aubert ▁ marie ▁ Ⓕ Ⓚ 1 ▁ Ⓛ Ⓘ T ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Cambray ▁ Ⓕ Ⓚ 1 ▁ Ⓛ Ⓘ T ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Charpentier ▁ charles ▁ michel ▁ Ⓕ Ⓚ 1 ▁ Ⓛ Ⓘ T ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Chauvin ▁ Ⓕ Ⓚ 1 ▁ Ⓛ Ⓘ T ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Collignon ▁ Ⓕ Ⓚ 1 ▁ Ⓛ Ⓘ T ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Delacour ▁ françois ▁ Ⓕ Ⓚ 1 ▁ Ⓛ Ⓘ T ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Delair ▁ alphonse ▁ augustin ▁ Ⓕ Ⓚ 1 ▁ Ⓛ Ⓘ T ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Delair ▁ victor ▁ Ⓕ Ⓚ 1 ▁ Ⓛ Ⓘ T ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ id ▁ Ⓕ Ⓚ 1 ▁ Ⓛ Ⓘ T ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Ducreux ▁ Michel ▁ alfred ▁ Ⓕ Ⓚ 1 ▁ Ⓛ Ⓘ T ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ id ▁ Ⓕ Ⓚ 1 ▁ Ⓛ Ⓘ T ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Florin ▁ Ⓕ Ⓚ 1 ▁ Ⓛ Ⓘ T ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Giraud ▁ pierre ▁ Ⓕ Ⓚ 1 ▁ Ⓛ Ⓘ T ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Guillain ▁ Pierre ▁ françois ▁ Ⓕ Ⓚ 1 ▁ Ⓛ Ⓘ T ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Hueber ▁ Joseph ▁ Ⓕ Ⓚ 1 ▁ Ⓛ Ⓘ T ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Krier ▁ charles ▁ Ⓕ Ⓚ 1 ▁ Ⓛ Ⓘ T ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Legallois ▁ eugène ▁ Ⓕ Ⓚ 1 ▁ Ⓛ Ⓘ T ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Maillard ▁ louis ▁ Ⓕ Ⓚ 1 ▁ Ⓛ Ⓘ T ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Maingot ▁ dame ▁ née ▁ Maillard ▁ Ⓕ Ⓚ 1 ▁ Ⓛ Ⓘ T ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Marmora ▁ Benoist ▁ Ⓕ Ⓚ 1 ▁ Ⓛ Ⓘ T ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Mercier ▁ Ⓕ Ⓚ 1 ▁ Ⓛ Ⓘ T ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Rollin ▁ Ⓕ Ⓚ 1 ▁ Ⓛ Ⓘ T ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ id ▁ Ⓕ Ⓚ 1 ▁ Ⓛ Ⓘ T ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ id ▁ Ⓕ Ⓚ 1 ▁ Ⓛ Ⓘ T ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Roses ▁ Ⓕ Ⓚ 1 ▁ Ⓛ Ⓘ T ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Vannieuwenhuyss ▁ Ⓕ Ⓚ 1 ▁ Ⓛ Ⓘ T ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ voie ▁ publique ▁ Ⓕ Ⓚ 1 ▁ Ⓛ Ⓘ T ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Ledoux ▁ alexandre ▁ eugène ▁ Ⓕ Ⓚ 2 ▁ Ⓛ Ⓘ T ▁ Ⓙ
+Ⓖ Petits ▁ près ▁ Ⓗ Ⓔ Cochet ▁ mineurs ▁ Ⓕ Ⓚ 239 ▁ Ⓛ Ⓘ terre ▁ Ⓙ
+Ⓖ id ▁ Ⓗ Ⓔ Leroy ▁ Clément ▁ Ⓕ Ⓚ 240 ▁ Ⓛ Ⓘ§Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Cochet ▁ mineurs ▁ Ⓕ Ⓚ 240 ▁ ↑ ▁ bis ▁ ↓Ⓛ ▁ Ⓘ§Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Leroy ▁ J ▁ ↑ ▁ n ▁ ↓Ⓕ ▁ Ⓚ 241 ▁ Ⓛ Ⓘ§Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Cochet ▁ Georges ▁ Ⓕ Ⓚ 242 ▁ Ⓛ Ⓘ§Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Bourdillat ▁ Ⓕ Ⓚ 243 ▁ Ⓛ Ⓘ§Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Cochet ▁ Gabriel ▁ Ⓕ Ⓚ 244 ▁ Ⓛ Ⓘ§Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ V ▁ ↑ ▁ ve ▁ ↓ ▁ Collet ▁ Ⓕ Ⓚ 245 ▁ Ⓛ Ⓘ§Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Creté ▁ hector ▁ Ⓕ Ⓚ 246 ▁ Ⓛ Ⓘ§Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Noblet ▁ Ⓕ Ⓚ 247 ▁ Ⓛ Ⓘ§Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Mayeux ▁ Ⓕ Ⓚ 248 ▁ Ⓛ Ⓘ§Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Bourdillat ▁ J ▁ ↑ ▁ n ▁ ↓Ⓕ ▁ Ⓚ 249 ▁ Ⓛ Ⓘ§Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Leroy ▁ Gilles ▁ Ⓕ Ⓚ 250 ▁ Ⓛ Ⓘ§Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Rémoud ▁ Charles ▁ Ⓕ Ⓚ 251 ▁ Ⓛ Ⓘ§Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Cochet ▁ J ▁ ↑ ▁ n ▁ ↓Ⓕ ▁ Ⓚ 251 ▁ ↑ ▁ bis ▁ ↓Ⓛ ▁ Ⓘ§Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Pigeron ▁ Ⓕ Ⓚ 252 ▁ Ⓛ Ⓘ§Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Leroy ▁ J ▁ ↑ ▁ n ▁ ↓Ⓕ ▁ Ⓚ 253 ▁ Ⓛ Ⓘ§Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Collet ▁ marie ▁ Ⓕ Ⓚ 254 ▁ Ⓛ Ⓘ§Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Baron ▁ N ▁ ↑ ▁ as ▁ ↓Ⓕ ▁ Ⓚ 255 ▁ Ⓛ Ⓘ§Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Pillet ▁ Ⓕ Ⓚ 256 ▁ Ⓛ Ⓘ§Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Mignière ▁ Claude ▁ Ⓕ Ⓚ 257 ▁ Ⓛ Ⓘ§Ⓙ
+Ⓖ Epinette ▁ →Ⓗ ▁ Ⓔ Pigeron ▁ Ⓕ Ⓚ 258 ▁ Ⓛ Ⓘ§Ⓙ
+Ⓖ ou ▁ → ▁ Croix ▁ Jarry ▁ Ⓗ Ⓔ Les ▁ × ▁ Corday ▁ ± ▁ hospices ▁ Ⓕ Ⓚ 259 ▁ Ⓛ Ⓘ§Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Leroy ▁ F ▁ ↑ ▁ ois ▁ ↓Ⓕ ▁ Ⓚ 260 ▁ Ⓛ Ⓘ§Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Bourdillat ▁ Ⓕ Ⓚ 261 ▁ Ⓛ Ⓘ§Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ V ▁ ↑ ▁ e ▁ ↓ ▁ Moutard ▁ Ⓕ Ⓚ 262 ▁ Ⓛ Ⓘ§Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Renoult ▁ J ▁ ↑ ▁ n ▁ ↓ ▁ B ▁ ↑ ▁ te ▁ ↓Ⓕ ▁ Ⓚ 263 ▁ Ⓛ Ⓘ§Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Chompré ▁ maurice ▁ Ⓕ Ⓚ 264 ▁ Ⓛ Ⓘ§Ⓙ
+Ⓖ Les ▁ perreux ▁ Ⓗ Ⓜ 149 ▁ Ⓝ Ⓔ Javelot ▁ michel ▁ Ⓕ Ⓚ 586 ▁ Ⓛ Ⓘ Vigne ▁ Ⓙ
+Ⓖ Ø ▁ Ⓗ Ⓜ 111 ▁ Ⓝ Ⓔ Gachet ▁ J ▁ ↑ ▁ n ▁ ↓ ▁ Ch ▁ ↑ ▁ les ▁ ↓→ ▁ Gendre ▁ le ▁ maire ▁ Ⓕ Ⓚ 587 ▁ Ⓛ Ⓘ id ▁ Ⓙ
+Ⓖ Ø ▁ Ⓗ Ⓜ 198 ▁ Ⓝ Ⓔ hideline ▁ Louis ▁ Ⓕ Ⓚ 588 ▁ Ⓛ Ⓘ id ▁ Ⓙ
+Ⓖ Ø ▁ Ⓗ Ⓜ 115 ▁ Ⓝ Ⓔ Gachet ▁ à ▁ Paris ▁ Ⓕ Ⓚ 115 ▁ Ⓛ Ⓘ Terre ▁ → ▁ à ▁ vigne ▁ Ⓙ
+Ⓖ Ø ▁ Ⓗ Ⓜ 162 ▁ Ⓝ Ⓔ Laurent ▁ Veuve ▁ Ⓕ Ⓚ 590 ▁ Ⓛ Ⓘ Vigne ▁ Ⓙ
+Ⓖ Ø ▁ Ⓗ Ⓜ 207 ▁ Ⓝ Ⓔ Meunier ▁ Cadet ▁ Ⓕ Ⓚ 591 ▁ Ⓛ Ⓘ id ▁ Ⓙ
+Ⓜ 173 ▁ Ⓝ Ⓔ Le ▁ Grain ▁ ↑ ▁ Joseph ▁ ↓ ▁ leonard ▁ Ⓕ Ⓚ 592 ▁ Ⓛ Ⓘ id ▁ Ⓙ
+Ⓜ 235 ▁ Ⓝ Ⓔ Perrier ▁ Pierre ▁ Ⓕ Ⓚ 593 ▁ Ⓛ Ⓘ id ▁ Ⓙ
+Ⓜ 198 ▁ Ⓝ Ⓔ Martin ▁ Maréchal ▁ Ⓕ Ⓚ 594 ▁ Ⓛ Ⓘ id ▁ Ⓙ
+Ⓜ 4 ▁ Ⓝ Ⓔ Arpentinier ▁ f ▁ ↑ ▁ ois ▁ ↓Ⓕ ▁ Ⓚ 595 ▁ Ⓛ Ⓘ Terre ▁ → ▁ a ▁ vigne ▁ Ⓙ
+Ⓜ 106 ▁ Ⓝ Ⓔ fouré ▁ f ▁ ↑ ▁ ois ▁ ↓Ⓕ ▁ Ⓚ 596 ▁ Ⓛ Ⓘ Vigne ▁ Ⓙ
+Ⓜ 84 ▁ Ⓝ Ⓔ David ▁ Pierre ▁ Ⓕ Ⓚ 597 ▁ Ⓛ Ⓘ id ▁ Ⓙ
+Ⓜ 11 ▁ Ⓝ Ⓔ aubert ▁ Jacques ▁ Ⓕ Ⓚ 598 ▁ Ⓛ Ⓘ id ▁ Ⓙ
+Ⓜ 50 ▁ Ⓝ Ⓔ Camot ▁ × ▁ Gervaix ▁ ± ▁ Pierre ▁ Ⓕ Ⓚ 599 ▁ Ⓛ Ⓘ Terre ▁ → ▁ à ▁ vigne ▁ Ⓙ
+Ⓜ 11 ▁ Ⓝ Ⓔ aubert ▁ Jacques ▁ Ⓕ Ⓚ 600 ▁ Ⓛ Ⓘ Vigne ▁ Ⓙ
+Ⓖ La ▁ Croix ▁ de ▁ → ▁ Seine ▁ Ⓗ Ⓜ 1 ▁ ↑ ▁ bis ▁ ↓→× ▁ 26 ▁ ±Ⓝ ▁ Ⓔ Ancelle ▁ à ▁ Evreux ▁ → ▁ Bennet ▁ V ▁ ↑ ▁ e ▁ ↓Ⓕ ▁ Ⓚ 271 ▁ Ⓛ Ⓘ terre ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓜ 234 ▁ Ⓝ Ⓔ Pvotait ▁ V ▁ .↑ ▁ e ▁ ↓ ▁ Claude ▁ Ⓕ Ⓚ 272 ▁ Ⓛ Ⓘ terre ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓜ× ▁ 143 ▁ ±Ⓝ ▁ Ⓔ× ▁ huten ▁ ±Ⓕ ▁ Ⓚ× ▁ 272bis ▁ ±Ⓛ ▁ Ⓘ× ▁ terre ▁ ±Ⓙ
+Ⓖ§Ⓗ ▁ Ⓜ 194 ▁ Ⓝ Ⓔ Monroy ▁ Ⓕ Ⓚ 273 ▁ Ⓛ Ⓘ terre ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓜ 237 ▁ Ⓝ Ⓔ Ragues ▁ Ⓕ Ⓚ 274 ▁ Ⓛ Ⓘ terre ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓜ 143 ▁ Ⓝ Ⓔ hutin ▁ Ⓕ Ⓚ 275 ▁ Ⓛ Ⓘ terre ▁ Ⓙ
+Ⓖ La ▁ plaine ▁ → ▁ basse ▁ Ⓗ Ⓜ 148 ▁ Ⓝ Ⓔ 276 ▁ Ⓕ Ⓚ Jariel ▁ h ▁ ↑ ▁ er ▁ ↓Ⓛ ▁ Ⓘ terre ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓜ 260 ▁ Ⓝ Ⓔ Veron ▁ V ▁ ↑ ▁ e ▁ ↓Ⓕ ▁ Ⓚ 277 ▁ Ⓛ Ⓘ terre ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓜ 100 ▁ Ⓝ Ⓔ Dutray ▁ Ⓕ Ⓚ 278 ▁ Ⓛ Ⓘ terre ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓜ 152 ▁ Ⓝ Ⓔ Jolly ▁ hippolite ▁ Ⓕ Ⓚ 279 ▁ Ⓛ Ⓘ terre ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓜ× ▁ 40 ▁ ± ▁ 37 ▁ Ⓝ Ⓔ Bracony ▁ V ▁ ↑ ▁ e ▁ ↓ ▁ Pierre ▁ Ⓕ Ⓚ 280 ▁ Ⓛ Ⓘ terre ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓜ 100 ▁ Ⓝ Ⓔ Dutray ▁ Ⓕ Ⓚ 281 ▁ Ⓛ Ⓘ terre ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓜ 66 ▁ Ⓝ Ⓔ Cotty ▁ Ⓕ Ⓚ 282 ▁ Ⓛ Ⓘ terre ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓜ 122 ▁ Ⓝ Ⓔ Grangé ▁ Ⓕ Ⓚ 283 ▁ Ⓛ Ⓘ terre ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓜ 277 ▁ ↑ ▁ bis ▁ ↓→× ▁ 93 ▁ ±Ⓝ ▁ Ⓔ Vignet ▁ ❌❌ ▁ à ▁ choisy ▁ →× ▁ Deforges ▁ ± ▁ à ▁ Corbeil ▁ Ⓕ Ⓚ 284 ▁ Ⓛ Ⓘ terre ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓜ 89 ▁ Ⓝ Ⓔ antoine ▁ → ▁ Delanoue ▁ × ▁ J ▁ ↑ ▁ n ▁ ↓±Ⓕ ▁ Ⓚ 284 ▁ Ⓛ Ⓘ terre ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓜ 259 ▁ ↑ ▁ bis ▁ ↓Ⓝ ▁ Ⓔ Saugin ▁ F ▁ ↑ ▁ ois ▁ ↓Ⓕ ▁ Ⓚ 285 ▁ Ⓛ Ⓘ terre ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓜ 86 ▁ ↑ ▁ bis ▁ ↓Ⓝ ▁ Ⓔ Delanoue ▁ toussaint ▁ Jardinier ▁ à ▁ Brie ▁ Ⓕ Ⓚ 285 ▁ ↑ ▁ bis ▁ ↓Ⓛ ▁ Ⓘ terre ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓜ 84 ▁ Ⓝ Ⓔ Delanoue ▁ J ▁ ↑ ▁ n ▁ ↓ ▁ bapt ▁ à ▁ Grinon ▁ Ⓕ Ⓚ 285 ▁ ↑ ▁ ter ▁ ↓Ⓛ ▁ Ⓘ terre ▁ Ⓙ
+Ⓖ Regard ▁ de ▁ la ▁ → ▁ Loge ▁ Ⓗ Ⓔ Chaillou ▁ pierre ▁ julien ▁ Ⓕ Ⓚ 294 ▁ Ⓛ Ⓘ T ▁ Ⓙ Ⓐ 789p ▁ → ▁ et ▁ → ▁ 790p ▁ Ⓑ Ⓒ☼Ⓓ
+Ⓖ§Ⓗ ▁ Ⓔ Chaillou ▁ Louis ▁ frédéric ▁ Ⓕ Ⓚ 295 ▁ Ⓛ Ⓘ T ▁ Ⓙ Ⓐ 789p ▁ Ⓑ Ⓒ☼Ⓓ
+Ⓖ§Ⓗ ▁ Ⓔ Landry ▁ Ⓕ Ⓚ 296 ▁ Ⓛ Ⓘ T ▁ Ⓙ Ⓐ 783 ▁ → ▁ 785 ▁ → ▁ 791 ▁ → ▁ 792 ▁ → ▁ 795 ▁ → ▁ 796 ▁ → ▁ 797 ▁ → ▁ 797 ▁ ↑ ▁ bis ▁ ↓→ ▁ 798 ▁ Ⓑ Ⓒ T ▁ Ⓓ
+Ⓖ§Ⓗ ▁ Ⓔ Outrequin ▁ Ⓕ Ⓚ 297 ▁ Ⓛ Ⓘ T ▁ Ⓙ Ⓐ 787 ▁ Ⓑ Ⓒ Ø ▁ Ⓓ
+Ⓖ§Ⓗ ▁ Ⓔ Maufra ▁ à ▁ Paris ▁ Ⓕ Ⓚ 298 ▁ Ⓛ Ⓘ T ▁ Ⓙ Ⓐ 786p ▁ Ⓑ Ⓒ Ø ▁ Ⓓ
+Ⓖ§Ⓗ ▁ Ⓔ Mozet ▁ patissier ▁ Ⓕ Ⓚ 299 ▁ Ⓛ Ⓘ T ▁ Ⓙ Ⓐ 786p ▁ Ⓑ Ⓒ Ø ▁ Ⓓ
+Ⓖ§Ⓗ ▁ Ⓜ 87 ▁ Ⓝ Ⓔ Gouvernement ▁ ( ▁ le ▁ )Ⓕ ▁ Ⓚ 300 ▁ Ⓛ Ⓘ Regard ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Petit ▁ pierre ▁ F ▁ ↑ ▁ ois ▁ ↓Ⓕ ▁ Ⓚ 301 ▁ Ⓛ Ⓘ T ▁ Ⓙ Ⓐ 782 ▁ Ⓑ Ⓒ Ø ▁ Ⓓ
+Ⓖ§Ⓗ ▁ Ⓔ Chaillou ▁ pierre ▁ julien ▁ Ⓕ Ⓚ 302 ▁ Ⓛ Ⓘ T ▁ Ⓙ Ⓐ 781 ▁ Ⓑ Ⓒ☼Ⓓ
+Ⓖ§Ⓗ ▁ Ⓔ Chaillou ▁ J ▁ ↑ ▁ ques ▁ ↓ ▁ J ▁ ↑ ▁ n ▁ ↓ ▁ marie ▁ Ⓕ Ⓚ 303 ▁ Ⓛ Ⓘ T ▁ Ⓙ Ⓐ 780 ▁ Ⓑ Ⓒ☼Ⓓ
+Ⓖ§Ⓗ ▁ Ⓔ Chaillou ▁ pierre ▁ Julien ▁ Ⓕ Ⓚ 304 ▁ Ⓛ Ⓘ T ▁ Ⓙ Ⓐ 779 ▁ Ⓑ Ⓒ T ▁ Ⓓ
+Ⓖ§Ⓗ ▁ Ⓔ Bauchet ▁ jean ▁ louis ▁ Ⓕ Ⓚ 305 ▁ Ⓛ Ⓘ T ▁ Ⓙ Ⓐ 778 ▁ Ⓑ Ⓒ Ø ▁ Ⓓ
+Ⓖ§Ⓗ ▁ Ⓔ Boulogne ▁ philippe ▁ henry ▁ Ⓕ Ⓚ 306 ▁ Ⓛ Ⓘ T ▁ Ⓙ Ⓐ 777 ▁ Ⓑ Ⓒ Ø ▁ Ⓓ
+Ⓖ§Ⓗ ▁ Ⓔ Menager ▁ Jean ▁ Denis ▁ Josée ▁ Ⓕ Ⓚ 307 ▁ Ⓛ Ⓘ T ▁ Ⓙ Ⓐ 776 ▁ Ⓑ Ⓒ Ø ▁ Ⓓ
+Ⓜ 77 ▁ Ⓝ Ⓔ Desgrouets ▁ B ▁ .↑ ▁ te ▁ ↓Ⓕ ▁ Ⓚ 406 ▁ Ⓛ Ⓘ Terre ▁ Ⓙ
+Ⓜ 93 ▁ →× ▁ 68 ▁ ±Ⓝ ▁ Ⓔ ferriere ▁ pierre ▁ →× ▁ Courtois ▁ Veuve ▁ Louis ▁ ±Ⓕ ▁ Ⓚ 407 ▁ Ⓛ Ⓘ id ▁ Ⓙ
+Ⓜ 70 ▁ →× ▁ 62 ▁ ±Ⓝ ▁ Ⓔ Pilleux ▁ →× ▁ Courtois ▁ ± ▁ Julienne ▁ fille ▁ Ⓕ Ⓚ 408 ▁ Ⓛ Ⓘ id ▁ Ⓙ
+Ⓜ 117 ▁ Ⓝ Ⓔ Jarrier ▁ Joseph ▁ ­ ▁ V ▁ ↑ ▁ on ▁ ↓ ▁ × ▁ fermier ▁ ±→ ▁ à ▁ Oravel ▁ Ⓕ Ⓚ 409 ▁ Ⓛ Ⓘ id ▁ Ⓙ
+Ⓜ 9 ▁ Ⓝ Ⓔ Barreau ▁ G ▁ ↑ ▁ me ▁ ↓ ▁ maçon ▁ → ▁ à ▁ Valenton ▁ Ⓕ Ⓚ 410 ▁ Ⓛ Ⓘ id ▁ Ⓙ
+Ⓜ 40 ▁ Ⓝ Ⓔ Chalopin ▁ batelier ▁ Ⓕ Ⓚ 411 ▁ Ⓛ Ⓘ id ▁ Ⓙ
+Ⓜ 181 ▁ Ⓝ Ⓔ Mayé ▁ Veuve ▁ Ⓕ Ⓚ 412 ▁ Ⓛ Ⓘ id ▁ Ⓙ
+Ⓜ 9 ▁ Ⓝ Ⓔ Barreau ▁ G ▁ ↑ ▁ me ▁ ↓ ▁ maçon ▁ Ⓕ Ⓚ 413 ▁ Ⓛ Ⓘ id ▁ Ⓙ
+Ⓜ 117 ▁ Ⓝ Ⓔ Jarrier ▁ Joseph ▁ Ⓕ Ⓚ 414 ▁ Ⓛ Ⓘ id ▁ Ⓙ
+Ⓜ 31 ▁ →× ▁ 197 ▁ ±Ⓝ ▁ Ⓔ Bouttenois ▁ →× ▁ Thuillier ▁ Louis ▁ ±Ⓕ ▁ Ⓚ× ▁ 415 ▁ ±Ⓛ ▁ Ⓘ id ▁ Ⓙ
+Ⓜ 14 ▁ Ⓝ Ⓔ Belin ▁ Veuve ▁ Ⓕ Ⓚ 416 ▁ Ⓛ Ⓘ id ▁ Ⓙ
+Ⓜ 104 ▁ Ⓝ Ⓔ Gauthier ▁ Louis ▁ → ▁ à ▁ Valenton ▁ Ⓕ Ⓚ 417 ▁ Ⓛ Ⓘ id ▁ Ⓙ
+Ⓜ 186 ▁ Ⓝ Ⓔ Seble ▁ Nicolas ▁ Ⓕ Ⓚ 418 ▁ Ⓛ Ⓘ id ▁ Ⓙ
+Ⓜ 9 ▁ Ⓝ Ⓔ Barreau ▁ G ▁ ↑ ▁ me ▁ ↓ ▁ a ▁ Valenton ▁ Ⓕ Ⓚ 419 ▁ Ⓛ Ⓘ id ▁ Ⓙ
+Ⓜ 9 ▁ Ⓝ Ⓔ id ▁ Ⓕ Ⓚ 420 ▁ Ⓛ Ⓘ id ▁ Ⓙ
+Ⓖ Rue ▁ des ▁ Carrières ▁ Ⓗ Ⓔ Enau ▁ nourrisseur ▁ Ⓕ Ⓚ 281 ▁ Ⓛ Ⓘ Jardin ▁ Ⓙ Ⓐ 207 ▁ Ⓑ Ⓒ Jardin ▁ Ⓓ
+Ⓖ§Ⓗ ▁ Ⓔ idem ▁ Ⓕ Ⓚ 282 ▁ Ⓛ Ⓘ Jardin ▁ Ⓙ Ⓐ 208 ▁ Ⓑ Ⓒ Jardin ▁ Ⓓ
+Ⓖ§Ⓗ ▁ Ⓔ idem ▁ Ⓕ Ⓚ 283 ▁ Ⓛ Ⓘ Jardin ▁ Ⓙ Ⓐ 208 ▁ Ⓑ Ⓒ Jardin ▁ Ⓓ
+Ⓖ chemin ▁ de ▁ → ▁ conflans ▁ à ▁ cha ▁ → ▁ renton ▁ Ⓗ Ⓔ Bourgoin ▁ inspecteur ▁ → ▁ des ▁ portes ▁ de ▁ la ▁ chambre ▁ des ▁ → ▁ députés ▁ Ⓕ Ⓚ 284 ▁ Ⓛ Ⓘ Jardin ▁ Ⓙ Ⓐ 209 ▁ Ⓑ Ⓒ Jardin ▁ Ⓓ
+Ⓖ§Ⓗ ▁ Ⓔ idem ▁ Ⓕ Ⓚ 284 ▁ Ⓛ Ⓘ Jardin ▁ Ⓙ Ⓐ 209p ▁ Ⓑ Ⓒ Jardin ▁ Ⓓ
+Ⓖ§Ⓗ ▁ Ⓔ L ▁ ' ▁ Etat ▁ Ⓕ Ⓚ 286 ▁ Ⓛ Ⓘ regard ▁ Ⓙ Ⓐ 210 ▁ Ⓑ Ⓒ regard ▁ non ▁ imposable ▁ Ⓓ
+Ⓖ§Ⓗ ▁ Ⓔ Bourgoin ▁ inspecteur ▁ Ⓕ Ⓚ 287 ▁ Ⓛ Ⓘ maison ▁ Ⓙ Ⓐ 211 ▁ Ⓑ Ⓒ maison ▁ Ⓓ
+Ⓖ§Ⓗ ▁ Ⓔ idem ▁ Ⓕ Ⓚ 288 ▁ Ⓛ Ⓘ batiment ▁ Ⓙ Ⓐ 212 ▁ Ⓑ Ⓒ bât ▁ Ⓓ
+Ⓖ§Ⓗ ▁ Ⓔ Guidal ▁ paul ▁ Ⓕ Ⓚ 289 ▁ Ⓛ Ⓘ Jardin ▁ Ⓙ Ⓐ 213 ▁ → ▁ 215 ▁ → ▁ 216 ▁ → ▁ 217 ▁ → ▁ 218 ▁ Ⓑ Ⓒ Jardin ▁ → ▁ Cour ▁ B ▁ ↑ ▁ te ▁ ↓→ ▁ Jardin ▁ → ▁ terrasse ▁ → ▁ jardin ▁ Ⓓ
+Ⓖ Rue ▁ des ▁ →Ⓗ ▁ Ⓔ Guidal ▁ paul ▁ Ⓕ Ⓚ 290 ▁ Ⓛ Ⓘ maison ▁ Ⓙ Ⓐ 214 ▁ Ⓑ Ⓒ pavillon ▁ Ⓓ
+Ⓖ Carrières ▁ Ⓗ Ⓔ idem ▁ Ⓕ Ⓚ 291 ▁ Ⓛ Ⓘ maison ▁ Ⓙ Ⓐ 215p ▁ Ⓑ Ⓒ cour ▁ et ▁ B ▁ ↑ ▁ te ▁ ↓Ⓓ
+Ⓖ§Ⓗ ▁ Ⓔ idem ▁ Ⓕ Ⓚ 292 ▁ Ⓛ Ⓘ bâtiment ▁ Ⓙ Ⓐ 218p ▁ Ⓑ Ⓒ Jardin ▁ Ⓓ
+Ⓖ§Ⓗ ▁ Ⓔ Société ▁ de ▁ la ▁ gare ▁ Ⓕ Ⓚ 213 ▁ Ⓛ Ⓘ maison ▁ bt ▁ → ▁ et ▁ cour ▁ Ⓙ Ⓐ 219 ▁ Ⓑ Ⓒ cour ▁ et ▁ B ▁ ↑ ▁ te ▁ ↓Ⓓ
+Ⓖ§Ⓗ ▁ Ⓔ idem ▁ Ⓕ Ⓚ 294 ▁ Ⓛ Ⓘ Jardin ▁ Ⓙ Ⓐ 219p ▁ Ⓑ Ⓒ cour ▁ et ▁ B ▁ ↑ ▁ te ▁ ↓Ⓓ
+Ⓖ Rue ▁ de ▁ la ▁ montagne ▁ Ⓗ Ⓔ Gandet ▁ charles ▁ antoine ▁ Ⓕ Ⓚ"Ⓛ ▁ Ⓘ maison ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ§Ⓕ ▁ Ⓚ 67 ▁ Ⓛ Ⓘ sol ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ§Ⓕ ▁ Ⓚ"Ⓛ ▁ Ⓘ maison ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ§Ⓕ ▁ Ⓚ 68 ▁ Ⓛ Ⓘ jardin ▁ Ⓙ
+Ⓖ La ▁ carrière ▁ et ▁ → ▁ coupe ▁ de ▁ gentilly ▁ Ⓗ Ⓔ Picard ▁ Jean ▁ - ▁ Pierre ▁ →× ▁ Legrand ▁ gerome ▁ ±Ⓕ ▁ Ⓚ 60 ▁ Ⓛ Ⓘ Terre ▁ Ⓙ
+Ⓖ id ▁ Ⓗ Ⓔ Picard ▁ Jean ▁ Pierre ▁ →× ▁ Legrand ▁ ±Ⓕ ▁ Ⓚ 61 ▁ Ⓛ Ⓘ Terre ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Polly ▁ Jean ▁ marie ▁ × ▁ Louis ▁ ±Ⓕ ▁ Ⓚ 62 ▁ Ⓛ Ⓘ Terre ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Jolly ▁ Jean ▁ marie ▁ × ▁ Louis ▁ ±Ⓕ ▁ Ⓚ 63 ▁ Ⓛ Ⓘ Terrain ▁ et ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Jolly ▁ Jean ▁ marie ▁ × ▁ Louis ▁ ±Ⓕ ▁ Ⓚ 64 ▁ Ⓛ Ⓘ Terre ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Cochet ▁ Jean ▁ Marc ▁ mathieu ▁ →× ▁ Bourdilliat ▁ pierre ▁ gilles ▁ Ⓕ Ⓚ 65 ▁ Ⓛ Ⓘ Terre ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Cochet ▁ Jean ▁ marc ▁ mathieu ▁ Ⓕ Ⓚ 66 ▁ Ⓛ Ⓘ Terre ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Nul ▁ × ▁ Bourdillat ▁ pierre ▁ gilles ▁ ±Ⓕ ▁ Ⓚ× ▁ 67 ▁ ±Ⓛ ▁ Ⓘ× ▁ Terrain ▁ dépôt ▁ ±Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Bourdillat ▁ id ▁ Ⓕ Ⓚ 68 ▁ Ⓛ Ⓘ Terre ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Bourdillat ▁ id ▁ Ⓕ Ⓚ 69 ▁ Ⓛ Ⓘ Terre ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Bourdillat ▁ id ▁ Ⓕ Ⓚ 70 ▁ Ⓛ Ⓘ Terrain ▁ → ▁ de ▁ carrière ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Bourdillat ▁ id ▁ Ⓕ Ⓚ 71 ▁ Ⓛ Ⓘ Terre ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Muvard ▁ victor ▁ Ⓕ Ⓚ 72 ▁ Ⓛ Ⓘ Terre ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Cochet ▁ nicolas ▁ aug ▁ ↑ ▁ te ▁ ↓Ⓕ ▁ Ⓚ 73 ▁ Ⓛ Ⓘ Terre ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Cochet ▁ J ▁ ↑ ▁ n ▁ ↓ ▁ marc ▁ mathieu ▁ Ⓕ Ⓚ 74 ▁ Ⓛ Ⓘ Terre ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Cochet ▁ Ⓕ Ⓚ 75 ▁ Ⓛ Ⓘ Terrain ▁ → ▁ de ▁ Carrière ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Tiere ▁ aug ▁ ↑ ▁ te ▁ ↓ ▁ athanase ▁ →× ▁ Lannes ▁ ( ▁ L ▁ de ▁ → ▁ montebello ▁ )±Ⓕ ▁ Ⓚ 76 ▁ Ⓛ Ⓘ Terre ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ× ▁ Tiere ▁ aug ▁ ↑ ▁ te ▁ ↓ ▁ athanase ▁ ±→× ▁ Lannes ▁ ±→ ▁ Nul ▁ Ⓕ Ⓚ× ▁ 77 ▁ ±Ⓛ ▁ Ⓘ× ▁ sol ▁ ±Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ× ▁ Saillon ▁ fait ▁ cour ▁ ±→× ▁ Duchamps ▁ serrurier ▁ au ▁ Kremlin ▁ ±Ⓕ ▁ Ⓚ× ▁ 77 ▁ ±Ⓛ ▁ Ⓘ× ▁ Bâtiment ▁ → ▁ forge ▁ ±Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Lannes ▁ ( ▁ de ▁ montebello ▁ ))→ ▁ Tiere ▁ aug ▁ ↑ ▁ te ▁ ↓ ▁ athanase ▁ Ⓕ Ⓚ 78 ▁ Ⓛ Ⓘ Terrain ▁ → ▁ de ▁ Carrière ▁ Ⓙ
+Ⓜ 103 ▁ Ⓝ Ⓔ Gauthier ▁ Jean ▁ → ▁ V ▁ ↑ ▁ on ▁ ↓ ▁ à ▁ Valenton ▁ Ⓕ Ⓚ 91 ▁ Ⓛ Ⓘ Maison ▁ → ▁ B ▁ et ▁ cour ▁ Ⓙ
+Ⓜ 103 ▁ Ⓝ Ⓔ id ▁ Ⓕ Ⓚ 92 ▁ Ⓛ Ⓘ Jardin ▁ Ⓙ
+Ⓜ 103 ▁ Ⓝ Ⓔ id ▁ Ⓕ Ⓚ 93 ▁ Ⓛ Ⓘ× ▁ Pature ▁ ±→ ▁ Terre ▁ Ⓙ
+Ⓜ 103 ▁ Ⓝ Ⓔ id ▁ Ⓕ Ⓚ 94 ▁ Ⓛ Ⓘ× ▁ Mais ▁ ±→ ▁ terre ▁ Ⓙ
+Ⓜ 68 ▁ Ⓝ Ⓔ Dameville ▁ J ▁ ↑ ▁ es ▁ ↓Ⓕ ▁ Ⓚ 95 ▁ Ⓛ Ⓘ Jardin ▁ Ⓙ
+Ⓜ 71 ▁ Ⓝ Ⓔ Dameville ▁ Martin ▁ Ⓕ Ⓚ 96 ▁ Ⓛ Ⓘ id ▁ Ⓙ
+Ⓜ 69 ▁ Ⓝ Ⓔ Dameville ▁ f ▁ ↑ ▁ ois ▁ ↓ ▁ ainé ▁ Ⓕ Ⓚ 97 ▁ Ⓛ Ⓘ id ▁ Ⓙ
+Ⓜ 69 ▁ Ⓝ Ⓔ id ▁ Ⓕ Ⓚ 98 ▁ Ⓛ Ⓘ N ▁ ↑ ▁ t ▁ ↓ ▁ et ▁ Cour ▁ Ⓙ
+Ⓜ 71 ▁ Ⓝ Ⓔ Dameville ▁ Mathieu ▁ Ⓕ Ⓚ 99 ▁ Ⓛ Ⓘ Maison ▁ → ▁ et ▁ → ▁ Batiment ▁ Ⓙ
+Ⓜ 69 ▁ Ⓝ Ⓔ Dameville ▁ f ▁ ↑ ▁ ois ▁ ↓ ▁ ainé ▁ Ⓕ Ⓚ 100 ▁ Ⓛ Ⓘ Maison ▁ → ▁ id ▁ Ⓙ
+Ⓜ 68 ▁ Ⓝ Ⓔ Dameville ▁ J ▁ ↑ ▁ es ▁ ↓Ⓕ ▁ Ⓚ 101 ▁ Ⓛ Ⓘ Maison ▁ → ▁ Ba ▁ ↑ ▁ t ▁ ↓ ▁ et ▁ Cour ▁ Ⓙ
+Ⓜ 103 ▁ Ⓝ Ⓔ Gauthier ▁ Jean ▁ → ▁ V ▁ ↑ ▁ on ▁ ↓ ▁ a ▁ Valenton ▁ Ⓕ Ⓚ 102 ▁ Ⓛ Ⓘ id ▁ Ⓙ
+Ⓜ 68 ▁ Ⓝ Ⓔ Dameville ▁ J ▁ ↑ ▁ es ▁ ↓→ ▁ et ▁ Consorts ▁ Ⓕ Ⓚ 103 ▁ Ⓛ Ⓘ Cour ▁ C ▁ ↑ ▁ ne ▁ ↓Ⓙ
+Ⓜ 32 ▁ Ⓝ Ⓔ Boulenois ▁ Ⓕ Ⓚ 104 ▁ Ⓛ Ⓘ Regard ▁ Ⓙ
+Ⓜ 165 ▁ Ⓝ Ⓔ Pisquenaud ▁ V ▁ ↑ ▁ e ▁ ↓Ⓕ ▁ Ⓚ 105 ▁ Ⓛ Ⓘ Jardin ▁ Ⓙ
+Ⓖ Le ▁ Chailloy ▁ Ⓗ Ⓜ 222 ▁ Ⓝ Ⓔ Picard ▁ Jn ▁ ↑ ▁ t ▁ ↓Ⓕ ▁ Ⓚ 807 ▁ Ⓛ Ⓘ terre ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓜ 142 ▁ Ⓝ Ⓔ Hue ▁ Jacques ▁ Ⓕ Ⓚ 808 ▁ Ⓛ Ⓘ terre ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓜ 154 ▁ Ⓝ Ⓔ Laimé ▁ Ⓕ Ⓚ 809 ▁ Ⓛ Ⓘ vigne ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓜ 216 ▁ →× ▁ 185 ▁ ±Ⓝ ▁ Ⓔ Perrin ▁ fois ▁ →× ▁ Marty ▁ à ▁ Paris ▁ ±Ⓕ ▁ Ⓚ 810 ▁ Ⓛ Ⓘ terre ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓜ 211 ▁ Ⓝ Ⓔ Papavoine ▁ Ⓕ Ⓚ 811 ▁ Ⓛ Ⓘ terre ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓜ 39 ▁ Ⓝ Ⓔ Bracony ▁ louis ▁ Ⓕ Ⓚ 812 ▁ Ⓛ Ⓘ terre ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓜ 82 ▁ Ⓝ Ⓔ Delanoue ▁ J ▁ ↑ ▁ n ▁ ↓ ▁ F ▁ ↑ ▁ ois ▁ ↓Ⓕ ▁ Ⓚ 813 ▁ Ⓛ Ⓘ terre ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓜ 211 ▁ Ⓝ Ⓔ Papavoine ▁ Ⓕ Ⓚ 814 ▁ Ⓛ Ⓘ terre ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓜ 170 ▁ Ⓝ Ⓔ Liébo ▁ V ▁ ↑ ▁ e ▁ ↓Ⓕ ▁ Ⓚ 815 ▁ Ⓛ Ⓘ terre ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓜ 221 ▁ →× ▁ 237 ▁ ±Ⓝ ▁ Ⓔ↑ ▁ Raguet ▁ ↓ ▁ Picaré ▁ → ▁ J ▁ ↑ ▁ n ▁ ↓ ▁ L ▁ .↑ ▁ is ▁ ↓Ⓕ ▁ Ⓚ 816 ▁ Ⓛ Ⓘ terre ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓜ 11 ▁ Ⓝ Ⓔ Basset ▁ Germain ▁ Ⓕ Ⓚ 817 ▁ Ⓛ Ⓘ terre ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓜ 6 ▁ Ⓝ Ⓔ Balu ▁ Pierre ▁ Ⓕ Ⓚ 818 ▁ Ⓛ Ⓘ terre ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓜ 170 ▁ Ⓝ Ⓔ Liebo ▁ V ▁ ↑ ▁ e ▁ ↓Ⓕ ▁ Ⓚ 819 ▁ Ⓛ Ⓘ terre ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓜ 37 ▁ Ⓝ Ⓔ Bertrand ▁ louis ▁ Ⓕ Ⓚ 820 ▁ Ⓛ Ⓘ terre ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓜ 37 ▁ Ⓝ Ⓔ Bracony ▁ V ▁ ↑ ▁ e ▁ ↓ ▁ Pierre ▁ Ⓕ Ⓚ terre ▁ Ⓛ
+Ⓖ La ▁ Chevrue ▁ Ⓗ Ⓔ Cochet ▁ , ▁ N ▁ ↑ ▁ as ▁ ↓ ▁ fils ▁ Ⓕ Ⓚ 591 ▁ Ⓛ Ⓘ Terre ▁ Ⓙ Ⓐ 413 ▁ → ▁ 414 ▁ Ⓑ Ⓒ T ▁ → ▁ T ▁ Ⓓ
+Ⓖ Ø ▁ Ⓗ Ⓔ Cretté ▁ hector ▁ Ⓕ Ⓚ 592 ▁ Ⓛ Ⓘ Terre ▁ Ⓙ Ⓐ 412 ▁ Ⓑ Ⓒ T ▁ Ⓓ
+Ⓖ Ø ▁ Ⓗ Ⓔ Bourdilliat ▁ J ▁ ↑ ▁ n ▁ ↓ ▁ Guy ▁ Ⓕ Ⓚ 593 ▁ Ⓛ Ⓘ Vigne ▁ Ⓙ Ⓐ 409 ▁ → ▁ 410 ▁ Ⓑ Ⓒ T ▁ → ▁ T ▁ Ⓓ
+Ⓖ Ø ▁ Ⓗ Ⓔ Lemaitre ▁ , ▁ veuve ▁ Ⓕ Ⓚ 594 ▁ Ⓛ Ⓘ Terre ▁ Ⓙ Ⓐ 411 ▁ Ⓑ Ⓒ T ▁ Ⓓ
+Ⓖ Ø ▁ Ⓗ Ⓔ Gillet ▁ Due ▁ Claude ▁ Ⓕ Ⓚ 595 ▁ Ⓛ Ⓘ Terre ▁ Ⓙ
+Ⓖ Ø ▁ Ⓗ Ⓔ Leroy ▁ Jean ▁ Gilles ▁ Ⓕ Ⓚ 596 ▁ Ⓛ Ⓘ Vigne ▁ Ⓙ Ⓐ 407 ▁ Ⓑ Ⓒ T ▁ Ⓓ
+Ⓖ Ø ▁ Ⓗ Ⓔ Schild ▁ Pierre ▁ Ⓕ Ⓚ 597 ▁ Ⓛ Ⓘ Terre ▁ Ⓙ Ⓐ 406 ▁ Ⓑ Ⓒ T ▁ Ⓓ
+Ⓖ Ø ▁ Ⓗ Ⓔ Laboreau ▁ , ▁ martin ▁ → ▁ veuve ▁ Ⓕ Ⓚ 598 ▁ Ⓛ Ⓘ Vigne ▁ Ⓙ Ⓐ 404 ▁ → ▁ 405 ▁ Ⓑ Ⓒ T ▁ → ▁ T ▁ Ⓓ
+Ⓖ Ø ▁ Ⓗ Ⓔ Mortier ▁ , ▁ F ▁ ↑ ▁ ois ▁ ↓ ▁ Pierre ▁ Ⓕ Ⓚ 599 ▁ Ⓛ Ⓘ Vigne ▁ Ⓙ Ⓐ 403 ▁ Ⓑ Ⓒ T ▁ Ⓓ
+Ⓖ Ø ▁ Ⓗ Ⓔ Cochet ▁ , ▁ N ▁ ↑ ▁ as ▁ ↓ ▁ fils ▁ Ⓕ Ⓚ 600 ▁ Ⓛ Ⓘ Terre ▁ Ⓙ Ⓐ 402 ▁ Ⓑ Ⓒ Vig ▁ Ⓓ
+Ⓖ Ø ▁ Ⓗ Ⓔ Clére ▁ , ▁ Jean ▁ Jasper ▁ Ⓕ Ⓚ 601 ▁ Ⓛ Ⓘ Vigne ▁ Ⓙ Ⓐ 401 ▁ Ⓑ Ⓒ T ▁ Ⓓ
+Ⓖ Ø ▁ Ⓗ Ⓔ Pillet ▁ , ▁ Jean ▁ M ▁ ↑ ▁ ie ▁ ↓ ▁ fils ▁ Ⓕ Ⓚ 602 ▁ Ⓛ Ⓘ Terre ▁ Ⓙ Ⓐ 400 ▁ Ⓑ Ⓒ T ▁ Ⓓ
+Ⓖ Ø ▁ Ⓗ Ⓔ Cochet ▁ N ▁ ↑ ▁ as ▁ ↓ ▁ Aug ▁ ↑ ▁ te ▁ ↓Ⓕ ▁ Ⓚ 603 ▁ Ⓛ Ⓘ Terre ▁ Ⓙ Ⓐ 399 ▁ Ⓑ Ⓒ T ▁ Ⓓ
+Ⓖ Ø ▁ Ⓗ Ⓔ Collet ▁ , ▁ N ▁ ↑ ▁ as ▁ ↓Ⓕ ▁ Ⓚ 604 ▁ Ⓛ Ⓘ Terre ▁ Ⓙ Ⓐ 398 ▁ Ⓑ Ⓒ vig ▁ Ⓓ
+Ⓖ La ▁ mare ▁ d ▁ ' ▁ Herse ▁ Ⓗ Ⓜ 4 ▁ Ⓝ Ⓔ angelique ▁ J ▁ . ▁ F ▁ ↑ ▁ ois ▁ ↓→ ▁ Bellangis ▁ à ▁ Paris ▁ → ▁ ancien ▁ magistrat ▁ Ⓕ Ⓚ 106 ▁ Ⓛ Ⓘ terre ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓜ 67 ▁ Ⓝ Ⓔ Gautier ▁ Gaspard ▁ → ▁ Périgny ▁ Ⓕ Ⓚ 107 ▁ Ⓛ Ⓘ terre ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓜ 82 ▁ Ⓝ Ⓔ Gautier ▁ Charles ▁ aimé ▁ à ▁ → ▁ Périgny ▁ Ⓕ Ⓚ 108 ▁ Ⓛ Ⓘ terre ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓜ 157 ▁ Ⓝ Ⓔ Marchand ▁ Aubergiste ▁ → ▁ Brie ▁ - ▁ Comte ▁ - ▁ Robert ▁ Ⓕ Ⓚ 109 ▁ Ⓛ Ⓘ terre ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓜ 157 ▁ Ⓝ Ⓔ id ▁ Ⓕ Ⓚ 110 ▁ Ⓛ Ⓘ terre ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓜ 157 ▁ Ⓝ Ⓔ id ▁ Ⓕ Ⓚ 111 ▁ Ⓛ Ⓘ terre ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓜ 122 ▁ Ⓝ Ⓔ 112 ▁ Ⓕ Ⓚ hotel ▁ - ▁ dieu ▁ du ▁ Brie ▁ Ⓛ Ⓘ terre ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓜ 122 ▁ Ⓝ Ⓔ id ▁ Ⓕ Ⓚ 113 ▁ Ⓛ Ⓘ terre ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓜ 124 ▁ Ⓝ Ⓔ Buré ▁ J ▁ ↑ ▁ n ▁ ↓ ▁ B ▁ ↑ ▁ te ▁ ↓ ▁ Périgny ▁ Ⓕ Ⓚ 114 ▁ Ⓛ Ⓘ terre ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓜ 126 ▁ Ⓝ Ⓔ Buré ▁ J ▁ - ▁ B ▁ ↑ ▁ te ▁ ↓ ▁ Thibaut ▁ culti ▁ périgny ▁ Ⓕ Ⓚ 115 ▁ Ⓛ Ⓘ terre ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓜ 135 ▁ Ⓝ Ⓔ Javon ▁ J ▁ . ▁ B ▁ ↑ ▁ te ▁ ↓ ▁ homme ▁ de ▁ loi ▁ à ▁ Paris ▁ Ⓕ Ⓚ 116 ▁ Ⓛ Ⓘ terre ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓜ 4 ▁ Ⓝ Ⓔ thomas ▁ → ▁ Bonfils ▁ V ▁ ↑ ▁ e ▁ ↑ ▁ Bourg ▁ à ▁ Brie ▁ Ⓕ Ⓚ 117 ▁ Ⓛ Ⓘ terre ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓜ 122 ▁ Ⓝ Ⓔ hôtel ▁ Dieu ▁ de ▁ Brie ▁ Ⓕ Ⓚ 118 ▁ Ⓛ Ⓘ terre ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓜ 159 ▁ Ⓝ Ⓔ Père ▁ charon ▁ → ▁ Milliary ▁ × ▁ bourgois ▁ ± ▁ Brie ▁ Ⓕ Ⓚ 119 ▁ Ⓛ Ⓘ terre ▁ Ⓙ
+Ⓖ L ▁ ' ▁ orme ▁ d ▁ ' ▁ herse ▁ Ⓗ Ⓜ 227 ▁ Ⓝ Ⓔ Veinaive ▁ ↑ ▁ pre ▁ noël ▁ ↓ ▁ père ▁ Mandre ▁ Ⓕ Ⓚ 120 ▁ Ⓛ Ⓘ terre ▁ Ⓙ
+Ⓜ 201 ▁ Ⓝ Ⓔ Pichard ▁ Esther ▁ aubD ▁ . ▁ La ▁ reine ▁ Ⓕ Ⓚ 596 ▁ Ⓛ Ⓘ Terre ▁ Ⓙ
+Ⓜ 121 ▁ Ⓝ Ⓔ godetroy ▁ Ⓕ Ⓚ 597 ▁ Ⓛ Ⓘ§Ⓙ
+Ⓜ 165 ▁ Ⓝ Ⓔ Martin ▁ Ⓕ Ⓚ 598 ▁ Ⓛ Ⓘ§Ⓙ
+Ⓜ 164 ▁ Ⓝ Ⓔ M ▁ ↑ ▁ e ▁ ↓ ▁ Magné ▁ à ▁ évreux ▁ Ⓕ Ⓚ 599 ▁ Ⓛ Ⓘ§Ⓙ
+Ⓜ 161 ▁ Ⓝ Ⓔ Leroy ▁ de ▁ la ▁ biere ▁ Ⓕ Ⓚ 600 ▁ Ⓛ Ⓘ§Ⓙ
+Ⓜ 112 ▁ Ⓝ Ⓔ d ▁ ↑ ▁ e ▁ ↓ ▁ faucon ▁ à ▁ Chatillon ▁ Ⓕ Ⓚ 601 ▁ Ⓛ Ⓘ§Ⓙ
+Ⓜ 27 ▁ Ⓝ Ⓔ Berger ▁ J ▁ ↑ ▁ n ▁ ↓ ▁ B ▁ ↑ ▁ te ▁ ↓Ⓕ ▁ Ⓚ 602 ▁ Ⓛ Ⓘ§Ⓙ
+Ⓜ 121 ▁ Ⓝ Ⓔ godefroy ▁ Ⓕ Ⓚ 603 ▁ Ⓛ Ⓘ§Ⓙ
+Ⓜ 118 ▁ Ⓝ Ⓔ gaudoil ▁ Ⓕ Ⓚ 604 ▁ Ⓛ Ⓘ§Ⓙ
+Ⓜ 77 ▁ Ⓝ Ⓔ Delanoue ▁ g ▁ ↑ ▁ ain ▁ ↓Ⓕ ▁ Ⓚ 665 ▁ Ⓛ Ⓘ§Ⓙ
+Ⓜ 202 ▁ Ⓝ Ⓔ Pigeron ▁ Ⓕ Ⓚ 606 ▁ Ⓛ Ⓘ§Ⓙ
+Ⓜ 156 ▁ Ⓝ Ⓔ Le ▁ zougre ▁ iwël ▁ Isidore ▁ Ⓕ Ⓚ 607 ▁ Ⓛ Ⓘ§Ⓙ
+Ⓜ 177 ▁ Ⓝ Ⓔ Moreau ▁ p ▁ ↑ ▁ re ▁ ↓ ▁ paul ▁ Ⓕ Ⓚ 608 ▁ Ⓛ Ⓘ§Ⓙ
+Ⓜ 223 ▁ Ⓝ Ⓔ V ▁ ↑ ▁ e ▁ ↓ ▁ saurin ▁ j ▁ ↑ ▁ ques ▁ ↓Ⓕ ▁ Ⓚ 609 ▁ Ⓛ Ⓘ§Ⓙ
+Ⓜ 154 ▁ Ⓝ Ⓔ Le ▁ zougre ▁ M ▁ ↑ ▁ rie ▁ ↓ ▁ louise ▁ Ⓕ Ⓚ 610 ▁ Ⓛ Ⓘ§Ⓙ
+Ⓜ 71 ▁ Ⓝ Ⓔ Degrain ▁ J ▁ ↑ ▁ n ▁ ↓ ▁ Louis ▁ Ⓕ Ⓚ 610 ▁ ↑ ▁ bis ▁ ↓Ⓛ ▁ Ⓘ§Ⓙ
+Ⓜ 127 ▁ Ⓝ Ⓔ hallé ▁ f ▁ n ▁ ↑ ▁ as ▁ ↓ ▁ j ▁ ↑ ▁ n ▁ ↓Ⓕ ▁ Ⓚ 611 ▁ Ⓛ Ⓘ§Ⓙ
+Ⓜ 212 ▁ Ⓝ Ⓔ V ▁ ↑ ▁ e ▁ ↓ ▁ Renard ▁ Etienne ▁ Ⓕ Ⓚ 612 ▁ Ⓛ Ⓘ§Ⓙ
+Ⓜ 118 ▁ Ⓝ Ⓔ geaudoil ▁ Ⓕ Ⓚ 614 ▁ Ⓛ Ⓘ§Ⓙ
+Ⓜ 21 ▁ Ⓝ Ⓔ Bazin ▁ Ph ▁ ↑ ▁ e ▁ ↓Ⓕ ▁ Ⓚ 615 ▁ Ⓛ Ⓘ§Ⓙ
+Ⓖ Les ▁ Bon ▁ → ▁ Monvraines ▁ Ⓗ Ⓜ 141 ▁ Ⓝ Ⓔ Guinegagne ▁ denis ▁ Emmanuel ▁ Ⓕ Ⓚ 1443 ▁ Ⓛ Ⓘ Vigne ▁ Ⓙ
+Ⓖ Ø ▁ Ⓗ Ⓜ 72 ▁ Ⓝ Ⓔ Cornillard ▁ Cristophe ▁ Ⓕ Ⓚ 1224 ▁ Ⓛ Ⓘ id ▁ Ⓙ
+Ⓖ Ø ▁ Ⓗ Ⓜ 236 ▁ Ⓝ Ⓔ Petit ▁ Spire ▁ Ⓕ Ⓚ 1225 ▁ Ⓛ Ⓘ Terre ▁ à ▁ → ▁ vigne ▁ Ⓙ
+Ⓖ Ø ▁ Ⓗ Ⓜ 213 ▁ Ⓝ Ⓔ 1226 ▁ Ⓕ Ⓚ Petit ▁ V ▁ ↑ ▁ e ▁ ↓ ▁ Jean ▁ agnant ▁ Ⓛ Ⓘ id ▁ Ⓙ
+Ⓖ Ø ▁ Ⓗ Ⓜ 86 ▁ Ⓝ Ⓔ Desterne ▁ V ▁ ↑ ▁ e ▁ ↓ ▁ Et ▁ ↑ ▁ ne ▁ ↓Ⓕ ▁ Ⓚ 1227 ▁ Ⓛ Ⓘ vigne ▁ Ⓙ
+Ⓖ Ø ▁ Ⓗ Ⓜ 5 ▁ Ⓝ Ⓔ Aubry ▁ michel ▁ Ⓕ Ⓚ 1228 ▁ Ⓛ Ⓘ Terre ▁ → ▁ à ▁ vigne ▁ Ⓙ
+Ⓖ Ø ▁ Ⓗ Ⓜ 262 ▁ Ⓝ Ⓔ Vidron ▁ Pierre ▁ Ⓕ Ⓚ 1229 ▁ Ⓛ Ⓘ id ▁ Ⓙ
+Ⓖ Ø ▁ Ⓗ Ⓜ 108 ▁ Ⓝ Ⓔ Galles ▁ J ▁ ↑ ▁ n ▁ ↓ ▁ f ▁ ↑ ▁ ois ▁ ↓Ⓕ ▁ Ⓚ 1230 ▁ Ⓛ Ⓘ vigne ▁ Ⓙ
+Ⓖ Ø ▁ Ⓗ Ⓜ 302 ▁ Ⓝ Ⓔ fauguer ▁ × ▁ les ▁ héritiers ▁ ±→ ▁ f ▁ ↑ ▁ ois ▁ ↓ ▁ × ▁ joseph ▁ ±Ⓕ ▁ Ⓚ 1231 ▁ Ⓛ Ⓘ id ▁ Ⓙ
+Ⓖ Ø ▁ Ⓗ Ⓜ 160 ▁ Ⓝ Ⓔ Livernet ▁ Etienne ▁ Ⓕ Ⓚ 1232 ▁ Ⓛ Ⓘ id ▁ Ⓙ
+Ⓖ Ø ▁ Ⓗ Ⓜ 261 ▁ Ⓝ Ⓔ Vial ▁ Guillaume ▁ Ⓕ Ⓚ 1233 ▁ Ⓛ Ⓘ Terre ▁ → ▁ a ▁ vigne ▁ Ⓙ
+Ⓖ Ø ▁ Ⓗ Ⓜ 167 ▁ Ⓝ Ⓔ Malle ▁ f ▁ ↑ ▁ ois ▁ ↓ ▁ Père ▁ Ⓕ Ⓚ 1234 ▁ Ⓛ Ⓘ id ▁ Ⓙ
+Ⓖ Ø ▁ Ⓗ Ⓜ 189 ▁ Ⓝ Ⓔ Meunier ▁ Jean ▁ Claude ▁ Ⓕ Ⓚ 1235 ▁ Ⓛ Ⓘ id ▁ Ⓙ
+Ⓖ Ø ▁ Ⓗ Ⓜ 218 ▁ Ⓝ Ⓔ Petit ▁ Louis ▁ Joseph ▁ Ⓕ Ⓚ 1236 ▁ Ⓛ Ⓘ id ▁ Ⓙ
+Ⓖ Ø ▁ Ⓗ Ⓜ 135 ▁ Ⓝ Ⓔ Guérin ▁ jean ▁ denis ▁ → ▁ le ▁ Jeune ▁ Ⓕ Ⓚ 1237 ▁ Ⓛ Ⓘ id ▁ Ⓙ
+Ⓜ 7 ▁ Ⓝ Ⓔ Chabert ▁ Charles ▁ Ⓕ Ⓚ 106 ▁ Ⓛ Ⓘ Maison ▁ Ⓙ
+Ⓜ 226 ▁ Ⓝ Ⓔ Moret ▁ et ▁ consors ▁ Ⓕ Ⓚ 107 ▁ Ⓛ Ⓘ Cour ▁ commune ▁ Ⓙ
+Ⓜ 52 ▁ Ⓝ Ⓔ Capron ▁ H ▁ ↑ ▁ ers ▁ ↓Ⓕ ▁ Ⓚ 108 ▁ Ⓛ Ⓘ M ▁ ↑ ▁ on ▁ ↓ ▁ et ▁ Cour ▁ Ⓙ
+Ⓜ 273 ▁ Ⓝ Ⓔ Vilain ▁ Louis ▁ → ▁ vig ▁ Ⓕ Ⓚ 109 ▁ Ⓛ Ⓘ Id ▁ Ⓙ
+Ⓜ 12 ▁ Ⓝ Ⓔ Aubert ▁ F ▁ ↑ ▁ ois ▁ ↓ ▁ noel ▁ Ⓕ Ⓚ 110 ▁ Ⓛ Ⓘ m ▁ . ▁ b ▁ ↑ ▁ t ▁ ↓ ▁ et ▁ cour ▁ Ⓙ
+Ⓜ 168 ▁ Ⓝ Ⓔ Leduc ▁ clement ▁ Ⓕ Ⓚ 111 ▁ Ⓛ Ⓘ Jardin ▁ Ⓙ
+Ⓖ\Ⓗ ▁ Ⓜ 168 ▁ Ⓝ Ⓔ Id ▁ Ⓕ Ⓚ 112 ▁ Ⓛ Ⓘ m ▁ ↑ ▁ on ▁ ↓ ▁ et ▁ cour ▁ Ⓙ
+Ⓜ 80 ▁ Ⓝ Ⓔ Dancourt ▁ Ⓕ Ⓚ 113 ▁ Ⓛ Ⓘ Jard ▁ . ▁ d ▁ ' ▁ agrém ▁ Ⓙ
+Ⓖ\Ⓗ ▁ Ⓜ 80 ▁ Ⓝ Ⓔ id ▁ Ⓕ Ⓚ 114 ▁ Ⓛ Ⓘ m ▁ ↑ ▁ on ▁ ↓ ▁ M ▁ ❌❌❌Ⓙ
+Ⓜ 136 ▁ Ⓝ Ⓔ Guilbert ▁ notaire ▁ Ⓕ Ⓚ 115 ▁ Ⓛ Ⓘ Jardin ▁ Ⓙ
+Ⓖ\Ⓗ ▁ Ⓜ 196 ▁ Ⓝ Ⓔ id ▁ Ⓕ Ⓚ 116 ▁ Ⓛ Ⓘ M ▁ ↑ ▁ on ▁ et ▁ Cour ▁ Ⓙ
+Ⓜ 43 ▁ Ⓝ Ⓔ Breton ▁ Jean ▁ P ▁ ↑ ▁ re ▁ ↓ ▁ vitrier ▁ Ⓕ Ⓚ 117 ▁ Ⓛ Ⓘ M ▁ ↑ ▁ on ▁ ↓ ▁ et ▁ Cour ▁ Ⓙ
+Ⓖ\Ⓗ ▁ Ⓜ 215 ▁ Ⓝ Ⓔ Moloy ▁ J ▁ ↑ ▁ es ▁ ↓ ▁ Jardinier ▁ → ▁ à ▁ Sucy ▁ Ⓕ Ⓚ 118 ▁ Ⓛ Ⓘ id ▁ Ⓙ
+Ⓖ\Ⓗ ▁ Ⓜ 162 ▁ ↑ ▁ bis ▁ ↓Ⓝ ▁ Ⓔ Laurent ▁ Etienne ▁ René ▁ Ⓕ Ⓚ 119 ▁ Ⓛ Ⓘ Jardin ▁ Ⓙ
+Ⓖ\Ⓗ ▁ Ⓜ 162 ▁ Ⓝ Ⓔ id ▁ Ⓕ Ⓚ 120 ▁ Ⓛ Ⓘ M ▁ ↑ ▁ on ▁ ↓ ▁ et ▁ cour ▁ Ⓙ
+Ⓜ 36 ▁ Ⓝ Ⓔ Chaumet ▁ Ⓕ Ⓚ 136 ▁ Ⓛ Ⓘ Vigne ▁ Ⓙ
+Ⓜ 242 ▁ Ⓝ Ⓔ Renard ▁ pierre ▁ Ⓕ Ⓚ 137 ▁ Ⓛ Ⓘ id ▁ Ⓙ
+Ⓜ 208 ▁ Ⓝ Ⓔ Penain ▁ julien ▁ Ⓕ Ⓚ 138 ▁ Ⓛ Ⓘ id ▁ Ⓙ
+Ⓜ 208 ▁ Ⓝ Ⓔ id ▁ Ⓕ Ⓚ 139 ▁ Ⓛ Ⓘ Terre ▁ Ⓙ
+Ⓜ 20 ▁ Ⓝ Ⓔ Boireau ▁ antoine ▁ Ⓕ Ⓚ 140 ▁ Ⓛ Ⓘ id ▁ Ⓙ
+Ⓜ 20 ▁ →× ▁ 85 ▁ ±Ⓝ ▁ Ⓔ idem ▁ →× ▁ Gaulois ▁ Veuve ▁ → ▁ Laurent ▁ à ▁ ablon ▁ ±Ⓕ ▁ Ⓚ 141 ▁ Ⓛ Ⓘ id ▁ Ⓙ
+Ⓜ 132 ▁ Ⓝ Ⓔ Janton ▁ f ▁ ↑ ▁ ois ▁ ↓→ ▁ maçon ▁ à ▁ Villecresne ▁ Ⓕ Ⓚ 142 ▁ Ⓛ Ⓘ id ▁ Ⓙ
+Ⓜ 36 ▁ Ⓝ Ⓔ Chaumet ▁ pierre ▁ Ⓕ Ⓚ 143 ▁ Ⓛ Ⓘ id ▁ Ⓙ
+Ⓜ 13 ▁ Ⓝ Ⓔ Benoist ▁ Veuve ▁ → ▁ Jean ▁ Ⓕ Ⓚ 144 ▁ Ⓛ Ⓘ id ▁ Ⓙ
+Ⓜ 12 ▁ Ⓝ Ⓔ Benoist ▁ françois ▁ Ⓕ Ⓚ 145 ▁ Ⓛ Ⓘ id ▁ Ⓙ
+Ⓜ 23 ▁ Ⓝ Ⓔ Boireau ▁ f ▁ ↑ ▁ ois ▁ ↓Ⓕ ▁ Ⓚ 146 ▁ Ⓛ Ⓘ id ▁ Ⓙ
+Ⓜ 176 ▁ Ⓝ Ⓔ Michault ▁ → ▁ françois ▁ Ⓕ Ⓚ 147 ▁ Ⓛ Ⓘ id ▁ Ⓙ
+Ⓜ 146 ▁ Ⓝ Ⓔ Le ▁ Cocq ▁ V ▁ ↑ ▁ e ▁ ↓ ▁ antoine ▁ Ⓕ Ⓚ 148 ▁ Ⓛ Ⓘ id ▁ Ⓙ
+Ⓜ 147 ▁ Ⓝ Ⓔ Le ▁ Cocq ▁ Jacques ▁ Ⓕ Ⓚ 149 ▁ Ⓛ Ⓘ id ▁ Ⓙ
+Ⓜ 140 ▁ Ⓝ Ⓔ Landrin ▁ Jacques ▁ Ⓕ Ⓚ 150 ▁ Ⓛ Ⓘ id ▁ Ⓙ
+Ⓖ les ▁ grandes ▁ vignes ▁ Ⓗ Ⓜ 141 ▁ Ⓝ Ⓔ Fontaine ▁ henry ▁ Vig ▁ VN ▁ Ⓕ Ⓚ 1064 ▁ Ⓛ Ⓘ Vigne ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓜ 154 ▁ Ⓝ Ⓔ gautier ▁ ❌ ▁ Et ▁ ↑ ▁ ne ▁ ↓ ▁ vig ▁ VN ▁ Ⓕ Ⓚ 1065 ▁ Ⓛ Ⓘ Vigne ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓜ 230 ▁ Ⓝ Ⓔ Martin ▁ Joseph ▁ Vig ▁ VN ▁ Ⓕ Ⓚ 1066 ▁ Ⓛ Ⓘ Vigne ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓜ 307 ▁ Ⓝ Ⓔ Ventule ▁ ❌ ▁ Ch ▁ ↑ ▁ les ▁ ↓ ▁ Bourg ▁ . ▁ Vn ▁ Ⓕ Ⓚ 1067 ▁ Ⓛ Ⓘ Vigne ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓜ 249 ▁ Ⓝ Ⓔ× ▁ Guignot ▁ H ▁ ↑ ▁ rs ▁ ↓ ▁ VN ▁ → ▁ Matao ▁ v ▁ ❌ ▁ t ▁ ❌❌ ▁ honoré ▁ a ▁ vn ▁ Ⓕ Ⓚ 1068 ▁ Ⓛ Ⓘ Vigne ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓜ 108 ▁ Ⓝ Ⓔ Degoy ▁ georges ▁ Vig ▁ ↑ ▁ on ▁ ↓ ▁ VN ▁ Ⓕ Ⓚ 1069 ▁ Ⓛ Ⓘ Vigne ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓜ 13 ▁ Ⓝ Ⓔ Baclin ▁ Ch ▁ ↑ ▁ les ▁ ↓ ▁ Vig ▁ ↑ ▁ on ▁ ↓ ▁ VN ▁ Ⓕ Ⓚ 1070 ▁ Ⓛ Ⓘ Vigne ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓜ 141 ▁ Ⓝ Ⓔ Fontaine ▁ henry ▁ Vig ▁ ↑ ▁ on ▁ ↓ ▁ VN ▁ Ⓕ Ⓚ 1071 ▁ Ⓛ Ⓘ Vigne ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓜ 275 ▁ Ⓝ Ⓔ Pion ▁ denis ▁ Vig ▁ ↑ ▁ on ▁ ↓ ▁ VN ▁ Ⓕ Ⓚ 1072 ▁ Ⓛ Ⓘ Vigne ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓜ 54 ▁ Ⓝ Ⓔ Chailloux ▁ marianne ▁ × ▁ VN ▁ ±→ ▁ femme ▁ d ▁ ' ▁ Etienne ▁ Gaugois ▁ à ▁ Rouvre ▁ Ⓕ Ⓚ 1073 ▁ Ⓛ Ⓘ Vigne ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓜ 275 ▁ Ⓝ Ⓔ Pion ▁ denis ▁ Vig ▁ ↑ ▁ on ▁ ↓ ▁ VN ▁ Ⓕ Ⓚ 1074 ▁ Ⓛ Ⓘ Vigne ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓜ 133 ▁ Ⓝ Ⓔ Duchène ▁ ❌↑ ▁ an ▁ ↓ ▁ Vig ▁ . ▁ Valenton ▁ Ⓕ Ⓚ 1075 ▁ Ⓛ Ⓘ Vigne ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓜ 229 ▁ Ⓝ Ⓔ Martin ▁ N ▁ ↑ ▁ as ▁ ↓ ▁ Vig ▁ ↑ ▁ on ▁ ↓ ▁ VN ▁ Ⓕ Ⓚ 1076 ▁ Ⓛ Ⓘ Vigne ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓜ 281 ▁ Ⓝ Ⓔ Pouittet ▁ ❌↑ ▁ an ▁ ↓ ▁ michel ▁ VN ▁ → ▁ raffineur ▁ Ⓕ Ⓚ 1077 ▁ Ⓛ Ⓘ Vigne ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓜ 60 ▁ Ⓝ Ⓔ Chateau ▁ J ▁ ↑ ▁ an ▁ ↓ ▁ Ant ▁ ↑ ▁ e ▁ ↓ ▁ maçon ▁ VN ▁ Ⓕ Ⓚ 1078 ▁ Ⓛ Ⓘ Vigne ▁ Ⓙ
+Ⓖ Ajous ▁ Ⓗ Ⓔ La ▁ Folleville ▁ Ⓕ Ⓚ 341 ▁ Ⓛ Ⓘ terre ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ V ▁ ↑ ▁ e ▁ ↓ ▁ Dudouit ▁ Ⓕ Ⓚ 341 ▁ ↑ ▁ bis ▁ ↓Ⓛ ▁ Ⓘ§Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ h ▁ ↑ ▁ re ▁ ↓ ▁ Radot ▁ h ▁ ↑ ▁ re ▁ ↓Ⓕ ▁ Ⓚ 342 ▁ Ⓛ Ⓘ§Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Bacot ▁ Ⓕ Ⓚ 342 ▁ ↑ ▁ bis ▁ ↓Ⓛ ▁ Ⓘ§Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Triosot ▁ Ⓕ Ⓚ 343 ▁ Ⓛ Ⓘ§Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Levé ▁ Ⓕ Ⓚ 343 ▁ ↑ ▁ bis ▁ ↓Ⓛ ▁ Ⓘ§Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Tiere ▁ Ⓕ Ⓚ 344 ▁ Ⓛ Ⓘ§Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Bacot ▁ Ⓕ Ⓚ 344 ▁ ↑ ▁ bis ▁ ↓Ⓛ ▁ Ⓘ§Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Rubigny ▁ Ⓕ Ⓚ 345 ▁ Ⓛ Ⓘ§Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Levé ▁ Ⓕ Ⓚ 345 ▁ ↑ ▁ bis ▁ ↓Ⓛ ▁ Ⓘ§Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Triosot ▁ Ⓕ Ⓚ 346 ▁ Ⓛ Ⓘ§Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ id ▁ Ⓕ Ⓚ 347 ▁ Ⓛ Ⓘ§Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Demont ▁ Ⓕ Ⓚ 348 ▁ Ⓛ Ⓘ§Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Ragondé ▁ Paul ▁ Ⓕ Ⓚ 348 ▁ ↑ ▁ bis ▁ ↓Ⓛ ▁ Ⓘ§Ⓙ
+Ⓖ 21 ▁ Ⓗ Ⓔ h ▁ ↑ ▁ rs ▁ ↓ ▁ Radot ▁ Ⓕ Ⓚ 349 ▁ Ⓛ Ⓘ§Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Servatrier ▁ Ⓕ Ⓚ 350 ▁ Ⓛ Ⓘ§Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Thiers ▁ Ⓕ Ⓚ 351 ▁ Ⓛ Ⓘ§Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ hospices ▁ Ⓕ Ⓚ 352 ▁ Ⓛ Ⓘ§Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ× ▁ Tiers ▁ ± ▁ hôtel ▁ Dieu ▁ →× ▁ Les ▁ Tiers ▁ hospices ▁ ±Ⓕ ▁ Ⓚ 353 ▁ Ⓛ Ⓘ§Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ id ▁ Ⓕ Ⓚ 354 ▁ Ⓛ Ⓘ§Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ id ▁ Ⓕ Ⓚ 355 ▁ Ⓛ Ⓘ§Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Leroy ▁ J ▁ ↑ ▁ n ▁ ↓Ⓕ ▁ Ⓚ 356 ▁ Ⓛ Ⓘ§Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Renoult ▁ Ⓕ Ⓚ 357 ▁ Ⓛ Ⓘ§Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Lafolleville ▁ Ⓕ Ⓚ 358 ▁ Ⓛ Ⓘ 21 ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Ragondé ▁ Paul ▁ Ⓕ Ⓚ 358 ▁ ↑ ▁ bis ▁ ↓Ⓛ ▁ Ⓘ§Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ"Ⓕ ▁ Ⓚ 359 ▁ Ⓛ Ⓘ§Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Bacot ▁ Ⓕ Ⓚ 360 ▁ Ⓛ Ⓘ§Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Les ▁ hospices ▁ Ⓕ Ⓚ 360 ▁ bis ▁ Ⓛ Ⓘ§Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Ragondé ▁ Ⓕ Ⓚ 361 ▁ Ⓛ Ⓘ§Ⓙ
+Ⓖ hautes ▁ formes ▁ Ⓗ Ⓔ V ▁ ↑ ▁ e ▁ ↓ ▁ Cordey ▁ Ⓕ Ⓚ 146 ▁ ↑ ▁ bis ▁ ↓Ⓛ ▁ Ⓘ terre ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Ponçart ▁ Ⓕ Ⓚ 147 ▁ Ⓛ Ⓘ terre ▁ et ▁ maison ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Renoult ▁ Ⓕ Ⓚ 148 ▁ Ⓛ Ⓘ terre ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Merrot ▁ Ⓕ Ⓚ 149 ▁ Ⓛ Ⓘ§Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Leroy ▁ antoine ▁ Ⓕ Ⓚ 150 ▁ Ⓛ Ⓘ§Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ V ▁ ↑ ▁ e ▁ ↓ ▁ Dumond ▁ Ⓕ Ⓚ 151 ▁ Ⓛ Ⓘ§Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Bacot ▁ Ⓕ Ⓚ 151 ▁ ↑ ▁ bis ▁ ↓Ⓛ ▁ Ⓘ§Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ V ▁ ↑ ▁ e ▁ ↓ ▁ Godefroid ▁ Ⓕ Ⓚ 152 ▁ Ⓛ Ⓘ§Ⓙ
+Ⓖ Grangor ▁ Ⓗ Ⓔ Coignet ▁ f ▁ ↑ ▁ ois ▁ ↓Ⓕ ▁ Ⓚ 152 ▁ Ⓛ Ⓘ§Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Bongent ▁ Ⓕ Ⓚ 154 ▁ Ⓛ Ⓘ§Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Leroy ▁ J ▁ ↑ ▁ n ▁ ↓Ⓕ ▁ Ⓚ 155 ▁ Ⓛ Ⓘ vigne ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Lecamus ▁ , ▁ V ▁ ↑ ▁ e ▁ ↓ ▁ Delorme ▁ Ⓕ Ⓚ 156 ▁ Ⓛ Ⓘ terre ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ V ▁ ↑ ▁ e ▁ ↓ ▁ Cally ▁ Ⓕ Ⓚ 157 ▁ Ⓛ Ⓘ vigne ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ V ▁ ↑ ▁ e ▁ ↓ ▁ Badet ▁ michel ▁ Ⓕ Ⓚ 158 ▁ Ⓛ Ⓘ id ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Leroy ▁ nicolas ▁ Ⓕ Ⓚ 159 ▁ Ⓛ Ⓘ terre ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Pillet ▁ Jean ▁ Ⓕ Ⓚ 160 ▁ Ⓛ Ⓘ§Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ h ▁ ↑ ▁ rs ▁ ↓ ▁ Aubert ▁ Ⓕ Ⓚ 161 ▁ Ⓛ Ⓘ§Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ id ▁ Ⓕ Ⓚ 162 ▁ Ⓛ Ⓘ§Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Jolly ▁ Ⓕ Ⓚ 163 ▁ Ⓛ Ⓘ§Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Cochet ▁ nicolas ▁ Ⓕ Ⓚ 164 ▁ Ⓛ Ⓘ vigne ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Leroy ▁ Antoine ▁ Ⓕ Ⓚ 165 ▁ Ⓛ Ⓘ terre ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Leroy ▁ Jean ▁ Ⓕ Ⓚ 166 ▁ Ⓛ Ⓘ id ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Leroy ▁ Georges ▁ Ⓕ Ⓚ 167 ▁ Ⓛ Ⓘ vigne ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Lefort ▁ Ⓕ Ⓚ 168 ▁ Ⓛ Ⓘ terre ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Chanevas ▁ à ▁ arcueil ▁ Ⓕ Ⓚ 169 ▁ Ⓛ Ⓘ§Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Mortier ▁ claude ▁ Ⓕ Ⓚ 170 ▁ Ⓛ Ⓘ§Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Noblet ▁ J ▁ ↑ ▁ n ▁ ↓Ⓕ ▁ Ⓚ 171 ▁ Ⓛ Ⓘ vigne ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Bourdillat ▁ Ⓕ Ⓚ 172 ▁ Ⓛ Ⓘ terre ▁ Ⓙ
+Ⓖ hameau ▁ →Ⓗ ▁ Ⓔ× ▁ Gilbert ▁ ± ▁ Lupien ▁ charpentier ▁ Ⓕ Ⓚ 1661 ▁ Ⓛ Ⓘ Terre ▁ Ⓙ
+Ⓖ d ▁ ' ▁ austerlitz ▁ Ⓗ Ⓔ× ▁ Charpentier ▁ ± ▁ id ▁ Ⓕ Ⓚ 1662 ▁ Ⓛ Ⓘ Batimen ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Gilbert ▁ Ⓕ Ⓚ 1663 ▁ Ⓛ Ⓘ id ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ id ▁ Ⓕ Ⓚ 1664 ▁ Ⓛ Ⓘ× ▁ id ▁ ± ▁ jardin ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ id ▁ Ⓕ Ⓚ 1665 ▁ Ⓛ Ⓘ maison ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Bacot ▁ Ⓕ Ⓚ 1666 ▁ Ⓛ Ⓘ terre ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Louis ▁ Ⓕ Ⓚ 1667 ▁ Ⓛ Ⓘ Batiment ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Villagier ▁ Ⓕ Ⓚ 1668 ▁ Ⓛ Ⓘ id ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Gaultran ▁ Ⓕ Ⓚ 1669 ▁ Ⓛ Ⓘ id ▁ + ▁ Terrain ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Mongin ▁ Ⓕ Ⓚ 1670 ▁ Ⓛ Ⓘ id ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ id ▁ Ⓕ Ⓚ 1671 ▁ Ⓛ Ⓘ id ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Bachelier ▁ Ⓕ Ⓚ 1672 ▁ Ⓛ Ⓘ Batiment ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ id ▁ Ⓕ Ⓚ 1673 ▁ Ⓛ Ⓘ Jardin ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Tiers ▁ Ⓕ Ⓚ 1674 ▁ Ⓛ Ⓘ terre ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Bacot ▁ Ⓕ Ⓚ 1675 ▁ Ⓛ Ⓘ id ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Dudouit ▁ Ⓕ Ⓚ 1676 ▁ Ⓛ Ⓘ id ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Lesieur ▁ Ⓕ Ⓚ 1677 ▁ Ⓛ Ⓘ Maison ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Potier ▁ Ⓕ Ⓚ 1678 ▁ Ⓛ Ⓘ Jardin ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ id ▁ Ⓕ Ⓚ 1679 ▁ Ⓛ Ⓘ Maison ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ id ▁ Ⓕ Ⓚ 1680 ▁ Ⓛ Ⓘ id ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Les ▁ hospices ▁ ( ▁ dans ▁ Paris ▁ )Ⓕ ▁ Ⓚ 1681 ▁ Ⓛ Ⓘ terre ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ id ▁ id ▁ id ▁ Ⓕ Ⓚ 1682 ▁ Ⓛ Ⓘ§Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ La ▁ Folleville ▁ Ⓕ Ⓚ 1683 ▁ Ⓛ Ⓘ§Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Les ▁ hospices ▁ dans ▁ Paris ▁ Ⓕ Ⓚ 1684 ▁ Ⓛ Ⓘ§Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ id ▁ id ▁ Ⓕ Ⓚ 1685 ▁ Ⓛ Ⓘ§Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ V ▁ ↑ ▁ e ▁ ↓ ▁ hélin ▁ Ⓕ Ⓚ 1686 ▁ Ⓛ Ⓘ Jardin ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ id ▁ Ⓕ Ⓚ 1687 ▁ Ⓛ Ⓘ maison ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ id ▁ Ⓕ Ⓚ 1688 ▁ Ⓛ Ⓘ Jardin ▁ Ⓙ
+Ⓖ Les ▁ → ▁ Clamards ▁ Ⓗ Ⓔ Ally ▁ Joseph ▁ Marie ▁ Ⓕ Ⓚ 645 ▁ Ⓛ Ⓘ T ▁ Ⓙ Ⓐ 3720 ▁ Ⓑ Ⓒ Vig ▁ Ⓓ
+Ⓖ§Ⓗ ▁ Ⓔ Héricourt ▁ Pierre ▁ Saturnin ▁ Ⓕ Ⓚ 646 ▁ Ⓛ Ⓘ T ▁ Ⓙ Ⓐ 3721 ▁ → ▁ P ▁ ↑ ▁ te ▁ ↓ ▁ 3722 ▁ → ▁ chemin ▁ Ⓑ Ⓒ T ▁ → ▁ T ▁ →"Ⓓ
+Ⓖ§Ⓗ ▁ Ⓔ Héricourt ▁ Louis ▁ Victor ▁ Ⓕ Ⓚ 647 ▁ Ⓛ Ⓘ T ▁ Ⓙ Ⓐ Ptie ▁ 3722 ▁ → ▁ chemin ▁ Ⓑ Ⓒ T ▁ →"Ⓓ
+Ⓖ§Ⓗ ▁ Ⓔ Rameau ▁ Pierre ▁ Côme ▁ Ⓕ Ⓚ 648 ▁ Ⓛ Ⓘ Vigne ▁ Ⓙ Ⓐ 3726 ▁ → ▁ 3724 ▁ Ⓑ Ⓒ Vig ▁ → ▁ T ▁ Ⓓ
+Ⓖ§Ⓗ ▁ Ⓔ Mérillon ▁ Jean ▁ Denis ▁ , ▁ V ▁ ↑ ▁ ve ▁ ↓Ⓕ ▁ Ⓚ 649 ▁ Ⓛ Ⓘ T ▁ Ⓙ Ⓐ 3725 ▁ Ⓑ Ⓒ T ▁ Ⓓ
+Ⓖ§Ⓗ ▁ Ⓔ Berger ▁ Ambroise ▁ magloire ▁ Ⓕ Ⓚ 650 ▁ Ⓛ Ⓘ T ▁ Ⓙ Ⓐ 3726 ▁ Ⓑ Ⓒ T ▁ Ⓓ
+Ⓖ§Ⓗ ▁ Ⓔ Verneau ▁ Jean ▁ , ▁ dit ▁ le ▁ → ▁ Dogue ▁ Ⓕ Ⓚ 651 ▁ Ⓛ Ⓘ Vigne ▁ Ⓙ Ⓐ ptie ▁ 3727 ▁ Ⓑ Ⓒ Vig ▁ Ⓓ
+Ⓖ§Ⓗ ▁ Ⓔ Berger ▁ Baptiste ▁ Ⓕ Ⓚ 652 ▁ Ⓛ Ⓘ T ▁ Ⓙ Ⓐ P ▁ ↑ ▁ tie ▁ ↓ ▁ 3727 ▁ → ▁ 3728 ▁ Ⓑ Ⓒ Vig ▁ → ▁ T ▁ Ⓓ
+Ⓖ§Ⓗ ▁ Ⓔ Ancelot ▁ nicolas ▁ , ▁ dit ▁ ancelon ▁ → ▁ Veuve ▁ Ⓕ Ⓚ 659 ▁ Ⓛ Ⓘ T ▁ Ⓙ Ⓐ P ▁ ↑ ▁ tie ▁ ↓ ▁ 3729 ▁ Ⓑ Ⓒ T ▁ Ⓓ
+Ⓖ§Ⓗ ▁ Ⓔ Mouscadet ▁ Pierre ▁ Grégoire ▁ → ▁ à ▁ Fontenay ▁ Ⓕ Ⓚ 654 ▁ Ⓛ Ⓘ T ▁ Ⓙ Ⓐ P ▁ ↑ ▁ tie ▁ ↓ ▁ 3729 ▁ Ⓑ Ⓒ T ▁ Ⓓ
+Ⓖ§Ⓗ ▁ Ⓔ Beuzeville ▁ charles ▁ , ▁ dit ▁ → ▁ Michon ▁ Ⓕ Ⓚ 655 ▁ Ⓛ Ⓘ T ▁ Ⓙ Ⓐ 3732 ▁ Ⓑ Ⓒ Vig ▁ Ⓓ
+Ⓖ§Ⓗ ▁ Ⓔ Héricourd ▁ Louis ▁ Gabriel ▁ Ⓕ Ⓚ 656 ▁ Ⓛ Ⓘ T ▁ Ⓙ Ⓐ 3731 ▁ Ⓑ Ⓒ T ▁ Ⓓ
+Ⓖ§Ⓗ ▁ Ⓔ Ancelot ▁ Pierre ▁ Saturnin ▁ , ▁ dit ▁ Carabin ▁ Ⓕ Ⓚ 657 ▁ Ⓛ Ⓘ T ▁ Ⓙ Ⓐ 3730 ▁ Ⓑ Ⓒ T ▁ Ⓓ
+Ⓖ§Ⓗ ▁ Ⓔ Ancelot ▁ Nicolas ▁ Joseph ▁ Ⓕ Ⓚ 658 ▁ Ⓛ Ⓘ T ▁ Ⓙ Ⓐ P ▁ ↑ ▁ tie ▁ ↓ ▁ 3733 ▁ Ⓑ Ⓒ T ▁ Ⓓ
+Ⓜ 101 ▁ Ⓝ Ⓔ Larmée ▁ J ▁ D ▁ Ⓕ Ⓚ 496 ▁ Ⓛ Ⓘ vigne ▁ Ⓙ
+Ⓜ 81 ▁ Ⓝ Ⓔ Gauthier ▁ P ▁ ↑ ▁ re ▁ ↓ ▁ f ▁ ↑ ▁ ois ▁ ↓Ⓕ ▁ Ⓚ 497 ▁ Ⓛ Ⓘ id ▁ Ⓙ
+Ⓜ 159 ▁ Ⓝ Ⓔ Richard ▁ tailleur ▁ → ▁ de ▁ pierre ▁ Ⓕ Ⓚ 498 ▁ Ⓛ Ⓘ terre ▁ Ⓙ
+Ⓜ 101 ▁ Ⓝ Ⓔ Larmée ▁ J ▁ ↑ ▁ n ▁ ↓ ▁ B ▁ ↑ ▁ te ▁ ↓Ⓕ ▁ Ⓚ 499 ▁ Ⓛ Ⓘ id ▁ Ⓙ
+Ⓜ 182 ▁ Ⓝ Ⓔ Thivot ▁ bapt ▁ .Ⓕ ▁ Ⓚ 500 ▁ Ⓛ Ⓘ vigne ▁ Ⓙ
+Ⓜ 183 ▁ Ⓝ Ⓔ V ▁ ↑ ▁ e ▁ ↓ ▁ Thivot ▁ à ▁ cresne ▁ Ⓕ Ⓚ 501 ▁ Ⓛ Ⓘ terre ▁ Ⓙ
+Ⓜ 81 ▁ Ⓝ Ⓔ Gauthier ▁ P ▁ ↑ ▁ re ▁ ↓ ▁ f ▁ ↑ ▁ ois ▁ ↓Ⓕ ▁ Ⓚ 502 ▁ Ⓛ Ⓘ vigne ▁ Ⓙ
+Ⓜ 101 ▁ Ⓝ Ⓔ Larmée ▁ Ⓕ Ⓚ 509 ▁ Ⓛ Ⓘ id ▁ Ⓙ
+Ⓜ 23 ▁ Ⓝ Ⓔ Boucher ▁ michel ▁ Ⓕ Ⓚ 504 ▁ Ⓛ Ⓘ id ▁ Ⓙ
+Ⓜ 73 ▁ Ⓝ Ⓔ Ferry ▁ J ▁ ↑ ▁ n ▁ ↓ ▁ louis ▁ Ⓕ Ⓚ 505 ▁ Ⓛ Ⓘ id ▁ Ⓙ
+Ⓜ 182 ▁ Ⓝ Ⓔ Thivot ▁ bapt ▁ Ⓕ Ⓚ 506 ▁ Ⓛ Ⓘ id ▁ Ⓙ
+Ⓜ 101 ▁ Ⓝ Ⓔ Larmée ▁ J ▁ ↑ ▁ n ▁ ↓Ⓕ ▁ Ⓚ 507 ▁ Ⓛ Ⓘ id ▁ Ⓙ
+Ⓜ 6 ▁ Ⓝ Ⓔ Augrot ▁ fontainier ▁ Ⓕ Ⓚ 508 ▁ Ⓛ Ⓘ Jardin ▁ →× ▁ verger ▁ ±Ⓙ
+Ⓜ 6 ▁ Ⓝ Ⓔ id ▁ Ⓕ Ⓚ 509 ▁ Ⓛ Ⓘ× ▁ bâtiment ▁ ±→ ▁ Maison ▁ Ⓙ
+Ⓜ 6 ▁ Ⓝ Ⓔ id ▁ Ⓕ Ⓚ 510 ▁ Ⓛ Ⓘ vigne ▁ Ⓙ
+Ⓖ Rue ▁ des ▁ Carrières ▁ Ⓗ Ⓔ Société ▁ de ▁ la ▁ Gare ▁ Ⓕ Ⓚ 295 ▁ Ⓛ Ⓘ Jardin ▁ Ⓙ Ⓐ 220 ▁ portion ▁ → ▁ 222 ▁ → ▁ 223 ▁ → ▁ 224 ▁ → ▁ 225 ▁ → ▁ 226 ▁ Ⓑ Ⓒ Jardin ▁ → ▁ réservoir ▁ → ▁ four ▁ → ▁ maison ▁ → ▁ bât ▁ → ▁ bât ▁ Ⓓ
+Ⓖ Rue ▁ de ▁ →Ⓗ ▁ Ⓔ Lemonnier ▁ J ▁ ↑ ▁ n ▁ ↓ ▁ Fois ▁ Ⓕ Ⓚ 296 ▁ Ⓛ Ⓘ Jardin ▁ Ⓙ Ⓐ 220p ▁ Ⓑ Ⓒ Jardin ▁ Ⓓ
+Ⓖ Paris ▁ Ⓗ Ⓔ Idem ▁ Ⓕ Ⓚ 297 ▁ Ⓛ Ⓘ Jardin ▁ Ⓙ Ⓐ 220p ▁ Ⓑ Ⓒ Jardin ▁ Ⓓ
+Ⓖ§Ⓗ ▁ Ⓔ Destouches ▁ auguste ▁ Ⓕ Ⓚ 298 ▁ Ⓛ Ⓘ maison ▁ bt ▁ → ▁ et ▁ cour ▁ → ▁ n ▁ ° ▁ 63 ▁ Ⓙ Ⓐ 220p ▁ → ▁ 221 ▁ Ⓑ Ⓒ Jardin ▁ → ▁ Maison ▁ Ⓓ
+Ⓖ§Ⓗ ▁ Ⓔ Bertaut ▁ antoine ▁ → ▁ veuve ▁ Ⓕ Ⓚ 299 ▁ Ⓛ Ⓘ maison ▁ →× ▁ et ▁ ± ▁ cour ▁ → ▁ n ▁ ° ▁ 61 ▁ Ⓙ Ⓐ 220p ▁ Ⓑ Ⓒ Jardin ▁ Ⓓ
+Ⓖ§Ⓗ ▁ Ⓔ Lemonnier ▁ Jn ▁ Fr ▁ Ⓕ Ⓚ 300 ▁ Ⓛ Ⓘ maison ▁ → ▁ n ▁ ° ▁ 59 ▁ Ⓙ Ⓐ 220p ▁ Ⓑ Ⓒ Ø ▁ Ⓓ
+Ⓖ§Ⓗ ▁ Ⓔ idem ▁ Ⓕ Ⓚ 301 ▁ Ⓛ Ⓘ maison ▁ bat ▁ → ▁ et ▁ cour ▁ Ⓙ Ⓐ 220p ▁ Ⓑ Ⓒ Ø ▁ Ⓓ
+Ⓖ§Ⓗ ▁ Ⓔ Masson ▁ Ⓕ Ⓚ 302 ▁ Ⓛ Ⓘ Jardin ▁ Ⓙ Ⓐ 220p ▁ Ⓑ Ⓒ Ø ▁ Ⓓ
+Ⓖ§Ⓗ ▁ Ⓔ idem ▁ Ⓕ Ⓚ 303 ▁ Ⓛ Ⓘ n ▁ ° ▁ 55 ▁ → ▁ maison ▁ b ▁ ↑ ▁ t ▁ ↓→ ▁ et ▁ cour ▁ Ⓙ Ⓐ 220p ▁ Ⓑ Ⓒ Ø ▁ Ⓓ
+Ⓖ§Ⓗ ▁ Ⓔ Thevenez ▁ Et ▁ ↑ ▁ e ▁ ↓ ▁ ant ▁ ↑ ▁ e ▁ ↓Ⓕ ▁ Ⓚ 303 ▁ ↑ ▁ bis ▁ ↓Ⓛ ▁ Ⓘ m ▁ ↑ ▁ on ▁ ↓ ▁ B ▁ ↑ ▁ t ▁ ↓→ ▁ cour ▁ → ▁ n ▁ ° ▁ 57 ▁ Ⓙ Ⓐ Ø ▁ Ⓑ Ⓒ Ø ▁ Ⓓ
+Ⓖ§Ⓗ ▁ Ⓜ 379 ▁ Ⓝ Ⓔ Phillippetz ▁ Frédéric ▁ Ⓕ Ⓚ 304 ▁ Ⓛ Ⓘ Maison ▁ bt ▁ et ▁ cour ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Petzel ▁ Ⓕ Ⓚ 305 ▁ Ⓛ Ⓘ Jardin ▁ Ⓙ Ⓐ 220p ▁ Ⓑ Ⓒ Ø ▁ Ⓓ
+Ⓖ§Ⓗ ▁ Ⓔ Sulian ▁ ( ▁ Desanut ▁ )→ ▁ pierre ▁ Raymond ▁ Ⓕ Ⓚ 306 ▁ Ⓛ Ⓘ Jardin ▁ Ⓙ Ⓐ 220p ▁ Ⓑ Ⓒ Ø ▁ Ⓓ
+Ⓖ§Ⓗ ▁ Ⓔ idem ▁ Ⓕ Ⓚ 307 ▁ Ⓛ Ⓘ maison ▁ b ▁ ↑ ▁ t ▁ ↓→ ▁ et ▁ cour ▁ Ⓙ Ⓐ 220p ▁ Ⓑ Ⓒ Ø ▁ Ⓓ
+Ⓖ§Ⓗ ▁ Ⓔ idem ▁ Ⓕ Ⓚ 308 ▁ Ⓛ Ⓘ maison ▁ Ⓙ Ⓐ 220p ▁ Ⓑ Ⓒ Ø ▁ Ⓓ
+Ⓖ Les ▁ Flouviers ▁ Ⓗ Ⓔ Cassen ▁ de ▁ Ciablice ▁ augustin ▁ marie ▁ sylvain ▁ → ▁ Paris ▁ Ⓕ Ⓚ 807 ▁ Ⓛ Ⓘ T ▁ Ⓙ Ⓐ 363 ▁ Ⓑ Ⓒ T ▁ Ⓓ
+Ⓖ id ▁ Ⓗ Ⓔ Delanoue ▁ marie ▁ geneviève ▁ ( ▁ d ▁ ↑ ▁ elle ▁ ↓) ▁ Paris ▁ Ⓕ Ⓚ 808 ▁ Ⓛ Ⓘ T ▁ Ⓙ Ⓐ 363 ▁ ↑ ▁ 2 ▁ ↓Ⓑ ▁ Ⓒ T ▁ Ⓓ
+Ⓖ§Ⓗ ▁ Ⓔ Boutté ▁ Charles ▁ Joseph ▁ denis ▁ , ▁ Paris ▁ →( ▁ Veuve ▁ )Ⓕ ▁ Ⓚ 809 ▁ Ⓛ Ⓘ T ▁ Ⓙ Ⓐ 364 ▁ Ⓑ Ⓒ T ▁ Ⓓ
+Ⓖ§Ⓗ ▁ Ⓔ Leleu ▁ hubert ▁ Noël ▁ , ▁ Paris ▁ Ⓕ Ⓚ 810 ▁ Ⓛ Ⓘ T ▁ Ⓙ Ⓐ 364 ▁ ↑ ▁ 2 ▁ ↓Ⓑ ▁ Ⓒ T ▁ Ⓓ
+Ⓖ§Ⓗ ▁ Ⓔ Piors ▁ augustin ▁ , ▁ V ▁ ↑ ▁ e ▁ ↓Ⓕ ▁ Ⓚ 811 ▁ Ⓛ Ⓘ T ▁ Ⓙ Ⓐ 364 ▁ ↑ ▁ 3 ▁ ↓Ⓑ ▁ Ⓒ T ▁ Ⓓ
+Ⓖ§Ⓗ ▁ Ⓔ Leleu ▁ hubert ▁ Noël ▁ , ▁ Paris ▁ Ⓕ Ⓚ 812 ▁ Ⓛ Ⓘ T ▁ Ⓙ Ⓐ 368 ▁ Ⓑ Ⓒ T ▁ Ⓓ
+Ⓖ§Ⓗ ▁ Ⓔ Durand ▁ Jean ▁ Etienne ▁ , ▁ les ▁ h ▁ ↑ ▁ ers ▁ ↓, ▁ à ▁ bicètre ▁ Ⓕ Ⓚ 813 ▁ Ⓛ Ⓘ T ▁ Ⓙ Ⓐ 369 ▁ Ⓑ Ⓒ T ▁ Ⓓ
+Ⓖ§Ⓗ ▁ Ⓔ Delanoue ▁ Toussaint ▁ , ▁ Orly ▁ Ⓕ Ⓚ 814 ▁ Ⓛ Ⓘ T ▁ Ⓙ
+Ⓖ§Ⓗ ▁ Ⓔ Pigeron ▁ , ▁ Paris ▁ Ⓕ Ⓚ 815 ▁ Ⓛ Ⓘ T ▁ Ⓙ Ⓐ 366 ▁ → ▁ 367 ▁ Ⓑ Ⓒ T ▁ → ▁ T ▁ Ⓓ
+Ⓖ§Ⓗ ▁ Ⓔ Couté ▁ Jean ▁ Jacques ▁ Ⓕ Ⓚ 816 ▁ Ⓛ Ⓘ T ▁ Ⓙ Ⓐ 365 ▁ Ⓑ Ⓒ T ▁ Ⓓ
+Ⓖ Le ▁ Travy ▁ Ⓗ Ⓔ hébert ▁ Louis ▁ V ▁ ↑ ▁ e ▁ ↓, ▁ Orly ▁ Ⓕ Ⓚ 817 ▁ Ⓛ Ⓘ T ▁ Ⓙ Ⓐ 456 ▁ Ⓑ Ⓒ T ▁ Ⓓ
+Ⓖ d ▁ Ⓗ Ⓔ Mm ▁ ↑ ▁ e ▁ ↓ ▁ Lérault ▁ V ▁ ↑ ▁ e ▁ ↓, ▁ née ▁ Véron ▁ , ▁ Paris ▁ Ⓕ Ⓚ 818 ▁ Ⓛ Ⓘ T ▁ Ⓙ Ⓐ 457 ▁ Ⓑ Ⓒ T ▁ Ⓓ
+Ⓖ§Ⓗ ▁ Ⓔ Leroy ▁ de ▁ la ▁ Brière ▁ Furcy ▁ marie ▁ nicolas ▁ , ▁ Orly ▁ Ⓕ Ⓚ 819 ▁ Ⓛ Ⓘ T ▁ Ⓙ Ⓐ 458 ▁ Ⓑ Ⓒ T ▁ Ⓓ
+Ⓖ§Ⓗ ▁ Ⓔ Basset ▁ Philippe ▁ , ▁ V ▁ ↑ ▁ e ▁ ↓, ▁ yères ▁ Ⓕ Ⓚ 820 ▁ Ⓛ Ⓘ T ▁ Ⓙ Ⓐ 459 ▁ Ⓑ Ⓒ T ▁ Ⓓ

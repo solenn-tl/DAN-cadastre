@@ -1,0 +1,1823 @@
+Ⓖ l e ▁ B o u v y Ⓗ ▁ Ⓔ M a r b o t ▁ ( l e ▁ B a r o n ) Ⓕ ▁ Ⓚ 1 4 1 Ⓛ ▁ Ⓘ r e s e r v o i r Ⓙ ▁ Ⓐ p . ▁ 1 3 4 Ⓑ ▁ Ⓒ B o i s Ⓓ
+Ⓖ § Ⓗ ▁ Ⓔ § Ⓕ ▁ Ⓚ 1 4 2 Ⓛ ▁ Ⓘ ( p a v i l l o n ) → b â t i m e n t Ⓙ ▁ Ⓐ 1 4 0 Ⓑ ▁ Ⓒ p a v i l l o n Ⓓ
+Ⓖ § Ⓗ ▁ Ⓔ § Ⓕ ▁ Ⓚ 1 4 3 Ⓛ ▁ Ⓘ T e r r e Ⓙ ▁ Ⓐ p . 1 3 4 → p . 1 3 9 Ⓑ ▁ Ⓒ B o i s → p r é Ⓓ
+Ⓖ § Ⓗ ▁ Ⓔ § Ⓕ ▁ Ⓚ 1 4 4 Ⓛ ▁ Ⓘ B o i s → t a i l l i s Ⓙ ▁ Ⓐ p . 1 3 4 Ⓑ ▁ Ⓒ B o i s Ⓓ
+Ⓖ § Ⓗ ▁ Ⓔ § Ⓕ ▁ Ⓚ 1 4 5 Ⓛ ▁ Ⓘ p r é Ⓙ ▁ Ⓐ p . ▁ 1 4 1 ↑ b i s ↓ → p . ▁ 1 3 9 → p . ▁ 1 4 0 ↑ b i s ↓ → p . ▁ 1 4 1 Ⓑ ▁ Ⓒ T e r r e → p r é → T e r r e → T e r r e Ⓓ
+Ⓖ § Ⓗ ▁ Ⓔ § Ⓕ ▁ Ⓚ 1 4 6 Ⓛ ▁ Ⓘ T e r r e Ⓙ ▁ Ⓐ p . ▁ 1 4 1 → p . ▁ 1 4 1 ↑ b i s ↓ Ⓑ ▁ Ⓒ T → T Ⓓ
+Ⓖ § Ⓗ ▁ Ⓔ § Ⓕ ▁ Ⓚ 1 4 7 Ⓛ ▁ Ⓘ T e r r e Ⓙ ▁ Ⓐ p . 1 3 4 Ⓑ ▁ Ⓒ B o i s Ⓓ
+Ⓖ § Ⓗ ▁ Ⓔ § Ⓕ ▁ Ⓚ 1 4 8 Ⓛ ▁ Ⓘ B o i s ▁ t a i l l i s Ⓙ ▁ Ⓐ p . ▁ 1 3 4 Ⓑ ▁ Ⓒ B o i s Ⓓ
+Ⓖ § Ⓗ ▁ Ⓔ § Ⓕ ▁ Ⓚ 1 4 9 Ⓛ ▁ Ⓘ T e r r e Ⓙ ▁ Ⓐ p . ▁ 1 4 0 ↑ b i s ↓ → p . ▁ 1 4 1 ↑ b i s ↓ → p . 1 4 1 Ⓑ ▁ Ⓒ T → T → T Ⓓ
+Ⓖ § Ⓗ ▁ Ⓔ § Ⓕ ▁ Ⓚ 1 5 0 Ⓛ ▁ Ⓘ R u ▁ o u → f o s s é Ⓙ ▁ Ⓐ 1 4 2 Ⓑ ▁ Ⓒ f o s s é Ⓓ
+Ⓖ § Ⓗ ▁ Ⓔ D e l a v i l l e ▁ L e r o u x Ⓕ ▁ Ⓚ 1 5 1 Ⓛ ▁ Ⓘ T e r r e Ⓙ ▁ Ⓐ 1 4 3 Ⓑ ▁ Ⓒ T Ⓓ
+Ⓖ P o n t ▁ J a p h e t Ⓗ ▁ Ⓔ B e r t r a n d ▁ a c h i l l e Ⓕ ▁ Ⓚ 5 2 ▁ s u i t e Ⓛ ▁ Ⓘ t e r r e Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ B e s v a l ▁ J e a n ▁ f r a n ç o i s ▁ a n t o i n e Ⓕ ▁ Ⓚ § Ⓛ ▁ Ⓘ § Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ B l o n d e a u ▁ é m i l e ▁ p i e r r e Ⓕ ▁ Ⓚ § Ⓛ ▁ Ⓘ § Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ B o u l o t ▁ i s i d o r e Ⓕ ▁ Ⓚ § Ⓛ ▁ Ⓘ § Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ B r o d i n ▁ c h a r l e s ▁ g u i l l a u m e Ⓕ ▁ Ⓚ § Ⓛ ▁ Ⓘ § Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ C a s t e r o n ▁ v i c t o r Ⓕ ▁ Ⓚ § Ⓛ ▁ Ⓘ § Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ C a u d y ▁ m a t h i a s Ⓕ ▁ Ⓚ § Ⓛ ▁ Ⓘ § Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ C h o q u e t ▁ p i e r r e Ⓕ ▁ Ⓚ § Ⓛ ▁ Ⓘ § Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ C ↑ i e ↓ ▁ a n o n y m e ▁ d u ▁ c h ↑ i n ↓ ▁ d e ▁ f e r ▁ d e ▁ P a r i s ▁ à ▁ L y o n Ⓕ ▁ Ⓚ § Ⓛ ▁ Ⓘ § Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ C o r b i e r ▁ é m i l e ▁ J o s e p h Ⓕ ▁ Ⓚ § Ⓛ ▁ Ⓘ § Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ C o u d r a y ▁ J e a n ▁ f r a n ç o i s Ⓕ ▁ Ⓚ § Ⓛ ▁ Ⓘ § Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ C o u r b a s s i e r ▁ h e n r i ▁ c l é m e n t Ⓕ ▁ Ⓚ § Ⓛ ▁ Ⓘ § Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ D a n i e l ▁ J o s e p h Ⓕ ▁ Ⓚ § Ⓛ ▁ Ⓘ § Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ D a u n o t Ⓕ ▁ Ⓚ § Ⓛ ▁ Ⓘ § Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ D e f e u x ▁ f r a n ç o i s ▁ a l p h o n s e Ⓕ ▁ Ⓚ § Ⓛ ▁ Ⓘ § Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ D e u n o u g e o t ▁ f r a n ç o i s ▁ x a v i e r Ⓕ ▁ Ⓚ § Ⓛ ▁ Ⓘ § Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ D e s c o r p s ▁ J e a n Ⓕ ▁ Ⓚ § Ⓛ ▁ Ⓘ § Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ D e v i d a l ▁ B e n o ï t Ⓕ ▁ Ⓚ § Ⓛ ▁ Ⓘ § Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ D e v i n ▁ l o u i s ▁ J o s e p h Ⓕ ▁ Ⓚ § Ⓛ ▁ Ⓘ § Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ D i e u d o n n é ▁ J e a n ▁ B ↑ t e ↓ Ⓕ ▁ Ⓚ § Ⓛ ▁ Ⓘ § Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ D o b y ▁ a u g u s t i n ▁ f r a n ç o i s ▁ j o s e p h Ⓕ ▁ Ⓚ § Ⓛ ▁ Ⓘ § Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ D o m i n i q u e ▁ m i c h e l Ⓕ ▁ Ⓚ § Ⓛ ▁ Ⓘ § Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ D r o m e r ▁ v e u v e ▁ n é e ▁ V i v i e r Ⓕ ▁ Ⓚ § Ⓛ ▁ Ⓘ § Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ D u v e r n y ▁ f r a n ç o i s ▁ g u s t a v e Ⓕ ▁ Ⓚ § Ⓛ ▁ Ⓘ § Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ F i l i p p i ▁ a m b r o i s e Ⓕ ▁ Ⓚ § Ⓛ ▁ Ⓘ § Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ F r a n ç o i s ▁ t h é o d o r e ▁ a d o l p h e Ⓕ ▁ Ⓚ § Ⓛ ▁ Ⓘ § Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ G e f f r i e r ▁ h e n r i ▁ l o u i s Ⓕ ▁ Ⓚ § Ⓛ ▁ Ⓘ § Ⓙ
+Ⓖ × l e s ▁ G i r o u e t t e s ± Ⓗ ▁ Ⓔ × B l a i n ▁ d e s ▁ C o r m i e r s ± Ⓕ ▁ Ⓚ × 1 5 ± Ⓛ ▁ Ⓘ × T e r r e ± Ⓙ ▁ Ⓐ × 3 3 ± Ⓑ ▁ Ⓒ × T ± Ⓓ
+Ⓖ × § ± Ⓗ ▁ Ⓔ × B a l e s t r e ▁ à ▁ S c e a u x ± Ⓕ ▁ Ⓚ × 1 6 ± Ⓛ ▁ Ⓘ × T ± Ⓙ ▁ Ⓐ 2 3 Ⓑ ▁ Ⓒ T Ⓓ
+Ⓖ § Ⓗ ▁ Ⓔ M e v o t h o n ▁ l e s ▁ h ↑ e r s ↓ Ⓕ ▁ Ⓚ 1 7 p Ⓛ ▁ Ⓘ T Ⓙ ▁ Ⓐ 2 4 → 2 5 Ⓑ ▁ Ⓒ T Ⓓ
+Ⓖ § Ⓗ ▁ Ⓔ C o r n u ▁ p i e r r e Ⓕ ▁ Ⓚ 1 8 p Ⓛ ▁ Ⓘ T Ⓙ ▁ Ⓐ 2 6 Ⓑ ▁ Ⓒ T Ⓓ
+Ⓖ § Ⓗ ▁ Ⓔ T r i é ▁ p h i l i b e r t Ⓕ ▁ Ⓚ 1 9 p Ⓛ ▁ Ⓘ T Ⓙ ▁ Ⓐ 2 7 Ⓑ ▁ Ⓒ T Ⓓ
+Ⓖ § Ⓗ ▁ Ⓔ L a v e n a n t ▁ L o u i s ▁ f ↑ o i s ↓ Ⓕ ▁ Ⓚ 2 0 p Ⓛ ▁ Ⓘ T Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ P l e s ▁ m a t i n s ▁ S c é v o l a Ⓕ ▁ Ⓚ 2 1 p Ⓛ ▁ Ⓘ T Ⓙ ▁ Ⓐ 2 9 → 3 0 Ⓑ ▁ Ⓒ T Ⓓ
+Ⓖ § Ⓗ ▁ Ⓔ L e v é ▁ c l a u d e Ⓕ ▁ Ⓚ 2 2 Ⓛ ▁ Ⓘ T Ⓙ ▁ Ⓐ 3 1 Ⓑ ▁ Ⓒ T Ⓓ
+Ⓖ § Ⓗ ▁ Ⓔ C o u s i n ▁ d e m ▁ r i c o u r t ▁ V ↑ e ↓ Ⓕ ▁ Ⓚ 5 3 p Ⓛ ▁ Ⓘ T Ⓙ ▁ Ⓐ 4 2 Ⓑ ▁ Ⓒ T Ⓓ
+Ⓖ § Ⓗ ▁ Ⓔ B l a i n ▁ d e s ▁ c o r m i e r s Ⓕ ▁ Ⓚ 2 4 p Ⓛ ▁ Ⓘ T Ⓙ ▁ Ⓐ 4 3 Ⓑ ▁ Ⓒ T Ⓓ
+Ⓖ § Ⓗ ▁ Ⓔ C o u s i n ▁ d e ▁ m e r i c a r d ▁ V ↑ e ↓ Ⓕ ▁ Ⓚ 2 5 Ⓛ ▁ Ⓘ T Ⓙ ▁ Ⓐ 4 7 Ⓑ ▁ Ⓒ T Ⓓ
+Ⓖ § Ⓗ ▁ Ⓔ N o u v i a l ▁ j e a n ▁ j o s e p h Ⓕ ▁ Ⓚ 2 6 Ⓛ ▁ Ⓘ T Ⓙ ▁ Ⓐ 4 6 Ⓑ ▁ Ⓒ T Ⓓ
+Ⓖ § Ⓗ ▁ Ⓔ R e n a r d ▁ c h ↑ e s ↓ ▁ n i c o l a s Ⓕ ▁ Ⓚ 2 7 Ⓛ ▁ Ⓘ T Ⓙ ▁ Ⓐ 4 5 Ⓑ ▁ Ⓒ T Ⓓ
+Ⓖ § Ⓗ ▁ Ⓔ N o u v i a l ▁ j e a n ▁ j o s e p h Ⓕ ▁ Ⓚ 2 8 p Ⓛ ▁ Ⓘ T Ⓙ ▁ Ⓐ 4 1 → 4 4 → 4 8 Ⓑ ▁ Ⓒ T Ⓓ
+Ⓖ L e s ▁ G r a n d e s → T e r r e s Ⓗ ▁ Ⓔ M e n t i e n n e ▁ C l é m e n t ▁ C h a r l e s ▁ g ↑ d r e ↓ ▁ Q u i r e Ⓕ ▁ Ⓚ 1 Ⓛ ▁ Ⓘ T Ⓙ ▁ Ⓐ P ↑ t i e ↓ ▁ 2 0 5 0 Ⓑ ▁ Ⓒ T Ⓓ
+Ⓖ i d Ⓗ ▁ Ⓔ Q u é r u ▁ p i e r r e ▁ f r a n ç o i s Ⓕ ▁ Ⓚ 2 Ⓛ ▁ Ⓘ T Ⓙ ▁ Ⓐ P ↑ t i e ↓ ▁ 2 0 5 0 Ⓑ ▁ Ⓒ T Ⓓ
+Ⓖ § Ⓗ ▁ Ⓔ M o r t i e r ▁ V i n c e n t ▁ n o ë l Ⓕ ▁ Ⓚ 3 Ⓛ ▁ Ⓘ T Ⓙ ▁ Ⓐ 2 0 4 9 Ⓑ ▁ Ⓒ T Ⓓ
+Ⓖ § Ⓗ ▁ Ⓔ M e n t i e n n e ▁ A r m a n d ▁ L o u i s Ⓕ ▁ Ⓚ 4 Ⓛ ▁ Ⓘ T Ⓙ ▁ Ⓐ 2 0 4 8 Ⓑ ▁ Ⓒ T Ⓓ
+Ⓖ § Ⓗ ▁ Ⓔ M e n t i e n n e ▁ L o u i s ▁ A l e x a n d r e → f i l s , ▁ d i t ▁ B e a u l a i d Ⓕ ▁ Ⓚ 5 Ⓛ ▁ Ⓘ T Ⓙ ▁ Ⓐ 2 0 4 5 → 2 0 4 6 → 2 0 4 7 Ⓑ ▁ Ⓒ V i g . → T → T Ⓓ
+Ⓖ § Ⓗ ▁ Ⓔ D e s n y a u ▁ P i e r r e ▁ h e n r i Ⓕ ▁ Ⓚ 6 Ⓛ ▁ Ⓘ T ▁ e t ▁ v i g n e Ⓙ ▁ Ⓐ 2 0 4 3 → 2 0 4 4 Ⓑ ▁ Ⓒ V i g → T Ⓓ
+Ⓖ § Ⓗ ▁ Ⓔ M o r t i e r ▁ R o s e ▁ h y a c i n t h e Ⓕ ▁ Ⓚ 7 Ⓛ ▁ Ⓘ T Ⓙ ▁ Ⓐ 2 0 4 2 Ⓑ ▁ Ⓒ V i g Ⓓ
+Ⓖ § Ⓗ ▁ Ⓔ P i q u e t ▁ J o s e p h ▁ M a u r i c e → à ▁ V i l l i e r s Ⓕ ▁ Ⓚ 8 Ⓛ ▁ Ⓘ V i g n e Ⓙ ▁ Ⓐ 2 0 4 4 ↑ b i s ↓ → 2 0 4 5 ↑ b i s ↓ Ⓑ ▁ Ⓒ T → T Ⓓ
+Ⓖ § Ⓗ ▁ Ⓔ G r a n g e r ▁ A u g u s t e ▁ A b e l ▁ à → V i l l e r s Ⓕ ▁ Ⓚ 9 Ⓛ ▁ Ⓘ T Ⓙ ▁ Ⓐ 2 0 4 2 ↑ b i s ↓ → 2 0 4 6 ↑ b i s ↓ Ⓑ ▁ Ⓒ T → T Ⓓ
+Ⓖ § Ⓗ ▁ Ⓔ M e n t i e n n e ▁ A r m a n d ▁ L o u i s Ⓕ ▁ Ⓚ 1 0 Ⓛ ▁ Ⓘ T Ⓙ ▁ Ⓐ P ↑ t i e ↓ ▁ 2 0 4 1 ↑ b i s ↓ → 2 0 4 1 ↑ 3 ↓ Ⓑ ▁ Ⓒ T → T Ⓓ
+Ⓖ § Ⓗ ▁ Ⓔ M e n t i e n n e ▁ f r a n ç o i s Ⓕ ▁ Ⓚ 1 1 Ⓛ ▁ Ⓘ T Ⓙ ▁ Ⓐ P ↑ t i e ↓ ▁ 2 0 4 1 ↑ b i s ↓ Ⓑ ▁ Ⓒ T Ⓓ
+Ⓖ § Ⓗ ▁ Ⓔ D e s n y a u ▁ P i e r r e ▁ h e n r i Ⓕ ▁ Ⓚ 1 2 Ⓛ ▁ Ⓘ V i g n e Ⓙ ▁ Ⓐ P ↑ t i e ↓ ▁ 2 0 4 1 ↑ b i s ↓ Ⓑ ▁ Ⓒ T Ⓓ
+Ⓖ § Ⓗ ▁ Ⓔ M o r t i e r ▁ R o s e ▁ h y a c i n t h e Ⓕ ▁ Ⓚ 1 3 Ⓛ ▁ Ⓘ V i g n e Ⓙ ▁ Ⓐ P ↑ t i e ↓ ▁ 2 0 4 1 ↑ b i s ↓ Ⓑ ▁ Ⓒ T Ⓓ
+Ⓖ § Ⓗ ▁ Ⓔ Q u é r u ▁ P i e r r e ▁ f r a n ç o i s Ⓕ ▁ Ⓚ 1 4 Ⓛ ▁ Ⓘ T . ▁ e t ▁ v i g n e Ⓙ ▁ Ⓐ 2 0 4 1 Ⓑ ▁ Ⓒ T Ⓓ
+Ⓖ L e s → C l a m a r d s Ⓗ ▁ Ⓔ R a m e a u ▁ R o c h ▁ Q u e n t i n Ⓕ ▁ Ⓚ 6 7 3 Ⓛ ▁ Ⓘ T Ⓙ ▁ Ⓐ 3 7 4 7 Ⓑ ▁ Ⓒ T ▁ . V i g Ⓓ
+Ⓖ i d Ⓗ ▁ Ⓔ S o u d i e u x ▁ S a t u r n i n ▁ d i ❌ → m a n d r e Ⓕ ▁ Ⓚ 6 7 4 Ⓛ ▁ Ⓘ T Ⓙ ▁ Ⓐ 9 7 4 9 Ⓑ ▁ Ⓒ V i g Ⓓ
+Ⓖ § Ⓗ ▁ Ⓔ S o u d i e u x ▁ L o u i s ▁ j a c q u e s , ▁ H ↑ e r s ↓ Ⓕ ▁ Ⓚ 6 7 5 Ⓛ ▁ Ⓘ V i g n e Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ J o s s e t ▁ f r a n ç o i s ▁ m a r i e Ⓕ ▁ Ⓚ 6 7 6 Ⓛ ▁ Ⓘ T Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ A n c e l e t ▁ n i c o l a s , ▁ d i t ▁ a n c e l e t ▁ V e u v e Ⓕ ▁ Ⓚ 6 7 7 Ⓛ ▁ Ⓘ T Ⓙ ▁ Ⓐ 3 7 5 1 Ⓑ ▁ Ⓒ T Ⓓ
+Ⓖ § Ⓗ ▁ Ⓔ A n c e l e t ▁ S a t u r n i n ▁ D o m i n i q u e Ⓕ ▁ Ⓚ 6 7 8 Ⓛ ▁ Ⓘ T Ⓙ ▁ Ⓐ 3 5 7 2 Ⓑ ▁ Ⓒ V i g Ⓓ
+Ⓖ § Ⓗ ▁ Ⓔ A n c e l e t ▁ A l e x a n d r e Ⓕ ▁ Ⓚ 6 7 9 Ⓛ ▁ Ⓘ T Ⓙ ▁ Ⓐ 3 7 5 5 Ⓑ ▁ Ⓒ T Ⓓ
+Ⓖ § Ⓗ ▁ Ⓔ F o u c a u l t ▁ P i e r r e Ⓕ ▁ Ⓚ 6 8 0 Ⓛ ▁ Ⓘ T Ⓙ ▁ Ⓐ 9 7 5 3 → 9 7 5 4 Ⓑ ▁ Ⓒ T → V i g Ⓓ
+Ⓖ § Ⓗ ▁ Ⓔ L e b l a n c ▁ V i c t o r Ⓕ ▁ Ⓚ 6 8 1 Ⓛ ▁ Ⓘ J a r d i n Ⓙ ▁ Ⓐ P ↑ t i e ↓ ▁ 9 7 8 9 ↑ b i s ↓ → C h e m i n Ⓑ ▁ Ⓒ C h e m i n → → " Ⓓ
+Ⓖ § Ⓗ ▁ Ⓔ D a m p i e r r e ▁ ( L e ▁ C o m t e ) Ⓕ ▁ Ⓚ 6 8 2 Ⓛ ▁ Ⓘ J a r d i n Ⓙ ▁ Ⓐ 3 7 6 7 ↑ b i s ↓ Ⓑ ▁ Ⓒ J a r d i n Ⓓ
+Ⓖ § Ⓗ ▁ Ⓔ L e s a i n t ▁ J e a n ▁ B a p t i s t e Ⓕ ▁ Ⓚ 6 8 3 Ⓛ ▁ Ⓘ J a r d i n Ⓙ ▁ Ⓐ 3 7 6 8 Ⓑ ▁ Ⓒ V e r g e r Ⓓ
+Ⓖ § Ⓗ ▁ Ⓔ M é r i l l o n ▁ f é l i x Ⓕ ▁ Ⓚ 6 8 4 Ⓛ ▁ Ⓘ J a r d i n Ⓙ ▁ Ⓐ 3 7 6 9 Ⓑ ▁ Ⓒ V i g Ⓓ
+Ⓖ § Ⓗ ▁ Ⓔ M é r i l l o n ▁ J e a n ▁ D e n i s , ▁ V ↑ v e ↓ Ⓕ ▁ Ⓚ 6 8 5 Ⓛ ▁ Ⓘ J a r d i n Ⓙ ▁ Ⓐ 3 7 7 0 Ⓑ ▁ Ⓒ V e r g e r Ⓓ
+Ⓖ § Ⓗ ▁ Ⓔ M é r i l l o n ▁ D o m i n i q u e Ⓕ ▁ Ⓚ 6 8 6 Ⓛ ▁ Ⓘ J a r d i n Ⓙ ▁ Ⓐ 3 7 7 1 Ⓑ ▁ Ⓒ V e r g e r Ⓓ
+Ⓜ 7 Ⓝ ▁ Ⓔ A n c e l e t ▁ × f ↑ o i s ↓ ▁ V ↑ e ↓ ± ▁ n i c o l a s Ⓕ ▁ Ⓚ 6 2 2 Ⓛ ▁ Ⓘ T e r r e Ⓙ
+Ⓜ 1 1 6 Ⓝ ▁ Ⓔ M ↑ r ↓ ▁ D h a u s s o n v i l l e Ⓕ ▁ Ⓚ 6 2 3 Ⓛ ▁ Ⓘ i d Ⓙ
+Ⓜ 3 3 2 Ⓝ ▁ Ⓔ M o n t m a r t h e ▁ V ↑ e ↓ ▁ a n t ↑ e ↓ Ⓕ ▁ Ⓚ 2 5 Ⓛ ▁ Ⓘ § Ⓙ
+Ⓜ 1 8 Ⓝ ▁ Ⓔ a n c e l e t ▁ f ↑ r e ↓ Ⓕ ▁ Ⓚ 2 6 Ⓛ ▁ Ⓘ § Ⓙ
+Ⓜ 1 9 3 Ⓝ ▁ Ⓔ h e r i c o u r t ▁ D ↑ q u e ↓ ▁ a n d r é Ⓕ ▁ Ⓚ 2 7 Ⓛ ▁ Ⓘ § Ⓙ
+Ⓜ 1 2 3 Ⓝ ▁ Ⓔ D u v a l ▁ s a t ↑ i n ↓ ▁ v e u v e Ⓕ ▁ Ⓚ 2 8 Ⓛ ▁ Ⓘ § Ⓙ
+Ⓜ 1 1 6 Ⓝ ▁ Ⓔ M ↑ r ↓ ▁ D h a u s s o n v i l l e Ⓕ ▁ Ⓚ 2 9 Ⓛ ▁ Ⓘ § Ⓙ
+Ⓜ 1 0 5 Ⓝ ▁ Ⓔ M ↑ r ↓ ▁ C u r y Ⓕ ▁ Ⓚ 6 3 0 Ⓛ ▁ Ⓘ § Ⓙ
+Ⓜ 2 1 7 Ⓝ ▁ Ⓔ L a l l e g e r i e ▁ E t ↑ e ↓ ▁ J ↑ n ↓ Ⓕ ▁ Ⓚ 3 1 Ⓛ ▁ Ⓘ § Ⓙ
+Ⓜ 4 9 Ⓝ ▁ Ⓔ B e u z e v i l l e ▁ J ↑ n ↓ ▁ m a r i e Ⓕ ▁ Ⓚ 3 2 Ⓛ ▁ Ⓘ § Ⓙ
+Ⓜ 4 0 Ⓝ ▁ Ⓔ B e r g e r ▁ L o u i s Ⓕ ▁ Ⓚ 3 3 Ⓛ ▁ Ⓘ § Ⓙ
+Ⓜ 2 1 7 Ⓝ ▁ Ⓔ L a l l e g e r i e ▁ E t ↑ e ↓ ▁ J ↑ n ↓ Ⓕ ▁ Ⓚ 3 4 Ⓛ ▁ Ⓘ § Ⓙ
+Ⓜ 4 3 6 Ⓝ ▁ Ⓔ S o u d i e u x ▁ s a t ↑ n ↓ ▁ b a l o t Ⓕ ▁ Ⓚ 3 5 Ⓛ ▁ Ⓘ § Ⓙ
+Ⓜ × 3 0 6 ± Ⓝ ▁ Ⓔ × M e r i l l o n ▁ D ↑ q u e ↓ ± ▁ i n c o n n u s Ⓕ ▁ Ⓚ 3 6 Ⓛ ▁ Ⓘ § Ⓙ
+Ⓜ 1 3 5 Ⓝ ▁ Ⓔ F o u c a u l t ▁ m i c h e l Ⓕ ▁ Ⓚ 3 7 Ⓛ ▁ Ⓘ § Ⓙ
+Ⓜ 4 3 4 Ⓝ ▁ Ⓔ S o u d i e u x ▁ J ↑ n ↓ ▁ l o u i s Ⓕ ▁ Ⓚ 3 8 Ⓛ ▁ Ⓘ § Ⓙ
+Ⓜ 4 0 9 Ⓝ ▁ Ⓔ R a m e a u ▁ J ↑ n ↓ ▁ l o u i s ▁ f i l s ▁ v e u v e Ⓕ ▁ Ⓚ 3 9 Ⓛ ▁ Ⓘ § Ⓙ
+Ⓜ × 3 2 4 ± → 1 0 2 ↑ b i s ↓ Ⓝ ▁ Ⓔ × M e z a r d ▁ n ↑ a s ↓ ± ▁ C o u r t o i s ▁ l o u i s Ⓕ ▁ Ⓚ 6 4 0 Ⓛ ▁ Ⓘ § Ⓙ
+Ⓜ 4 0 Ⓝ ▁ Ⓔ B e r g e r ▁ l o u i s Ⓕ ▁ Ⓚ 4 1 Ⓛ ▁ Ⓘ § Ⓙ
+Ⓜ 1 1 6 Ⓝ ▁ Ⓔ M ↑ r ↓ ▁ D h a u s s o n v i l l e Ⓕ ▁ Ⓚ 4 2 Ⓛ ▁ Ⓘ § Ⓙ
+Ⓜ 1 1 6 Ⓝ ▁ Ⓔ L e ▁ m ê m e Ⓕ ▁ Ⓚ 4 3 Ⓛ ▁ Ⓘ § Ⓙ
+Ⓖ L a → C o r n e i l l e Ⓗ ▁ Ⓔ C o u r i è r e ▁ f r a n ç o i s e Ⓕ ▁ Ⓚ 1 1 0 3 Ⓛ ▁ Ⓘ T Ⓙ ▁ Ⓐ 2 8 0 1 Ⓑ ▁ Ⓒ V i g Ⓓ
+Ⓖ i d Ⓗ ▁ Ⓔ M é r i l l o n Ⓕ ▁ Ⓚ 1 1 0 4 Ⓛ ▁ Ⓘ T Ⓙ ▁ Ⓐ 2 8 0 2 Ⓑ ▁ Ⓒ T Ⓓ
+Ⓖ § Ⓗ ▁ Ⓔ A n c e l e t ▁ A n d r é Ⓕ ▁ Ⓚ 1 1 0 5 Ⓛ ▁ Ⓘ V i g n e Ⓙ ▁ Ⓐ 2 8 0 3 Ⓑ ▁ Ⓒ T Ⓓ
+Ⓖ § Ⓗ ▁ Ⓔ S u b t i l ▁ D e n i s ▁ P i e r r e Ⓕ ▁ Ⓚ 1 1 0 6 Ⓛ ▁ Ⓘ T Ⓙ ▁ Ⓐ 2 0 8 6 ↑ b i s ↓ Ⓑ ▁ Ⓒ T . ▁ V i g . Ⓓ
+Ⓖ § Ⓗ ▁ Ⓔ M é r i l l o n ▁ f é l i x Ⓕ ▁ Ⓚ 1 1 0 7 Ⓛ ▁ Ⓘ V i g n e Ⓙ ▁ Ⓐ 2 8 0 6 Ⓑ ▁ Ⓒ T Ⓓ
+Ⓖ § Ⓗ ▁ Ⓔ A n c e l e t ▁ n i c o l a s , ▁ d i t ▁ A n c e l o n → V e u v e Ⓕ ▁ Ⓚ 1 1 0 8 Ⓛ ▁ Ⓘ T Ⓙ ▁ Ⓐ 2 8 2 0 Ⓑ ▁ Ⓒ V i g Ⓓ
+Ⓖ § Ⓗ ▁ Ⓔ L a m e a u ▁ M a r i e ▁ S a t u r n i n , ▁ f ↑ d r e ↓ → V i t r y Ⓕ ▁ Ⓚ 1 1 0 9 Ⓛ ▁ Ⓘ T Ⓙ ▁ Ⓐ 2 8 0 9 Ⓑ ▁ Ⓒ T Ⓓ
+Ⓖ § Ⓗ ▁ Ⓔ M o u s c a d e t ▁ P i e r r e ▁ G r é g o i r e → à ▁ f o n t e n a y Ⓕ ▁ Ⓚ 1 1 1 0 Ⓛ ▁ Ⓘ T Ⓙ ▁ Ⓐ P ↑ t i e ↓ ▁ 2 8 1 1 ↑ b i s ↓ → 2 8 1 1 Ⓑ ▁ Ⓒ T → T Ⓓ
+Ⓖ § Ⓗ ▁ Ⓔ B e r g e r ▁ B a p t i s t e Ⓕ ▁ Ⓚ 1 1 1 1 Ⓛ ▁ Ⓘ V i g n e Ⓙ ▁ Ⓐ 2 8 1 3 Ⓑ ▁ Ⓒ T Ⓓ
+Ⓖ § Ⓗ ▁ Ⓔ B o s s e t ▁ f é l i x , ▁ à → P a r i s Ⓕ ▁ Ⓚ 1 1 1 2 Ⓛ ▁ Ⓘ T Ⓙ ▁ Ⓐ P ↑ i e ↓ ▁ 2 8 1 1 ↑ b i s ↓ Ⓑ ▁ Ⓒ T Ⓓ
+Ⓖ § Ⓗ ▁ Ⓔ S a u s s a r y ▁ f i l s Ⓕ ▁ Ⓚ 1 1 1 3 Ⓛ ▁ Ⓘ V i g n e ▁ u ▁ t Ⓙ ▁ Ⓐ 2 8 1 5 Ⓑ ▁ Ⓒ T Ⓓ
+Ⓖ § Ⓗ ▁ Ⓔ R o b i n ▁ T o u s s a i n t , ▁ à → f o n t e n a y Ⓕ ▁ Ⓚ 1 1 1 4 Ⓛ ▁ Ⓘ T Ⓙ ▁ Ⓐ 2 8 1 7 Ⓑ ▁ Ⓒ T Ⓓ
+Ⓖ § Ⓗ ▁ Ⓜ 1 1 1 5 Ⓝ ▁ Ⓔ B e r g e r ▁ L o u i s ▁ S i m o n Ⓕ ▁ Ⓚ 1 1 1 5 Ⓛ ▁ Ⓘ V i g n e Ⓙ ▁ Ⓐ 2 8 1 6 Ⓑ ▁ Ⓒ T Ⓓ
+Ⓖ § Ⓗ ▁ Ⓔ S u r a u l t ▁ J e a n , ▁ à ▁ f o n t e n a y Ⓕ ▁ Ⓚ 1 1 1 6 Ⓛ ▁ Ⓘ V i g n e Ⓙ ▁ Ⓐ 2 8 1 8 Ⓑ ▁ Ⓒ T Ⓓ
+Ⓖ L e s ▁ M a r l i è r e s Ⓗ ▁ Ⓔ G i r a u d e a u ▁ l o u i s Ⓕ ▁ Ⓚ 1 0 1 2 Ⓛ ▁ Ⓘ v i g n e Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ v o i e ▁ p u b l i q u e Ⓕ ▁ Ⓚ 1 0 1 3 Ⓛ ▁ Ⓘ v i g n e Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ B i a r d ▁ r a p h a ë l ▁ j u l i e n Ⓕ ▁ Ⓚ 1 0 1 4 Ⓛ ▁ Ⓘ v i g n e Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ F o n t a i n e ▁ f r a n ç o i s ▁ J ↑ h ↓ Ⓕ ▁ Ⓚ 1 0 1 5 Ⓛ ▁ Ⓘ v i g n e Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ v o i e ▁ p u b l i q u e Ⓕ ▁ Ⓚ 1 0 1 5 Ⓛ ▁ Ⓘ v i g n e Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ B i a r d ▁ r a p h a ë l ▁ j u l i e n Ⓕ ▁ Ⓚ 1 0 1 6 Ⓛ ▁ Ⓘ v i g n e Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ V i c t o r ▁ D é s i r é Ⓕ ▁ Ⓚ 1 0 1 7 Ⓛ ▁ Ⓘ v i g n e Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ v o i e ▁ p u b l i q u e Ⓕ ▁ Ⓚ 1 0 1 7 Ⓛ ▁ Ⓘ v i g n e Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ A n c e l o t ▁ c h a r l e s ▁ d o m i n i q u e Ⓕ ▁ Ⓚ 1 0 1 8 Ⓛ ▁ Ⓘ T Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ G i r a u d e a u ▁ l o u i s Ⓕ ▁ Ⓚ 1 0 1 9 Ⓛ ▁ Ⓘ T Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ V i t r y ▁ J e a n ▁ B ↑ t e ↓ ▁ a l e x a n d r e Ⓕ ▁ Ⓚ 1 0 2 0 Ⓛ ▁ Ⓘ T Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ B a r i l l e t ▁ p a u l ▁ d é s i r é Ⓕ ▁ Ⓚ 1 0 2 1 Ⓛ ▁ Ⓘ T Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ H é r i c o u r t ▁ g a b r i e l Ⓕ ▁ Ⓚ 1 0 2 2 Ⓛ ▁ Ⓘ v i g n e Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ B a r i l l e t ▁ l o u i s ▁ j u l e s Ⓕ ▁ Ⓚ 1 0 2 3 Ⓛ ▁ Ⓘ T Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ B a c h e r e a u ▁ l é o p o l d ▁ a r s è n e Ⓕ ▁ Ⓚ 1 0 2 4 Ⓛ ▁ Ⓘ T Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ M i s g a u l t ▁ L é o n ▁ m i c h e l Ⓕ ▁ Ⓚ 1 0 2 5 Ⓛ ▁ Ⓘ T Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ i d Ⓕ ▁ Ⓚ 1 0 2 6 Ⓛ ▁ Ⓘ v i g n e Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ i d Ⓕ ▁ Ⓚ 1 0 2 7 Ⓛ ▁ Ⓘ T Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ i d Ⓕ ▁ Ⓚ 1 0 2 8 Ⓛ ▁ Ⓘ T Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ A n c e l e t ▁ f r a n ç o i s ▁ a n t o i n e Ⓕ ▁ Ⓚ 1 0 2 9 Ⓛ ▁ Ⓘ T Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ P r i n b e l Ⓕ ▁ Ⓚ 1 0 3 0 Ⓛ ▁ Ⓘ T Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ v o i e ▁ p u b l i q u e Ⓕ ▁ Ⓚ 1 0 3 0 Ⓛ ▁ Ⓘ T Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ B a c h e r e a u ▁ L é o p o l d ▁ a r s è n e Ⓕ ▁ Ⓚ 1 0 3 1 Ⓛ ▁ Ⓘ T Ⓙ
+Ⓖ D e r r i è r e ▁ l e ▁ p e t i t ▁ p r é Ⓗ ▁ Ⓔ C o i f f i e r ▁ p i e r r e ▁ h o n o r é Ⓕ ▁ Ⓚ 1 0 3 2 Ⓛ ▁ Ⓘ v i g n e Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ v o i e ▁ p u b l i q u e Ⓕ ▁ Ⓚ 1 0 3 2 Ⓛ ▁ Ⓘ i d Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ R a m e a u ▁ J e a n ▁ f r a n ç o i s Ⓕ ▁ Ⓚ 1 0 3 3 Ⓛ ▁ Ⓘ v i g n e Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ A n c e l e t ▁ c h a r l e s ▁ d o m i n i q u e Ⓕ ▁ Ⓚ 1 0 3 4 Ⓛ ▁ Ⓘ § Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ L a i z i e r ▁ l o u i s ▁ a d o l p h e Ⓕ ▁ Ⓚ 1 0 3 5 Ⓛ ▁ Ⓘ T Ⓙ
+Ⓖ L a ▁ p o i n t e → g r a n d e ▁ r o u t e ▁ d e ▁ C h o i s y → n ° 2 1 Ⓗ ▁ Ⓔ M a r g a t ▁ A u g ↑ t e ↓ Ⓕ ▁ Ⓚ 1 4 4 5 Ⓛ ▁ Ⓘ M a i s o n Ⓙ ▁ Ⓐ p t i ▁ 1 3 2 6 Ⓑ ▁ Ⓒ T Ⓓ
+Ⓖ i d ▁ n ° 2 1 Ⓗ ▁ Ⓔ i d Ⓕ ▁ Ⓚ 1 4 4 6 Ⓛ ▁ Ⓘ M a i s o n Ⓙ ▁ Ⓐ p t i ▁ 1 3 2 6 Ⓑ ▁ Ⓒ T Ⓓ
+Ⓖ l ' E c h a t Ⓗ ▁ Ⓔ B i z e t ▁ m a t h i e u ▁ V ↑ e ↓ Ⓕ ▁ Ⓚ 8 5 Ⓛ ▁ Ⓘ v i g n e Ⓙ ▁ Ⓐ 1 9 0 Ⓑ ▁ Ⓒ v i g n e Ⓓ
+Ⓖ § Ⓗ ▁ Ⓔ P o t e l ▁ j e a n ▁ c r i s o s t ô m e Ⓕ ▁ Ⓚ 8 6 Ⓛ ▁ Ⓘ t e r r e Ⓙ ▁ Ⓐ 1 9 1 , ▁ 1 9 2 Ⓑ ▁ Ⓒ T Ⓓ
+Ⓖ § Ⓗ ▁ Ⓔ L e c o u t e u x ▁ s i m o n Ⓕ ▁ Ⓚ 8 7 Ⓛ ▁ Ⓘ t e r r e Ⓙ ▁ Ⓐ 1 9 3 Ⓑ ▁ Ⓒ T Ⓓ
+Ⓖ § Ⓗ ▁ Ⓔ P o t e l ▁ j e a n ▁ C r i s o s t ô m e Ⓕ ▁ Ⓚ 8 8 Ⓛ ▁ Ⓘ t e r r e Ⓙ ▁ Ⓐ 1 9 4 , ▁ 1 9 5 Ⓑ ▁ Ⓒ T Ⓓ
+Ⓖ l a ▁ m a i s o n ▁ d e s → B r i q u e s Ⓗ ▁ Ⓔ F e v r e ▁ j e a n ▁ c l a u d e Ⓕ ▁ Ⓚ 8 9 Ⓛ ▁ Ⓘ j a r d i n Ⓙ ▁ Ⓐ 1 9 6 ▁ p o r t i o n Ⓑ ▁ Ⓒ ☼ Ⓓ
+Ⓖ § Ⓗ ▁ Ⓔ F e s r e ▁ j e a n ▁ c l a u d e ▁ V ↑ e ↓ Ⓕ ▁ Ⓚ 9 0 Ⓛ ▁ Ⓘ m a i s o n ▁ e t → c o u r → n ° 1 2 Ⓙ ▁ Ⓐ 1 9 6 ▁ p o r t i o n Ⓑ ▁ Ⓒ ☼ Ⓓ
+Ⓖ § Ⓗ ▁ Ⓔ L e c o u t e u x ▁ p i e r r e ▁ M a r t h e Ⓕ ▁ Ⓚ 9 1 Ⓛ ▁ Ⓘ T e r r e Ⓙ ▁ Ⓐ 1 9 6 ▁ p o r t i o n Ⓑ ▁ Ⓒ T Ⓓ
+Ⓖ l e ▁ c h e m i n ▁ d u → B o i s Ⓗ ▁ Ⓔ L e c o u t e u x ▁ p i e r r e ▁ M a r t h e Ⓕ ▁ Ⓚ 9 2 Ⓛ ▁ Ⓘ T e r r e Ⓙ ▁ Ⓐ 1 9 7 → 1 9 8 ▁ p o r t i o n → 1 9 9 ▁ p o r t i o n Ⓑ ▁ Ⓒ T → T → T Ⓓ
+Ⓖ § Ⓗ ▁ Ⓔ P e l e z ▁ d e ▁ l a ▁ L o z è r e Ⓕ ▁ Ⓚ 9 3 Ⓛ ▁ Ⓘ T e r r e Ⓙ ▁ Ⓐ 2 0 0 → 1 9 8 ▁ p o r t i o n → 1 9 9 ▁ p o r t i o n Ⓑ ▁ Ⓒ T → T → T Ⓓ
+Ⓖ § Ⓗ ▁ Ⓔ f e u i l l e t ▁ n i c o l a s ▁ T h o m a s ▁ V ↑ e ↓ Ⓕ ▁ Ⓚ 9 4 Ⓛ ▁ Ⓘ T e r r e Ⓙ ▁ Ⓐ 2 0 1 Ⓑ ▁ Ⓒ T Ⓓ
+Ⓖ § Ⓗ ▁ Ⓔ C o u r t a i g n e ▁ f r a n ç o i s Ⓕ ▁ Ⓚ 9 5 Ⓛ ▁ Ⓘ T e r r e Ⓙ ▁ Ⓐ 2 6 2 ▁ p a r t . Ⓑ ▁ Ⓒ T Ⓓ
+Ⓖ § Ⓗ ▁ Ⓔ C o u r t a i g n e ▁ f r a n ç o i s Ⓕ ▁ Ⓚ 9 6 Ⓛ ▁ Ⓘ v i g n e Ⓙ ▁ Ⓐ 2 0 2 ▁ p o r t i o n Ⓑ ▁ Ⓒ T Ⓓ
+Ⓖ § Ⓗ ▁ Ⓔ F e r o n ▁ f r a n ç o i s Ⓕ ▁ Ⓚ 9 7 Ⓛ ▁ Ⓘ T e r r e Ⓙ ▁ Ⓐ 2 0 3 , ▁ 2 0 4 Ⓑ ▁ Ⓒ T Ⓓ
+Ⓖ § Ⓗ ▁ Ⓔ F e r o n ▁ f r a n ç o i s Ⓕ ▁ Ⓚ 9 8 Ⓛ ▁ Ⓘ v i g n e Ⓙ ▁ Ⓐ 2 0 5 Ⓑ ▁ Ⓒ v i g n e Ⓓ
+Ⓖ L e s ▁ R o s e s Ⓗ ▁ Ⓔ P i g e r o n Ⓕ ▁ Ⓚ 4 3 Ⓛ ▁ Ⓘ T e r r e Ⓙ ▁ Ⓐ 4 7 Ⓑ ▁ Ⓒ T e r r e Ⓓ
+Ⓖ § Ⓗ ▁ Ⓔ H a l l é ▁ l o u i s ▁ g e r m a i n Ⓕ ▁ Ⓚ 4 4 Ⓛ ▁ Ⓘ T Ⓙ ▁ Ⓐ 4 8 Ⓑ ▁ Ⓒ T Ⓓ
+Ⓖ § Ⓗ ▁ Ⓔ S a l m é ▁ j e a n Ⓕ ▁ Ⓚ 4 5 Ⓛ ▁ Ⓘ V i g n e Ⓙ ▁ Ⓐ 4 9 Ⓑ ▁ Ⓒ V i g . Ⓓ
+Ⓖ § Ⓗ ▁ Ⓔ R o u s s e a u ▁ l o u i s ▁ F ↑ o i s ↓ Ⓕ ▁ Ⓚ 4 6 Ⓛ ▁ Ⓘ T e r r e Ⓙ ▁ Ⓐ 5 0 Ⓑ ▁ Ⓒ T Ⓓ
+Ⓖ § Ⓗ ▁ Ⓔ M o r i z o t ▁ m a r i e ▁ a r n o u l t Ⓕ ▁ Ⓚ 4 7 Ⓛ ▁ Ⓘ T Ⓙ ▁ Ⓐ 5 1 Ⓑ ▁ Ⓒ V i g . Ⓓ
+Ⓖ § Ⓗ ▁ Ⓔ S a l m é ▁ j e a n Ⓕ ▁ Ⓚ 4 8 Ⓛ ▁ Ⓘ T Ⓙ ▁ Ⓐ 5 2 Ⓑ ▁ Ⓒ T Ⓓ
+Ⓖ § Ⓗ ▁ Ⓔ D e l k a y r é ▁ j e a n Ⓕ ▁ Ⓚ 4 9 Ⓛ ▁ Ⓘ T Ⓙ ▁ Ⓐ 4 3 . Ⓑ ▁ Ⓒ T Ⓓ
+Ⓖ § Ⓗ ▁ Ⓔ D e l a n o u e ▁ p r e ▁ t o u s s a i n s Ⓕ ▁ Ⓚ 5 0 Ⓛ ▁ Ⓘ V i g n e Ⓙ ▁ Ⓐ 5 4 Ⓑ ▁ Ⓒ V i g . Ⓓ
+Ⓖ § Ⓗ ▁ Ⓔ C a b o u s e t ▁ j e a n ▁ r o b e r t Ⓕ ▁ Ⓚ 5 1 Ⓛ ▁ Ⓘ T Ⓙ ▁ Ⓐ 5 5 Ⓑ ▁ Ⓒ V . Ⓓ
+Ⓖ § Ⓗ ▁ Ⓔ S a l m é ▁ j e a n Ⓕ ▁ Ⓚ 5 2 Ⓛ ▁ Ⓘ V i g n e Ⓙ ▁ Ⓐ 5 6 Ⓑ ▁ Ⓒ V . Ⓓ
+Ⓖ § Ⓗ ▁ Ⓔ M o r i z o t ▁ m a r i e ▁ a r n o u l d Ⓕ ▁ Ⓚ 5 3 Ⓛ ▁ Ⓘ V i g n e Ⓙ ▁ Ⓐ ☼ Ⓑ ▁ Ⓒ ☼ Ⓓ
+Ⓖ § Ⓗ ▁ Ⓔ i d Ⓕ ▁ Ⓚ 5 4 Ⓛ ▁ Ⓘ T e r r e Ⓙ ▁ Ⓐ 5 7 Ⓑ ▁ Ⓒ V . Ⓓ
+Ⓖ § Ⓗ ▁ Ⓔ B o n n e a u ▁ l o u i s ▁ B ↑ ❌ ❌ ❌ ↓ Ⓕ ▁ Ⓚ 5 5 Ⓛ ▁ Ⓘ T Ⓙ ▁ Ⓐ 5 8 Ⓑ ▁ Ⓒ T Ⓓ
+Ⓖ § Ⓗ ▁ Ⓔ S a l m é ▁ j e a n Ⓕ ▁ Ⓚ 5 6 Ⓛ ▁ Ⓘ T Ⓙ ▁ Ⓐ 5 9 Ⓑ ▁ Ⓒ V . Ⓓ
+Ⓖ L e ▁ C l o s → S ↑ t e ↓ ▁ C a t h e r i n e Ⓗ ▁ Ⓔ B e n o i t ▁ L o u i s ▁ F r a n ç o i s , ▁ g ↑ d r e ↓ → R o u y e r Ⓕ ▁ Ⓚ 1 4 0 1 Ⓛ ▁ Ⓘ V i g n e Ⓙ ▁ Ⓐ 2 2 0 3 Ⓑ ▁ Ⓒ T Ⓓ
+Ⓖ i d Ⓗ ▁ Ⓔ L o r i p h e r n e → × L o r i f e r n e ▁ M i c h e l ± ▁ L o u i s ▁ A u g u s t e → i d ▁ e t ▁ M i c h e l Ⓕ ▁ Ⓚ 1 4 0 2 Ⓛ ▁ Ⓘ T Ⓙ ▁ Ⓐ 2 2 0 4 Ⓑ ▁ Ⓒ T Ⓓ
+Ⓖ § Ⓗ ▁ Ⓔ B a s s e v i l l e ▁ P i e r r e ▁ F r a n ç o i s Ⓕ ▁ Ⓚ 1 4 0 3 Ⓛ ▁ Ⓘ T Ⓙ ▁ Ⓐ 2 2 0 5 Ⓑ ▁ Ⓒ T Ⓓ
+Ⓖ § Ⓗ ▁ Ⓔ B e n o i t ▁ f r a n ç o i s ▁ b e n o i t → × a c t a r ▁ n i c o l a s ▁ l o u i s , ▁ V a n v e ± Ⓕ ▁ Ⓚ 1 4 0 4 Ⓛ ▁ Ⓘ T Ⓙ ▁ Ⓐ P ↑ t i e ↓ ▁ 2 2 0 5 Ⓑ ▁ Ⓒ T Ⓓ
+Ⓖ § Ⓗ ▁ Ⓔ C h a r l e s ▁ à → B e l l e v u e Ⓕ ▁ Ⓚ 1 4 0 5 Ⓛ ▁ Ⓘ T Ⓙ ▁ Ⓐ P ↑ t i e ↓ ▁ 2 2 0 1 Ⓑ ▁ Ⓒ T Ⓓ
+Ⓖ § Ⓗ ▁ Ⓔ B e s s a u l t ▁ T o u s s a i n t ▁ à → C h a m p i g n y Ⓕ ▁ Ⓚ 1 4 0 6 Ⓛ ▁ Ⓘ T Ⓙ ▁ Ⓐ 2 2 0 6 Ⓑ ▁ Ⓒ T Ⓓ
+Ⓖ § Ⓗ ▁ Ⓔ Q u é r u ▁ P i e r r e ▁ F r a n ç o i s Ⓕ ▁ Ⓚ 1 4 0 7 Ⓛ ▁ Ⓘ T Ⓙ ▁ Ⓐ 2 2 1 0 → 2 2 1 1 Ⓑ ▁ Ⓒ T → T Ⓓ
+Ⓖ § Ⓗ ▁ Ⓔ R e n t i e n n e ▁ A m b r o i s e ▁ A m é d é e Ⓕ ▁ Ⓚ 1 4 0 8 Ⓛ ▁ Ⓘ T Ⓙ ▁ Ⓐ S ↑ t e ↓ ▁ 2 2 1 9 → ▁ P ↑ t i e ↓ ▁ 2 2 1 9 ↑ b i s ↓ Ⓑ ▁ Ⓒ T Ⓓ
+Ⓖ § Ⓗ ▁ Ⓔ R e n t i e n n e ▁ h e n r i Ⓕ ▁ Ⓚ 1 4 0 9 Ⓛ ▁ Ⓘ T Ⓙ ▁ Ⓐ S ↑ t e ↓ ▁ 2 2 1 9 → S ↑ t e ↓ ▁ 2 2 1 9 ↑ b i s ↓ Ⓑ ▁ Ⓒ T Ⓓ
+Ⓖ § Ⓗ ▁ Ⓔ R e n t i e n n e ▁ C l é m e n t ▁ C h a r l e s , ▁ g ↑ d r e ↓ → q u é s u Ⓕ ▁ Ⓚ 1 2 1 0 Ⓛ ▁ Ⓘ T Ⓙ ▁ Ⓐ 2 2 2 0 Ⓑ ▁ Ⓒ T Ⓓ
+Ⓖ § Ⓗ ▁ Ⓔ B o n v a l ▁ P i e r r e ▁ M i c h e l Ⓕ ▁ Ⓚ 1 4 1 1 Ⓛ ▁ Ⓘ V i g n e ▁ T Ⓙ ▁ Ⓐ F ↑ r a ↓ ▁ 2 2 2 1 Ⓑ ▁ Ⓒ T Ⓓ
+Ⓖ § Ⓗ ▁ Ⓔ Q u i è r e ▁ L o u i s ▁ A l e x i s ▁ f i l s → L è v n a r d Ⓕ ▁ Ⓚ 1 4 1 2 Ⓛ ▁ Ⓘ T Ⓙ ▁ Ⓐ 2 2 0 7 → 2 2 0 9 Ⓑ ▁ Ⓒ V i g → T Ⓓ
+Ⓖ § Ⓗ ▁ Ⓔ ❌ ❌ e r c i ▁ B a r t h e l e m y ▁ B e r n a r d Ⓕ ▁ Ⓚ 1 4 1 3 Ⓛ ▁ Ⓘ T Ⓙ ▁ Ⓐ P ↑ t i e ↓ ▁ 2 2 0 8 Ⓑ ▁ Ⓒ T Ⓓ
+Ⓖ § Ⓗ ▁ Ⓔ S e g u i n ▁ T h é o d o r e Ⓕ ▁ Ⓚ 1 4 1 4 Ⓛ ▁ Ⓐ P ↑ t i e ↓ ▁ 2 2 0 8 Ⓑ ▁ Ⓒ T Ⓓ
+Ⓜ 3 1 7 Ⓝ ▁ Ⓔ V a r l e t ▁ J ↑ q u e s ↓ Ⓕ ▁ Ⓚ 1 2 2 8 Ⓛ ▁ Ⓘ T e r r e Ⓙ
+Ⓜ × 1 2 7 ± → 2 9 2 ↑ b i s ↓ Ⓝ ▁ Ⓔ × G a u c h e r ▁ r e n é ▁ p ↑ r e ↓ ▁ l a ▁ V e u v e ± → R o u s s e a u Ⓕ ▁ Ⓚ 1 2 2 9 Ⓛ ▁ Ⓘ i d Ⓙ
+Ⓜ × 1 2 7 ± Ⓝ ▁ Ⓔ I d e m Ⓕ ▁ Ⓚ 1 2 3 0 Ⓛ ▁ Ⓘ V i g n e Ⓙ
+Ⓜ 2 2 8 Ⓝ ▁ Ⓔ M e t i v i e r ▁ L o u i s ▁ P ↑ r e ↓ Ⓕ ▁ Ⓚ 1 2 3 1 Ⓛ ▁ Ⓘ T e r r e Ⓙ
+Ⓜ 2 4 Ⓝ ▁ Ⓔ B e n o i t ▁ a l e x ↑ d r e ↓ Ⓕ ▁ Ⓚ 1 2 3 2 Ⓛ ▁ Ⓘ V i g Ⓙ
+Ⓜ × 1 2 7 ± → 2 9 2 ↑ b i s ↓ Ⓝ ▁ Ⓔ × G a u c h e t ▁ r e n é ▁ f ↑ r e ↓ ▁ l a ▁ V e u v e ± → R o u s s e a u Ⓕ ▁ Ⓚ 1 2 3 3 Ⓛ ▁ Ⓘ i d Ⓙ
+Ⓜ 5 7 Ⓝ ▁ Ⓔ B o u r s a u t ▁ p ↑ r e ↓ ▁ C ↑ d e ↓ ▁ P h i l i b e r t Ⓕ ▁ Ⓚ 1 2 3 4 Ⓛ ▁ Ⓘ T e r r e Ⓙ
+Ⓜ 2 4 Ⓝ ▁ Ⓔ B e n o i t ▁ a l e x ↑ d r e ↓ Ⓕ ▁ Ⓚ 1 2 3 5 Ⓛ ▁ Ⓘ i d Ⓙ
+Ⓜ 1 6 2 Ⓝ ▁ Ⓔ J o u r d a i n ▁ J ↑ n ↓ ▁ L ↑ s ↓ ▁ V e u v e Ⓕ ▁ Ⓚ 1 2 3 6 Ⓛ ▁ Ⓘ i d Ⓙ
+Ⓜ 7 0 Ⓝ ▁ Ⓔ C h e v a l i e r ▁ P ↑ r e ↓ ▁ l o u i s Ⓕ ▁ Ⓚ 1 2 3 7 Ⓛ ▁ Ⓘ i d Ⓙ
+Ⓜ 1 9 1 Ⓝ ▁ Ⓔ L o t t i n ▁ V ↑ v e Ⓕ ▁ Ⓚ 1 2 3 8 Ⓛ ▁ Ⓘ i d Ⓙ
+Ⓜ × 1 0 6 ± → 1 6 5 ↑ b i s ↓ Ⓝ ▁ Ⓔ × D o b z a t ▁ l e s ▁ h ↑ r s ↓ ± ▁ P h i l i b é e Ⓕ ▁ Ⓚ 1 2 3 9 Ⓛ ▁ Ⓘ i d Ⓙ
+Ⓜ 4 5 Ⓝ ▁ Ⓔ B o n n a i r e ▁ C h ↑ e s ↓ Ⓕ ▁ Ⓚ 1 2 4 0 Ⓛ ▁ Ⓘ J e ▁ V i g Ⓙ
+Ⓜ 1 9 7 Ⓝ ▁ Ⓔ M a i n t r i e u x ▁ f ↑ o i s ↓ Ⓕ ▁ Ⓚ 1 2 4 1 Ⓛ ▁ Ⓘ V i g Ⓙ
+Ⓜ × 2 5 2 ± → 2 1 5 Ⓝ ▁ Ⓔ × P e r r a u t ▁ L o u i s ± ▁ M e n t i e n n e ▁ l o u i s Ⓕ ▁ Ⓚ 1 2 4 2 Ⓛ ▁ Ⓘ i d Ⓙ
+Ⓜ 1 9 7 Ⓝ ▁ Ⓔ M a i n t r i e u x ▁ f ↑ o i s ↓ Ⓕ ▁ Ⓚ 1 2 4 3 Ⓛ ▁ Ⓘ T e r r e Ⓙ
+Ⓜ 2 3 8 Ⓝ ▁ Ⓔ R e m y → M o r t i e r ▁ × J ↑ q u e s ↓ ▁ d i t ▁ C h a u m o n t ± Ⓕ ▁ Ⓚ 1 2 4 3 ↑ b i s ↓ Ⓛ ▁ Ⓘ V i g . Ⓙ
+Ⓜ × 1 2 7 ± → 2 9 2 ↑ b i s Ⓝ ▁ Ⓔ × G a u c h e r ▁ r e n é ▁ p ↑ r e ↓ ▁ l a ▁ V e u v e ± → R o u s s e a u Ⓕ ▁ Ⓚ 1 2 4 4 Ⓛ ▁ Ⓘ V i g Ⓙ
+Ⓜ 2 7 7 Ⓝ ▁ Ⓔ Q u e r u ▁ f ↑ o i s ↓ ▁ L e o n a r d Ⓕ ▁ Ⓚ 1 2 4 5 Ⓛ ▁ Ⓘ v i g Ⓙ
+Ⓜ 2 1 2 Ⓝ ▁ Ⓔ M e n t i e n n e ▁ J ↑ n ↓ Ⓕ ▁ Ⓚ 1 2 4 6 Ⓛ ▁ Ⓘ i d Ⓙ
+Ⓖ R u e ▁ d u ▁ m o u l i n → d e ▁ c a c h a n Ⓗ ▁ Ⓔ L e c o m t e ▁ c h a r l e s ▁ v i n c e n t Ⓕ ▁ Ⓚ 7 0 1 Ⓛ ▁ Ⓘ b a t i m e n t Ⓙ ▁ Ⓐ p . 3 3 5 Ⓑ ▁ Ⓒ j Ⓓ
+Ⓖ § Ⓗ ▁ Ⓔ L e r o y ▁ d e n i s ▁ a n t ↑ n e ↓ ▁ m ↑ t r e ↓ ▁ m a ç o n Ⓕ ▁ Ⓚ 7 0 2 Ⓛ ▁ Ⓘ j a r d i n Ⓙ ▁ Ⓐ p . 3 3 5 Ⓑ ▁ Ⓒ j Ⓓ
+Ⓖ § Ⓗ ▁ Ⓔ h o u i l l o n ▁ J ↑ h ↓ ▁ a m i t i é Ⓕ ▁ Ⓚ 7 0 3 Ⓛ ▁ Ⓘ j a r d i n Ⓙ ▁ Ⓐ p . 3 3 5 Ⓑ ▁ Ⓒ j Ⓓ
+Ⓖ § Ⓗ ▁ Ⓔ N o u v i a l ▁ j e a n ▁ l o u i s Ⓕ ▁ Ⓚ 7 0 4 Ⓛ ▁ Ⓘ T e r r e Ⓙ ▁ Ⓐ p . 3 3 5 → p . 3 3 6 Ⓑ ▁ Ⓒ j → p e p i n Ⓓ
+Ⓖ § Ⓗ ▁ Ⓔ i d Ⓕ ▁ Ⓚ 7 0 5 Ⓛ ▁ Ⓘ b â t i m e n t Ⓙ ▁ Ⓐ p . 3 3 5 Ⓑ ▁ Ⓒ j Ⓓ
+Ⓖ § Ⓗ ▁ Ⓔ D e p i t r e Ⓕ ▁ Ⓚ 7 0 6 Ⓛ ▁ Ⓘ T e r r e Ⓙ ▁ Ⓐ p . 3 3 6 Ⓑ ▁ Ⓒ p é p i n Ⓓ
+Ⓖ § Ⓗ ▁ Ⓔ R a y b a u d ▁ p i e r r e Ⓕ ▁ Ⓚ 7 0 7 Ⓛ ▁ Ⓘ T e r r e Ⓙ ▁ Ⓐ 3 3 3 → 3 3 4 Ⓑ ▁ Ⓒ T → t . p l . Ⓓ
+Ⓖ l a ▁ b e l l e ▁ i m a g e Ⓗ ▁ Ⓔ C a l m e t ▁ a r m a n d ▁ N ↑ a s ↓ ▁ f ↑ o i s ↓ Ⓕ ▁ Ⓚ 7 0 8 Ⓛ ▁ Ⓘ T e r r e Ⓙ ▁ Ⓐ p . 2 9 5 → e t ▁ 2 9 5 ↑ b i s ↓ Ⓑ ▁ Ⓒ T Ⓓ
+Ⓖ R u e ▁ d u m o u l i n → d e ▁ c a c h a n Ⓗ ▁ Ⓔ P o m m i è s ▁ a l e x a n d r e Ⓕ ▁ Ⓚ 7 0 9 Ⓛ ▁ Ⓘ T . Ⓙ ▁ Ⓐ p . 2 9 5 Ⓑ ▁ Ⓒ T Ⓓ
+Ⓖ § Ⓗ ▁ Ⓔ C o u d r o t Ⓕ ▁ Ⓚ 7 1 0 Ⓛ ▁ Ⓘ j a r d i n Ⓙ ▁ Ⓐ p . 2 9 5 Ⓑ ▁ Ⓒ T Ⓓ
+Ⓖ § Ⓗ ▁ Ⓜ 1 1 4 Ⓝ ▁ Ⓔ § Ⓕ ▁ Ⓚ 7 1 1 Ⓛ ▁ Ⓘ b â t i m e n t Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ P e p i n ▁ j a c q u e s ▁ c l a u d e Ⓕ ▁ Ⓚ 7 1 2 Ⓛ ▁ Ⓘ b â t i m e n t → n ° 2 8 Ⓙ ▁ Ⓐ p . 2 9 5 Ⓑ ▁ Ⓒ T Ⓓ
+Ⓖ § Ⓗ ▁ Ⓔ i d Ⓕ ▁ Ⓚ 7 1 3 Ⓛ ▁ Ⓘ j a r d i n Ⓙ ▁ Ⓐ p . 2 9 5 Ⓑ ▁ Ⓒ T Ⓓ
+Ⓖ § Ⓗ ▁ Ⓔ § Ⓕ ▁ Ⓚ 7 1 4 Ⓛ ▁ Ⓘ b â t i m e n t Ⓙ ▁ Ⓐ p . 2 9 5 Ⓑ ▁ Ⓒ T Ⓓ
+Ⓖ L e s ▁ L o z a i t s Ⓗ ▁ Ⓜ 3 9 7 Ⓝ ▁ Ⓔ M a s s u e t ▁ l o u i s ▁ m i c h e l Ⓕ ▁ Ⓚ 4 7 5 Ⓛ ▁ Ⓘ t e r r e Ⓙ ▁ Ⓐ 1 0 6 8 → 1 0 6 9 Ⓑ
+Ⓖ § Ⓗ ▁ Ⓜ 3 2 2 Ⓝ ▁ Ⓔ L e d u c ▁ p i e r r e ▁ d e n i s Ⓕ ▁ Ⓚ 4 7 6 Ⓛ ▁ Ⓘ t e r r e Ⓙ ▁ Ⓐ 1 0 6 5 → 1 0 6 6 → 1 0 6 7 Ⓑ
+Ⓖ § Ⓗ ▁ Ⓜ 2 1 1 Ⓝ ▁ Ⓔ G a b i l l o t ▁ l o u i s ▁ l a m b e r t Ⓕ ▁ Ⓚ 4 7 7 Ⓛ ▁ Ⓘ t e r r e Ⓙ ▁ Ⓐ 1 0 6 4 Ⓑ
+Ⓖ § Ⓗ ▁ Ⓜ 4 2 0 Ⓝ ▁ Ⓔ M a y e u x ▁ p i e r r e ▁ f r a n ç o i s Ⓕ ▁ Ⓚ 4 7 8 Ⓛ ▁ Ⓘ t e r r e Ⓙ ▁ Ⓐ 1 0 6 3 Ⓑ
+Ⓖ § Ⓗ ▁ Ⓜ 4 7 9 Ⓝ ▁ Ⓔ C h a t e n a y ▁ J e a n ▁ M a r i e → a b e l Ⓕ ▁ Ⓚ 4 7 9 Ⓛ ▁ Ⓘ § Ⓙ ▁ Ⓐ 1 0 6 1 → 1 0 6 1 ↑ b i s ↓ Ⓑ
+Ⓖ § Ⓗ ▁ Ⓜ 1 9 0 Ⓝ ▁ Ⓔ F l e u r y ▁ g a b r i e l ▁ f r a n ç o i s Ⓕ ▁ Ⓚ 4 8 0 Ⓛ ▁ Ⓘ t e r r e Ⓙ ▁ Ⓐ 1 0 6 1 → 1 0 6 1 ↑ b i s ↓ Ⓑ
+Ⓖ § Ⓗ ▁ Ⓜ 2 4 6 Ⓝ ▁ Ⓔ G u i l l e m a i n ▁ f r é d é r i c ▁ a → V i t r y Ⓕ ▁ Ⓚ 4 8 1 Ⓛ ▁ Ⓘ t e r r e Ⓙ ▁ Ⓐ 1 0 6 1 → 1 0 6 1 ↑ b i s ↓ Ⓑ
+Ⓖ § Ⓗ ▁ Ⓜ 3 9 4 Ⓝ ▁ Ⓔ M a s s u e t ▁ J e a n ▁ P i e r r e Ⓕ ▁ Ⓚ 4 8 2 Ⓛ ▁ Ⓘ t e r r e Ⓙ ▁ Ⓐ 1 0 5 9 → 1 0 6 0 Ⓑ
+Ⓖ § Ⓗ ▁ Ⓜ 4 3 7 Ⓝ ▁ Ⓔ M o n c o u t e a u ▁ C l a u d e ▁ l a m b e r t Ⓕ ▁ Ⓚ 4 8 3 Ⓛ ▁ Ⓘ t e r r e Ⓙ ▁ Ⓐ 1 0 5 7 → 1 0 5 8 Ⓑ
+Ⓖ § Ⓗ ▁ Ⓜ 3 9 1 Ⓝ ▁ Ⓔ M a s s u e t ▁ ↑ c y r ↓ ▁ J ↑ n ↓ ▁ b a p t i s t e Ⓕ ▁ Ⓚ 4 8 4 Ⓛ ▁ Ⓘ p e p ↑ r e ↓ Ⓙ ▁ Ⓐ 1 0 5 6 b i s Ⓑ
+Ⓖ § Ⓗ ▁ Ⓔ M a y e u x ▁ p i e r r e ▁ f ↑ ç o i s ↓ Ⓕ ▁ Ⓚ 4 8 5 Ⓛ ▁ Ⓘ t e r r e Ⓙ ▁ Ⓐ 1 0 5 6 → 1 0 5 5 ▁ p ↑ t i e ↓ Ⓑ ▁ Ⓒ § Ⓓ
+Ⓖ § Ⓗ ▁ Ⓔ T h é v e n o t ▁ J e a n ▁ l o u i s Ⓕ ▁ Ⓚ 4 8 6 Ⓛ ▁ Ⓘ t e r r e Ⓙ ▁ Ⓐ 1 0 5 5 ▁ p ↑ t i e ↓ → 1 0 5 4 p ↑ t i e ↓ Ⓑ ▁ Ⓒ § Ⓓ
+Ⓖ § Ⓗ ▁ Ⓔ P e p i n ▁ e d m e ▁ l o u i s Ⓕ ▁ Ⓚ 4 8 7 Ⓛ ▁ Ⓘ t e r r e Ⓙ ▁ Ⓐ 1 0 5 4 ▁ p ↑ t i e ↓ → 1 0 5 5 ↑ b i s ↓ ▁ n ' e x i s t e ▁ p a s ▁ s u r ▁ l e ▁ p l a n Ⓑ ▁ Ⓒ § Ⓓ
+Ⓖ § Ⓗ ▁ Ⓔ S e r r e ▁ d e ▁ S t ▁ R o m a n Ⓕ ▁ Ⓚ 4 8 8 Ⓛ ▁ Ⓘ t e r r e Ⓙ ▁ Ⓐ 1 0 7 2 → 1 0 7 3 ▁ p ↑ t i e ↓ Ⓑ ▁ Ⓒ § Ⓓ
+Ⓖ L e s ▁ R o s e s Ⓗ ▁ Ⓔ M o r i z o t ▁ l o u i s ▁ a n t o i n e Ⓕ ▁ Ⓚ 5 7 Ⓛ ▁ Ⓘ T e r r e Ⓙ ▁ Ⓐ 6 0 Ⓑ ▁ Ⓒ T e r r e Ⓓ
+Ⓖ § Ⓗ ▁ Ⓔ B e a u p i e d ▁ J e a n ▁ J a c q u e s Ⓕ ▁ Ⓚ 5 8 Ⓛ ▁ Ⓘ T Ⓙ ▁ Ⓐ 6 1 Ⓑ ▁ Ⓒ V i g Ⓓ
+Ⓖ § Ⓗ ▁ Ⓔ D e g a r n e ▁ j e a n Ⓕ ▁ Ⓚ 5 9 Ⓛ ▁ Ⓘ T Ⓙ ▁ Ⓐ 6 2 Ⓑ ▁ Ⓒ V Ⓓ
+Ⓖ § Ⓗ ▁ Ⓔ a u g e r ▁ n i c o l a s ▁ j o s e p h Ⓕ ▁ Ⓚ 6 0 Ⓛ ▁ Ⓘ T Ⓙ ▁ Ⓐ 6 3 Ⓑ ▁ Ⓒ V . Ⓓ
+Ⓖ § Ⓗ ▁ Ⓔ L o m p a g e u ▁ P ↑ r e ↓ ▁ j e a n Ⓕ ▁ Ⓚ 6 1 Ⓛ ▁ Ⓘ T Ⓙ ▁ Ⓐ 6 4 Ⓑ ▁ Ⓒ V . Ⓓ
+Ⓖ § Ⓗ ▁ Ⓔ D e l a n o u e ▁ t o u s s a i n t Ⓕ ▁ Ⓚ 6 2 Ⓛ ▁ Ⓘ T Ⓙ ▁ Ⓐ ☼ Ⓑ ▁ Ⓒ ☼ Ⓓ
+Ⓖ § Ⓗ ▁ Ⓔ i d Ⓕ ▁ Ⓚ 6 3 Ⓛ ▁ Ⓘ V i g n e Ⓙ ▁ Ⓐ 6 5 Ⓑ ▁ Ⓒ V . Ⓓ
+Ⓖ § Ⓗ ▁ Ⓔ B a l o c h e ▁ b e r n a r d Ⓕ ▁ Ⓚ 6 4 Ⓛ ▁ Ⓘ T Ⓙ ▁ Ⓐ 6 6 Ⓑ ▁ Ⓒ V . Ⓓ
+Ⓖ § Ⓗ ▁ Ⓔ P e s c h e u x ▁ g e r m a i n ▁ p ↑ r e ↓ Ⓕ ▁ Ⓚ 6 5 Ⓛ ▁ Ⓘ T Ⓙ ▁ Ⓐ 6 7 Ⓑ ▁ Ⓒ V Ⓓ
+Ⓖ § Ⓗ ▁ Ⓔ M i n i e r ▁ l o u i s ▁ j a c q u e s Ⓕ ▁ Ⓚ 6 6 Ⓛ ▁ Ⓘ T Ⓙ ▁ Ⓐ 6 8 → 6 9 Ⓑ ▁ Ⓒ V → V Ⓓ
+Ⓖ § Ⓗ ▁ Ⓔ f e r r e s ▁ l o u i s e ▁ d é s i r é ▁ g e r t r u d e Ⓕ ▁ Ⓚ 6 7 Ⓛ ▁ Ⓘ T Ⓙ ▁ Ⓐ 7 0 Ⓑ ▁ Ⓒ T Ⓓ
+Ⓖ § Ⓗ ▁ Ⓔ P i g e r o n Ⓕ ▁ Ⓚ 6 8 Ⓛ ▁ Ⓘ T Ⓙ ▁ Ⓐ 7 1 Ⓑ ▁ Ⓒ V Ⓓ
+Ⓖ § Ⓗ ▁ Ⓔ L e b o n ▁ j e a n Ⓕ ▁ Ⓚ 6 9 Ⓛ ▁ Ⓘ T Ⓙ ▁ Ⓐ 7 2 Ⓑ ▁ Ⓒ T Ⓓ
+Ⓖ § Ⓗ ▁ Ⓔ B a s s e s ▁ p h i l i p p e Ⓕ ▁ Ⓚ 7 0 Ⓛ ▁ Ⓘ T Ⓙ ▁ Ⓐ 7 3 Ⓑ ▁ Ⓒ T Ⓓ
+Ⓖ l e ▁ c h e m i n ▁ d u → B o i s Ⓗ ▁ Ⓜ 7 5 Ⓝ ▁ Ⓔ L e c o u t e u r e ▁ s i m o n Ⓕ ▁ Ⓚ 9 9 Ⓛ ▁ Ⓘ T e r r e Ⓙ ▁ Ⓐ 2 0 6 Ⓑ ▁ Ⓒ T Ⓓ
+Ⓖ § Ⓗ ▁ Ⓜ 9 8 Ⓝ ▁ Ⓔ P e l e t ▁ d e ▁ l a ▁ L o z è r e Ⓕ ▁ Ⓚ 1 0 0 Ⓛ ▁ Ⓘ T e r r e Ⓙ ▁ Ⓐ 2 0 7 Ⓑ ▁ Ⓒ T Ⓓ
+Ⓖ § Ⓗ ▁ Ⓜ 7 5 Ⓝ ▁ Ⓔ L e c o u t e u x ▁ s i m o n Ⓕ ▁ Ⓚ 1 0 1 Ⓛ ▁ Ⓘ T e r r e Ⓙ ▁ Ⓐ 2 0 8 Ⓑ ▁ Ⓒ T Ⓓ
+Ⓖ § Ⓗ ▁ Ⓜ 6 8 Ⓝ ▁ Ⓔ L a b b é ▁ L o u i s Ⓕ ▁ Ⓚ 1 0 2 Ⓛ ▁ Ⓘ T e r r e Ⓙ ▁ Ⓐ 2 0 9 Ⓑ ▁ Ⓒ T Ⓓ
+Ⓖ § Ⓗ ▁ Ⓜ 7 5 Ⓝ ▁ Ⓔ L e c o u t e u x ▁ S i m o n Ⓕ ▁ Ⓚ 1 0 3 Ⓛ ▁ Ⓘ T e r r e Ⓙ ▁ Ⓐ 2 1 2 , 2 1 3 , 2 1 4 Ⓑ ▁ Ⓒ T Ⓓ
+Ⓖ § Ⓗ ▁ Ⓜ 6 3 Ⓝ ▁ Ⓔ H ô t e l ▁ D i e u ▁ d e ▁ P a r i s Ⓕ ▁ Ⓚ 1 0 4 Ⓛ ▁ Ⓘ T e r r e Ⓙ ▁ Ⓐ 2 1 1 Ⓑ ▁ Ⓒ T Ⓓ
+Ⓖ § Ⓗ ▁ Ⓜ 1 0 4 Ⓝ ▁ Ⓔ P i o r ▁ v e u v e Ⓕ ▁ Ⓚ 1 0 5 Ⓛ ▁ Ⓘ T e r r e Ⓙ ▁ Ⓐ 2 1 0 Ⓑ ▁ Ⓒ T Ⓓ
+Ⓖ Ø Ⓗ ▁ Ⓜ 4 9 b i s Ⓝ ▁ Ⓔ F o u r n i e r ▁ a t h a n a s e ▁ à ▁ P r e s c y Ⓕ ▁ Ⓚ 1 0 5 ↑ b i s ↓ Ⓛ ▁ Ⓘ T e r r e Ⓙ ▁ Ⓐ Ø Ⓑ ▁ Ⓒ T Ⓓ
+Ⓖ L e s ▁ B o u v e t s Ⓗ ▁ Ⓜ 6 3 Ⓝ ▁ Ⓔ h ô t e l ▁ D i e u ▁ d e ▁ P a r i s Ⓕ ▁ Ⓚ 1 0 6 Ⓛ ▁ Ⓘ T e r r e Ⓙ ▁ Ⓐ 2 2 6 Ⓑ ▁ Ⓒ T Ⓓ
+Ⓖ § Ⓗ ▁ Ⓜ 4 3 Ⓝ ▁ Ⓔ D u v a l ▁ p r o s p e r Ⓕ ▁ Ⓚ 1 0 7 Ⓛ ▁ Ⓘ t e r r e Ⓙ ▁ Ⓐ 2 2 9 Ⓑ ▁ Ⓒ T Ⓓ
+Ⓖ § Ⓗ ▁ Ⓜ 6 3 Ⓝ ▁ Ⓔ h ô t e l ▁ D i e u ▁ d e ▁ P a r i s Ⓕ ▁ Ⓚ 1 0 8 Ⓛ ▁ Ⓘ T e r r e Ⓙ ▁ Ⓐ 2 3 0 Ⓑ ▁ Ⓒ T Ⓓ
+Ⓖ § Ⓗ ▁ Ⓜ 1 0 9 Ⓝ ▁ Ⓔ P r e v o s t ▁ L o u i s ▁ d e n i s Ⓕ ▁ Ⓚ 1 0 9 Ⓛ ▁ Ⓘ T e r r e Ⓙ ▁ Ⓐ 2 3 1 Ⓑ ▁ Ⓒ p r é Ⓓ
+Ⓖ § Ⓗ ▁ Ⓜ 6 3 Ⓝ ▁ Ⓔ h ô t e l ▁ D i e u ▁ d e ▁ P a r i s Ⓕ ▁ Ⓚ 1 1 0 Ⓛ ▁ Ⓘ T e r r e Ⓙ ▁ Ⓐ 2 3 2 Ⓑ ▁ Ⓒ T e r r e Ⓓ
+Ⓖ § Ⓗ ▁ Ⓜ 1 2 5 Ⓝ ▁ Ⓔ T h o m a s ▁ J e a n ▁ F r a n ç o i s Ⓕ ▁ Ⓚ 1 1 1 Ⓛ ▁ Ⓘ T e r r e Ⓙ ▁ Ⓐ 2 3 3 Ⓑ ▁ Ⓒ p r é Ⓓ
+Ⓖ § Ⓗ ▁ Ⓜ 6 3 Ⓝ ▁ Ⓔ h ô t e l ▁ D i e u ▁ d e ▁ P a r i s Ⓕ ▁ Ⓚ 1 1 2 Ⓛ ▁ Ⓘ T e r r e Ⓙ ▁ Ⓐ 2 3 5 Ⓑ ▁ Ⓒ p r é Ⓓ
+Ⓖ L e ▁ P l a n t r e Ⓗ ▁ Ⓔ M a s s u e t ▁ l o u i s ▁ g a s p a r d Ⓕ ▁ Ⓚ 2 1 3 Ⓛ ▁ Ⓘ T e r r e Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ J ↑ n ↓ ▁ J ↑ q u e s ↓ ▁ d e n i s → G o d e f r o y ▁ × D e n i s ▁ c h ± Ⓕ ▁ Ⓚ 2 4 1 Ⓛ ▁ Ⓘ T e r r e Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ C o c h e r ▁ n i c o l a s Ⓕ ▁ Ⓚ 2 1 5 Ⓛ ▁ Ⓘ T e r r e Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ J ↑ n ↓ ▁ J ↑ q u e s ↓ ▁ d e n i s → G o d e f r o y ▁ d e n i s ▁ C h ↑ r e ↓ ▁ J ↑ n ↓ Ⓕ ▁ Ⓚ 2 1 6 Ⓛ ▁ Ⓘ T e r r e Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ D u f r e s n e ▁ j e a n ▁ g e r m a i n Ⓕ ▁ Ⓚ 2 1 7 Ⓛ ▁ Ⓘ T e r r e Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ × C o r d a y ▁ à ▁ V i t r y ± → m a y e u x ▁ a ▁ V i l l e j u i f Ⓕ ▁ Ⓚ 2 1 8 Ⓛ ▁ Ⓘ T e r r e Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ L e r o y ▁ l o u i s ▁ g e o r g e s Ⓕ ▁ Ⓚ 2 1 9 Ⓛ ▁ Ⓘ T e r r e Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ L e b o u r l i e r ▁ n ↑ a s ↓ ▁ h e c t o r Ⓕ ▁ Ⓚ 2 2 0 Ⓛ ▁ Ⓘ T e r r e Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ L e r o y ▁ j e a n ▁ g i l l e s Ⓕ ▁ Ⓚ 2 2 1 Ⓛ ▁ Ⓘ T e r r e Ⓙ
+Ⓖ × R u e ▁ d u ▁ C i m e t i è r e ± Ⓗ ▁ Ⓔ B o u j a r d ▁ a ▁ P a r i s Ⓕ ▁ Ⓚ 2 7 . ▁ V o i r ▁ l e ▁ n ° ▁ 2 7 ↑ b i s ↓ → × 2 2 2 ± → 2 7 Ⓛ ▁ Ⓘ × P i è c e ▁ d ' e a u ± Ⓙ
+Ⓖ × i d ± Ⓗ ▁ Ⓔ B o u j a r d ▁ à ▁ P a r i s Ⓕ ▁ Ⓚ 2 7 ▁ V o i r ▁ l e ▁ n ° ▁ 2 7 ↑ t r i ↓ → × 2 2 3 ± → 2 7 Ⓛ ▁ Ⓘ × P i è c e ▁ d ' e a u ± Ⓙ
+Ⓖ × L e s ▁ s a b l o n s ± Ⓗ ▁ Ⓔ h o s p i c e s ▁ d e ▁ P a r i s Ⓕ ▁ Ⓚ 1 0 8 → V o i r ▁ l e ▁ n ° ▁ 1 0 9 ↑ b i s → × 2 2 4 ± → 1 0 9 Ⓛ ▁ Ⓘ × T ▁ p l a n t é e ± Ⓙ
+Ⓖ × M a i s o n ▁ b l a n c h e ± Ⓗ ▁ Ⓔ m a l b e z i n ▁ a l c i s t r e → × M e n a g e r Ⓕ ▁ Ⓚ 1 2 6 ▁ V o i r ▁ l e ▁ n ° 1 2 6 ↑ b i s ↓ → 2 2 5 → 1 2 7 Ⓛ ▁ Ⓘ × s o l ± Ⓙ
+Ⓖ i d Ⓗ ▁ Ⓔ i d Ⓕ ▁ Ⓚ 2 2 5 Ⓛ ▁ Ⓘ × M a i s o n ± Ⓙ
+Ⓖ ❌ e ▁ × h e l o u x ± Ⓗ ▁ Ⓔ D u f r e s n e ▁ a b e l ▁ j e a n ▁ h e n r y Ⓕ ▁ Ⓚ 2 ▁ V o i r ▁ l e ▁ n ° ▁ 2 ↑ b i s ↓ → 2 2 6 → 3 0 3 1 Ⓛ ▁ Ⓘ × J a r d i n ± Ⓙ
+Ⓖ × R u e ▁ d e ▁ l a ▁ m o n t a g n e ± Ⓗ ▁ Ⓔ P r i e u r ▁ a i m é ▁ J ↑ n ↓ ▁ b ↑ t e ↓ Ⓕ ▁ Ⓚ 5 7 ▁ V o i r ▁ l e ▁ n ° 5 7 ▁ ↑ b i s ↓ → 2 2 7 → 5 8 Ⓛ ▁ Ⓘ × T e r r a i n ± Ⓙ
+Ⓖ × R o u t e ▁ d e ▁ f o n t a i n e b l e a u ± Ⓗ ▁ Ⓔ O l i v i e r Ⓕ ▁ Ⓚ m u r ▁ d ' E n c e i n t e ▁ V o i r ▁ l e ▁ n ° 1 4 7 ↑ b i s ↓ → 2 2 8 → 1 4 9 Ⓛ ▁ Ⓘ s o l ▁ e t ▁ c o u r → × T e r r a i n ± Ⓙ
+Ⓖ i d Ⓗ ▁ Ⓔ 2 2 8 Ⓕ ▁ Ⓚ i d Ⓛ ▁ Ⓘ M a i s o n Ⓙ
+Ⓜ 5 7 8 ▁ b i s Ⓝ ▁ Ⓔ L e c o q ▁ m a ç o n Ⓕ ▁ Ⓚ × 2 2 9 ± → 1 4 9 Ⓛ ▁ Ⓘ × T e r r a i n ± Ⓙ
+Ⓖ × i d ± Ⓗ ▁ Ⓔ h o s p i c e s ▁ d e ▁ P a r i s Ⓕ ▁ Ⓚ 1 4 9 → 2 3 0 ▁ V o i r ▁ l e ▁ n ° 1 4 9 ↑ t r ↓ → 1 5 0 Ⓛ ▁ Ⓘ × T e r r a i n × Ⓙ
+Ⓖ × L e s ▁ P l a n t r e s ± Ⓗ ▁ Ⓔ F l e u r y ▁ ( p t a s s i e r ) ▁ g e r m a i n ▁ f e l i x Ⓕ ▁ Ⓚ 1 5 9 ▁ V o i r ▁ l e ▁ n ° ▁ 1 5 8 ↑ b i s ↓ → 2 3 1 → S ↑ o n ↓ ▁ F Ⓛ ▁ Ⓘ × T e r r a i n ± Ⓙ
+Ⓖ R o u t e ▁ d e ▁ C h a r e n t o n Ⓗ ▁ Ⓔ M i t a u l s ▁ J e a n , ▁ r o u t e ▁ d e ▁ C h a r e n t o n Ⓕ ▁ Ⓚ 6 8 4 Ⓛ ▁ Ⓘ s o l Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ M i t a u l s ▁ J e a n ▁ i d Ⓕ ▁ Ⓚ 6 8 4 Ⓛ ▁ Ⓘ m a i s o n Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ M i t a u l s ▁ J e a n ▁ i d Ⓕ ▁ Ⓚ 6 8 5 Ⓛ ▁ Ⓘ J a r d . ▁ d ' a g ↑ t ↓ . Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ M i t a u l s ▁ J e a n ▁ i d Ⓕ ▁ Ⓚ 6 8 6 Ⓛ ▁ Ⓘ s o l Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ M i t a u l s ▁ J e a n ▁ i d Ⓕ ▁ Ⓚ 6 8 6 Ⓛ ▁ Ⓘ m a n è g e Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ M i t a u l s ▁ J e a n ▁ i d Ⓕ ▁ Ⓚ 6 8 7 Ⓛ ▁ Ⓘ j a r d . ▁ d ' a g t Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ M i t a u l s ▁ J e a n ▁ i d Ⓕ ▁ Ⓚ 6 8 8 Ⓛ ▁ Ⓘ c o u r ▁ d e ▁ f a b r i q u e Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ M i t a u l s ▁ J e a n ▁ i d Ⓕ ▁ Ⓚ 6 8 9 Ⓛ ▁ Ⓘ s o l Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ M i t a u l s ▁ J e a n ▁ i d Ⓕ ▁ Ⓚ 6 8 9 Ⓛ ▁ Ⓘ f a b r i q u e ▁ d e ▁ c o l l e ▁ f o r t e Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ M i t a u l s ▁ J e a n ▁ i d Ⓕ ▁ Ⓚ 6 8 9 ↑ b i s ↓ Ⓛ ▁ Ⓘ T e r r a i n Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ M i t a u l s ▁ J e a n ▁ i d Ⓕ ▁ Ⓚ 6 9 0 Ⓛ ▁ Ⓘ f a b r i q u e ▁ d e ▁ p r o d u i t s → c h i m i q u e s Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ M i t a u l s ▁ J e a n ▁ i d Ⓕ ▁ Ⓚ 6 9 1 Ⓛ ▁ Ⓘ s o l Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ M i t a u l s ▁ J e a n ▁ i d Ⓕ ▁ Ⓚ 6 9 1 Ⓛ ▁ Ⓘ m a i s o n Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ M i t a u l s ▁ J e a n ▁ i d Ⓕ ▁ Ⓚ 6 9 2 Ⓛ ▁ Ⓘ f a b r i q u e ▁ d e ▁ p r o d u i t s → c h i m i q u e s Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ M i t a u l s ▁ J e a n ▁ i d Ⓕ ▁ Ⓚ 6 9 3 Ⓛ ▁ Ⓘ f a b r i q u e ▁ d e ▁ c o l l e ▁ f o r t e Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ M i t a u l s ▁ J e a n ▁ i d Ⓕ ▁ Ⓚ 6 9 3 ↑ b i s ↓ Ⓛ ▁ Ⓘ s o l Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ M i t a u l s ▁ J e a n ▁ i d Ⓕ ▁ Ⓚ 6 9 3 ↑ b i s ↓ Ⓛ ▁ Ⓘ b â t i m e n t ▁ d e ▁ m a c h i n e → à ▁ v a p e u r Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ M i t a u l s ▁ J e a n ▁ i d Ⓕ ▁ Ⓚ 6 9 4 Ⓛ ▁ Ⓘ f a b r i q u e ▁ d e ▁ p r o d u i t s ▁ c h i m i q u e s Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ M i t a u l s ▁ J e a n ▁ i d Ⓕ ▁ Ⓚ 6 9 4 ↑ b i s ↓ Ⓛ ▁ Ⓘ f a b r i q u e ▁ d e ▁ c a r t o n Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ M i t a u l s ▁ J e a n ▁ i d Ⓕ ▁ Ⓚ 6 9 5 Ⓛ ▁ Ⓘ s o l Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ M i t a u l s ▁ J e a n ▁ i d Ⓕ ▁ Ⓚ 6 9 5 ↑ b i s ↓ Ⓛ ▁ Ⓘ s o l Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ M i t a u l s ▁ J e a n ▁ i d Ⓕ ▁ Ⓚ 6 9 5 ↑ b i s ↓ Ⓛ ▁ Ⓘ m a i s o n Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ M i t a u l s ▁ J e a n ▁ i d Ⓕ ▁ Ⓚ 6 9 5 ▁ ↑ b i s ↓ Ⓛ ▁ Ⓘ m a i s o n Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ M i t a u l s ▁ J e a n ▁ i d Ⓕ ▁ Ⓚ 6 9 6 Ⓛ ▁ Ⓘ t e r r a i n s ▁ à ▁ b â t i r Ⓙ
+Ⓜ 9 0 ↑ b i s ↓ Ⓝ ▁ Ⓔ C o i f f i e r ▁ J ↑ n ↓ ▁ B ↑ t e ↓ ▁ s e r a p h i n Ⓕ ▁ Ⓚ 6 4 4 Ⓛ ▁ Ⓘ T e r r e Ⓙ
+Ⓜ 1 9 8 Ⓝ ▁ Ⓔ H e r i c o u r t ▁ L o u i s Ⓕ ▁ Ⓚ 6 4 4 ↑ b i s ↓ Ⓛ ▁ Ⓘ i d Ⓙ
+Ⓜ 3 3 1 Ⓝ ▁ Ⓔ M o n t m a r t h e ▁ P h ↑ e ↓ ▁ v e u v e Ⓕ ▁ Ⓚ 4 5 Ⓛ ▁ Ⓘ i d Ⓙ
+Ⓜ 4 2 9 Ⓝ ▁ Ⓔ M ▁ S a u s s a y ▁ f i l s Ⓕ ▁ Ⓚ 4 5 ↑ b i s ↓ Ⓛ ▁ Ⓘ § Ⓙ
+Ⓜ 2 3 1 Ⓝ ▁ Ⓔ L a m e a u ▁ V ↑ e ↓ ▁ s a t u r n i n ▁ h ↑ e r s ↓ Ⓕ ▁ Ⓚ 4 6 Ⓛ ▁ Ⓘ § Ⓙ
+Ⓜ 1 1 6 Ⓝ ▁ Ⓔ M ↑ v ↓ ▁ D h a u s s o n v i l l e Ⓕ ▁ Ⓚ 4 7 Ⓛ ▁ Ⓘ v i g Ⓙ
+Ⓜ 3 2 Ⓝ ▁ Ⓔ B a t a i l l e ▁ s i m o n Ⓕ ▁ Ⓚ 4 8 Ⓛ ▁ Ⓘ T e r r e Ⓙ
+Ⓜ 3 2 Ⓝ ▁ Ⓔ L e ▁ m ê m e Ⓕ ▁ Ⓚ 4 8 ↑ b i s ↓ Ⓛ ▁ Ⓘ i d Ⓙ
+Ⓜ 8 7 Ⓝ ▁ Ⓔ C o i f f i e r ▁ J ↑ n ↓ ▁ F ↑ o i s ↓ Ⓕ ▁ Ⓚ 4 9 Ⓛ ▁ Ⓘ § Ⓙ
+Ⓜ × 4 0 ± → 4 3 4 ↑ b i s ↓ Ⓝ ▁ Ⓔ × B e r g e r ▁ L o u i s ± ▁ F o u d a u x ▁ F ↑ o u ↓ ▁ V i n c e n t Ⓕ ▁ Ⓚ 6 5 0 Ⓛ ▁ Ⓘ § Ⓙ
+Ⓜ 3 1 Ⓝ ▁ Ⓔ B a s t i e n ▁ L a u r e n t Ⓕ ▁ Ⓚ 5 1 Ⓛ ▁ Ⓘ v i g Ⓙ
+Ⓜ 1 2 3 Ⓝ ▁ Ⓔ D u v a l ▁ s a t ↑ n i n ↓ ▁ v e u v e Ⓕ ▁ Ⓚ 5 2 Ⓛ ▁ Ⓘ T e r r e Ⓙ
+Ⓜ 3 0 7 Ⓝ ▁ Ⓔ M e r i l l o n ▁ J ↑ n ↓ ▁ S a t ↑ n i n ↓ Ⓕ ▁ Ⓚ 5 3 Ⓛ ▁ Ⓘ i d Ⓙ
+Ⓜ × 6 ± → 3 3 Ⓝ ▁ Ⓔ × a n c e l e t ▁ V ↑ e ↓ ▁ J a c q . ± ▁ B a t a i l l e ▁ J ↑ n ↓ ▁ b a p ↑ t e ↓ Ⓕ ▁ Ⓚ 5 4 Ⓛ ▁ Ⓘ § Ⓙ
+Ⓜ × 4 6 0 ± → 4 3 2 Ⓝ ▁ Ⓔ × V i t r y ▁ v e u v e ▁ m a u r i c e ± ▁ S o u d i e u x ▁ L ↑ i s ↓ ▁ J ↑ q u e s ↓ Ⓕ ▁ Ⓚ 5 5 Ⓛ ▁ Ⓘ § Ⓙ
+Ⓜ 3 0 7 Ⓝ ▁ Ⓔ M e r i l l o n ▁ J ↑ n ↓ ▁ S a t ↑ i n ↓ Ⓕ ▁ Ⓚ 5 6 Ⓛ ▁ Ⓘ t e r . Ⓙ
+Ⓜ 3 0 7 Ⓝ ▁ Ⓔ L e ▁ m ê m e Ⓕ ▁ Ⓚ 5 7 Ⓛ ▁ Ⓘ v i g . Ⓙ
+Ⓜ 4 4 3 Ⓝ ▁ Ⓔ S o u d i e u x ▁ a u g u s t i n Ⓕ ▁ Ⓚ 5 8 Ⓛ ▁ Ⓘ i d Ⓙ
+Ⓜ × 7 3 ± → 2 2 ↑ b i s ↓ Ⓝ ▁ Ⓔ × C a r t e r o n ± ▁ A u t r a y ▁ V i n c e n t ▁ f é l i x Ⓕ ▁ Ⓚ 5 8 ↑ b i s ↓ Ⓛ ▁ Ⓘ § Ⓙ
+Ⓜ 1 0 5 Ⓝ ▁ Ⓔ N ↑ v ↓ ▁ C u r y Ⓕ ▁ Ⓚ 5 9 Ⓛ ▁ Ⓘ T e r r e Ⓙ
+Ⓜ 1 0 5 Ⓝ ▁ Ⓔ L e ▁ m ê m e Ⓕ ▁ Ⓚ 6 6 0 Ⓛ ▁ Ⓘ i d Ⓙ
+Ⓖ § Ⓗ ▁ Ⓜ 7 0 Ⓝ ▁ Ⓔ C a d o t ▁ P ↑ r e ↓ ▁ F ↑ o i s ↓ ▁ f o n t . Ⓕ ▁ Ⓚ 6 1 Ⓛ ▁ Ⓘ § Ⓙ
+Ⓖ L e s ▁ R o s e s Ⓗ ▁ Ⓔ D e l a n o u e ▁ t o u s s a i n t Ⓕ ▁ Ⓚ 7 1 Ⓛ ▁ Ⓘ T e r r e Ⓙ ▁ Ⓐ 7 4 Ⓑ ▁ Ⓒ T e r r e Ⓓ
+Ⓖ § Ⓗ ▁ Ⓔ L e p o r t i e r ▁ l o u i s ▁ g e r m a i n Ⓕ ▁ Ⓚ 7 2 Ⓛ ▁ Ⓘ T Ⓙ ▁ Ⓐ 7 5 Ⓑ ▁ Ⓒ T Ⓓ
+Ⓖ § Ⓗ ▁ Ⓔ S e j o u r n é ▁ l o u i s ▁ l a u r e n t Ⓕ ▁ Ⓚ 7 3 Ⓛ ▁ Ⓘ V i g n e Ⓙ ▁ Ⓐ 7 6 Ⓑ ▁ Ⓒ T Ⓓ
+Ⓖ § Ⓗ ▁ Ⓔ L e g e n d r e ▁ l o u i s ▁ p h i l i p p e Ⓕ ▁ Ⓚ 7 4 Ⓛ ▁ Ⓘ V i g . Ⓙ ▁ Ⓐ 7 7 → 7 8 → 7 9 Ⓑ ▁ Ⓒ T → T → V i g Ⓓ
+Ⓖ § Ⓗ ▁ Ⓔ G u a y ▁ j a c q u e s ▁ f i l s Ⓕ ▁ Ⓚ 7 5 Ⓛ ▁ Ⓘ T e r r e Ⓙ ▁ Ⓐ 8 0 Ⓑ ▁ Ⓒ T Ⓓ
+Ⓖ § Ⓗ ▁ Ⓔ G e r a n d e ▁ ( d e ) Ⓕ ▁ Ⓚ 7 6 Ⓛ ▁ Ⓘ T Ⓙ ▁ Ⓐ 8 1 Ⓑ ▁ Ⓒ T Ⓓ
+Ⓖ § Ⓗ ▁ Ⓔ D e l a n o u e ▁ J ↑ n ↓ ▁ B ↑ t e ↓ ▁ t o u s s a i n t Ⓕ ▁ Ⓚ 7 7 Ⓛ ▁ Ⓘ T Ⓙ ▁ Ⓐ 8 2 Ⓑ ▁ Ⓒ T Ⓓ
+Ⓖ § Ⓗ ▁ Ⓔ M e n e u x ▁ c h ↑ e s ↓ ▁ n i c o l a s Ⓕ ▁ Ⓚ 7 8 Ⓛ ▁ Ⓘ T Ⓙ ▁ Ⓐ 8 3 → 8 4 Ⓑ ▁ Ⓒ V i g → T Ⓓ
+Ⓖ § Ⓗ ▁ Ⓔ G e r a n d o ▁ ( d e ) Ⓕ ▁ Ⓚ 7 9 Ⓛ ▁ Ⓘ T Ⓙ ▁ Ⓐ 8 5 Ⓑ ▁ Ⓒ T Ⓓ
+Ⓖ § Ⓗ ▁ Ⓔ M i n i e r ▁ T o u s s a i n t Ⓕ ▁ Ⓚ 8 0 Ⓛ ▁ Ⓘ T Ⓙ ▁ Ⓐ 8 6 Ⓑ ▁ Ⓒ V i g Ⓓ
+Ⓖ § Ⓗ ▁ Ⓔ A u g e r ▁ n i c o l a s ▁ j o s e p h Ⓕ ▁ Ⓚ 8 1 Ⓛ ▁ Ⓘ T Ⓙ ▁ Ⓐ 8 7 → 1 8 5 Ⓑ ▁ Ⓒ T → T Ⓓ
+Ⓖ § Ⓗ ▁ Ⓔ B e a u p r é ▁ j e u n e ▁ l o u i s Ⓕ ▁ Ⓚ 8 2 Ⓛ ▁ Ⓘ T Ⓙ ▁ Ⓐ 8 8 Ⓑ ▁ Ⓒ T Ⓓ
+Ⓖ § Ⓗ ▁ Ⓔ P e s c h e u x ▁ g e r m a i n ▁ p ↑ r e ↓ Ⓕ ▁ Ⓚ 8 3 Ⓛ ▁ Ⓘ v i g n e Ⓙ ▁ Ⓐ 8 9 Ⓑ ▁ Ⓒ V i g Ⓓ
+Ⓖ § Ⓗ ▁ Ⓔ M i z a r d ▁ a l e x a n d r e Ⓕ ▁ Ⓚ 8 4 Ⓛ ▁ Ⓘ V i g . Ⓙ ▁ Ⓐ 9 0 Ⓑ ▁ Ⓒ T Ⓓ
+Ⓖ G r a n d e → R u e Ⓗ ▁ Ⓔ f r e s n e ▁ ( C o m m u n e ▁ d e ) Ⓕ ▁ Ⓚ 6 2 9 Ⓛ ▁ Ⓘ C i m e t i è r e Ⓙ ▁ Ⓐ 4 0 9 Ⓑ ▁ Ⓒ C i m e t i è r e Ⓓ
+Ⓖ § Ⓗ ▁ Ⓔ B o u l o g n e ▁ p r o s p e r Ⓕ ▁ Ⓚ 6 3 0 Ⓛ ▁ Ⓘ j a r d i n Ⓙ ▁ Ⓐ 4 0 8 Ⓑ ▁ Ⓒ j ↑ i n ↓ Ⓓ
+Ⓖ § Ⓗ ▁ Ⓔ i d e m Ⓕ ▁ Ⓚ 6 3 1 Ⓛ ▁ Ⓘ m a i s o n ▁ e t → c o u r → n ° 2 2 Ⓙ ▁ Ⓐ 4 1 0 p Ⓑ ▁ Ⓒ M ↑ o n ↓ Ⓓ
+Ⓖ § Ⓗ ▁ Ⓔ i d Ⓕ ▁ Ⓚ 6 3 2 Ⓛ ▁ Ⓘ m a i s o n ▁ e t → c o u r → n ° 2 4 Ⓙ ▁ Ⓐ 4 1 0 p Ⓑ ▁ Ⓒ M ↑ o n ↓ Ⓓ
+Ⓖ § Ⓗ ▁ Ⓔ P h i l i p p e ▁ a l e x ↑ d r e ↓ ▁ f ↑ o i s ↓ ▁ a u g ↑ t e ↓ Ⓕ ▁ Ⓚ 6 3 3 Ⓛ ▁ Ⓘ m a i s o n ▁ c o u r → e t ▁ B ↑ t ↓ → n ° 2 6 Ⓙ ▁ Ⓐ 4 1 1 Ⓑ ▁ Ⓒ M ↑ o n ↓ Ⓓ
+Ⓖ § Ⓗ ▁ Ⓔ i d Ⓕ ▁ Ⓚ 6 3 4 Ⓛ ▁ Ⓘ j a r d i n Ⓙ ▁ Ⓐ 4 1 2 Ⓑ ▁ Ⓒ j ↑ i n ↓ Ⓓ
+Ⓖ § Ⓗ ▁ Ⓔ C h a i l l o u ▁ L o u i s ▁ f r é d é r i c Ⓕ ▁ Ⓚ 6 3 5 Ⓛ ▁ Ⓘ j a r d i n Ⓙ ▁ Ⓐ 4 1 3 Ⓑ ▁ Ⓒ j ↑ i n ↓ Ⓓ
+Ⓖ § Ⓗ ▁ Ⓔ i d e m Ⓕ ▁ Ⓚ 6 3 6 Ⓛ ▁ Ⓘ m a i s o n ▁ c o u r → e t ▁ B ↑ t ↓ → n ° 2 8 Ⓙ ▁ Ⓐ 4 1 4 → 4 1 5 Ⓑ ▁ Ⓒ M ↑ o n ↓ Ⓓ
+Ⓖ § Ⓗ ▁ Ⓔ V i e l ▁ p i e r r e Ⓕ ▁ Ⓚ 6 3 7 Ⓛ ▁ Ⓘ m a i s o n ▁ c o u r → e t ▁ B ↑ t ↓ → n ° 3 0 Ⓙ ▁ Ⓐ 4 1 6 Ⓑ ▁ Ⓒ M ↑ o n ↓ Ⓓ
+Ⓖ § Ⓗ ▁ Ⓔ T a v e r n i e r ▁ f i r m i n ▁ a l e x a n d r e Ⓕ ▁ Ⓚ 6 3 8 Ⓛ ▁ Ⓘ j a r d i n Ⓙ ▁ Ⓐ 4 2 0 → 4 2 1 → 4 2 2 Ⓑ ▁ Ⓒ j ↑ i n ↓ Ⓓ
+Ⓖ § Ⓗ ▁ Ⓔ i d Ⓕ ▁ Ⓚ 6 3 9 Ⓛ ▁ Ⓘ m a i s o n ▁ c o u r → e t ▁ B ↑ t → n ° 3 2 Ⓙ ▁ Ⓐ 4 1 7 → 4 1 8 → 4 1 9 Ⓑ ▁ Ⓒ M ↑ o n ↓ Ⓓ
+Ⓖ § Ⓗ ▁ Ⓔ S i l v e s t r e ▁ m a r i e ▁ a n n e → × s i m o n e ± Ⓕ ▁ Ⓚ 6 4 0 Ⓛ ▁ Ⓘ m a i s o n ▁ c o u r → e t ▁ B ↑ t ↓ → n ° 3 4 Ⓙ ▁ Ⓐ 4 2 3 → 4 2 4 → 4 2 5 → 4 2 6 → 4 2 7 p Ⓑ ▁ Ⓒ M ↑ o n ↓ → M ↑ o n ↓ → J ↑ i n ↓ Ⓓ
+Ⓖ § Ⓗ ▁ Ⓔ B a l o c h e ▁ p ↑ r e ↓ ▁ R u t t i n Ⓕ ▁ Ⓚ 6 4 0 ↑ b i s ↓ Ⓛ ▁ Ⓘ m ↑ o n ↓ ▁ c o u r ▁ e t ▁ B ↑ t ↓ → n ° 3 4 ↑ b i s ↓ Ⓙ ▁ Ⓐ Ø Ⓑ ▁ Ⓒ Ø Ⓓ
+Ⓖ § Ⓗ ▁ Ⓔ S i l v e s t r e ▁ × i d e m ± ▁ m a r i e ▁ a n n e Ⓕ ▁ Ⓚ 6 4 1 Ⓛ ▁ Ⓘ j a r d i n Ⓙ ▁ Ⓐ 4 2 7 ▁ p Ⓑ ▁ Ⓒ j ↑ i n ↓ Ⓓ
+Ⓖ § Ⓗ ▁ Ⓔ B a l o c h e ▁ p ↑ r e ↓ ▁ R u f f i n Ⓕ ▁ Ⓚ 6 4 1 ↑ b i s ↓ Ⓛ ▁ Ⓘ j a r d i n Ⓙ ▁ Ⓐ Ø Ⓑ ▁ Ⓒ Ø Ⓓ
+Ⓖ § Ⓗ ▁ Ⓔ C h e v é ▁ a r s e n n e ▁ c h ↑ e s ↓ ▁ f ↑ o i s ↓ Ⓕ ▁ Ⓚ 6 4 2 Ⓛ ▁ Ⓘ j a r d i n Ⓙ ▁ Ⓐ 4 2 8 ▁ p Ⓑ ▁ Ⓒ j ↑ i n ↓ Ⓓ
+Ⓖ L a → C o u t u r e ▁ d u ▁ m o u l i n Ⓗ ▁ Ⓔ P i o r s ▁ a u g u s t i n , ▁ V ↑ e ↓ Ⓕ ▁ Ⓚ 2 3 9 Ⓛ ▁ Ⓘ T Ⓙ ▁ Ⓐ 1 3 8 → 1 3 8 ↑ 6 ↓ → 1 3 8 ↑ 7 ↓ Ⓑ ▁ Ⓒ T → T ▁ p s → J Ⓓ
+Ⓖ L e → M o u l i n ▁ d e ▁ T h i a i s Ⓗ ▁ Ⓔ I d e m Ⓕ ▁ Ⓚ 2 4 0 Ⓛ ▁ Ⓘ M ↑ l i n ↓ ▁ T Ⓙ ▁ Ⓐ 1 3 8 ↑ 2 ↓ → 1 2 8 ↑ 3 ↓ Ⓑ ▁ Ⓒ m o u l i n → à ▁ v e n t → Ⓓ
+Ⓖ i d Ⓗ ▁ Ⓔ I d e m Ⓕ ▁ Ⓚ 2 4 1 Ⓛ ▁ Ⓘ M ↑ i n ↓ Ⓙ ▁ Ⓐ 1 3 8 ↑ 4 ↓ → 1 3 8 ↑ 5 ↓ Ⓑ ▁ Ⓒ m ▁ c → J ▁ e t ▁ c o u r Ⓓ
+Ⓖ a v e n u e ▁ d u ▁ P l a t e a u Ⓗ ▁ Ⓔ D u b o i s ▁ P e t i é ▁ L o u i s ▁ C h a r l e s ▁ A n d r é , ▁ P a r i s Ⓕ ▁ Ⓚ 2 4 2 Ⓛ ▁ Ⓘ T Ⓙ ▁ Ⓐ 1 3 7 Ⓑ ▁ Ⓒ T Ⓓ
+Ⓖ i d Ⓗ ▁ Ⓔ M i g o n ▁ d e ▁ B e r t y ▁ a n g e ▁ m a x i m i l i e n ▁ s i m o n , ▁ P a r i s Ⓕ ▁ Ⓚ 2 4 3 Ⓛ ▁ Ⓘ T Ⓙ ▁ Ⓐ 2 5 0 Ⓑ ▁ Ⓒ T Ⓓ
+Ⓖ L e s ▁ 1 5 ▁ a r p e n s Ⓗ ▁ Ⓔ D e f r e s n e ▁ h o n o r é ▁ f r é d é r i c ▁ d i t ▁ B i z e t , ▁ V i t r y Ⓕ ▁ Ⓚ 2 4 4 Ⓛ ▁ Ⓘ T Ⓙ ▁ Ⓐ p . ▁ 3 4 9 Ⓑ ▁ Ⓒ ☼ Ⓓ
+Ⓖ i d Ⓗ ▁ Ⓔ D u c h a n g e ▁ J e a n ▁ P i e r r e , ▁ V i t r y Ⓕ ▁ Ⓚ 2 4 5 Ⓛ ▁ Ⓘ T Ⓙ ▁ Ⓐ p . 3 4 9 Ⓑ ▁ Ⓒ ☼ Ⓓ
+Ⓖ § Ⓗ ▁ Ⓔ L e p r i n c e ▁ a n d r é ▁ m a r g u e r i t e Ⓕ ▁ Ⓚ 2 4 6 Ⓛ ▁ Ⓘ T Ⓙ ▁ Ⓐ p . 3 4 9 Ⓑ ▁ Ⓒ ☼ Ⓓ
+Ⓖ § Ⓗ ▁ Ⓔ I d e m Ⓕ ▁ Ⓚ 2 4 7 Ⓛ ▁ Ⓘ P i p Ⓙ ▁ Ⓐ p . ▁ 2 4 9 Ⓑ ▁ Ⓒ ☼ Ⓓ
+Ⓖ § Ⓗ ▁ Ⓔ M a t o n ▁ P i e r r e ▁ J e a n ▁ B a s i l e , ▁ V i t r y Ⓕ ▁ Ⓚ 2 4 8 Ⓛ ▁ Ⓘ T Ⓙ ▁ Ⓐ p . ▁ 3 4 9 Ⓑ ▁ Ⓒ T Ⓓ
+Ⓖ § Ⓗ ▁ Ⓔ G r o g n e t ▁ P h i l i p p e ▁ J u l i e n , ▁ V i t r y Ⓕ ▁ Ⓚ 2 4 9 Ⓛ ▁ Ⓘ P e p . Ⓙ ▁ Ⓐ p . 3 4 9 Ⓑ ▁ Ⓒ Ø Ⓓ
+Ⓖ § Ⓗ ▁ Ⓔ I d e m Ⓕ ▁ Ⓚ 2 5 0 Ⓛ ▁ Ⓘ T Ⓙ ▁ Ⓐ p . 2 4 9 Ⓑ ▁ Ⓒ Ø Ⓓ
+Ⓖ § Ⓗ ▁ Ⓔ T h é v e n o i ▁ j e a n ▁ l o u i s ▁ p è r e ▁ g ↑ d r e ↓ ▁ b i z o n , ▁ v i t r y Ⓕ ▁ Ⓚ 2 5 1 Ⓛ ▁ Ⓘ T Ⓙ ▁ Ⓐ p . 3 4 9 Ⓑ ▁ Ⓒ Ø Ⓓ
+Ⓖ § Ⓗ ▁ Ⓔ L a m y ▁ J e a n ▁ L o u i s ▁ d e n i s ▁ F é l i x Ⓕ ▁ Ⓚ 3 5 2 Ⓛ ▁ Ⓘ T Ⓙ ▁ Ⓐ p . 3 4 9 Ⓑ ▁ Ⓒ Ø Ⓓ
+Ⓜ × 1 4 5 ± → 1 4 7 Ⓝ ▁ Ⓔ G u g n o t ▁ J ↑ n ↓ ▁ C l a u d e Ⓕ ▁ Ⓚ 1 2 4 7 Ⓛ ▁ Ⓘ V i g n e Ⓙ
+Ⓜ 1 1 2 Ⓝ ▁ Ⓔ E n j a l v a n Ⓕ ▁ Ⓚ 1 2 4 8 Ⓛ ▁ Ⓘ i d Ⓙ
+Ⓜ 2 1 3 Ⓝ ▁ Ⓔ M e n t i e n n e ▁ a l e x ↑ d r e ↓ Ⓕ ▁ Ⓚ 1 2 4 9 Ⓛ ▁ Ⓘ i d Ⓙ
+Ⓜ 2 6 Ⓝ ▁ Ⓔ B e n o i s t ▁ J ↑ h ↓ ▁ J ↑ n ↓ Ⓕ ▁ Ⓚ 1 2 5 0 Ⓛ ▁ Ⓘ i d Ⓙ
+Ⓜ 2 6 Ⓝ ▁ Ⓔ i d e m Ⓕ ▁ Ⓚ 1 2 5 1 Ⓛ ▁ Ⓘ T e r r e Ⓙ
+Ⓜ 2 6 Ⓝ ▁ Ⓔ § Ⓕ ▁ Ⓚ 1 2 5 2 Ⓛ ▁ Ⓘ V i g . Ⓙ
+Ⓜ 2 2 2 Ⓝ ▁ Ⓔ M e n t i e n n e ▁ J ↑ n ↓ ▁ L o u i s Ⓕ ▁ Ⓚ 1 2 5 3 Ⓛ ▁ Ⓘ i d Ⓙ
+Ⓜ 1 6 2 Ⓝ ▁ Ⓔ J o u r d a i n ▁ J ↑ n ↓ ▁ L o u i s ▁ V e u v e Ⓕ ▁ Ⓚ 1 2 5 4 Ⓛ ▁ Ⓘ T e r r e Ⓙ
+Ⓜ 2 5 2 Ⓝ ▁ Ⓔ P e r r i g a u t ▁ a n d r é ▁ F ↑ i s ↓ Ⓕ ▁ Ⓚ 1 2 5 5 Ⓛ ▁ Ⓘ V i g Ⓙ
+Ⓜ 3 0 4 Ⓝ ▁ Ⓔ S e l l i e r ▁ J ↑ q u e s ↓ ▁ G e o r g e s Ⓕ ▁ Ⓚ 1 2 5 6 Ⓛ ▁ Ⓘ i d Ⓙ
+Ⓜ 2 7 8 Ⓝ ▁ Ⓔ Q u e v u ▁ F ↑ o i s ↓ ▁ N ↑ a s ↓ Ⓕ ▁ Ⓚ 1 2 5 7 Ⓛ ▁ Ⓘ i d Ⓙ
+Ⓜ 2 7 8 Ⓝ ▁ Ⓔ i d e m Ⓕ ▁ Ⓚ 1 2 5 8 Ⓛ ▁ Ⓘ T e r r e Ⓙ
+Ⓜ 9 Ⓝ ▁ Ⓔ B a s i r e ▁ g u i l l ↑ e ↓ ▁ V e u v e Ⓕ ▁ Ⓚ 1 2 5 9 Ⓛ ▁ Ⓘ V i g Ⓙ
+Ⓜ 2 7 6 Ⓝ ▁ Ⓔ Q u e r u ▁ P ↑ r e ↓ ▁ m a r i e Ⓕ ▁ Ⓚ 1 2 6 0 Ⓛ ▁ Ⓘ T e r r e Ⓙ
+Ⓜ 2 4 Ⓝ ▁ Ⓔ B e n o i t ▁ a l e x ↑ d r e ↓ Ⓕ ▁ Ⓚ 1 2 6 1 Ⓛ ▁ Ⓘ i d Ⓙ
+Ⓜ 2 2 8 Ⓝ ▁ Ⓔ M e t i v i e r ▁ L o u i s ▁ F ↑ r e ↓ Ⓕ ▁ Ⓚ 1 2 6 2 Ⓛ ▁ Ⓘ i d Ⓙ
+Ⓜ 1 2 4 Ⓝ ▁ Ⓔ G a r r e a u ▁ L o u i s e ▁ m i c h e l Ⓕ ▁ Ⓚ 1 2 6 3 Ⓛ ▁ Ⓘ V i g Ⓙ
+Ⓜ 2 1 0 Ⓝ ▁ Ⓔ M e n t i e n n e ▁ L o u i s ▁ g e r v a i s Ⓕ ▁ Ⓚ 1 2 6 4 Ⓛ ▁ Ⓘ i d Ⓙ
+Ⓜ 2 9 8 Ⓝ ▁ Ⓔ S e l l i e r ▁ F ↑ s ↓ ▁ m a r i e Ⓕ ▁ Ⓚ 1 2 6 5 Ⓛ ▁ Ⓘ T e r r e Ⓙ
+Ⓜ 9 7 Ⓝ ▁ Ⓔ D e s n y a u ▁ J ↑ n ↓ ▁ A l e x ↑ d r e ↓ Ⓕ ▁ Ⓚ 1 2 6 5 ↑ b i s ↓ Ⓛ ▁ Ⓘ i d Ⓙ
+Ⓖ L e ▁ C o i n → d u ▁ B o i s Ⓗ ▁ Ⓔ B a r i l l e t ▁ A n t o i n e ▁ S a t u r n i n Ⓕ ▁ Ⓚ 1 1 4 5 Ⓛ ▁ Ⓘ T Ⓙ ▁ Ⓐ 2 5 4 3 Ⓑ ▁ Ⓒ T Ⓓ
+Ⓖ i d Ⓗ ▁ Ⓔ L a m e a u ▁ A c h i l l e Ⓕ ▁ Ⓚ 1 1 4 6 Ⓛ ▁ Ⓘ T Ⓙ ▁ Ⓐ 2 5 4 4 → 2 5 4 5 → 2 5 4 6 Ⓑ ▁ Ⓒ T → T → T Ⓓ
+Ⓖ § Ⓗ ▁ Ⓔ M é r i l l o n ▁ J e a n ▁ S a t u r n i n ▁ V ↑ v e ↓ Ⓕ ▁ Ⓚ 1 1 4 7 Ⓛ ▁ Ⓘ T Ⓙ ▁ Ⓐ 2 5 4 6 Ⓑ ▁ Ⓒ T Ⓓ
+Ⓖ § Ⓗ ▁ Ⓔ S o u r d i e u x ▁ L o u i s ▁ f i l s ▁ B r e t e u i l Ⓕ ▁ Ⓚ 1 1 4 8 Ⓛ ▁ Ⓘ T Ⓙ ▁ Ⓐ 2 5 4 8 Ⓑ ▁ Ⓒ T Ⓓ
+Ⓖ § Ⓗ ▁ Ⓔ M é r i l l o n ▁ F é l i x Ⓕ ▁ Ⓚ 1 1 4 9 Ⓛ ▁ Ⓘ T Ⓙ ▁ Ⓐ 2 5 4 9 Ⓑ ▁ Ⓒ T Ⓓ
+Ⓖ § Ⓗ ▁ Ⓔ M o n t m a r t h e ▁ P h i l i p p e ▁ A n t o i n e → N i c o l a s Ⓕ ▁ Ⓚ 1 1 5 0 Ⓛ ▁ Ⓘ V i g n e Ⓙ ▁ Ⓐ P ↑ t i e ↓ ▁ 2 5 5 0 Ⓑ ▁ Ⓒ T Ⓓ
+Ⓖ § Ⓗ ▁ Ⓔ L a m e a u ▁ J e a n ▁ , ▁ f i l s → S a t u r n i n Ⓕ ▁ Ⓚ 1 1 5 1 Ⓛ ▁ Ⓘ T Ⓙ ▁ Ⓐ P ↑ t i e ↓ ▁ 2 5 5 0 Ⓑ ▁ Ⓒ T Ⓓ
+Ⓖ § Ⓗ ▁ Ⓔ S o u d i e u x ▁ P i e r r e ▁ L o u i s Ⓕ ▁ Ⓚ 1 1 5 2 Ⓛ ▁ Ⓘ T Ⓙ ▁ Ⓐ 2 5 5 3 → 2 5 5 4 Ⓑ ▁ Ⓒ T → v i g n Ⓓ
+Ⓖ § Ⓗ ▁ Ⓔ L e s a i n t ▁ J e a n ▁ B a p t i s t e Ⓕ ▁ Ⓚ 1 1 5 3 Ⓛ ▁ Ⓘ T Ⓙ ▁ Ⓐ 2 5 5 1 → 2 5 5 2 Ⓑ ▁ Ⓒ T → T Ⓓ
+Ⓖ § Ⓗ ▁ Ⓔ H é r i c o u r t ▁ G e r m a i n , ▁ f i l s → C u n ❌ ❌ u r d Ⓕ ▁ Ⓚ 1 1 5 4 Ⓛ ▁ Ⓘ T Ⓙ ▁ Ⓐ P ↑ t i e ↓ ▁ 2 5 5 6 Ⓑ ▁ Ⓒ T Ⓓ
+Ⓖ § Ⓗ ▁ Ⓔ H é r i c o u r t ▁ A u g u s t i n e , ▁ à → P a r i s Ⓕ ▁ Ⓚ 1 1 5 5 Ⓛ ▁ Ⓘ T Ⓙ ▁ Ⓐ P ↑ t i e ↓ ▁ 2 5 5 6 Ⓑ ▁ Ⓒ T Ⓓ
+Ⓖ § Ⓗ ▁ Ⓔ B e r g e r ▁ B a p t i s t e Ⓕ ▁ Ⓚ 1 1 5 6 Ⓛ ▁ Ⓘ T Ⓙ ▁ Ⓐ 2 5 5 9 Ⓑ ▁ Ⓒ T Ⓓ
+Ⓖ § Ⓗ ▁ Ⓔ J o s s e t ▁ J e a n ▁ V e u v e Ⓕ ▁ Ⓚ 1 1 5 7 Ⓛ ▁ Ⓘ T Ⓙ ▁ Ⓐ P t i e ▁ 2 5 5 7 → 2 5 5 8 Ⓑ ▁ Ⓒ T → V i g Ⓓ
+Ⓖ § Ⓗ ▁ Ⓔ P e q u e s n e ▁ P i e r r e ▁ L o u i s Ⓕ ▁ Ⓚ 1 1 5 8 Ⓛ ▁ Ⓘ T Ⓙ ▁ Ⓐ P ↑ t i e ↓ Ⓑ ▁ Ⓒ T Ⓓ
+Ⓖ R u e → Ⓗ ▁ Ⓔ F r a n c k a i r t Ⓕ ▁ Ⓚ 2 3 6 Ⓛ ▁ Ⓘ S o l ▁ e t ▁ t e r r e Ⓙ
+Ⓖ M o n g é n o t Ⓗ ▁ Ⓔ i d Ⓕ ▁ Ⓚ 2 3 6 Ⓛ ▁ Ⓘ M a i s o n → b a t i m e n s → e t ▁ h a n g a r Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ M o n g e n o t ▁ c l a u d e ▁ f ↑ o s ↓ Ⓕ ▁ Ⓚ 2 3 6 ▁ ↑ b i s ↓ Ⓛ ▁ Ⓘ J a r d i n Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ i d Ⓕ ▁ Ⓚ 2 3 6 ▁ t e r Ⓛ ▁ Ⓘ S o l Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ i d Ⓕ ▁ Ⓚ 2 3 6 ▁ ↑ t e r ↓ Ⓛ ▁ Ⓘ b a t i m e n t Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ F r a n c k a i r t Ⓕ ▁ Ⓚ 2 3 7 Ⓛ ▁ Ⓘ J ↑ d i n ↓ ▁ p o t a g e r Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ i d Ⓕ ▁ Ⓚ 2 3 7 ↑ b i s ↓ Ⓛ ▁ Ⓘ S o l ▁ e t ▁ c o u r Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ i d Ⓕ ▁ Ⓚ 2 3 7 ↑ b i s ↓ Ⓛ ▁ Ⓘ b â t i m e n t Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ D a m m a r t i n Ⓕ ▁ Ⓚ 2 3 8 Ⓛ ▁ Ⓘ J ↑ d i n ↓ ▁ p o t a g e r Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ M i n o t ▁ V e u v e Ⓕ ▁ Ⓚ 2 3 8 ↑ b i s ↓ Ⓛ ▁ Ⓘ S o l ▁ e t ▁ c o u r Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ i d Ⓕ ▁ Ⓚ 2 3 8 ↑ b i s ↓ Ⓛ ▁ Ⓘ b â t i m e n t Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ i d Ⓕ ▁ Ⓚ 2 3 8 ↑ t e r ↓ Ⓛ ▁ Ⓘ J a r d i n Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ D a m m a r t i n Ⓕ ▁ Ⓚ 2 3 9 Ⓛ ▁ Ⓘ S o l ▁ e t ▁ c o u r Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ i d Ⓕ ▁ Ⓚ 2 3 9 Ⓛ ▁ Ⓘ M ↑ o n ↓ ▁ e t ▁ b ↑ t ↓ Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ M i n o t ▁ V e u v e Ⓕ ▁ Ⓚ 2 3 9 ↑ b i s ↓ Ⓛ ▁ Ⓘ S o l ▁ e t ▁ c o u r Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ i d Ⓕ ▁ Ⓚ 2 3 9 ↑ b i s ↓ Ⓛ ▁ Ⓘ M a i s o n Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ C o n a r d ▁ V ↑ v e ↓ Ⓕ ▁ Ⓚ 2 4 0 Ⓛ ▁ Ⓘ p a s s a g e Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ i d Ⓕ ▁ Ⓚ 2 4 1 Ⓛ ▁ Ⓘ J a r d i n Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ i d Ⓕ ▁ Ⓚ 2 4 2 Ⓛ ▁ Ⓘ S o l Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ i d Ⓕ ▁ Ⓚ 2 4 2 Ⓛ ▁ Ⓐ M ↑ o n ↓ ▁ e t ▁ B ↑ t ↓ Ⓑ
+Ⓖ l e ▁ B o u r g → R u e ▁ d e s ▁ c o c h e t s Ⓗ ▁ Ⓔ L a g o u t t e ▁ n é g Ⓕ ▁ Ⓚ 1 2 7 Ⓛ ▁ Ⓘ j a r d i n Ⓙ ▁ Ⓐ 2 1 5 p Ⓑ ▁ Ⓒ ☼ Ⓓ
+Ⓖ § Ⓗ ▁ Ⓔ L a g o u t t e Ⓕ ▁ Ⓚ 1 2 8 Ⓛ ▁ Ⓘ b â t i m e n t → e t ▁ c o u r Ⓙ ▁ Ⓐ 2 1 5 ▁ p Ⓑ ▁ Ⓒ ☼ Ⓓ
+Ⓖ § Ⓗ ▁ Ⓔ L a g o u t t e Ⓕ ▁ Ⓚ 1 2 9 Ⓛ ▁ Ⓘ b a t i m ↑ t ↓ ▁ e t → c o u r Ⓙ ▁ Ⓐ 2 1 5 p Ⓑ ▁ Ⓒ ☼ Ⓓ
+Ⓖ § Ⓗ ▁ Ⓔ L a g o u t t e Ⓕ ▁ Ⓚ 1 3 0 Ⓛ ▁ Ⓘ T e r r e → o u ▁ j a r d i n Ⓙ ▁ Ⓐ 2 1 5 p Ⓑ ▁ Ⓒ j a r d i n → e t ▁ p a r c Ⓓ
+Ⓖ § Ⓗ ▁ Ⓔ L a g o u t t e Ⓕ ▁ Ⓚ 1 3 1 Ⓛ ▁ Ⓘ b â t i m e n t Ⓙ ▁ Ⓐ 2 1 5 p Ⓑ ▁ Ⓒ Ø Ⓓ
+Ⓖ § Ⓗ ▁ Ⓔ L a g o u t t e Ⓕ ▁ Ⓚ 1 3 2 Ⓛ ▁ Ⓘ j a r d i n ▁ d ' a g ↑ t ↓ Ⓙ ▁ Ⓐ 2 1 5 p Ⓑ ▁ Ⓒ Ø Ⓓ
+Ⓖ § Ⓗ ▁ Ⓔ L a g o u t t e Ⓕ ▁ Ⓚ 1 3 3 Ⓛ ▁ Ⓘ M a i s o n → c o u r ▁ e t ▁ B ↑ t ↓ → n ° 1 0 Ⓙ ▁ Ⓐ 2 1 6 Ⓑ ▁ Ⓒ m a i s o n → e t ▁ c o u r Ⓓ
+Ⓖ § Ⓗ ▁ Ⓔ L e c o u t e u r e ▁ p i e r r e ▁ M a r t h e Ⓕ ▁ Ⓚ 1 3 4 Ⓛ ▁ Ⓘ M a i s o n ▁ c o u r → e t ▁ B ↑ t ↓ ▁ d e ▁ l a → c a s e r n e → n ° 8 Ⓙ ▁ Ⓐ 2 1 6 p → 2 1 7 → 2 1 8 → 2 1 5 p Ⓑ ▁ Ⓒ m a i s o n → f e r m e → j a r d i n → j a r d i n Ⓓ
+Ⓖ R u e ▁ b a s s e ▁ S ↑ t ↓ ▁ p i e r r e Ⓗ ▁ Ⓔ L e c o u t e u r e ▁ p ↑ r e ↓ ▁ M a r t h e Ⓕ ▁ Ⓚ 1 3 5 Ⓛ ▁ Ⓘ C o u r ▁ e t ▁ b a t ↑ t ↓ → n ° 1 0 Ⓙ ▁ Ⓐ 2 1 8 p Ⓑ ▁ Ⓒ j a r d i n Ⓓ
+Ⓖ § Ⓗ ▁ Ⓔ L e c o u t e u r e ▁ p ↑ r e ↓ ▁ M a r t h e Ⓕ ▁ Ⓚ 1 3 6 Ⓛ ▁ Ⓘ j a r d i n Ⓙ ▁ Ⓐ 2 1 8 p Ⓑ ▁ Ⓒ j a r d i n Ⓓ
+Ⓖ § Ⓗ ▁ Ⓔ L e c o u t e u r e ▁ p ↑ r e ↓ ▁ M a r t h e Ⓕ ▁ Ⓚ 1 3 7 Ⓛ ▁ Ⓘ M a i s o n → n ° 8 Ⓙ ▁ Ⓐ 2 1 8 → 2 1 9 ▁ p Ⓑ ▁ Ⓒ j a r d i n → b â t i m e n t ▁ e t ▁ c o u r Ⓓ
+Ⓖ § Ⓗ ▁ Ⓔ L e c o u t e u r e ▁ p ↑ r e ↓ ▁ M a r t h e Ⓕ ▁ Ⓚ 1 3 8 Ⓛ ▁ Ⓘ j a r d i n Ⓙ ▁ Ⓐ 2 1 5 ▁ p . → 2 1 8 ▁ p Ⓑ ▁ Ⓒ j a r d i n Ⓓ
+Ⓖ § Ⓗ ▁ Ⓔ L e c o u t e u r e ▁ p ↑ r e ↓ ▁ M a r t h e Ⓕ ▁ Ⓚ 1 3 9 Ⓛ ▁ Ⓘ m a i s o n ▁ r n ▁ c o n s t r u c t i o n → p ▁ . ▁ l a ▁ c a s e r n e Ⓙ ▁ Ⓐ 2 1 8 ▁ p . → 2 1 9 . Ⓑ ▁ Ⓒ j a r d i n → b a t ↑ t ↓ ▁ e t → c o u r Ⓓ
+Ⓖ § Ⓗ ▁ Ⓔ L e c o u t e u r e ▁ p ↑ r e ↓ ▁ M a r t h e Ⓕ ▁ Ⓚ 1 4 0 Ⓛ ▁ Ⓘ M a i s o n → n ° 6 Ⓙ ▁ Ⓐ 2 1 9 Ⓑ ▁ Ⓒ b a t i m e n t → e t ▁ c o u r Ⓓ
+Ⓖ D e r r i è r e ▁ l e ▁ P e t i t ▁ P r é Ⓗ ▁ Ⓔ L a m e a u ▁ l o u i s ▁ j u l e s Ⓕ ▁ Ⓚ 1 0 8 8 Ⓛ ▁ Ⓘ T Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ B é r a u l t ▁ E u g è n e Ⓕ ▁ Ⓚ 1 0 8 9 Ⓛ ▁ Ⓘ T Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ B e u z e v i l l e ▁ h e n r i Ⓕ ▁ Ⓚ 1 0 8 9 Ⓛ ▁ Ⓘ T Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ J o l i v e t ▁ J ↑ n ↓ ▁ B ↑ t e ↓ Ⓕ ▁ Ⓚ 1 0 9 0 Ⓛ ▁ Ⓘ T Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ L a p i c ▁ f r a n ç o i s ▁ B o n a v e n t u r e Ⓕ ▁ Ⓚ 1 0 9 1 Ⓛ ▁ Ⓘ T Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ L e d o u x ▁ a l e x a n d r e ▁ e u g è n e Ⓕ ▁ Ⓚ 1 0 9 2 Ⓛ ▁ Ⓘ T Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ B a r i l l e t ▁ e u g è n e ▁ a u g u s t e Ⓕ ▁ Ⓚ 1 0 9 3 Ⓛ ▁ Ⓘ v i g n e Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ i d Ⓕ ▁ Ⓚ 1 0 9 3 Ⓛ ▁ Ⓘ v i g n e Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ C o i f f i e r ▁ p i e r r e ▁ h o n o r é Ⓕ ▁ Ⓚ 1 0 9 4 Ⓛ ▁ Ⓘ T Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ R o l l a n d ▁ f r a n ç o i s ▁ e u g è n e Ⓕ ▁ Ⓚ 1 0 9 4 Ⓛ ▁ Ⓘ T Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ i d Ⓕ ▁ Ⓚ 1 0 9 5 Ⓛ ▁ Ⓘ v i g n e Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ M é r i l l o n ▁ s a t u r n i n ▁ v e u v e Ⓕ ▁ Ⓚ 1 0 9 6 Ⓛ ▁ Ⓘ T Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ R o l l a n d ▁ f r a n ç o i s ▁ e u g è n e Ⓕ ▁ Ⓚ 1 0 9 6 Ⓛ ▁ Ⓘ T Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ P r i m i ▁ J e a n Ⓕ ▁ Ⓚ 1 0 9 7 Ⓛ ▁ Ⓘ T Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ R o l l a n d ▁ f r a n ç o i s ▁ E u g è n e Ⓕ ▁ Ⓚ 1 0 9 7 Ⓛ ▁ Ⓘ T Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ i d Ⓕ ▁ Ⓚ 1 0 9 8 Ⓛ ▁ Ⓘ T Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ P r i m i ▁ J e a n Ⓕ ▁ Ⓚ 1 0 9 9 Ⓛ ▁ Ⓘ T Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ R o l l a n d ▁ f r a n ç o i s ▁ E u g è n e Ⓕ ▁ Ⓚ 1 0 9 9 Ⓛ ▁ Ⓘ T Ⓙ
+Ⓖ L e ▁ P e t i t ▁ P r é Ⓗ ▁ Ⓔ B e r g e r ▁ f é l i x Ⓕ ▁ Ⓚ 1 1 0 0 Ⓛ ▁ Ⓘ T . ▁ e t ▁ v i g n e Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ B o u c h e r ▁ d ' a r g i s Ⓕ ▁ Ⓚ 1 1 0 0 Ⓛ ▁ Ⓘ i d Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ B o u i l l e t ▁ h i p p o l y t e Ⓕ ▁ Ⓚ 1 1 0 0 Ⓛ ▁ Ⓘ § Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ B r e t e i l ▁ c h a r l e s Ⓕ ▁ Ⓚ 1 1 0 0 Ⓛ ▁ Ⓘ § Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ i d Ⓕ ▁ Ⓚ 1 1 0 0 Ⓛ ▁ Ⓘ § Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ C h a p e l l e ▁ f r a n ç o i s Ⓕ ▁ Ⓚ 1 1 0 0 Ⓛ ▁ Ⓘ § Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ C h o l e t ▁ l é o n ▁ a l e x a n d r e Ⓕ ▁ Ⓚ 1 1 0 0 Ⓛ ▁ Ⓘ § Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ D e l e t t r e ▁ e r n e s t Ⓕ ▁ Ⓚ 1 1 0 0 Ⓛ ▁ Ⓘ § Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ D r e u x ▁ m a t h i e u Ⓕ ▁ Ⓚ 1 1 0 0 Ⓛ ▁ Ⓘ § Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ i d Ⓕ ▁ Ⓚ 1 1 0 0 Ⓛ ▁ Ⓘ § Ⓙ
+Ⓖ C h e m i n ▁ d e ▁ J e a n Ⓗ ▁ Ⓔ G a s t o n ▁ J u l e s ▁ é d o u a r d Ⓕ ▁ Ⓚ 8 1 Ⓛ ▁ Ⓘ p r é Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ J o u s s a r d ▁ J e a n ▁ l o u i s Ⓕ ▁ Ⓚ § Ⓛ ▁ Ⓘ § Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ P a l o q u e ▁ J e a n Ⓕ ▁ Ⓚ § Ⓛ ▁ Ⓘ § Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ P e r r o t ▁ f r a n c o i s Ⓕ ▁ Ⓚ § Ⓛ ▁ Ⓘ § Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ A n d o u i l l é ▁ a l e x a n d r e ▁ f l a v i e n Ⓕ ▁ Ⓚ 8 2 Ⓛ ▁ Ⓘ p r é Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ A r c h a m b a u t ▁ R e m y Ⓕ ▁ Ⓚ § Ⓛ ▁ Ⓘ § Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ B e s v a l ▁ J e a n ▁ f r a n c o i s ▁ a n t o i n e Ⓕ ▁ Ⓚ § Ⓛ ▁ Ⓘ § Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ B l o c u s ▁ h e n r i Ⓕ ▁ Ⓚ § Ⓛ ▁ Ⓘ § Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ i d Ⓕ ▁ Ⓚ § Ⓛ ▁ Ⓘ § Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ B r u n a t ▁ m a r i e ▁ m a d e l e i n e Ⓕ ▁ Ⓚ § Ⓛ ▁ Ⓘ § Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ C h a t e l a i n ▁ j e a n ▁ p i e r r e Ⓕ ▁ Ⓚ § Ⓛ ▁ Ⓘ § Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ C o l a s ▁ j e a n ▁ v e u v e Ⓕ ▁ Ⓚ § Ⓛ ▁ Ⓘ § Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ C o l l i g n o n ▁ E u g è n e Ⓕ ▁ Ⓚ § Ⓛ ▁ Ⓘ § Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ C o n v e r s ▁ e d m e ▁ e r n e s t Ⓕ ▁ Ⓚ § Ⓛ ▁ Ⓘ § Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ C r i s p i n ▁ d é s i r é ▁ a u g u s t i n Ⓕ ▁ Ⓚ § Ⓛ ▁ Ⓘ § Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ D o m i n i q u e ▁ m i c h e l Ⓕ ▁ Ⓚ § Ⓛ ▁ Ⓘ § Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ F r a n c o ▁ c é s a r ▁ C h a r l e s Ⓕ ▁ Ⓚ § Ⓛ ▁ Ⓘ § Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ F r a y s s e ▁ J o s e p h Ⓕ ▁ Ⓚ § Ⓛ ▁ Ⓘ § Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ H a b l o t ▁ B e r n a r d Ⓕ ▁ Ⓚ § Ⓛ ▁ Ⓘ § Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ H u e t ▁ C a s i m i r Ⓕ ▁ Ⓚ § Ⓛ ▁ Ⓘ § Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ i d Ⓕ ▁ Ⓚ § Ⓛ ▁ Ⓘ § Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ J a n a r t ▁ L o u i s ▁ J o s e p h Ⓕ ▁ Ⓚ § Ⓛ ▁ Ⓘ § Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ J u r y ▁ J e a n Ⓕ ▁ Ⓚ § Ⓛ ▁ Ⓘ § Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ M a n g i n o t ▁ l o u i s ▁ f r a n ç o i s Ⓕ ▁ Ⓚ § Ⓛ ▁ Ⓘ § Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ i d Ⓕ ▁ Ⓚ § Ⓛ ▁ Ⓘ § Ⓙ
+Ⓖ g r a n d e ▁ R u e Ⓗ ▁ Ⓔ D e l a p o r t e ▁ f e l i x ▁ a u g ↑ t e ↓ Ⓕ ▁ Ⓚ 2 5 3 Ⓛ ▁ Ⓘ j a r d i n Ⓙ ▁ Ⓐ 1 6 Ⓑ ▁ Ⓒ j a r d i n Ⓓ
+Ⓖ § Ⓗ ▁ Ⓔ D e l a p o r t e ▁ f é l i x ▁ a u g ↑ t e ↓ Ⓕ ▁ Ⓚ 2 5 4 Ⓛ ▁ Ⓘ m a i s o n → n ° 1 1 Ⓙ ▁ Ⓐ 1 7 Ⓑ ▁ Ⓒ m a i s o n Ⓓ
+Ⓖ § Ⓗ ▁ Ⓔ S a i n t i n ▁ C u n y Ⓕ ▁ Ⓚ 2 5 5 Ⓛ ▁ Ⓘ m a i s o n → c o u r ▁ e t ▁ b t → n ° ▁ 1 3 Ⓙ ▁ Ⓐ 1 9 Ⓑ ▁ Ⓒ × j a r d i n ± → m a i s o n Ⓓ
+Ⓖ § Ⓗ ▁ Ⓔ S a i n t i n ▁ C u n y Ⓕ ▁ Ⓚ 2 5 6 Ⓛ ▁ Ⓘ j a r d i n Ⓙ ▁ Ⓐ 1 8 Ⓑ ▁ Ⓒ j a r d i n Ⓓ
+Ⓖ § Ⓗ ▁ Ⓔ D e s i l l e s ▁ p i e r r e ▁ V ↑ e ↓ ▁ l é o n a r d Ⓕ ▁ Ⓚ 2 5 7 Ⓛ ▁ Ⓘ M a i s o n → c o u r ▁ e t ▁ B ↑ t ↓ → n ° 1 5 Ⓙ ▁ Ⓐ 2 0 ▁ p o r t i o n → 2 1 Ⓑ ▁ Ⓒ j a r d i n → m a i s o n Ⓓ
+Ⓖ § Ⓗ ▁ Ⓔ D e s i l l e s ▁ p i e r r e ▁ V ↑ e ↓ ▁ l é o n a r d Ⓕ ▁ Ⓚ 2 5 8 Ⓛ ▁ Ⓘ j a r d i n Ⓙ ▁ Ⓐ 2 0 ▁ p o r t i o n Ⓑ ▁ Ⓒ j a r d i n Ⓓ
+Ⓖ § Ⓗ ▁ Ⓔ D e s i l l e s ▁ p i e r r e ▁ V ↑ e ↓ ▁ l é o n a r d Ⓕ ▁ Ⓚ 2 5 9 Ⓛ ▁ Ⓘ m a i s o n → n ° 1 7 Ⓙ ▁ Ⓐ 2 0 ▁ p o r t i o n → 2 1 ▁ p o r t i o n Ⓑ ▁ Ⓒ j a r d i n → m a i s o n Ⓓ
+Ⓖ § Ⓗ ▁ Ⓔ D e s i l l e s ▁ p i e r r e ▁ V ↑ e ↓ ▁ l é o n a r d Ⓕ ▁ Ⓚ 2 6 0 Ⓛ ▁ Ⓘ m a i s o n ▁ e t → c o u r → n ° 1 9 Ⓙ ▁ Ⓐ 2 2 ▁ p Ⓑ ▁ Ⓒ m a i s o n Ⓓ
+Ⓖ § Ⓗ ▁ Ⓔ M a l v a u x ▁ p i e r r e Ⓕ ▁ Ⓚ 2 6 1 Ⓛ ▁ Ⓘ j a r d i n Ⓙ ▁ Ⓐ 2 3 ▁ p o r t i o n → 2 6 Ⓑ ▁ Ⓒ j a r d i n → j a r d i n Ⓓ
+Ⓖ § Ⓗ ▁ Ⓔ M a l v a u x ▁ p i e r r e Ⓕ ▁ Ⓚ 2 6 2 Ⓛ ▁ Ⓘ m a i s o n → 2 1 Ⓙ ▁ Ⓐ 2 5 ▁ p o r t i o n Ⓑ ▁ Ⓒ m a i s o n → c o u r Ⓓ
+Ⓖ § Ⓗ ▁ Ⓔ R a m e l e r t ▁ C ô m e Ⓕ ▁ Ⓚ 2 6 3 Ⓛ ▁ Ⓘ m a i s o n ▁ c o u r → e t ▁ b t → n ° 2 3 Ⓙ ▁ Ⓐ 2 5 Ⓑ ▁ Ⓒ m a i s o n → e t ▁ c o u r Ⓓ
+Ⓖ § Ⓗ ▁ Ⓔ M a l v a u x ▁ p i e r r e Ⓕ ▁ Ⓚ 2 6 4 Ⓛ ▁ Ⓘ m a i s o n ▁ c o u r → e t ▁ B t → n ° 2 1 Ⓙ ▁ Ⓐ 2 3 ▁ p o r t i o n → 2 4 → 2 5 ▁ p o r t i o n Ⓑ ▁ Ⓒ j a r d i n → m a i s o n → e t ▁ c o u r → m a i s o n Ⓓ
+Ⓖ § Ⓗ ▁ Ⓔ P l a t a r d ▁ j e a n ▁ l o u i s Ⓕ ▁ Ⓚ 2 6 5 Ⓛ ▁ Ⓘ m a i s o n ▁ c o u r ▁ e t → B ↑ t ↓ ▁ ( u s i n e ▁ p o u r → f i l e r ▁ l e ▁ c o t o n ) → n ° ▁ 3 4 ▁ ↑ b i s ↓ Ⓙ ▁ Ⓐ S . ↑ o n ↓ ▁ C → 1 1 1 ▁ p o r t i o n Ⓑ ▁ Ⓒ m a i s o n Ⓓ
+Ⓖ § Ⓗ ▁ Ⓔ P l a t a r e t ▁ J e a n l o u i s Ⓕ ▁ Ⓚ 2 6 6 Ⓛ ▁ Ⓘ j a r d i n Ⓙ ▁ Ⓐ 1 1 0 ▁ p o r t i o n Ⓑ ▁ Ⓒ j a r d i n Ⓓ
+Ⓖ G r a t t e c o q Ⓗ ▁ Ⓔ a u d r y ▁ t o u s s a i n t ▁ p ↑ r e ↓ Ⓕ ▁ Ⓚ 7 2 8 Ⓛ ▁ Ⓘ T e r r e Ⓙ ▁ Ⓐ 7 5 7 Ⓑ ▁ Ⓒ v i g n e Ⓓ
+Ⓖ § Ⓗ ▁ Ⓔ N o ë l ▁ l o u i s ▁ l a u r e n t Ⓕ ▁ Ⓚ 7 2 9 Ⓛ ▁ Ⓘ T Ⓙ ▁ Ⓐ 7 5 8 Ⓑ ▁ Ⓒ T e r r e Ⓓ
+Ⓖ § Ⓗ ▁ Ⓔ D e l a n o u e ▁ p ↑ r e ↓ ▁ t o u s s a i n t ▁ V ↑ e ↓ Ⓕ ▁ Ⓚ 7 3 0 Ⓛ ▁ Ⓘ V i g Ⓙ ▁ Ⓐ 7 5 9 Ⓑ ▁ Ⓒ T Ⓓ
+Ⓖ § Ⓗ ▁ Ⓔ h a l l é ▁ B ↑ t e ↓ ▁ t o u s s a i n t Ⓕ ▁ Ⓚ 7 3 1 Ⓛ ▁ Ⓘ V i g Ⓙ ▁ Ⓐ 7 6 0 Ⓑ ▁ Ⓒ T Ⓓ
+Ⓖ § Ⓗ ▁ Ⓔ P i g e r o n Ⓕ ▁ Ⓚ 7 3 2 Ⓛ ▁ Ⓘ V i g Ⓙ ▁ Ⓐ 7 6 1 Ⓑ ▁ Ⓒ V i g Ⓓ
+Ⓖ § Ⓗ ▁ Ⓔ M o r e a u ▁ n o ë l Ⓕ ▁ Ⓚ 7 3 3 Ⓛ ▁ Ⓘ T e r r e Ⓙ ▁ Ⓐ 7 6 2 → 7 6 3 Ⓑ ▁ Ⓒ V i g → V i g Ⓓ
+Ⓖ § Ⓗ ▁ Ⓔ V a n d a r d ▁ t h o m a s ▁ V ↑ e ↓ Ⓕ ▁ Ⓚ 7 3 4 Ⓛ ▁ Ⓘ T e r r e Ⓙ ▁ Ⓐ 7 6 4 → 7 6 5 Ⓑ ▁ Ⓒ T e r r e → T Ⓓ
+Ⓖ § Ⓗ ▁ Ⓔ B a r o n ▁ p ↑ r e ↓ ▁ d e n i s Ⓕ ▁ Ⓚ 7 3 5 Ⓛ ▁ Ⓘ v i g n e Ⓙ ▁ Ⓐ 7 6 6 Ⓑ ▁ Ⓒ V i g Ⓓ
+Ⓖ § Ⓗ ▁ Ⓔ a u g e r ▁ n i c o l a s ▁ j o s e p h Ⓕ ▁ Ⓚ 7 3 6 Ⓛ ▁ Ⓘ T e r r e Ⓙ ▁ Ⓐ 7 6 7 Ⓑ ▁ Ⓒ T e r r e Ⓓ
+Ⓖ § Ⓗ ▁ Ⓔ V o d o y e r ▁ j e a n ▁ m a r i e Ⓕ ▁ Ⓚ 7 3 7 Ⓛ ▁ Ⓘ V i g Ⓙ ▁ Ⓐ ☼ Ⓑ ▁ Ⓒ ☼ Ⓓ
+Ⓖ § Ⓗ ▁ Ⓔ M i n i e r ▁ T o u s s a i n t Ⓕ ▁ Ⓚ 7 3 8 Ⓛ ▁ Ⓘ V i g Ⓙ ▁ Ⓐ 7 6 8 Ⓑ ▁ Ⓒ T Ⓓ
+Ⓖ § Ⓗ ▁ Ⓔ M i n i e r ▁ l o u i s ▁ j a c q u e s Ⓕ ▁ Ⓚ 7 3 9 Ⓛ ▁ Ⓘ V i g Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ C h a m b l i n ▁ p h i l i p p e Ⓕ ▁ Ⓚ 7 4 0 Ⓛ ▁ Ⓘ T e r r e Ⓙ ▁ Ⓐ 7 6 9 Ⓑ ▁ Ⓒ T Ⓓ
+Ⓖ § Ⓗ ▁ Ⓔ B r i g a u l t ▁ l o u i s Ⓕ ▁ Ⓚ 7 4 1 Ⓛ ▁ Ⓘ v i g n e Ⓙ ▁ Ⓐ 7 7 0 → 7 7 1 Ⓑ ▁ Ⓒ V i g → T e r r e Ⓓ
+Ⓖ L e s → C a i l l e s Ⓗ ▁ Ⓔ L a m e a u ▁ L i s a n d r e , ▁ à → f o n t e n a y Ⓕ ▁ Ⓚ 1 5 6 5 Ⓛ ▁ Ⓘ T Ⓙ ▁ Ⓐ 2 3 1 2 Ⓑ ▁ Ⓒ T Ⓓ
+Ⓖ i d Ⓗ ▁ Ⓔ B r e t o n ▁ P i e r r e ▁ C o n s t a n t ▁ à → F o n t e n a y Ⓕ ▁ Ⓚ 1 5 6 6 Ⓛ ▁ Ⓘ T Ⓙ ▁ Ⓐ 2 3 1 0 Ⓑ ▁ Ⓒ T Ⓓ
+Ⓖ § Ⓗ ▁ Ⓔ H é r i c o u r t ▁ G r é g o i r e ▁ à → F o n t e n a y Ⓕ ▁ Ⓚ 1 5 6 7 Ⓛ ▁ Ⓘ T Ⓙ ▁ Ⓐ f r a . ▁ 2 3 0 7 Ⓑ ▁ Ⓒ T Ⓓ
+Ⓖ § Ⓗ ▁ Ⓔ P a p i n ▁ B r u t u s ▁ à → F o n t e n a y Ⓕ ▁ Ⓚ 1 5 6 8 Ⓛ ▁ Ⓘ T Ⓙ ▁ Ⓐ F r a . ▁ 2 3 0 7 Ⓑ ▁ Ⓒ T Ⓓ
+Ⓖ § Ⓗ ▁ Ⓔ P a r u e l l e ▁ P i e r r e ▁ J e a n , ▁ f i l s → à ▁ F o n t e n a y Ⓕ ▁ Ⓚ 1 5 6 9 Ⓛ ▁ Ⓘ T Ⓙ ▁ Ⓐ f r a ▁ 2 3 0 7 Ⓑ ▁ Ⓒ T Ⓓ
+Ⓖ § Ⓗ ▁ Ⓔ H é r i c o u r t ▁ J e a n ▁ L o u i s → à ▁ F o n t e n a y Ⓕ ▁ Ⓚ 1 5 7 0 Ⓛ ▁ Ⓘ T Ⓙ ▁ Ⓐ F r a ▁ 2 3 0 7 Ⓑ ▁ Ⓒ T Ⓓ
+Ⓖ § Ⓗ ▁ Ⓔ M a r i n i e r ▁ N a r c i s s e ▁ à → F o n t e n a y Ⓕ ▁ Ⓚ 1 5 7 1 Ⓛ ▁ Ⓘ T Ⓙ ▁ Ⓐ 2 3 0 5 Ⓑ ▁ Ⓒ T Ⓓ
+Ⓖ § Ⓗ ▁ Ⓔ B é c h a r e t ▁ J e a n ▁ P i e r r e , ▁ g ↑ d r e ↓ → L a m o u r , ▁ à ▁ F o n t e n a y Ⓕ ▁ Ⓚ 1 5 7 2 Ⓛ ▁ Ⓘ T Ⓙ ▁ Ⓐ 2 3 0 6 Ⓑ ▁ Ⓒ T Ⓓ
+Ⓖ § Ⓗ ▁ Ⓔ B e r g e r ▁ B a p t i s t e Ⓕ ▁ Ⓚ 1 5 7 3 Ⓛ ▁ Ⓘ T Ⓙ ▁ Ⓐ 2 3 0 3 Ⓑ ▁ Ⓒ T Ⓓ
+Ⓖ § Ⓗ ▁ Ⓔ M i s g a u l t ▁ J e a n ▁ L o u i s Ⓕ ▁ Ⓚ 1 5 7 4 Ⓛ ▁ Ⓘ T Ⓙ ▁ Ⓐ 2 3 0 2 Ⓑ ▁ Ⓒ T Ⓓ
+Ⓖ § Ⓗ ▁ Ⓔ P r o v o s t ▁ V i n c e n t Ⓕ ▁ Ⓚ 1 5 7 5 Ⓛ ▁ Ⓘ T Ⓙ ▁ Ⓐ 2 3 0 1 Ⓑ ▁ Ⓒ V i g Ⓓ
+Ⓖ § Ⓗ ▁ Ⓔ S a u s s a y ▁ P è r e Ⓕ ▁ Ⓚ 1 5 7 6 Ⓛ ▁ Ⓘ T Ⓙ ▁ Ⓐ 2 1 9 8 → 2 1 9 9 → 2 3 0 0 Ⓑ ▁ Ⓒ T → V i g → T Ⓓ
+Ⓖ § Ⓗ ▁ Ⓔ R a m e a u ▁ J e a n ▁ L o u i s ▁ f i l s → f r a n ç o i s Ⓕ ▁ Ⓚ 1 5 7 7 Ⓛ ▁ Ⓘ T Ⓙ ▁ Ⓐ 2 1 9 7 Ⓑ ▁ Ⓒ T Ⓓ
+Ⓖ § Ⓗ ▁ Ⓔ S a u s s a r y Ⓕ ▁ Ⓚ 1 5 7 8 Ⓛ ▁ Ⓘ V i g n e Ⓙ ▁ Ⓐ 2 1 9 6 Ⓑ ▁ Ⓒ V i g Ⓓ
+Ⓖ C h e m i n ▁ d e ▁ J e a n Ⓗ ▁ Ⓔ q u é n o t ▁ S y l v i e Ⓕ ▁ Ⓚ 8 2 Ⓛ ▁ Ⓘ p r é Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ R a i s o n ▁ l é o n a r d Ⓕ ▁ Ⓚ § Ⓛ ▁ Ⓘ § Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ R a z u r e l ▁ a u g u s t e ▁ é d o u a r d Ⓕ ▁ Ⓚ § Ⓛ ▁ Ⓘ § Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ R o l l a n d e t ▁ a n t o i n e ▁ f r a n ç o i s Ⓕ ▁ Ⓚ § Ⓛ ▁ Ⓘ § Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ R o u l i n ▁ f i d è l e Ⓕ ▁ Ⓚ § Ⓛ ▁ Ⓘ § Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ S a l v e t ▁ l o u i s Ⓕ ▁ Ⓚ § Ⓛ ▁ Ⓘ § Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ V o i e ▁ p u b l i q u e Ⓕ ▁ Ⓚ § Ⓛ ▁ Ⓘ § Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ L e n o b l e ▁ m e r l i n Ⓕ ▁ Ⓚ 8 3 Ⓛ ▁ Ⓘ t e r r e Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ M a c h a r t ▁ m e r l i n Ⓕ ▁ Ⓚ i d Ⓛ ▁ Ⓘ t e r r e Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ B e n a r d ▁ J e a n ▁ B a p t i s t e Ⓕ ▁ Ⓚ 8 4 Ⓛ ▁ Ⓘ p r é Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ D o d u n ▁ d e ▁ K e r o m a n , ▁ l e ▁ C o m t e Ⓕ ▁ Ⓚ i d Ⓛ ▁ Ⓘ i d Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ i d Ⓕ ▁ Ⓚ § Ⓛ ▁ Ⓘ § Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ i d Ⓕ ▁ Ⓚ § Ⓛ ▁ Ⓘ § Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ i d Ⓕ ▁ Ⓚ § Ⓛ ▁ Ⓘ § Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ D o d u n ▁ d e ▁ K é r o m a n , ▁ l a ▁ m a r q u i s e Ⓕ ▁ Ⓚ § Ⓛ ▁ Ⓘ § Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ D o d u n ▁ d e ▁ K é r o m a n ▁ a g a t h e ▁ v e u v e → m o u s s a c Ⓕ ▁ Ⓚ § Ⓛ ▁ Ⓘ § Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ D o d u n ▁ d e ▁ K é r o m a n ▁ l é o n e , ▁ d a m e ▁ d e → B o u t e i l l i e s Ⓕ ▁ Ⓚ § Ⓛ ▁ Ⓘ § Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ H u i g n a r d ▁ m é l a n i e ▁ f é l i c i t é Ⓕ ▁ Ⓚ § Ⓛ ▁ Ⓘ § Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ J a b o e u f ▁ J e a n ▁ B a p t i s t e Ⓕ ▁ Ⓚ § Ⓛ ▁ Ⓘ § Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ M e l z e s s a r d Ⓕ ▁ Ⓚ § Ⓛ ▁ Ⓘ § Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ M o u l i n e t ▁ a l p h o n s e Ⓕ ▁ Ⓚ § Ⓛ ▁ Ⓘ § Ⓙ
+Ⓖ l e ▁ n a s s i e r Ⓗ ▁ Ⓔ A l e x a n d r e ▁ B a p t i s t e Ⓕ ▁ Ⓚ 8 5 Ⓛ ▁ Ⓘ p r é Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ A l e x a n d r e ▁ J o s e p h ▁ f i l s Ⓕ ▁ Ⓚ § Ⓛ ▁ Ⓘ § Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ A l i n g r y ▁ v i c t o r ▁ v e r r i e r Ⓕ ▁ Ⓚ § Ⓛ ▁ Ⓘ § Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ A n j a i n ▁ a u g u s t e ▁ j o s e p h Ⓕ ▁ Ⓚ § Ⓛ ▁ Ⓘ § Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ A u b r y ▁ J o s e p h Ⓕ ▁ Ⓚ § Ⓛ ▁ Ⓘ § Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ A v o i n e ▁ B e n o i t Ⓕ ▁ Ⓚ § Ⓛ ▁ Ⓘ § Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ B e c q u e r e l l e ▁ J e a n ▁ F r a n ç o i s Ⓕ ▁ Ⓚ § Ⓛ ▁ Ⓘ § Ⓙ
+Ⓜ 9 Ⓝ ▁ Ⓔ B a r r e a u ▁ G u i l l a u m e Ⓕ ▁ Ⓚ 2 8 6 Ⓛ ▁ Ⓘ J a r d i n Ⓙ
+Ⓜ 5 1 Ⓝ ▁ Ⓔ V ↑ e ↓ ▁ C o u r t o i s Ⓕ ▁ Ⓚ 2 8 7 Ⓛ ▁ Ⓘ M a i s o n → b â t ▁ e t ▁ c o u r Ⓙ
+Ⓜ 1 3 8 Ⓝ ▁ Ⓔ M o n i e r ▁ p e i n t r e Ⓕ ▁ Ⓚ 2 8 8 Ⓛ ▁ Ⓘ M ↑ o n ↓ → i d Ⓙ
+Ⓜ 6 5 Ⓝ ▁ Ⓔ 2 8 9 Ⓕ ▁ Ⓚ V ↑ e ↓ ▁ D e m a n c h e Ⓛ ▁ Ⓘ M ↑ o n ↓ → i d Ⓙ
+Ⓜ 1 0 8 Ⓝ ▁ Ⓔ V ↑ e ↓ ▁ L e c o l a n t ▁ a l ↑ ▁ c l ↑ d e ↓ Ⓕ ▁ Ⓚ 2 9 0 Ⓛ ▁ Ⓘ M ↑ o n ↓ → i d Ⓙ
+Ⓜ 1 4 9 ↑ b i s ↓ → × 7 6 ± Ⓝ ▁ Ⓔ × f a i n ± ▁ P o n t o i s → J e a n ▁ p a s c h a l Ⓕ ▁ Ⓚ 2 9 1 Ⓛ ▁ Ⓘ v i g n e Ⓙ
+Ⓜ 1 4 9 ▁ b i s → × 7 6 ± Ⓝ ▁ Ⓔ i d Ⓕ ▁ Ⓚ 2 9 2 Ⓛ ▁ Ⓘ t e r r e Ⓙ
+Ⓜ 1 4 9 ↑ b i s ↓ → × 7 6 ± Ⓝ ▁ Ⓔ i d Ⓕ ▁ Ⓚ 2 9 3 Ⓛ ▁ Ⓘ v i g n e Ⓙ
+Ⓜ 1 4 9 ↑ b i s ↓ → × 7 6 ± Ⓝ ▁ Ⓔ i d Ⓕ ▁ Ⓚ 2 9 4 Ⓛ ▁ Ⓘ P o t a g e r Ⓙ
+Ⓜ 1 4 9 ↑ b i s ↓ → × 7 6 ± Ⓝ ▁ Ⓔ i d Ⓕ ▁ Ⓚ 2 9 5 Ⓛ ▁ Ⓘ P a t u r e → d ' a g r é m e n t Ⓙ
+Ⓜ 1 4 9 ↑ b i s ↓ → × 7 6 ± Ⓝ ▁ Ⓔ i d Ⓕ ▁ Ⓚ 2 9 6 Ⓛ ▁ Ⓘ b o i s → d ' a g r é m e n t Ⓙ
+Ⓜ 1 4 9 ↑ b i s ↓ → × 1 1 2 . ± Ⓝ ▁ Ⓔ × V ↑ e ↓ ▁ L i n o t t e ± ▁ f i l s Ⓕ ▁ Ⓚ 2 9 7 Ⓛ ▁ Ⓘ t e r r a i n → d ' a g r é m e n t Ⓙ
+Ⓜ 1 4 9 ↑ b i s ↓ → × 1 1 2 . ± Ⓝ ▁ Ⓔ i d Ⓕ ▁ Ⓚ 2 9 8 Ⓛ ▁ Ⓘ J a r d i n → a n g l a i s Ⓙ
+Ⓜ 1 4 9 ↑ b i s ↓ → × 1 1 2 . ± Ⓝ ▁ Ⓔ i d Ⓕ ▁ Ⓚ 2 9 9 Ⓛ ▁ Ⓘ M a i s o n → b a t i m e n t → e t ▁ c o u r → e t ▁ f i l a t u r e Ⓙ
+Ⓜ 1 1 Ⓝ ▁ Ⓔ V ↑ e ↓ ▁ B l i n Ⓕ ▁ Ⓚ 3 0 0 Ⓛ ▁ Ⓘ M a i s o n → b a t ↑ i ↓ ▁ e t ▁ C o u r Ⓙ
+Ⓖ l e s ▁ s a b l o n s Ⓗ ▁ Ⓔ s e r o u g e ▁ J ↑ n ↓ ▁ B ↑ t e ↓ Ⓕ ▁ Ⓚ 7 0 1 Ⓛ ▁ Ⓘ T e r r e Ⓙ ▁ Ⓐ p . ▁ 1 5 0 7 Ⓑ ▁ Ⓒ ☼ Ⓓ
+Ⓖ § Ⓗ ▁ Ⓔ C h a t e l a i n ▁ c h ↑ u ↓ ▁ p è r e Ⓕ ▁ Ⓚ 7 0 2 Ⓛ ▁ Ⓘ T Ⓙ ▁ Ⓐ p . ▁ 1 5 0 7 Ⓑ ▁ Ⓒ T Ⓓ
+Ⓖ § Ⓗ ▁ Ⓔ B e u r r i e r ▁ p ↑ r e ↓ ▁ h o n o r é Ⓕ ▁ Ⓚ 7 0 3 Ⓛ ▁ Ⓘ T Ⓙ ▁ Ⓐ 1 5 1 4 → 1 5 1 4 ↑ b i s ↓ → 1 5 1 5 → 1 5 1 5 ↑ b i s ↓ Ⓑ ▁ Ⓒ T Ⓓ
+Ⓖ § Ⓗ ▁ Ⓔ G u i l l a u m e s ▁ R e n é Ⓕ ▁ Ⓚ 7 0 4 Ⓛ ▁ Ⓘ T Ⓙ ▁ Ⓐ 1 5 1 6 → 1 5 1 7 Ⓑ ▁ Ⓒ T Ⓓ
+Ⓖ § Ⓗ ▁ Ⓔ B l e u z e ▁ j a c q u e s Ⓕ ▁ Ⓚ 7 0 5 Ⓛ ▁ Ⓘ T Ⓙ ▁ Ⓐ 1 5 2 5 Ⓑ ▁ Ⓒ T Ⓓ
+Ⓖ § Ⓗ ▁ Ⓔ D e l p o r t e ▁ h y a c i n t h e Ⓕ ▁ Ⓚ 7 0 6 Ⓛ ▁ Ⓘ T Ⓙ ▁ Ⓐ 1 5 2 8 → 1 2 4 Ⓑ ▁ Ⓒ V → T Ⓓ
+Ⓖ § Ⓗ ▁ Ⓔ B r o n z a c Ⓕ ▁ Ⓚ 7 0 7 Ⓛ ▁ Ⓘ T Ⓙ ▁ Ⓐ 1 5 2 6 Ⓑ ▁ Ⓒ T → T Ⓓ
+Ⓖ § Ⓗ ▁ Ⓔ h u a r d ▁ j a c q u e s ▁ e t ▁ c o n s o r s Ⓕ ▁ Ⓚ 7 0 8 Ⓛ ▁ Ⓘ T . Ⓙ ▁ Ⓐ 1 5 2 7 Ⓑ ▁ Ⓒ V i g n e → V Ⓓ
+Ⓖ § Ⓗ ▁ Ⓔ C h a t e l a i n ▁ c h ↑ e s ↓ ▁ D ↑ t ↓ ▁ b r i s s e t Ⓕ ▁ Ⓚ 7 0 9 Ⓛ ▁ Ⓘ T Ⓙ ▁ Ⓐ 1 5 3 0 Ⓑ ▁ Ⓒ T Ⓓ
+Ⓖ § Ⓗ ▁ Ⓔ G u i t e t Ⓕ ▁ Ⓚ 7 1 0 Ⓛ ▁ Ⓘ T Ⓙ ▁ Ⓐ 1 5 3 4 Ⓑ ▁ Ⓒ T Ⓓ
+Ⓖ § Ⓗ ▁ Ⓔ C h a n d e n n i e s ▁ p ↑ r e ↓ ▁ f ↑ o i s ↓ Ⓕ ▁ Ⓚ 7 1 1 Ⓛ ▁ Ⓘ T Ⓙ ▁ Ⓐ p . 1 5 3 5 Ⓑ ▁ Ⓒ V Ⓓ
+Ⓖ § Ⓗ ▁ Ⓔ C h a t e l a i n ▁ c h ↑ u ↓ ▁ d ↑ t ↓ ▁ b r i s s e t Ⓕ ▁ Ⓚ 7 1 2 Ⓛ ▁ Ⓘ T Ⓙ ▁ Ⓐ p ▁ 1 5 3 5 Ⓑ ▁ Ⓒ Ø Ⓓ
+Ⓖ § Ⓗ ▁ Ⓔ i d Ⓕ ▁ Ⓚ 7 1 3 Ⓛ ▁ Ⓘ T Ⓙ ▁ Ⓐ 1 5 3 6 Ⓑ ▁ Ⓒ V Ⓓ
+Ⓖ § Ⓗ ▁ Ⓔ M o z e t ▁ c h a r l e s ▁ f ↑ o i s ↓ Ⓕ ▁ Ⓚ 7 1 4 Ⓛ ▁ Ⓘ T Ⓙ ▁ Ⓐ 1 5 3 7 Ⓑ ▁ Ⓒ T Ⓓ
+Ⓖ g r a n d e ▁ R u e Ⓗ ▁ Ⓔ C o l l i n ▁ v i n c e n t ▁ j o s e p h Ⓕ ▁ Ⓚ 2 6 7 Ⓛ ▁ Ⓘ j a r d i n Ⓙ ▁ Ⓐ S . e c ▁ C → 1 1 0 ▁ p Ⓑ ▁ Ⓒ j a r d i n Ⓓ
+Ⓖ § Ⓗ ▁ Ⓔ C o l l i n ▁ v i n c e n t ▁ J o s e p h Ⓕ ▁ Ⓚ 2 6 8 Ⓛ ▁ Ⓘ m a i s o n ▁ c o u r → e t → n ° 3 4 Ⓙ ▁ Ⓐ 1 1 1 ▁ p . Ⓑ ▁ Ⓒ m a i s o n ▁ e t → c o u r Ⓓ
+Ⓖ § Ⓗ ▁ Ⓔ L e m a i r e ▁ p i e r r e ▁ j o s e p h Ⓕ ▁ Ⓚ 2 6 9 Ⓛ ▁ Ⓘ m a i s o n ▁ c o u r → e t ▁ → n ° 3 2 Ⓙ ▁ Ⓐ 1 1 1 ▁ p o r t i o n Ⓑ ▁ Ⓒ m a i s o n Ⓓ
+Ⓖ § Ⓗ ▁ Ⓔ L e m a i r e ▁ p i e r r e ▁ j o s e p h Ⓕ ▁ Ⓚ 2 7 0 Ⓛ ▁ Ⓘ j a r d i n Ⓙ ▁ Ⓐ 1 0 4 . → 1 1 0 p → 1 0 5 p → 1 0 3 → 1 1 1 ▁ p o r t i o n Ⓑ ▁ Ⓒ m a i s o n → j a r d i n → j a r d i n → j a r d i n → m a i s o n Ⓓ
+Ⓖ § Ⓗ ▁ Ⓔ B è q u e m o n t ▁ a d o l p h e Ⓕ ▁ Ⓚ 2 7 1 Ⓛ ▁ Ⓘ j a r d i n Ⓙ ▁ Ⓐ 1 0 5 → 1 1 0 p . → 1 0 3 p Ⓑ ▁ Ⓒ j a r d i n → j a r d i n → j a r d i n Ⓓ
+Ⓖ § Ⓗ ▁ Ⓔ B è q u e m o n t ▁ a d o l p h e Ⓕ ▁ Ⓚ 2 7 2 Ⓛ ▁ Ⓘ m a i s o n ▁ c o u r → e t ▁ B . → n ° 3 0 Ⓙ ▁ Ⓐ 1 0 6 → 1 0 5 p Ⓑ ▁ Ⓒ m a i s o n ▁ e t → c o u r → j a r d i n Ⓓ
+Ⓖ § Ⓗ ▁ Ⓔ P r o s ▁ O c t a v e Ⓕ ▁ Ⓚ 2 7 3 Ⓛ ▁ Ⓘ j a r d i n Ⓙ ▁ Ⓐ 1 0 2 p → 1 0 5 p → 1 0 3 p Ⓑ ▁ Ⓒ m a i s o n → j a r d i n → j a r d i n Ⓓ
+Ⓖ § Ⓗ ▁ Ⓔ P r o s ▁ O c t a v e Ⓕ ▁ Ⓚ m a i s o n → n ° 2 8 Ⓛ ▁ Ⓘ 2 7 4 Ⓙ ▁ Ⓐ 1 0 2 Ⓑ ▁ Ⓒ m a i s o n Ⓓ
+Ⓖ § Ⓗ ▁ Ⓔ P a r i s ▁ a u g u s t e Ⓕ ▁ Ⓚ 2 7 5 Ⓛ ▁ Ⓘ m a i s o n → n ° 2 6 Ⓙ ▁ Ⓐ 1 0 2 p → 1 0 1 p → 1 0 0 p → 1 0 5 p Ⓑ ▁ Ⓒ m a i s o n → m a i s o n → t e r r e → j a r d i n Ⓓ
+Ⓖ § Ⓗ ▁ Ⓔ P a r i s ▁ a u g u s t e Ⓕ ▁ Ⓚ 2 7 6 Ⓛ ▁ Ⓘ j a r d i n Ⓙ ▁ Ⓐ 1 0 0 p → 1 0 1 ▁ p o r t i o n → 1 0 5 ▁ p o r t i o n Ⓑ ▁ Ⓒ t e r r e → m a i s o n → j a r d i n Ⓓ
+Ⓖ § Ⓗ ▁ Ⓔ P a r i s ▁ a u g u s t e Ⓕ ▁ Ⓚ 2 7 7 Ⓛ ▁ Ⓘ b â t i m e n t Ⓙ ▁ Ⓐ 1 0 5 p . Ⓑ ▁ Ⓒ j a r d i n Ⓓ
+Ⓖ § ▁ P ▁ à → a l f o r t v i l l e Ⓗ ▁ Ⓔ = ▁ & ▁ B a i l l e t → D i d i e r ▁ à ▁ C h a r e n t o n Ⓕ ▁ Ⓚ 2 7 8 Ⓛ ▁ Ⓘ T e r r e Ⓙ ▁ Ⓐ 1 0 0 p → 1 0 5 p Ⓑ ▁ Ⓒ T e r r e → T e r r e → j a r d i n Ⓓ
+Ⓖ § Ⓗ ▁ Ⓔ P a r i s ▁ a u g ↑ t e ↓ Ⓕ ▁ Ⓚ 2 7 9 Ⓛ ▁ Ⓘ m a i s o n → n ° 2 4 ↑ b i s ↓ Ⓙ ▁ Ⓐ 9 9 p . Ⓑ ▁ Ⓒ m a i s o n Ⓓ
+Ⓖ § Ⓗ ▁ Ⓔ P a r i s ▁ a u g ↑ t e ↓ Ⓕ ▁ Ⓚ 2 8 0 Ⓛ ▁ Ⓘ j a r d i n Ⓙ ▁ Ⓐ 9 9 p → 1 0 0 ▁ p o r t i o n Ⓑ ▁ Ⓒ m a i s o n → e t ▁ c o u r → T e r r e Ⓓ
+Ⓖ B r è c h e ▁ d e s → V i n o t s Ⓗ ▁ Ⓜ 1 6 9 Ⓝ ▁ Ⓔ M o t t e a u ▁ C l a u d e ▁ S p i r e Ⓕ ▁ Ⓚ 5 3 8 Ⓛ ▁ Ⓘ t e r r e → à ▁ v i g n e Ⓙ
+Ⓖ § Ⓗ ▁ Ⓜ 5 0 Ⓝ ▁ Ⓔ D e v i l l e ▁ f r a n ç o i s ▁ d e u t i e r Ⓕ ▁ Ⓚ 5 3 9 Ⓛ ▁ Ⓘ T e r r e → à ▁ v i g Ⓙ
+Ⓖ § Ⓗ ▁ Ⓜ 1 9 4 Ⓝ ▁ Ⓔ N e r o n ▁ D e n i s Ⓕ ▁ Ⓚ 5 4 0 Ⓛ ▁ Ⓘ V i g n e Ⓙ
+Ⓖ § Ⓗ ▁ Ⓜ 2 2 7 Ⓝ ▁ Ⓔ T h i b a u d ▁ J e a n ▁ c h a r l e s Ⓕ ▁ Ⓚ 5 4 1 Ⓛ ▁ Ⓘ v i g n e Ⓙ
+Ⓖ § Ⓗ ▁ Ⓜ 1 2 4 Ⓝ ▁ Ⓔ G u e r i u ▁ C h ↑ l s ↓ ▁ S a s c h a l Ⓕ ▁ Ⓚ 5 4 2 Ⓛ ▁ Ⓘ t e r r e ▁ à ▁ v i g n e Ⓙ
+Ⓖ § Ⓗ ▁ Ⓜ 7 3 Ⓝ ▁ Ⓔ F r e l é ▁ l e s ▁ h é r i t i e r s Ⓕ ▁ Ⓚ 5 4 3 Ⓛ ▁ Ⓘ V i g n e Ⓙ
+Ⓖ L e s ▁ f o s s e s Ⓗ ▁ Ⓜ 9 0 ↑ b i s ↓ Ⓝ ▁ Ⓔ G a u t h i e r ▁ l o u i s ▁ c h ↑ e s ↓ ▁ × l o u i s ± → à ▁ V a r e n n e s Ⓕ ▁ Ⓚ 5 4 4 Ⓛ ▁ Ⓘ t e r r e → à ▁ v i g n e Ⓙ
+Ⓖ § Ⓗ ▁ Ⓜ 1 7 2 Ⓝ ▁ Ⓔ M o t t e a u ▁ F ↑ o i s ↓ ▁ a ▁ p e r i g n y Ⓕ ▁ Ⓚ 5 4 5 Ⓛ ▁ Ⓘ t e r r e → à ▁ v i g . Ⓙ
+Ⓖ § Ⓗ ▁ Ⓜ 9 0 ↑ b i s ↓ Ⓝ ▁ Ⓔ G a u t h i e r ▁ × M ↑ l l e ↓ ± → l o u i s ▁ c h a r l e s ▁ à ▁ V a r e n n e s Ⓕ ▁ Ⓚ 5 4 6 1 Ⓛ ▁ Ⓘ T e r r → à ▁ v i g . Ⓙ
+Ⓖ § Ⓗ ▁ Ⓜ 3 3 Ⓝ ▁ Ⓔ D e l a r o c h e ▁ s e b a s t i e n Ⓕ ▁ Ⓚ 5 4 7 Ⓛ ▁ Ⓘ v i g n e Ⓙ
+Ⓖ § Ⓗ ▁ Ⓜ 3 3 Ⓝ ▁ Ⓔ 5 4 8 Ⓕ ▁ Ⓚ " Ⓛ ▁ Ⓘ t e r r e → à ▁ v i g Ⓙ
+Ⓖ § Ⓗ ▁ Ⓜ 1 7 6 Ⓝ ▁ Ⓔ M o t t e a u ▁ E t i e n n e ▁ L e ▁ p è r e Ⓕ ▁ Ⓚ 5 4 9 Ⓛ ▁ Ⓘ t e r r e → à ▁ v i g Ⓙ
+Ⓖ § Ⓗ ▁ Ⓜ 7 8 Ⓝ ▁ Ⓔ F o u c a u t ▁ f r a n ç o i s Ⓕ ▁ Ⓚ 5 5 0 Ⓛ ▁ Ⓘ t e r r e → à ▁ v i g Ⓙ
+Ⓖ § Ⓗ ▁ Ⓜ 1 8 9 Ⓝ ▁ Ⓔ M o t t e a u ▁ F ↑ o i s ↓ ▁ h e n r y Ⓕ ▁ Ⓚ 5 5 1 Ⓛ ▁ Ⓘ v i g n e Ⓙ
+Ⓖ § Ⓗ ▁ Ⓜ 3 6 Ⓝ ▁ Ⓔ D e l a r o c h e ▁ a u g u s t i n Ⓕ ▁ Ⓚ 5 5 2 Ⓛ ▁ Ⓘ v i g n e Ⓙ
+Ⓖ l e s ▁ s a b l o n s Ⓗ ▁ Ⓔ B l e u z e ▁ j a c q u e s Ⓕ ▁ Ⓚ 7 1 5 Ⓛ ▁ Ⓘ T e r r e Ⓙ ▁ Ⓐ 1 5 4 3 → 1 5 4 4 Ⓑ ▁ Ⓒ T → b e r g e Ⓓ
+Ⓖ § Ⓗ ▁ Ⓔ L e c l e r c ▁ c l a u d e ▁ f é l i x Ⓕ ▁ Ⓚ 7 1 6 Ⓛ ▁ Ⓘ T Ⓙ ▁ Ⓐ 1 5 4 2 Ⓑ ▁ Ⓒ T Ⓓ
+Ⓖ § Ⓗ ▁ Ⓔ A u b o i n Ⓕ ▁ Ⓚ 1 7 1 Ⓛ ▁ Ⓘ T . Ⓙ ▁ Ⓐ 1 5 4 5 → 1 5 4 6 Ⓑ ▁ Ⓒ b e r g e → T Ⓓ
+Ⓖ § Ⓗ ▁ Ⓔ C h a n d e n n i e r ▁ P ↑ r e ↓ ▁ F ↑ o i s ↓ Ⓕ ▁ Ⓚ 7 1 8 Ⓛ ▁ Ⓘ T Ⓙ ▁ Ⓐ 1 5 5 2 Ⓑ ▁ Ⓒ T Ⓓ
+Ⓖ § Ⓗ ▁ Ⓔ R e g n a u l t ▁ p i e r r e ▁ L o u i s Ⓕ ▁ Ⓚ 7 1 9 Ⓛ ▁ Ⓘ T . Ⓙ ▁ Ⓐ 1 5 5 3 Ⓑ ▁ Ⓒ T Ⓓ
+Ⓖ § Ⓗ ▁ Ⓔ G a r r i a u ▁ v i c t o r ▁ f ↑ o i s ↓ Ⓕ ▁ Ⓚ 7 2 0 Ⓛ ▁ Ⓘ T Ⓙ ▁ Ⓐ 1 5 5 5 Ⓑ ▁ Ⓒ T Ⓓ
+Ⓖ § Ⓗ ▁ Ⓔ L a m b e r t ▁ j e a n ▁ p i e r r e Ⓕ ▁ Ⓚ 7 2 1 Ⓛ ▁ Ⓘ T Ⓙ ▁ Ⓐ 1 5 6 3 Ⓑ ▁ Ⓒ T Ⓓ
+Ⓖ § Ⓗ ▁ Ⓔ M a s s u e t ▁ d e n i s ▁ m a r i e Ⓕ ▁ Ⓚ 7 2 2 Ⓛ ▁ Ⓘ T . Ⓙ ▁ Ⓐ 1 5 6 4 Ⓑ ▁ Ⓒ T Ⓓ
+Ⓖ § Ⓗ ▁ Ⓔ M a y e u x ▁ J ↑ q u e s ↓ ▁ L o u i s Ⓕ ▁ Ⓚ 7 2 3 Ⓛ ▁ Ⓘ T . Ⓙ ▁ Ⓐ 1 5 6 6 Ⓑ ▁ Ⓒ T Ⓓ
+Ⓖ § Ⓗ ▁ Ⓔ D u r u b l e ▁ a l e x ↑ d r e ↓ ▁ p i e r r e Ⓕ ▁ Ⓚ 7 2 4 Ⓛ ▁ Ⓘ T Ⓙ ▁ Ⓐ 1 5 6 5 Ⓑ ▁ Ⓒ T Ⓓ
+Ⓖ L e s ▁ f r e t t e s Ⓗ ▁ Ⓔ L a n j a i n o i s Ⓕ ▁ Ⓚ 7 2 5 Ⓛ ▁ Ⓘ T . ▁ p l a n t é Ⓙ ▁ Ⓐ 1 5 7 8 Ⓑ ▁ Ⓒ p é p i n i è r e Ⓓ
+Ⓖ § Ⓗ ▁ Ⓔ B e n o î t ▁ P ↑ r e ↓ ▁ s t a n i s l a s Ⓕ ▁ Ⓚ 7 2 6 Ⓛ ▁ Ⓘ T . ▁ p l a n t é Ⓙ ▁ Ⓐ 1 5 7 9 → 1 5 8 0 Ⓑ ▁ Ⓒ T → p e p . Ⓓ
+Ⓖ § Ⓗ ▁ Ⓔ C h e v a l i e r ▁ l o u i s Ⓕ ▁ Ⓚ 7 2 7 Ⓛ ▁ Ⓘ T . Ⓙ ▁ Ⓐ 1 5 7 2 Ⓑ ▁ Ⓒ T Ⓓ
+Ⓖ § Ⓗ ▁ Ⓔ D u r u b l e ▁ a l e x ↑ d r e ↓ ▁ p i e r r e Ⓕ ▁ Ⓚ 7 2 8 Ⓛ ▁ Ⓘ T . Ⓙ ▁ Ⓐ 1 5 7 3 Ⓑ ▁ Ⓒ T Ⓓ
+Ⓖ R u e ▁ d u ▁ P a r o y Ⓗ ▁ Ⓔ T o u z e l i n ▁ m a r i e ▁ j u l i e n Ⓕ ▁ Ⓚ 1 3 9 Ⓛ ▁ Ⓘ s o l → × b a t i m e n t ­ ± Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ T o u z e l i n ▁ m a r i e ▁ J u l i e n Ⓕ ▁ Ⓚ 1 4 0 Ⓛ ▁ Ⓘ J a r d i n Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ T o u z e l i n ▁ m a r i e ▁ J u l i e n Ⓕ ▁ Ⓚ 1 4 1 Ⓛ ▁ Ⓘ s o l ▁ e t ▁ c o u r Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ i d Ⓕ ▁ Ⓚ 1 4 1 Ⓛ ▁ Ⓘ n ° 9 ▁ M a i s o n Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ T o u z e l i n ▁ m a r i e ▁ J u l i e n Ⓕ ▁ Ⓚ 1 4 2 Ⓛ ▁ Ⓘ J a r d i n Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ T o u z e l i n ▁ m a r i e ▁ J u l i e n Ⓕ ▁ Ⓚ 1 4 3 Ⓛ ▁ Ⓘ s o l ▁ e t ▁ c o u r Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ i d Ⓕ ▁ Ⓚ 1 4 3 Ⓛ ▁ Ⓘ M a i s o n Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ T o u z e l i n ▁ m a r i e ▁ j u l i e n Ⓕ ▁ Ⓚ 1 4 4 4 Ⓛ ▁ Ⓘ E t e n d o i r Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ L e r o y ▁ s a u v e u r e ▁ g a b r i e l Ⓕ ▁ Ⓚ 1 4 5 Ⓛ ▁ Ⓘ J a r d i n Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ L e r o y ▁ s a u v e u r ▁ g a b r i e l Ⓕ ▁ Ⓚ 1 4 6 Ⓛ ▁ Ⓘ J a r d i n Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ L e r o y ▁ s a u v e u r ▁ g a b r i e l Ⓕ ▁ Ⓚ 1 4 7 Ⓛ ▁ Ⓘ s o l ▁ b â t i m e n t → e t ▁ c o u r Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ i d Ⓕ ▁ Ⓚ 1 4 7 Ⓛ ▁ Ⓘ N ° ▁ 1 3 ▁ M a i s o n Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ D e d o u v r e ▁ p ↑ r e ↓ ▁ f ↑ o i s ↓ Ⓕ ▁ Ⓚ 1 4 8 Ⓛ ▁ Ⓘ T e r r e Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ D e d o u v r e ▁ p ↑ r e ↓ ▁ f ↑ o i s ↓ Ⓕ ▁ Ⓚ 1 4 9 Ⓛ ▁ Ⓘ T e r r e Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ D e d o u v r e ▁ p ↑ r e ↓ ▁ f ↑ o i s ↓ Ⓕ ▁ Ⓚ 1 5 0 Ⓛ ▁ Ⓘ T e r r e Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ i d Ⓕ ▁ Ⓚ 1 5 1 Ⓛ ▁ Ⓘ s o l ▁ e t ▁ c o u r Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ D e d o u v r e ▁ p ↑ r e ↓ ▁ f ↑ o i s ↓ Ⓕ ▁ Ⓚ 1 5 1 Ⓛ ▁ Ⓘ C o u l e r i e Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ D e d o u v r e ▁ p ↑ r e ↓ ▁ f ↑ o i s ↓ Ⓕ ▁ Ⓚ 1 5 2 Ⓛ ▁ Ⓘ s o l ▁ e t ▁ c o u r Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ i d Ⓕ ▁ Ⓚ 1 5 2 Ⓛ ▁ Ⓘ n ° 1 5 ▁ M a i s o n Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ D e d o u v r e ▁ p ↑ r e ↓ ▁ f ↑ o i s ↓ Ⓕ ▁ Ⓚ 1 5 3 Ⓛ ▁ Ⓘ E t e n d o i r Ⓙ
+Ⓜ 3 2 8 ↑ b i s ↓ Ⓝ ▁ Ⓔ M i s g a u l t ▁ × l o u i s ± ▁ J e a n ▁ S é b a s t i e n Ⓕ ▁ Ⓚ 8 4 2 ↑ b i s ↓ Ⓛ ▁ Ⓘ T e r r e Ⓙ
+Ⓜ 4 1 5 Ⓝ ▁ Ⓔ R a m e a u ▁ J ↑ n ↓ ▁ B ↑ t e ↓ Ⓕ ▁ Ⓚ 4 3 Ⓛ ▁ Ⓘ i d Ⓙ
+Ⓜ 2 3 1 Ⓝ ▁ Ⓔ L a m e a u ▁ S a t u r n i n ▁ v e u v e ▁ h ↑ e r s ↓ Ⓕ ▁ Ⓚ 4 4 Ⓛ ▁ Ⓘ § Ⓙ
+Ⓜ × 3 2 4 ± → 1 0 2 ↑ b i s ↓ Ⓝ ▁ Ⓔ × M e z a r d ▁ N ↑ a s ↓ ± ▁ C o u r t o i s ▁ l o u i s Ⓕ ▁ Ⓚ 4 5 Ⓛ ▁ Ⓘ v i g Ⓙ
+Ⓜ 4 2 9 Ⓝ ▁ Ⓔ s a u s s a y ▁ P è r e Ⓕ ▁ Ⓚ 4 6 Ⓛ ▁ Ⓘ T e r r e Ⓙ
+Ⓜ 8 5 Ⓝ ▁ Ⓔ C o i f f i e r ▁ a n d r é ▁ l ' a i n é Ⓕ ▁ Ⓚ 4 7 Ⓛ ▁ Ⓘ i d Ⓙ
+Ⓜ 4 1 5 Ⓝ ▁ Ⓔ R a m e a u ▁ J ↑ n ↓ ▁ B ↑ t e ↓ Ⓕ ▁ Ⓚ 4 7 ↑ b i s ↓ Ⓛ ▁ Ⓘ § Ⓙ
+Ⓜ 4 1 5 Ⓝ ▁ Ⓔ L e ▁ m ê m e Ⓕ ▁ Ⓚ 4 8 Ⓛ ▁ Ⓘ § Ⓙ
+Ⓜ 2 3 1 Ⓝ ▁ Ⓔ L a m e a u ▁ S a t ↑ n i n ↓ ▁ v e u v e Ⓕ ▁ Ⓚ 4 9 Ⓛ ▁ Ⓘ § Ⓙ
+Ⓜ 4 1 5 Ⓝ ▁ Ⓔ × R ± ▁ R a m e a u ▁ J ↑ n ↓ ▁ B ↑ t e ↓ Ⓕ ▁ Ⓚ 8 5 0 Ⓛ ▁ Ⓘ § Ⓙ
+Ⓜ 3 2 8 ↑ b i s ↓ → × 3 2 8 ± Ⓝ ▁ Ⓔ M i s g a u l t ▁ × l o u i s ± ▁ J e a n ▁ S é b a s t i e n Ⓕ ▁ Ⓚ 5 2 Ⓛ ▁ Ⓘ § Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ R a m e a u ▁ J ↑ n ↓ ▁ f ↑ o i s ↓ ▁ v e u v e Ⓕ ▁ Ⓚ 5 3 Ⓛ ▁ Ⓘ § Ⓙ
+Ⓜ 3 2 6 ↑ b i s ↓ → × 3 2 2 ± Ⓝ ▁ Ⓔ M i s g a u l t ▁ × l o u i s ± ▁ J e a n ▁ b a p ↑ t e ↓ Ⓕ ▁ Ⓚ 5 4 Ⓛ ▁ Ⓘ § Ⓙ
+Ⓜ 4 5 6 Ⓝ ▁ Ⓔ V e r n e a u ▁ J ↑ n ↓ ▁ B ↑ t e ↓ Ⓕ ▁ Ⓚ 5 5 Ⓛ ▁ Ⓘ § Ⓙ
+Ⓜ 4 5 3 Ⓝ ▁ Ⓔ V e r n e a u ▁ n ↑ a s ↓ Ⓕ ▁ Ⓚ 5 5 ↑ b i s ↓ Ⓛ ▁ Ⓘ § Ⓙ
+Ⓜ 8 9 ↑ b i s ↑ → × 4 1 ± Ⓝ ▁ Ⓔ C o i f f i e r ▁ c h ↑ e s ↓ ▁ × P è r e ± ▁ v i n c e n t Ⓕ ▁ Ⓚ 5 6 Ⓛ ▁ Ⓘ § Ⓙ
+Ⓜ 4 4 1 Ⓝ ▁ Ⓔ S o u d i e u x ▁ v i n c ↑ t ↓ Ⓕ ▁ Ⓚ 5 7 Ⓛ ▁ Ⓘ § Ⓙ
+Ⓜ 3 1 8 Ⓝ ▁ Ⓔ M e z a r d ▁ s a t ↑ i n ↓ Ⓕ ▁ Ⓚ 5 8 Ⓛ ▁ Ⓘ § Ⓙ
+Ⓜ 1 8 Ⓝ ▁ Ⓔ a n c e l e t ▁ f ↑ r e ↓ Ⓕ ▁ Ⓚ 5 9 Ⓛ ▁ Ⓘ § Ⓙ
+Ⓖ § Ⓗ ▁ Ⓜ 4 3 6 Ⓝ ▁ Ⓔ S o u d i e u x ▁ S a t ↑ i n ↓ ▁ b a l o t Ⓕ ▁ Ⓚ 8 6 0 Ⓛ ▁ Ⓘ § Ⓙ
+Ⓖ g r a n d e ▁ R u e Ⓗ ▁ Ⓔ P a r i s ▁ a u g ↑ t e ↓ Ⓕ ▁ Ⓚ 2 8 1 Ⓛ ▁ Ⓘ m a i s o n ▁ c o u r → e t ▁ B ↑ t ↓ → n ° 2 4 Ⓙ ▁ Ⓐ s ↑ i o n ↓ ▁ C → 9 9 ▁ p Ⓑ ▁ Ⓒ m a i s o n Ⓓ
+Ⓖ § Ⓗ ▁ Ⓔ P a r i s ▁ a u g ↑ t e ↓ Ⓕ ▁ Ⓚ 2 8 2 Ⓛ ▁ Ⓘ j a r d i n Ⓙ ▁ Ⓐ 9 8 → 9 9 p Ⓑ ▁ Ⓒ j a r d i n → m a i s o n Ⓓ
+Ⓖ § ▁ p ▁ à ▁ → a l f o r t v i l l e Ⓗ ▁ Ⓔ M e r l i n ▁ à ▁ B e a u v a i s Ⓕ ▁ Ⓚ 2 8 3 Ⓛ ▁ Ⓘ t e r r e Ⓙ ▁ Ⓐ 9 7 → 1 0 0 ▁ p a r t i e Ⓑ ▁ Ⓒ t e r r e → t e r r e Ⓓ
+Ⓖ § Ⓗ ▁ Ⓔ B è q u e m o n t ▁ a d o l p h e Ⓕ ▁ Ⓚ 2 8 4 Ⓛ ▁ Ⓘ t o u r ▁ d ' é c h e l l e Ⓙ ▁ Ⓐ 1 0 5 ▁ p Ⓑ ▁ Ⓒ j a r d i n Ⓓ
+Ⓖ × l e ▁ B o u r g ± Ⓗ ▁ Ⓔ = ▁ & ▁ B a i l l e t → × D i d i e r ▁ = ▁ à ▁ c h a r e n t o n ± Ⓕ ▁ Ⓚ × 2 8 5 ± Ⓛ ▁ Ⓘ × j a r d i n ± Ⓙ ▁ Ⓐ × 9 6 ± Ⓑ ▁ Ⓒ × j a r d i n ± Ⓓ
+Ⓖ § Ⓗ ▁ Ⓔ × L e c o u t e u x ▁ s i m o n ± Ⓕ ▁ Ⓚ × 2 8 6 ± Ⓛ ▁ Ⓘ × t e r r a i n ▁ p l a n t é ± Ⓙ ▁ Ⓐ × 9 3 ± Ⓑ ▁ Ⓒ × p â t u r e ± Ⓓ
+Ⓖ § Ⓗ ▁ Ⓔ B e c q u e m o n t ▁ a d o l p h e → ( D i d i e r ▁ à ▁ c h a r e n t o n ▁ p o u r → d r o i t ▁ d e ▁ p a s s a g e ) Ⓕ ▁ Ⓚ × 2 8 7 ± Ⓛ ▁ Ⓘ × p â t u r e ± Ⓙ ▁ Ⓐ × 9 4 p → 9 5 ± Ⓑ ▁ Ⓒ × p â t u r e → f o s s é ± Ⓓ
+Ⓖ § Ⓗ ▁ Ⓔ B è q u e m o n t ▁ a d o l p h e Ⓕ ▁ Ⓚ 2 8 8 Ⓛ ▁ Ⓘ p â t u r e ▁ p l a n t é e → d e ▁ p e u p l i e r s Ⓙ ▁ Ⓐ 9 4 Ⓑ ▁ Ⓒ p â t u r e Ⓓ
+Ⓖ § Ⓗ ▁ Ⓔ B è q u e m o n t ▁ a d o l p h e Ⓕ ▁ Ⓚ 2 9 4 Ⓛ ▁ Ⓘ f o s s é Ⓙ ▁ Ⓐ 1 0 8 Ⓑ ▁ Ⓒ f o s s é Ⓓ
+Ⓖ § Ⓗ ▁ Ⓔ B è q u e m o n t ▁ a d o l p h e Ⓕ ▁ Ⓚ 2 9 0 Ⓛ ▁ Ⓘ j a r d i n Ⓙ ▁ Ⓐ 1 0 7 Ⓑ ▁ Ⓒ j a r d i n Ⓓ
+Ⓖ § Ⓗ ▁ Ⓔ B è q u e m o n t ▁ a d o l p h e Ⓕ ▁ Ⓚ 2 9 1 Ⓛ ▁ Ⓘ p r é Ⓙ ▁ Ⓐ 1 0 7 ↑ b i s ↓ → 1 0 9 Ⓑ ▁ Ⓒ p a s s a g e → f r i c h e Ⓓ
+Ⓖ § Ⓗ ▁ Ⓔ D e l a p o r t e ▁ L o u i s ▁ f é l i x ▁ a u g ↑ t e ↓ Ⓕ ▁ Ⓚ 2 9 2 Ⓛ ▁ Ⓘ j a r d i n Ⓙ ▁ Ⓐ 1 1 4 → 1 1 4 ↑ b i s ↓ → 1 1 5 Ⓑ ▁ Ⓒ p r é → f r i c h e → j a r d i n Ⓓ
+Ⓖ § Ⓗ ▁ Ⓔ D e t e r v i l l e Ⓕ ▁ Ⓚ 2 9 3 Ⓛ ▁ Ⓘ j a r d i n Ⓙ ▁ Ⓐ 1 1 3 p Ⓑ ▁ Ⓒ j a r d i n Ⓓ
+Ⓖ g r a n d e ▁ R u e Ⓗ ▁ Ⓔ D e t e r v i l l e Ⓕ ▁ Ⓚ 2 9 4 Ⓛ ▁ Ⓘ m a i s o n ▁ c o u r → e t ▁ B ↑ t e ↓ → n ° 3 6 Ⓙ ▁ Ⓐ 1 1 2 Ⓑ ▁ Ⓒ f e r m e Ⓓ
+Ⓖ L e ▁ t h i l l a r d Ⓗ ▁ Ⓔ H é r i c o u r t ▁ j o s é p h i n e Ⓕ ▁ Ⓚ 1 2 4 7 Ⓛ ▁ Ⓘ T . ▁ e t ▁ v i g n e Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ H é r i c o u r t ▁ l o u i s ▁ g a b r i e l Ⓕ ▁ Ⓚ 1 2 4 7 Ⓛ ▁ Ⓘ § Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ M a r t i n ▁ j a c q u e s Ⓕ ▁ Ⓚ 1 2 4 7 Ⓛ ▁ Ⓘ § Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ A n c e l e t ▁ d o m i n i q u e ▁ f i l s Ⓕ ▁ Ⓚ 1 2 4 8 Ⓛ ▁ Ⓘ t . ▁ e t ▁ v i g n e Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ B a r i l l e t ▁ a l p h o n s e ▁ l é o n Ⓕ ▁ Ⓚ 1 2 4 8 Ⓛ ▁ Ⓘ i d Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ H é r i c o u r t ▁ f r a n ç o i s ▁ N i c o l a s Ⓕ ▁ Ⓚ 1 2 4 9 Ⓛ ▁ Ⓘ T Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ G u i l l e m m i o t ▁ P a u l Ⓕ ▁ Ⓚ 1 2 5 0 Ⓛ ▁ Ⓘ T Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ R a m e a u ▁ a u g u s t e ▁ e u g è n e Ⓕ ▁ Ⓚ 1 2 5 0 Ⓛ ▁ Ⓘ T Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ B e u z e v i l l e ▁ d é s i r é ▁ z é p h i r i n Ⓕ ▁ Ⓚ 1 2 5 1 Ⓛ ▁ Ⓘ T Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ N a u d e t ▁ V i c t o r Ⓕ ▁ Ⓚ 1 2 5 2 Ⓛ ▁ Ⓘ T Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ R a m e a u ▁ J e a n ▁ f r a n ç o i s Ⓕ ▁ Ⓚ 1 2 5 3 Ⓛ ▁ Ⓘ T Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ M i s g a u l t ▁ J ↑ n ↓ ▁ B ↑ t e ↓ ▁ f i l s ▁ l o u i s Ⓕ ▁ Ⓚ 1 2 5 4 Ⓛ ▁ Ⓘ T Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ L a m e a u ▁ P i e r r e ▁ J o s e p h Ⓕ ▁ Ⓚ 1 2 5 5 Ⓛ ▁ Ⓘ T Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ i d Ⓕ ▁ Ⓚ 1 2 5 5 Ⓛ ▁ Ⓘ T Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ L a p i e ▁ L é o n ▁ L o u i s Ⓕ ▁ Ⓚ 1 2 5 6 Ⓛ ▁ Ⓘ T Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ R o s e ▁ l o u i s ▁ a l e x i s Ⓕ ▁ Ⓚ 1 2 5 7 Ⓛ ▁ Ⓘ T Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ H é r i c o u r t ▁ L o u i s ▁ V i c t o r Ⓕ ▁ Ⓚ 1 2 5 8 Ⓛ ▁ Ⓘ T Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ B a r i l l e t ▁ C h a r l e s ▁ V ↑ e ↓ Ⓕ ▁ Ⓚ 1 2 5 9 Ⓛ ▁ Ⓘ T Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ P r é v o s t ▁ V ↑ e ↓ ▁ n é e ▁ S a u s s a y Ⓕ ▁ Ⓚ 1 2 6 0 Ⓛ ▁ Ⓘ T Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ L é o n ▁ J ↑ n ↓ ▁ B ↑ t e ↓ ▁ V ↑ e ↓ ▁ n é e ▁ R a m e a u Ⓕ ▁ Ⓚ 1 2 6 1 Ⓛ ▁ Ⓘ T Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ M a r t i n ▁ D ↑ e ↓ Ⓕ ▁ Ⓚ 1 2 6 2 Ⓛ ▁ Ⓘ T Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ R a m e a u ▁ l o u i s ▁ V i c t o r Ⓕ ▁ Ⓚ 1 2 6 3 Ⓛ ▁ Ⓘ v i g n e Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ M i s g a u l t ▁ l o u i s ▁ m i n e u r Ⓕ ▁ Ⓚ 1 2 6 4 Ⓛ ▁ Ⓘ v i g n e Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ C o u r t o i s ▁ L o u i s ▁ g ↑ d r e ↓ ▁ M e z a r d Ⓕ ▁ Ⓚ 1 2 6 5 Ⓛ ▁ Ⓘ v i g n e Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ A n d r é ▁ a l e x a n d r e ▁ e d o u a r d Ⓕ ▁ Ⓚ 1 2 6 6 Ⓛ ▁ Ⓘ v i g n e Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ L a l é g e r y ▁ D e n i s ▁ j o s e p h Ⓕ ▁ Ⓚ 1 2 6 7 Ⓛ ▁ Ⓘ T Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ L e p o u t r e ▁ J o s e p h Ⓕ ▁ Ⓚ 1 2 6 8 Ⓛ ▁ Ⓘ T Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ S o u d i e u x ▁ L o u i s ▁ J o s e p h Ⓕ ▁ Ⓚ 1 2 6 8 Ⓛ ▁ Ⓘ T Ⓙ
+Ⓖ l e ▁ p e t i t ▁ j a r d i n Ⓗ ▁ Ⓔ a n d r é ▁ a d e l a ï d e ▁ J ↑ n ↓ → B i q u e t ▁ × a l e x a n d r e ± Ⓕ ▁ Ⓚ 2 1 Ⓛ ▁ Ⓘ T e r r e Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ D e s l o g e s ▁ n o ë l ▁ f ↑ o i s ↓ Ⓕ ▁ Ⓚ 2 2 Ⓛ ▁ Ⓘ T e r r e Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ C l a v i e r ▁ g e n d r e ▁ d e ▁ l a ▁ V ↑ e ↓ ▁ m o n e s u t e a u Ⓕ ▁ Ⓚ 2 3 Ⓛ ▁ Ⓘ T e r r e Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ m o n c o u t e a u ▁ g e r m a i n ▁ j e a n Ⓕ ▁ Ⓚ 2 4 Ⓛ ▁ Ⓘ T e r r e Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ m o n c o u t e a u ▁ g e r m a i n ▁ j e a n Ⓕ ▁ Ⓚ 2 5 Ⓛ ▁ Ⓘ T e r r e Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ L e r o y ▁ l o u i s ▁ n i c o l a s → × L e r o y ▁ j e a n ▁ n i c o l a s ▁ f i l s ± Ⓕ ▁ Ⓚ 2 6 Ⓛ ▁ Ⓘ T e r r e Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ P i l l e t ▁ c l a u d e ▁ d e n i s Ⓕ ▁ Ⓚ 2 7 Ⓛ ▁ Ⓘ T e r r e Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ L e c l e r c ▁ p ↑ r e ↓ ▁ l o u i s Ⓕ ▁ Ⓚ 2 8 Ⓛ ▁ Ⓘ T e r r e Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ T o u r n e m i r e ▁ a v o c a t ▁ h ↑ e r s ↓ Ⓕ ▁ Ⓚ 2 9 Ⓛ ▁ Ⓘ T e r r e Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ G a l l e t ▁ j e a n ▁ t o u s ↑ t ↓ Ⓕ ▁ Ⓚ 3 0 Ⓛ ▁ Ⓘ → T e r r e Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ B o u r g o i n ▁ p ↑ r e ↓ Ⓕ ▁ Ⓚ 3 1 Ⓛ ▁ Ⓘ T e r r e Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ P e p i n ▁ J ↑ n ↓ ▁ B ↑ t e ↓ ▁ à ▁ V i l l e j u i f → × M e n o n ▁ l o u i s ▁ r o c h e ± Ⓕ ▁ Ⓚ 3 2 Ⓛ ▁ Ⓘ T e r r e Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ L u i s e t t e ▁ h e n r y ▁ V ↑ e ↓ Ⓕ ▁ Ⓚ 3 3 Ⓛ ▁ Ⓘ T e r r e Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ C l a v i e r ▁ f r a n ç o i s Ⓕ ▁ Ⓚ 3 4 Ⓛ ▁ Ⓘ T e r r e Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ C h a t e n a y ▁ J ↑ n ↓ ▁ m a r i e ▁ a b e l Ⓕ ▁ Ⓚ 3 5 Ⓛ ▁ Ⓘ T e r r e Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ C a l l y ▁ V ↑ e ↓ ▁ a ▁ i v r y → × f r e t t é ▁ g u i l l a u m e ▁ t e l l ± Ⓕ ▁ Ⓚ 3 6 Ⓛ ▁ Ⓘ T e r r e Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ L a b o u r a u x ▁ m a r t i n Ⓕ ▁ Ⓚ 3 7 Ⓛ ▁ Ⓘ T e r r e Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ L u i s e t t e ▁ h e n r y ▁ V ↑ e ↓ Ⓕ ▁ Ⓚ 3 8 Ⓛ ▁ Ⓘ T e r r e Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ L u i s e t t e ▁ h e n r y ▁ V ↑ e ↓ → a m i o t ▁ l o u i s ▁ a l e x a n d r e Ⓕ ▁ Ⓚ 3 9 Ⓛ ▁ Ⓘ T e r r e Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ M o n c o u t e a u ▁ j e a n ▁ m a r i s Ⓕ ▁ Ⓚ 4 0 Ⓛ ▁ Ⓘ T e r r e Ⓙ
+Ⓖ f a u c o n n e r e s Ⓗ ▁ Ⓔ L e r o y , ▁ f i l s ▁ d e ▁ C l e m e n t Ⓕ ▁ Ⓚ 5 7 Ⓛ ▁ Ⓘ T Ⓙ ▁ Ⓐ P ▁ 2 8 6 Ⓑ ▁ Ⓒ T Ⓓ
+Ⓖ Ø Ⓗ ▁ Ⓔ H a i n g n e r e l l e Ⓕ ▁ Ⓚ 5 8 Ⓛ ▁ Ⓘ T Ⓙ ▁ Ⓐ 2 8 5 Ⓑ ▁ Ⓒ T Ⓓ
+Ⓖ Ø Ⓗ ▁ Ⓔ M o n t e b e l l e ▁ l a ▁ D u c h e s s e Ⓕ ▁ Ⓚ 5 9 Ⓛ ▁ Ⓘ T Ⓙ ▁ Ⓐ 2 8 4 Ⓑ ▁ Ⓒ T Ⓓ
+Ⓖ Ø Ⓗ ▁ Ⓔ L e r o y ▁ L o u i s Ⓕ ▁ Ⓚ 6 0 Ⓛ ▁ Ⓘ T Ⓙ ▁ Ⓐ 2 8 3 Ⓑ ▁ Ⓒ T Ⓓ
+Ⓖ Ø Ⓗ ▁ Ⓔ N o b l e t , ▁ N ↑ a s ↓ ▁ V e u v e Ⓕ ▁ Ⓚ 6 1 Ⓛ ▁ Ⓘ T Ⓙ ▁ Ⓐ 2 8 2 Ⓑ ▁ Ⓒ T Ⓓ
+Ⓖ Ø Ⓗ ▁ Ⓔ M o n t e b e l l o ▁ l a ▁ D u c h e s s e Ⓕ ▁ Ⓚ 6 2 Ⓛ ▁ Ⓘ T Ⓙ ▁ Ⓐ 2 8 1 Ⓑ ▁ Ⓒ T Ⓓ
+Ⓖ Ø Ⓗ ▁ Ⓔ L e r o y ▁ G e r m a i n ▁ L o u i s Ⓕ ▁ Ⓚ 6 3 Ⓛ ▁ Ⓘ T Ⓙ ▁ Ⓐ 2 8 0 Ⓑ ▁ Ⓒ T Ⓓ
+Ⓖ Ø Ⓗ ▁ Ⓔ B o u r d i l l a t , ▁ J ↑ n ↓ ▁ F ↑ o i s ↓ Ⓕ ▁ Ⓚ 6 4 Ⓛ ▁ Ⓘ T Ⓙ ▁ Ⓐ 2 6 9 ↑ b i s ↓ Ⓑ ▁ Ⓒ T Ⓓ
+Ⓖ Ø Ⓗ ▁ Ⓔ P e r d r i e r , ▁ v i n c e n t ▁ P a s c a l Ⓕ ▁ Ⓚ 6 5 Ⓛ ▁ Ⓘ T Ⓙ ▁ Ⓐ 2 6 9 Ⓑ ▁ Ⓒ T Ⓓ
+Ⓖ Ø Ⓗ ▁ Ⓔ P e r r i n , ▁ C o n s t a n t Ⓕ ▁ Ⓚ 6 6 Ⓛ ▁ Ⓘ T Ⓙ ▁ Ⓐ 2 6 8 Ⓑ ▁ Ⓒ T Ⓓ
+Ⓖ Ø Ⓗ ▁ Ⓔ J o l l y , ▁ J e a n ▁ M a r i e Ⓕ ▁ Ⓚ 6 7 Ⓛ ▁ Ⓘ T Ⓙ ▁ Ⓐ 2 6 7 Ⓑ ▁ Ⓒ T Ⓓ
+Ⓖ Ø Ⓗ ▁ Ⓔ G a l l e t , ▁ J e a n ▁ F ↑ o i s ↓ Ⓕ ▁ Ⓚ 6 8 Ⓛ ▁ Ⓘ T Ⓙ ▁ Ⓐ 2 6 6 Ⓑ ▁ Ⓒ T Ⓓ
+Ⓖ Ø Ⓗ ▁ Ⓔ F a u r e , ▁ l e ▁ C o m t e Ⓕ ▁ Ⓚ 6 9 Ⓛ ▁ Ⓘ T Ⓙ ▁ Ⓐ 2 6 4 Ⓑ ▁ Ⓒ T Ⓓ
+Ⓖ Ø Ⓗ ▁ Ⓔ J o l l y , ▁ J e a n ▁ M a r i e Ⓕ ▁ Ⓚ 7 0 Ⓛ ▁ Ⓘ T Ⓙ ▁ Ⓐ 2 6 3 Ⓑ ▁ Ⓒ T Ⓓ
+Ⓖ P o r t ▁ à ▁ l ' a n g l a i s Ⓗ ▁ Ⓔ C h a r t e ▁ E t i e n n e Ⓕ ▁ Ⓚ 9 5 Ⓛ ▁ Ⓘ t e r r e Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ C h â t r e ▁ p i e r r e Ⓕ ▁ Ⓚ § Ⓛ ▁ Ⓘ § Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ C h e r y ▁ l u c i e ▁ e t ▁ A l i n e Ⓕ ▁ Ⓚ § Ⓛ ▁ Ⓘ § Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ C h e v i l l o t t e ▁ c o m e Ⓕ ▁ Ⓚ § Ⓛ ▁ Ⓘ § Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ c h i c h é r i t ▁ f r a n ç o i s ▁ a u g u s t e Ⓕ ▁ Ⓚ § Ⓛ ▁ Ⓘ § Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ c h i c o t ▁ a l f r e d ▁ c l é m e n t Ⓕ ▁ Ⓚ § Ⓛ ▁ Ⓘ § Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ c h o m e t t e ▁ v e u v e Ⓕ ▁ Ⓚ § Ⓛ ▁ Ⓘ § Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ i d Ⓕ ▁ Ⓚ § Ⓛ ▁ Ⓘ § Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ C o l i n ▁ h i p p o l y t e Ⓕ ▁ Ⓚ § Ⓛ ▁ Ⓘ § Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ C o l l i n ▁ c h a r l e s ▁ h y p p o l i t e Ⓕ ▁ Ⓚ § Ⓛ ▁ Ⓘ § Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ i d Ⓕ ▁ Ⓚ § Ⓛ ▁ Ⓘ § Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ C o l l i n ▁ J e a n ▁ B ↑ t e ↓ Ⓕ ▁ Ⓚ § Ⓛ ▁ Ⓘ § Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ C o m b e ▁ J e a n ▁ L o u i s Ⓕ ▁ Ⓚ § Ⓛ ▁ Ⓘ § Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ C ↑ i e ↓ ▁ p a r i s i e n n e ▁ d u ▁ g a z Ⓕ ▁ Ⓚ § Ⓛ ▁ Ⓘ § Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ C o n v e r s ▁ e d m e ▁ e r n e s t Ⓕ ▁ Ⓚ § Ⓛ ▁ Ⓘ § Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ C o q u e t t e ▁ l é o n ▁ e t ▁ C o q u e t t e ▁ L o u i s → a l f r e d Ⓕ ▁ Ⓚ § Ⓛ ▁ Ⓘ § Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ C o r b e s ▁ a l f r e d ▁ e u g è n e Ⓕ ▁ Ⓚ § Ⓛ ▁ Ⓘ § Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ C o s t e ▁ p i e r r e Ⓕ ▁ Ⓚ § Ⓛ ▁ Ⓘ § Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ C o s t e ▁ v e u v e ▁ n é e ▁ G é a n t ▁ s o p h i e Ⓕ ▁ Ⓚ § Ⓛ ▁ Ⓘ § Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ C o u s i n Ⓕ ▁ Ⓚ § Ⓛ ▁ Ⓘ § Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ C o u s i n ▁ j u l i e t t e ▁ a n g é l i n a Ⓕ ▁ Ⓚ § Ⓛ ▁ Ⓘ § Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ C r e s p y ▁ J e a n ▁ J a c q u e s Ⓕ ▁ Ⓚ § Ⓛ ▁ Ⓘ § Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ C r i s p i n ▁ d é s i r é ▁ a u g u s t i n Ⓕ ▁ Ⓚ § Ⓛ ▁ Ⓘ § Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ C u i g n e t ▁ E l i e ▁ C o n s t a n t Ⓕ ▁ Ⓚ § Ⓛ ▁ Ⓘ § Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ C u v e l l i e r ▁ l o u i s ▁ a l o i s e ▁ v e u v e Ⓕ ▁ Ⓚ § Ⓛ ▁ Ⓘ § Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ D a m o u r e t t e ▁ f r a n ç o i s ▁ a u g u s t e Ⓕ ▁ Ⓚ § Ⓛ ▁ Ⓘ § Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ D e c a m p ▁ m a r i e ▁ a l o i s Ⓕ ▁ Ⓚ § Ⓛ ▁ Ⓘ § Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ i d Ⓕ ▁ Ⓚ § Ⓛ ▁ Ⓘ § Ⓙ
+Ⓜ 3 2 1 Ⓝ ▁ Ⓔ V i s s e ▁ g e r m a i n Ⓕ ▁ Ⓚ 2 0 5 6 Ⓛ ▁ Ⓘ T e r r e Ⓙ
+Ⓜ 8 9 Ⓝ ▁ Ⓔ D e s n y a u ▁ m i c h e l Ⓕ ▁ Ⓚ 2 0 5 7 Ⓛ ▁ Ⓘ J e ▁ v i g Ⓙ
+Ⓜ 8 9 Ⓝ ▁ Ⓔ I d e m Ⓕ ▁ Ⓚ 2 0 5 8 Ⓛ ▁ Ⓘ T e r r e Ⓙ
+Ⓜ 9 1 Ⓝ ▁ Ⓔ D e s n y a u ▁ F ↑ r e ↓ ▁ L o u i s Ⓕ ▁ Ⓚ 2 0 5 9 Ⓛ ▁ Ⓘ i d Ⓙ
+Ⓜ 9 3 Ⓝ ▁ Ⓔ D e s n y a u ▁ E t ↑ e ↓ ▁ f ↑ o i s ↓ Ⓕ ▁ Ⓚ 2 0 6 0 Ⓛ ▁ Ⓘ i d Ⓙ
+Ⓜ 3 1 0 Ⓝ ▁ Ⓔ S o u d i e u x ▁ C h ↑ e s ↓ ▁ L o u i s Ⓕ ▁ Ⓚ 2 0 6 1 Ⓛ ▁ Ⓘ i d Ⓙ
+Ⓜ 1 0 2 Ⓝ ▁ Ⓔ D e s n y a u ▁ L ↑ s ↓ ▁ L a u r e n t Ⓕ ▁ Ⓚ 2 0 6 2 Ⓛ ▁ Ⓘ i d Ⓙ
+Ⓜ 1 5 0 Ⓝ ▁ Ⓔ G u i l l e m a i n ▁ h e n r y ▁ h ↑ s ↓ Ⓕ ▁ Ⓚ 1 0 6 3 Ⓛ ▁ Ⓘ i d Ⓙ
+Ⓜ 2 8 0 Ⓝ ▁ Ⓔ q u e r u ▁ C ↑ d e ↓ ▁ V i n c e n t Ⓕ ▁ Ⓚ 2 0 6 4 Ⓛ ▁ Ⓘ i d Ⓙ
+Ⓖ l e s ▁ C r e s s e t e s Ⓗ ▁ Ⓜ 2 1 4 Ⓝ ▁ Ⓔ M e n t i e n n e ▁ A u b i n Ⓕ ▁ Ⓚ 2 0 6 5 Ⓛ ▁ Ⓘ I d Ⓙ
+Ⓜ 4 1 Ⓝ ▁ Ⓔ B o i s s e a u ▁ p ↑ r e ↓ ▁ E t i e n n e Ⓕ ▁ Ⓚ 2 0 6 6 Ⓛ ▁ Ⓘ V i g n e Ⓙ
+Ⓜ 1 0 3 Ⓝ ▁ Ⓔ D e s n y a u ▁ P ↑ r e ↓ ▁ a n d r é Ⓕ ▁ Ⓚ 2 0 6 7 Ⓛ ▁ Ⓘ T e r r e Ⓙ
+Ⓜ 2 9 Ⓝ ▁ Ⓔ B e n o i s t ▁ P ↑ r e ↓ ▁ m i c h e l ▁ l e ▁ J e Ⓕ ▁ Ⓚ 2 0 6 8 Ⓛ ▁ Ⓘ i d Ⓙ
+Ⓜ 5 6 Ⓝ ▁ Ⓔ B o u r s a u t ▁ J ↑ n ↓ ▁ C ↑ d e ↓ Ⓕ ▁ Ⓚ 2 0 6 9 Ⓛ ▁ Ⓘ i d Ⓙ
+Ⓜ × 9 8 ± → 9 4 ↑ b i s ↓ Ⓝ ▁ Ⓔ D E s n y a u ▁ × J ↑ n ↓ ▁ a n t o i n e ± ▁ m a r i e ▁ d e n i s e Ⓕ ▁ Ⓚ 2 0 7 0 Ⓛ ▁ Ⓘ i d Ⓙ
+Ⓜ 3 0 4 Ⓝ ▁ Ⓔ S e l l i e r ▁ J ↑ q u e s ↓ ▁ g e o r g e s Ⓕ ▁ Ⓚ 2 0 7 1 Ⓛ ▁ Ⓘ i d Ⓙ
+Ⓜ 1 8 9 Ⓝ ▁ Ⓔ × L i v e r n o i s ▁ E t i e n n e ± ▁ L i v e r n e t → J o s e p h ▁ a c h i l e Ⓕ ▁ Ⓚ 2 0 7 2 Ⓛ ▁ Ⓘ i d Ⓙ
+Ⓜ × 8 7 ± → 1 9 1 ↑ b i s ↓ Ⓝ ▁ Ⓔ × D e l a u g e ▁ L o u i s ± ▁ C i s e a u ▁ p ↑ r e ↓ Ⓕ ▁ Ⓚ 2 0 7 3 Ⓛ ▁ Ⓘ B o i s Ⓙ
+Ⓜ 1 6 6 Ⓝ ▁ Ⓔ L a m a r r e Ⓕ ▁ Ⓚ 2 0 7 4 Ⓛ ▁ Ⓘ T e r r e Ⓙ
+Ⓜ 1 6 6 Ⓝ ▁ Ⓔ I d e m Ⓕ ▁ Ⓚ 2 0 7 5 Ⓛ ▁ Ⓘ I d e m Ⓙ
+Ⓖ l e s ▁ f r e t t e s Ⓗ ▁ Ⓔ G a l l a i s ▁ J o s e p h Ⓕ ▁ Ⓚ 7 5 7 Ⓛ ▁ Ⓘ T e r r e Ⓙ ▁ Ⓐ 1 6 1 8 Ⓑ ▁ Ⓒ T Ⓓ
+Ⓖ § Ⓗ ▁ Ⓔ B e u r r i e r ▁ p i e r r e ▁ h o n o r é Ⓕ ▁ Ⓚ 7 5 8 Ⓛ ▁ Ⓘ v i g n e Ⓙ ▁ Ⓐ 1 6 2 0 → 1 6 2 1 → 1 6 2 2 Ⓑ ▁ Ⓒ T → V Ⓓ
+Ⓖ § Ⓗ ▁ Ⓔ B r i c e ▁ j ↑ h ↓ ▁ m a r i e Ⓕ ▁ Ⓚ 7 5 9 Ⓛ ▁ Ⓘ V . Ⓙ ▁ Ⓐ 1 6 2 3 Ⓑ ▁ Ⓒ V Ⓓ
+Ⓖ § Ⓗ ▁ Ⓔ N i c o l a s ▁ j ↑ n ↓ ▁ p h i l i p p e Ⓕ ▁ Ⓚ 7 6 0 Ⓛ ▁ Ⓘ T Ⓙ ▁ Ⓐ 1 6 2 6 Ⓑ ▁ Ⓒ T Ⓓ
+Ⓖ § Ⓗ ▁ Ⓔ P i c a r d ▁ g e o r g e s Ⓕ ▁ Ⓚ 7 6 1 Ⓛ ▁ Ⓘ V Ⓙ ▁ Ⓐ 1 6 2 5 Ⓑ ▁ Ⓒ V Ⓓ
+Ⓖ § Ⓗ ▁ Ⓔ B e u r r i e r ▁ p ↑ r e ↓ ▁ h o n o r é Ⓕ ▁ Ⓚ 7 6 2 Ⓛ ▁ Ⓘ V . Ⓙ ▁ Ⓐ 1 6 3 3 → 1 3 3 4 Ⓑ ▁ Ⓒ T → V Ⓓ
+Ⓖ § Ⓗ ▁ Ⓔ D e u ▁ j ↑ n ↓ ▁ B ↑ t e ↓ ▁ g e n d r e ▁ m a u c i u t Ⓕ ▁ Ⓚ 7 6 3 Ⓛ ▁ Ⓘ T Ⓙ ▁ Ⓐ 1 6 3 5 ▁ → 1 6 3 6 Ⓑ ▁ Ⓒ V → T Ⓓ
+Ⓖ § Ⓗ ▁ Ⓔ G u e n o t ▁ j a c q u e s Ⓕ ▁ Ⓚ 7 6 4 Ⓛ ▁ Ⓘ T Ⓙ ▁ Ⓐ 1 6 3 7 Ⓑ ▁ Ⓒ V Ⓓ
+Ⓖ § Ⓗ ▁ Ⓔ C h e n e v a s ▁ L o u i s ▁ F r u c t i d o r Ⓕ ▁ Ⓚ 7 6 5 Ⓛ ▁ Ⓘ v i g n e Ⓙ ▁ Ⓐ 1 6 4 2 Ⓑ ▁ Ⓒ V Ⓓ
+Ⓖ § Ⓗ ▁ Ⓔ C h a n t e r e l l e ▁ N i c o l a s Ⓕ ▁ Ⓚ 7 6 6 Ⓛ ▁ Ⓘ T Ⓙ ▁ Ⓐ p . 1 6 4 3 Ⓑ ▁ Ⓒ T . p l . Ⓓ
+Ⓖ § Ⓗ ▁ Ⓔ h u a r t ▁ j o s e p h Ⓕ ▁ Ⓚ 7 6 7 Ⓛ ▁ Ⓘ T Ⓙ ▁ Ⓐ p . 1 6 4 3 Ⓑ ▁ Ⓒ Ø Ⓓ
+Ⓖ § Ⓗ ▁ Ⓔ M o z e a u ▁ a n t ↑ n e ↓ ▁ L o u i s Ⓕ ▁ Ⓚ 7 6 8 Ⓛ ▁ Ⓘ T Ⓙ ▁ Ⓐ 1 6 4 7 Ⓑ ▁ Ⓒ V Ⓓ
+Ⓖ § Ⓗ ▁ Ⓔ B e t a n c o u r t ▁ a n t o i n e Ⓕ ▁ Ⓚ 7 6 9 Ⓛ ▁ Ⓘ T Ⓙ ▁ Ⓐ 1 6 4 4 Ⓑ ▁ Ⓒ V Ⓓ
+Ⓖ § Ⓗ ▁ Ⓔ C h a n e v a s ▁ v i c t o r ▁ c h ↑ e s ↓ Ⓕ ▁ Ⓚ 7 7 0 Ⓛ ▁ Ⓘ × T ± → v i g n e Ⓙ ▁ Ⓐ 1 6 4 5 → 1 6 4 6 Ⓑ ▁ Ⓒ V Ⓓ
+Ⓖ g r a n d e ▁ r u e → Ⓗ ▁ Ⓔ S a i n t ▁ L a u r e n t ▁ ( b a r o n ▁ d e ) Ⓕ ▁ Ⓚ 4 1 Ⓛ ▁ Ⓘ j a r d i n ▁ p . Ⓙ
+Ⓖ d e ▁ s t - m a n d é Ⓗ ▁ Ⓔ i d e m Ⓕ ▁ Ⓚ 4 2 Ⓛ ▁ Ⓘ j a r d i n ▁ p . Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ i d e m Ⓕ ▁ Ⓚ 4 3 Ⓛ ▁ Ⓘ j a r d i n ▁ p . Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ i d e m Ⓕ ▁ Ⓚ 4 4 Ⓛ ▁ Ⓘ s o l Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ i d e m Ⓕ ▁ Ⓚ 4 4 Ⓛ ▁ Ⓘ m a i s o n Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ i d e m Ⓕ ▁ Ⓚ 4 5 Ⓛ ▁ Ⓘ s o l ▁ e t ▁ c o u r e Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ i d e m Ⓕ ▁ Ⓚ 4 5 Ⓛ ▁ Ⓘ m ↑ o n ↓ ▁ e t ▁ b ↑ t ↓ Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ i d e m Ⓕ ▁ Ⓚ 4 6 Ⓛ ▁ Ⓘ j a r d i n ▁ d ' a g t Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ i d e m Ⓕ ▁ Ⓚ 4 7 Ⓛ ▁ Ⓘ s o l Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ i d e m Ⓕ ▁ Ⓚ 4 7 Ⓛ ▁ Ⓘ m a i s o n Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ i d Ⓕ ▁ Ⓚ 4 7 ↑ b i s ↓ Ⓛ ▁ Ⓘ p a v i l l o n Ⓙ
+Ⓖ a v e n u e ▁ d u → b e l ▁ a i r Ⓗ ▁ Ⓔ S a i n t ▁ M a n d é ▁ ( c o m m u n e ▁ d e ) Ⓕ ▁ Ⓚ 4 8 Ⓛ ▁ Ⓘ j a r d i n Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ i d e m Ⓕ ▁ Ⓚ 4 9 Ⓛ ▁ Ⓘ s o l ▁ e t ▁ c o u r Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ i d e m Ⓕ ▁ Ⓚ 4 9 Ⓛ ▁ Ⓘ m a i r i e Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ i d e m Ⓕ ▁ Ⓚ 5 0 Ⓛ ▁ Ⓘ J a r d i n Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ i d e m Ⓕ ▁ Ⓚ 5 1 Ⓛ ▁ Ⓘ j a r d i n Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ i d e m Ⓕ ▁ Ⓚ 5 2 Ⓛ ▁ Ⓘ j a r d i n Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ i d e m Ⓕ ▁ Ⓚ 5 3 Ⓛ ▁ Ⓘ J a r d i n Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ L ' E t a t Ⓕ ▁ Ⓚ 5 4 Ⓛ ▁ Ⓘ s o l Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ i d e m Ⓕ ▁ Ⓚ 5 4 Ⓛ ▁ Ⓘ m a i s o n ▁ d e → g a r d e Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ i d e m Ⓕ ▁ Ⓚ 5 5 Ⓛ ▁ Ⓘ s o l Ⓙ
+Ⓖ L e s ▁ P i e r y s Ⓗ ▁ Ⓔ M o u s c a d e t ▁ p i e r r e ▁ l o u i s Ⓕ ▁ Ⓚ 1 3 7 8 Ⓛ ▁ Ⓘ v i g n e Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ R a m e a u ▁ h e l v e t u i s ▁ f r a n ç o i s Ⓕ ▁ Ⓚ 1 3 7 9 Ⓛ ▁ Ⓘ v i g n e Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ C o i f f i e r ▁ c h a r l e s ▁ a r m a n d Ⓕ ▁ Ⓚ 1 3 8 0 Ⓛ ▁ Ⓘ T Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ C ↑ i e ↓ ▁ d e s ▁ c h ↑ i n s ↓ ▁ d e ▁ f e r ▁ d e ▁ l ' e s t Ⓕ ▁ Ⓚ 1 3 8 0 Ⓛ ▁ Ⓘ T Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ i d Ⓕ ▁ Ⓚ 1 3 8 0 Ⓛ ▁ Ⓘ T Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ v o i e ▁ p u b l i q u e Ⓕ ▁ Ⓚ 1 3 8 0 Ⓛ ▁ Ⓘ T Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ C ↑ i e ↓ ▁ d e s ▁ c h e m i n s ▁ d e ▁ f e r ▁ d e ▁ l ' E s t Ⓕ ▁ Ⓚ 1 3 8 1 Ⓛ ▁ Ⓘ v i g n e Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ M e y e r ▁ p h i l i p p e Ⓕ ▁ Ⓚ 1 3 8 1 Ⓛ ▁ Ⓘ § Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ i d Ⓕ ▁ Ⓚ 1 3 8 1 Ⓛ ▁ Ⓘ § Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ v o i e ▁ p u b l i q u e Ⓕ ▁ Ⓚ 1 3 8 1 Ⓛ ▁ Ⓘ § Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ B a u d i e r ▁ l o u i s ▁ a u g u s t e Ⓕ ▁ Ⓚ 1 3 8 2 Ⓛ ▁ Ⓘ T Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ L a p i e ▁ L é o n ▁ l o u i s Ⓕ ▁ Ⓚ 1 3 8 3 Ⓛ ▁ Ⓘ T Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ S o u d i e u x ▁ c h a r l e s ▁ l o u i s Ⓕ ▁ Ⓚ 1 3 8 4 Ⓛ ▁ Ⓘ T Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ C o i f f i e r ▁ P i e r r e ▁ L o u i s Ⓕ ▁ Ⓚ 1 3 8 5 Ⓛ ▁ Ⓘ T Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ C ↑ i e ↓ ▁ C h ↑ i n s ↓ ▁ d e ▁ f e r ▁ d e ▁ l ' e s t Ⓕ ▁ Ⓚ 1 3 8 6 Ⓛ ▁ Ⓘ v i g n e Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ L a l e g é r y ▁ E m m a n u e l ▁ d é s i r é Ⓕ ▁ Ⓚ 1 3 8 6 Ⓛ ▁ Ⓘ § Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ v o i e ▁ p u b l i q u e Ⓕ ▁ Ⓚ 1 3 8 6 Ⓛ ▁ Ⓘ § Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ C o i f f i e r ▁ P i e r r e ▁ L o u i s Ⓕ ▁ Ⓚ 1 3 8 7 Ⓛ ▁ Ⓘ v i g n e Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ C ↑ i e ↓ ▁ d e s ▁ c h ↑ i n s ↓ ▁ d e ▁ f e r ▁ d e ▁ l ' E s t Ⓕ ▁ Ⓚ 1 3 8 7 Ⓛ ▁ Ⓘ § Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ v o i e ▁ p u b l i q u e Ⓕ ▁ Ⓚ 1 3 8 7 Ⓛ ▁ Ⓘ § Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ F o u c a u l t ▁ P i e r r e ▁ L o u i s ▁ a l p h o n s e Ⓕ ▁ Ⓚ 1 3 8 8 Ⓛ ▁ Ⓘ T Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ i d Ⓕ ▁ Ⓚ 1 3 8 9 Ⓛ ▁ Ⓘ T Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ B a t a i l l e ▁ l o u i s e ▁ E u g é n i e ▁ J o s é p h i n e Ⓕ ▁ Ⓚ 1 3 9 0 Ⓛ ▁ Ⓘ T Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ C ↑ i e ↓ ▁ d e s ▁ c h e m i n s ▁ d e ▁ f e r ▁ d e ▁ l ' e s t Ⓕ ▁ Ⓚ 1 3 9 0 Ⓛ ▁ Ⓘ T Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ v o i e ▁ p u b l i q u e Ⓕ ▁ Ⓚ 1 3 9 0 Ⓛ ▁ Ⓘ T Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ B e u z e v i l l e ▁ J e a n ▁ l o u i s Ⓕ ▁ Ⓚ 1 3 9 1 Ⓛ ▁ Ⓘ v i g n e Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ C ↑ i e ↓ ▁ d e s ▁ c h e m i n s ▁ d e ▁ f e r ▁ d e ▁ l ' E s t Ⓕ ▁ Ⓚ 1 3 9 1 Ⓛ ▁ Ⓘ § Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ v o i e ▁ p u b l i q u e Ⓕ ▁ Ⓚ 1 3 9 1 Ⓛ ▁ Ⓘ § Ⓙ
+Ⓖ R u e ▁ d u ▁ v i e u x ▁ C h e m i n → d e ▁ c h a r e n t o n Ⓗ ▁ Ⓔ M a n g o n ▁ m a r i e ▁ m a r c , ▁ r u e → d u ▁ c h e m i n ▁ v e r t Ⓕ ▁ Ⓚ 6 4 9 Ⓛ ▁ Ⓘ J a r d i n Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ B o u l m i e r ▁ h o n o r é , ▁ r u e ▁ d u ▁ v i e u x → c h e m i n ▁ d e ▁ c h a r e n t o n Ⓕ ▁ Ⓚ 6 5 0 Ⓛ ▁ Ⓘ s o l Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ B o u l m i e r ▁ f r a n ç o i s ▁ i d Ⓕ ▁ Ⓚ 6 5 0 Ⓛ ▁ Ⓐ m a i s o n Ⓑ
+Ⓖ § Ⓗ ▁ Ⓔ B o u l m i e r ▁ f r a n ç o i s ▁ i d Ⓕ ▁ Ⓚ 6 5 1 Ⓛ ▁ Ⓘ J a r d i n Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ P r u n i o s ▁ J e a n , ▁ g e n d r e ▁ m o r e a u → r u e ▁ d u ▁ c h e m i n ▁ v e r t Ⓕ ▁ Ⓚ 6 5 2 Ⓛ ▁ Ⓘ J a r d i n Ⓙ
+Ⓖ R u e ▁ d u ▁ C h e m i n ▁ v e r t Ⓗ ▁ Ⓔ P r u n i o s ▁ J e a n , ▁ g e n d r e ▁ m o r e a u → i d Ⓕ ▁ Ⓚ 6 5 3 Ⓛ ▁ Ⓘ s o l Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ P r u n i o s ▁ J e a n , ▁ g e n d r e ▁ m o r e a u → i d Ⓕ ▁ Ⓚ 6 5 3 Ⓛ ▁ Ⓘ m a i s o n Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ R o y e r ▁ J e a n ▁ l o u i s ▁ m a t h i e u ▁ r u e → d u ▁ v i e u x ▁ C h ↑ m i n ↓ ▁ d e ▁ c h a r e n t o n Ⓕ ▁ Ⓚ 6 5 4 Ⓛ ▁ Ⓘ J a r d i n Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ R o y e r ▁ J e a n ▁ l o u i s ▁ m a t h i e u ▁ i d Ⓕ ▁ Ⓚ 6 5 5 Ⓛ ▁ Ⓘ T e r r e Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ d e ▁ N i c o l a ï ▁ L e ▁ m a r q u i s Ⓕ ▁ Ⓚ 6 5 5 ↑ b i s ↓ Ⓛ ▁ Ⓘ c o n t r e - a l l é e Ⓙ
+Ⓖ a l l é e ▁ d e s ▁ n o y e r s Ⓗ ▁ Ⓔ d e ▁ N i c o l a ï ▁ i d Ⓕ ▁ Ⓚ 6 5 6 Ⓛ ▁ Ⓘ T e r r e ▁ p l a n t é e Ⓙ
+Ⓖ R o u t e ▁ d e ▁ c h a r e n t o n Ⓗ ▁ Ⓔ d e ▁ N i c o l a ï ▁ i d Ⓕ ▁ Ⓚ 6 5 7 Ⓛ ▁ Ⓘ T e r r e Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ C o n t o u r ▁ G a b r i e l ▁ l e ▁ j e u n e , ▁ à → f r a n c v i l l i e r s Ⓕ ▁ Ⓚ 6 5 8 Ⓛ ▁ Ⓘ J a r d i n Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ C o n t o u r ▁ G a b r i e l ▁ l e ▁ j e u n e ▁ i d Ⓕ ▁ Ⓚ 6 5 9 Ⓛ ▁ Ⓘ j a r d . ▁ d ' a g r e m n t Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ C o n t o u r ▁ G a b r i e l ▁ l e ▁ j e u n e ▁ i d Ⓕ ▁ Ⓚ 6 6 0 Ⓛ ▁ Ⓘ s o l Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ F l e u r y ▁ p i e r r e , ▁ t r a i t e u r , ▁ r o u t e → d e ▁ c h a r e n t o n Ⓕ ▁ Ⓚ 6 6 0 Ⓛ ▁ Ⓘ m a i s o n Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ C o n t o u r ▁ G a b r i e l ▁ l e ▁ j e u n e , ▁ à → f r a n c v i l l i e r s Ⓕ ▁ Ⓚ 6 6 1 Ⓛ ▁ Ⓘ s o l Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ M a r c h a n d ▁ J e a n ▁ C h a r l e s → c a b a r e t i e r ▁ r o u t e ▁ d e ▁ c h a r e n t o n Ⓕ ▁ Ⓚ 6 6 1 Ⓛ ▁ Ⓘ m a i s o n Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ C o n t o u r ▁ G a b r i e l ▁ j e u n e Ⓕ ▁ Ⓚ 6 6 2 Ⓛ ▁ Ⓘ s o l Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ G a u d i n - D e s s e v a l ▁ J e a n → G e r m a i n , ▁ r o u t e ▁ d e ▁ c h a r e n t o n Ⓕ ▁ Ⓚ 6 6 2 Ⓛ ▁ Ⓘ m a i s o n Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ R o y e r ▁ J e a n ▁ l o u i s , ▁ r o u t e ▁ d e → c h a r e n t o n Ⓕ ▁ Ⓚ 6 6 4 Ⓛ ▁ Ⓘ s o l Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ R o y e r ▁ J e a n ▁ l o u i s ▁ m a r c ▁ i d Ⓕ ▁ Ⓚ 6 6 4 Ⓛ ▁ Ⓘ b â t i m e n t Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ R o y e r ▁ J e a n ▁ l o u i s ▁ m a r c ▁ i d Ⓕ ▁ Ⓚ 6 6 5 Ⓛ ▁ Ⓘ s o l Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ G i t a r d ▁ V e u v e , ▁ r u e ▁ d e s ▁ c h a r b o n n i e r s → à ▁ P a r i s Ⓕ ▁ Ⓚ 6 6 5 Ⓛ ▁ Ⓘ m a i s o n Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ R o y e r ▁ J e a n ▁ l o u i s ▁ m a r c , ▁ r o u t e → d e ▁ c h a r e n t o n Ⓕ ▁ Ⓚ 6 6 6 Ⓛ ▁ Ⓘ J a r d ▁ d ' a g t Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ R o y e r ▁ J e a n ▁ l o u i s ▁ m a r c ▁ i d Ⓕ ▁ Ⓚ 6 6 7 Ⓛ ▁ Ⓘ s o l Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ R o y e r ▁ J e a n ▁ l o u i s ▁ m a r c ▁ i d Ⓕ ▁ Ⓚ 6 6 7 Ⓛ ▁ Ⓘ m a i s o n Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ R o y e r ▁ J e a n ▁ l o u i s ▁ m a r c ▁ i d Ⓕ ▁ Ⓚ 6 6 8 Ⓛ ▁ Ⓘ s o l Ⓙ
+Ⓖ L a ▁ p e t i t e ▁ j a r d i n e Ⓗ ▁ Ⓔ C o l o m b i e r ▁ j e a n ▁ g e r m a i n Ⓕ ▁ Ⓚ 8 0 Ⓛ ▁ Ⓘ T e r r e Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ C o l o m b i e r ▁ j e a n ▁ g e r m a i n Ⓕ ▁ Ⓚ 8 1 Ⓛ ▁ Ⓘ T e r r e Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ D e f r e s n e ▁ J ↑ n ↓ ▁ J ↑ q u e s ↓ ▁ l o u i s Ⓕ ▁ Ⓚ 8 2 Ⓛ ▁ Ⓘ T e r r e Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ B o u q u e t ▁ C o u s i n Ⓕ ▁ Ⓚ 8 3 Ⓛ ▁ Ⓘ T e r r e Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ L e p r i n c e ▁ a ▁ V i t r y → × B a r r e ▁ J ↑ n ↓ ▁ l o u i s ▁ d a v i d ▁ m a u r i c e ± Ⓕ ▁ Ⓚ 8 4 Ⓛ ▁ Ⓘ T e r r e Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ S e r g e n t ▁ l o u i s ▁ m a r i e ▁ v i c t o r Ⓕ ▁ Ⓚ 8 5 Ⓛ ▁ Ⓘ × P l a n t a t i o n ± → p é p i n i è r e Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ s e r g e n t ▁ l o u i s ▁ m a r i e ▁ v i c t o r Ⓕ ▁ Ⓚ 8 6 Ⓛ ▁ Ⓘ T e r r e Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ B o u r d i l l a t ▁ J e a n Ⓕ ▁ Ⓚ 8 7 Ⓛ ▁ Ⓘ T e r r e Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ S e r g e n t ▁ m a r i e ▁ d e n i s ▁ a l p h o n s e Ⓕ ▁ Ⓚ 8 8 Ⓛ ▁ Ⓘ T e r r e Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ s e r g e n t ▁ m a r i e ▁ d e n i s ▁ a l p h o n s e Ⓕ ▁ Ⓚ 8 9 Ⓛ ▁ Ⓘ × P l a n t a t i o n ± → p e p i n i è r e Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ s e r g e n t ▁ m a r i e ▁ d e n i s ▁ a l p h o n s e Ⓕ ▁ Ⓚ 9 0 Ⓛ ▁ Ⓘ T e r r e Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ s e r g e n t ▁ m a r i e ▁ d e n i s ▁ a l p h o n s e Ⓕ ▁ Ⓚ 9 1 Ⓛ ▁ Ⓘ T e r r e Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ s e r g e n t ▁ m a r i e ▁ d e n i s ▁ a l p h o n s e Ⓕ ▁ Ⓚ 9 2 Ⓛ ▁ Ⓘ × P l a n t a t i o n ± → p é p i n i è r e Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ s e r g e n t ▁ m a r i e ▁ d e n i s ▁ a l p h o n s e Ⓕ ▁ Ⓚ 9 3 Ⓛ ▁ Ⓘ T e r r e Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ J ↑ n ↓ ▁ J ↑ q u e s ↓ ▁ d e n i s → G o d e f r o y ▁ × d e n i s ▁ c h ↑ r e ↓ ± Ⓕ ▁ Ⓚ 9 4 Ⓛ ▁ Ⓘ T e r r e Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ M a s s u e t ▁ l o u i s ▁ g a s p a r d Ⓕ ▁ Ⓚ 9 5 Ⓛ ▁ Ⓘ T e r r e Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ a d a m ▁ J ↑ n ↓ ▁ s u l p i c e ▁ l e s ▁ h ↑ e r s ↓ → × f l e u r y ▁ j e a n ▁ f ↑ o i s ↓ Ⓕ ▁ Ⓚ 9 6 Ⓛ ▁ Ⓘ T e r r e Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ P r a g u e t ▁ g e r m a i n ▁ m a t h u r i n Ⓕ ▁ Ⓚ 9 7 Ⓛ ▁ Ⓘ T e r r e Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ V a u d o y e r ▁ h o n o r é ▁ l o u i s Ⓕ ▁ Ⓚ 9 8 Ⓛ ▁ Ⓘ T e r r e Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ G a b i l l o t ▁ c l a u d e ▁ l a m b e r t Ⓕ ▁ Ⓚ 9 9 Ⓛ ▁ Ⓘ T e r r e Ⓙ
+Ⓖ L e s ▁ P i e r y s Ⓗ ▁ Ⓔ T h é v e n a r d ▁ L o u i s ▁ a d r i e n Ⓕ ▁ Ⓚ 1 3 9 2 Ⓛ ▁ Ⓘ T Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ C ↑ i e ↓ ▁ d e s ▁ c h e ↑ i n s ↓ ▁ d e ▁ f e r ▁ d e ▁ l ' E s t Ⓕ ▁ Ⓚ 1 3 9 3 Ⓛ ▁ Ⓘ v i g n e Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ L e d o u x ▁ a l e x a n d r e ▁ e u g è n e Ⓕ ▁ Ⓚ 1 3 9 3 Ⓛ ▁ Ⓘ § Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ v o i e ▁ p u b l i q u e Ⓕ ▁ Ⓚ 1 3 9 3 Ⓛ ▁ Ⓘ § Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ C o i f f i e r ▁ C h a r l e s ▁ a r m a n d Ⓕ ▁ Ⓚ 1 3 9 4 Ⓛ ▁ Ⓘ v i g n e Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ L e d o u x ▁ a l e x a n d r e ▁ e u g è n e Ⓕ ▁ Ⓚ 1 3 9 5 Ⓛ ▁ Ⓘ i d Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ C ↑ i e ↓ ▁ d e s ▁ c h e m i n s ▁ d e ▁ f e r ▁ d e ▁ l ' E s t Ⓕ ▁ Ⓚ 1 3 9 6 Ⓛ ▁ Ⓘ v i g n e Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ L e d o u x ▁ a l e x a n d r e ▁ e u g è n e Ⓕ ▁ Ⓚ 1 3 9 6 Ⓛ ▁ Ⓘ § Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ v o i e ▁ p u b l i q u e Ⓕ ▁ Ⓚ 1 3 9 6 Ⓛ ▁ Ⓘ § Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ C ↑ i e ↓ ▁ d e s ▁ c h ↑ m i n s ↓ ▁ d e ▁ f e r ▁ d e ▁ l ' E s t Ⓕ ▁ Ⓚ 1 3 9 7 Ⓛ ▁ Ⓘ T Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ i d Ⓕ ▁ Ⓚ 1 3 9 8 p Ⓛ ▁ Ⓘ T Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ T h é v e n a r d ▁ l o u i s ▁ a d r i e n Ⓕ ▁ Ⓚ 1 3 9 8 Ⓛ ▁ Ⓘ T Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ v o i e ▁ p u b l i q u e Ⓕ ▁ Ⓚ 1 3 9 8 Ⓛ ▁ Ⓘ T Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ M a r i n i e r ▁ f r a n c i s ▁ b a r t h é l e m y Ⓕ ▁ Ⓚ 1 3 9 9 Ⓛ ▁ Ⓘ T Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ A n c e l e t ▁ C h a r l e s ▁ D o m i n i q u e Ⓕ ▁ Ⓚ 1 4 0 0 Ⓛ ▁ Ⓘ P â t u r e Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ B é c h e r e t ▁ J e a n ▁ B ↑ t e ↓ ▁ f i l s Ⓕ ▁ Ⓚ 1 4 0 1 Ⓛ ▁ Ⓘ v i g n e Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ S o u d r i e u x ▁ a d o l p h e ▁ l a u r e n t Ⓕ ▁ Ⓚ 1 4 0 2 Ⓛ ▁ Ⓘ v i g n e Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ C ↑ i e ↓ ▁ d e s ▁ c h e m i n s ▁ d e ▁ f e r ▁ d e ▁ l ' E s t Ⓕ ▁ Ⓚ 1 4 0 3 p Ⓛ ▁ Ⓘ T Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ T h é v e n a r d ▁ l o u i s ▁ a d r i e n Ⓕ ▁ Ⓚ 1 4 0 3 Ⓛ ▁ Ⓘ T Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ v o i e ▁ p u b l i q u e Ⓕ ▁ Ⓚ 1 4 0 3 Ⓛ ▁ Ⓘ T Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ B e r g e r ▁ V ↑ e ↓ ▁ B e r g e r ▁ L o u i s Ⓕ ▁ Ⓚ 1 4 0 4 p Ⓛ ▁ Ⓘ T Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ C ↑ i e ↓ ▁ d e s ▁ c h ↑ m i n s ↓ ▁ d e ▁ f e r ▁ d e ▁ l ' E s t Ⓕ ▁ Ⓚ 1 4 0 4 Ⓛ ▁ Ⓘ T Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ v o i e ▁ p u b l i q u e Ⓕ ▁ Ⓚ 1 4 0 4 Ⓛ ▁ Ⓘ T Ⓙ
+Ⓖ 2 1 Ⓗ ▁ Ⓔ L a l é g e r y ▁ D e n i s ▁ J o s e p h Ⓕ ▁ Ⓚ 1 4 0 5 Ⓛ ▁ Ⓘ T Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ B a r i l l e t ▁ l o u i s ▁ j u l e s Ⓕ ▁ Ⓚ 1 4 0 6 Ⓛ ▁ Ⓘ v i g n e Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ H é r i c o u r t ▁ l o u i s ▁ g a b r i e l Ⓕ ▁ Ⓚ 1 4 0 7 Ⓛ ▁ Ⓘ v i g n e Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ C ↑ i e ↓ ▁ C h ↑ m i n s ▁ d e ▁ f e r ▁ d e ▁ l ' E s t Ⓕ ▁ Ⓚ 1 4 0 8 p Ⓛ ▁ Ⓘ T Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ S o u d r i e u x ▁ l o u i s ▁ j o s e p h Ⓕ ▁ Ⓚ 1 4 0 8 Ⓛ ▁ Ⓘ T Ⓙ
+Ⓖ f a u c o n n i e r e s Ⓗ ▁ Ⓔ C l e r e ▁ J e a n ▁ J a c q u e s Ⓕ ▁ Ⓚ 8 5 Ⓛ ▁ Ⓘ T Ⓙ ▁ Ⓐ P . 2 5 3 Ⓑ ▁ Ⓒ T Ⓓ
+Ⓖ Ø Ⓗ ▁ Ⓔ i d Ⓕ ▁ Ⓚ 8 6 Ⓛ ▁ Ⓘ T Ⓙ ▁ Ⓐ P . 2 5 3 Ⓑ ▁ Ⓒ T Ⓓ
+Ⓖ Ø Ⓗ ▁ Ⓔ B i l l a r d Ⓕ ▁ Ⓚ 8 7 Ⓛ ▁ Ⓘ T Ⓙ ▁ Ⓐ P . 2 5 2 Ⓑ ▁ Ⓒ T Ⓓ
+Ⓖ Ø Ⓗ ▁ Ⓔ i d Ⓕ ▁ Ⓚ 8 8 Ⓛ ▁ Ⓘ T Ⓙ ▁ Ⓐ P . 2 5 2 Ⓑ ▁ Ⓒ T Ⓓ
+Ⓖ Ø Ⓗ ▁ Ⓔ J o l l y ▁ J e a n ▁ L o u i s Ⓕ ▁ Ⓚ 8 9 Ⓛ ▁ Ⓘ T Ⓙ ▁ Ⓐ P . 2 5 1 Ⓑ ▁ Ⓒ T Ⓓ
+Ⓖ ø Ⓗ ▁ Ⓔ i d Ⓕ ▁ Ⓚ 9 0 Ⓛ ▁ Ⓘ T Ⓙ ▁ Ⓐ p . ▁ 2 5 1 Ⓑ ▁ Ⓒ T Ⓓ
+Ⓖ Ø Ⓗ ▁ Ⓔ V i n c e n t , ▁ L ↑ i s ↓ ▁ J u l i e n → A l e x a n d r e Ⓕ ▁ Ⓚ 9 1 Ⓛ ▁ Ⓘ T Ⓙ ▁ Ⓐ P 2 5 0 Ⓑ ▁ Ⓒ T Ⓓ
+Ⓖ Ø Ⓗ ▁ Ⓔ i d Ⓕ ▁ Ⓚ 9 2 Ⓛ ▁ Ⓘ T Ⓙ ▁ Ⓐ P . 2 5 0 Ⓑ ▁ Ⓒ T Ⓓ
+Ⓖ Ø Ⓗ ▁ Ⓔ C o l l e t , ▁ J e a n ▁ F ↑ o i s ↓ ▁ N ↑ a s ↓ Ⓕ ▁ Ⓚ 9 3 Ⓛ ▁ Ⓘ T Ⓙ ▁ Ⓐ P . 2 4 9 Ⓑ ▁ Ⓒ T Ⓓ
+Ⓖ ø Ⓗ ▁ Ⓔ i d Ⓕ ▁ Ⓚ 9 4 Ⓛ ▁ Ⓘ T Ⓙ ▁ Ⓐ p . 2 4 9 Ⓑ ▁ Ⓒ T Ⓓ
+Ⓖ Ø Ⓗ ▁ Ⓔ C o l l e t , ▁ F ↑ o i s ↓ ▁ L o u i s Ⓕ ▁ Ⓚ 9 5 Ⓛ ▁ Ⓘ T Ⓙ ▁ Ⓐ P . 2 4 8 Ⓑ ▁ Ⓒ T Ⓓ
+Ⓖ Ø Ⓗ ▁ Ⓔ i d Ⓕ ▁ Ⓚ 9 6 Ⓛ ▁ Ⓘ T Ⓙ ▁ Ⓐ P . 2 4 8 Ⓑ ▁ Ⓒ T Ⓓ
+Ⓖ Ø Ⓗ ▁ Ⓔ G a l l e t ▁ J e a n ▁ F ↑ o i s ↓ Ⓕ ▁ Ⓚ 9 7 Ⓛ ▁ Ⓘ T Ⓙ ▁ Ⓐ P . 2 4 5 Ⓑ ▁ Ⓒ T Ⓓ
+Ⓖ Ø Ⓗ ▁ Ⓔ i d Ⓕ ▁ Ⓚ 9 8 Ⓛ ▁ Ⓘ T Ⓙ ▁ Ⓐ P . 2 4 5 Ⓑ ▁ Ⓒ T Ⓓ
+Ⓖ L e ▁ p e t i t ▁ p o n t Ⓗ ▁ Ⓔ P i l l e t ▁ G ↑ ❌ ❌ ❌ ↓ ▁ l o ❌ ❌ ❌ ❌ ▁ r u e ▁ d e ▁ l a ▁ g ❌ r n e ▁ 2 Ⓕ ▁ Ⓚ 4 1 Ⓛ ▁ Ⓘ V i g n e Ⓙ
+Ⓖ i d Ⓗ ▁ Ⓔ P i l l e t ▁ g ↑ a i ↓ ▁ L o ❌ ❌ ❌ ▁ i d Ⓕ ▁ Ⓚ 4 2 Ⓛ ▁ Ⓘ V i g n e Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ C o c h e t ▁ N ↑ a s ↓ ▁ f i l s ▁ r u e ▁ d e ▁ P a r i s ▁ 9 Ⓕ ▁ Ⓚ 4 3 Ⓛ ▁ Ⓘ T e r r e Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ P i l l e t ▁ A n d ↑ e ↓ ▁ J ↑ ❌ ❌ ❌ ↓ ▁ m a r i e ▁ r u e ▁ d u ▁ f o u r ▁ 1 6 Ⓕ ▁ Ⓚ 4 4 Ⓛ ▁ Ⓘ T e r r e Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ M u z a r d ▁ P ↑ r e ↓ ▁ m a r i e ▁ r u e ▁ d u ▁ L i é g a t Ⓕ ▁ Ⓚ 4 5 Ⓛ ▁ Ⓘ V i g n e Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ P i l l e t ▁ G ↑ a i n ↓ ▁ l o ❌ ❌ ❌ ❌ ▁ r u e ▁ d e ▁ l a ▁ g ❌ r n e ▁ 2 Ⓕ ▁ Ⓚ 4 6 Ⓛ ▁ Ⓘ V i g n e Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ D u b o i s ▁ E u g è n e ▁ J ↑ h ↓ ▁ N a p o l é o n ▁ à ▁ V i t r y Ⓕ ▁ Ⓚ 4 7 Ⓛ ▁ Ⓘ T e r r e Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ D u b o i s ▁ i d Ⓕ ▁ Ⓚ 4 8 Ⓛ ▁ Ⓘ T e r r e Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ I v r y ▁ l a ▁ C o m m u n e Ⓕ ▁ Ⓚ 4 9 Ⓛ ▁ Ⓘ a n c i e n ▁ c h e m i n Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ I v r y ▁ l a ▁ C o m m u n e Ⓕ ▁ Ⓚ 5 0 Ⓛ ▁ Ⓘ a n c i e n ▁ c h e m i n Ⓙ
+Ⓖ V o i e ▁ d e s ▁ N o y e r s Ⓗ ▁ Ⓔ S e r i z e ▁ à ▁ P a r i s Ⓕ ▁ Ⓚ 5 1 Ⓛ ▁ Ⓘ T e r r e Ⓙ
+Ⓖ i d Ⓗ ▁ Ⓔ S e r i z e Ⓕ ▁ Ⓚ 5 2 Ⓛ ▁ Ⓘ V i g n e Ⓙ
+Ⓖ i d Ⓗ ▁ Ⓔ S e r i z e ▁ i d Ⓕ ▁ Ⓚ 5 3 Ⓛ ▁ Ⓘ V i g n e Ⓙ
+Ⓖ i d Ⓗ ▁ Ⓔ S e r i z e ▁ i d Ⓕ ▁ Ⓚ 5 4 Ⓛ ▁ Ⓘ V i g n e Ⓙ
+Ⓖ R u e ▁ d e ▁ B e a u v a i s Ⓗ ▁ Ⓔ S e r i z e ▁ i d Ⓕ ▁ Ⓚ 5 5 Ⓛ ▁ Ⓘ T e r r e Ⓙ
+Ⓖ i d Ⓗ ▁ Ⓔ S e r i z e ▁ i d Ⓕ ▁ Ⓚ 5 6 Ⓛ ▁ Ⓘ R o u t e → × V i g n e ± Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ S e r i z e ▁ i d Ⓕ ▁ Ⓚ 5 7 Ⓛ ▁ Ⓘ R o u t e → × V i g n e ± Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ S e r i z e ▁ i d Ⓕ ▁ Ⓚ 5 8 Ⓛ ▁ Ⓘ T e r r e Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ S e r i z e ▁ i d Ⓕ ▁ Ⓚ 5 9 Ⓛ ▁ Ⓘ V i g n e Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ G r a t t e y ▁ r u e ▁ m o n g o l f i e r Ⓕ ▁ Ⓚ 6 0 Ⓛ ▁ Ⓘ B a t i m e n t Ⓙ
+Ⓖ R u e ▁ d e → B e a u v a i s Ⓗ ▁ Ⓔ G r a t t é × y ± ▁ r u e ▁ m o n t g o l f i e r Ⓕ ▁ Ⓚ 6 1 Ⓛ ▁ Ⓘ J a r d i n Ⓙ
+Ⓖ i d Ⓗ ▁ Ⓔ G r a t t é × y ± ▁ i d Ⓕ ▁ Ⓚ 6 2 Ⓛ ▁ Ⓘ m a i s o n Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ i d Ⓕ ▁ Ⓚ 6 2 Ⓛ ▁ Ⓘ s o l Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ G r a t t é × y ± ▁ i d Ⓕ ▁ Ⓚ 6 3 Ⓛ ▁ Ⓘ s o l Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ i d Ⓕ ▁ Ⓚ 6 3 Ⓛ ▁ Ⓘ m a i s o n Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ S e r i z e ▁ à ▁ P a r i s Ⓕ ▁ Ⓚ 6 4 Ⓛ ▁ Ⓘ B â t i m e n t Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ S é r i z e ▁ à ▁ i d Ⓕ ▁ Ⓚ 6 5 Ⓛ ▁ Ⓘ V i g n e Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ S e r i z e ▁ à ▁ i d Ⓕ ▁ Ⓚ 6 6 Ⓛ ▁ Ⓘ × J a r d i n ± → T e r r e Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ S e r i z e ▁ à ▁ i d Ⓕ ▁ Ⓚ 6 7 Ⓛ ▁ Ⓘ p a s s a g e Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ D y é ▁ E d m e ▁ à ▁ P a r i s ▁ r u e ▁ R o y e r ▁ C o l l a r d Ⓕ ▁ Ⓚ 6 8 Ⓛ ▁ Ⓘ J a r d i n Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ D y é ▁ E d m e ▁ i d Ⓕ ▁ Ⓚ 6 9 Ⓛ ▁ Ⓘ s o l Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ i d Ⓕ ▁ Ⓚ 6 9 Ⓛ ▁ Ⓘ m a i s o n Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ A m i o t ▁ J ↑ n ↓ ▁ f l o r e n t i n ▁ à ▁ p . ▁ f r a m b o u r g Ⓕ ▁ Ⓚ 7 0 Ⓛ ▁ Ⓘ J a r d i n Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ A m i o t ▁ i d Ⓕ ▁ Ⓚ 7 1 Ⓛ ▁ Ⓘ J a r d i n → × B a s ▁ d ' a g r e m e n t ± Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ A m i o t ▁ i d Ⓕ ▁ Ⓚ 7 2 Ⓛ ▁ Ⓘ s o l Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ i d Ⓕ ▁ Ⓚ 7 2 Ⓛ ▁ Ⓘ m a i s o n Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ A m i o t ▁ i d Ⓕ ▁ Ⓚ 7 3 Ⓛ ▁ Ⓘ s o l Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ i d Ⓕ ▁ Ⓚ 7 3 Ⓛ ▁ Ⓘ m a i s o n Ⓙ
+Ⓖ P l a c e ▁ S ↑ t ↓ → f r a m b o u r g Ⓗ ▁ Ⓔ A m i o t ▁ i d Ⓕ ▁ Ⓚ 7 4 Ⓛ ▁ Ⓘ s o l Ⓙ
+Ⓖ i d Ⓗ ▁ Ⓔ i d Ⓕ ▁ Ⓚ 7 4 Ⓛ ▁ Ⓘ m a i s o n Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ × A m i o t ▁ i d ± Ⓕ ▁ Ⓚ × 7 5 ± Ⓛ ▁ Ⓘ × B a t ± Ⓙ
+Ⓜ 3 2 6 Ⓝ ▁ Ⓔ M i l l i n ▁ G e r o g e s ▁ m a r i e Ⓕ ▁ Ⓚ 1 2 9 ↑ b i s ↓ Ⓛ ▁ Ⓘ P r é Ⓙ
+Ⓜ 3 2 5 Ⓝ ▁ Ⓔ M i l l i n ▁ a l e x ↑ r e ↓ ▁ R o b e r t Ⓕ ▁ Ⓚ 1 3 0 Ⓛ ▁ Ⓘ t e r Ⓙ
+Ⓔ × L e ▁ m ê m e ± ▁ N u l Ⓕ ▁ Ⓚ × 1 3 1 ± Ⓛ ▁ Ⓘ × i d ± Ⓙ
+Ⓜ × 1 1 2 ± → 2 8 5 ↑ b i s ↓ Ⓝ ▁ Ⓔ M ↑ r ↓ ▁ × D e l a u g e ± ▁ L o u i s Ⓕ ▁ Ⓚ 1 3 2 Ⓛ ▁ Ⓘ i d → I l e Ⓙ
+Ⓜ × 1 1 2 ± → 2 8 5 ↑ b i s ↓ Ⓝ ▁ Ⓔ L e ▁ m ê m e Ⓕ ▁ Ⓚ 1 3 2 ↑ b i s ↓ Ⓛ ▁ Ⓘ t e r r a i n ▁ p l a n t é Ⓙ
+Ⓜ × 1 1 2 ± Ⓝ ▁ Ⓔ L e ▁ m ê m e Ⓕ ▁ Ⓚ 1 3 2 ↑ 3 ° ↓ Ⓛ ▁ Ⓘ I d e m Ⓙ
+Ⓜ 3 5 6 ↑ b i s ↓ Ⓝ ▁ Ⓔ F a i n ▁ J e a n ▁ B a p t ↑ e ↓ Ⓕ ▁ Ⓚ 1 3 3 Ⓛ ▁ Ⓘ I l e ▁ t e r . ▁ e t ▁ a r b r e s Ⓙ
+Ⓜ 4 0 7 Ⓝ ▁ Ⓔ q u e r u ▁ J e a n ▁ l o u i s Ⓕ ▁ Ⓚ 1 3 3 ↑ b i s ↓ Ⓛ ▁ Ⓘ t e r , ▁ e t ▁ P r é Ⓙ
+Ⓜ 2 0 8 Ⓝ ▁ Ⓔ I s s a r d ▁ f i l s ▁ a ▁ b r y Ⓕ ▁ Ⓚ 1 3 3 ↑ 3 ° ↓ Ⓛ ▁ Ⓘ P r é ▁ e t ▁ s a u l e s Ⓙ
+Ⓜ 2 0 8 Ⓝ ▁ Ⓔ L e ▁ m ê m e Ⓕ ▁ Ⓚ 1 3 4 Ⓛ ▁ Ⓘ P r é → t e r r a i n ▁ p l a n t é Ⓙ
+Ⓜ 4 0 6 Ⓝ ▁ Ⓔ q u e r u ▁ × E t ↑ e ↓ ± ▁ f ↑ o i s ↓ ▁ N ↑ a s ↓ ▁ a ▁ b r y Ⓕ ▁ Ⓚ 1 3 4 ↑ b i s ↓ Ⓛ ▁ Ⓘ i d Ⓙ
+Ⓜ 6 4 Ⓝ ▁ Ⓔ B o n n a i r e ▁ f i l s ▁ à ▁ B r y Ⓕ ▁ Ⓚ 1 3 4 ↑ 3 ° ↓ Ⓛ ▁ Ⓘ i d Ⓙ
+Ⓜ 3 2 6 Ⓝ ▁ Ⓔ M i l l i n ▁ G e o r g e s ▁ m a r i e Ⓕ ▁ Ⓚ 1 3 5 Ⓛ ▁ Ⓘ s a b l i e r e Ⓙ
+Ⓜ 3 6 ↑ b i s ↓ → × 4 2 ± Ⓝ ▁ Ⓔ B e l l e v i l l e ▁ n ↑ l a s ↓ → × B e u z e v i l l e ▁ n ↑ a s ↓ ± ▁ à ▁ B r y Ⓕ ▁ Ⓚ 1 3 5 ↑ b i s ↓ Ⓛ ▁ Ⓘ P r é ▁ e t ▁ s a u l e s Ⓙ
+Ⓜ 3 2 6 Ⓝ ▁ Ⓔ M i l l i n ▁ G e r o g e s ▁ m a r i e Ⓕ ▁ Ⓚ 1 3 6 Ⓛ ▁ Ⓘ t e r Ⓙ
+Ⓜ 9 4 Ⓝ ▁ Ⓔ L a ▁ c o m m u n e Ⓕ ▁ Ⓚ 1 3 7 Ⓛ ▁ Ⓘ B e r g e Ⓙ
+Ⓜ 3 2 6 Ⓝ ▁ Ⓔ M i l l i n ▁ G e o r g e s ▁ m a r i e Ⓕ ▁ Ⓚ 1 3 8 Ⓛ ▁ Ⓘ T e r Ⓙ
+Ⓜ 3 2 5 Ⓝ ▁ Ⓔ M i l l i n ▁ a l e x ↑ r e ↓ ▁ R o b e r t Ⓕ ▁ Ⓚ 1 3 8 ↑ b i s ↓ Ⓛ ▁ Ⓘ i d Ⓙ
+Ⓜ 3 2 6 Ⓝ ▁ Ⓔ M i l l i n ▁ G e o r g e s ▁ m a r i e Ⓕ ▁ Ⓚ 1 4 0 Ⓛ ▁ Ⓘ o r g e ▁ e t ▁ s e i g l e Ⓙ
+Ⓜ 1 5 Ⓝ ▁ Ⓔ 1 4 1 Ⓕ ▁ Ⓚ a n c e l o t ▁ a l e x ↑ r e ↓ Ⓛ ▁ Ⓘ s e i g l e Ⓙ
+Ⓖ P o r t ▁ à ▁ l ' a n g l a i s Ⓗ ▁ Ⓔ d ↑ e ↓ ▁ v é r o n ▁ n é e ▁ L a b b é ▁ J u l i e Ⓕ ▁ Ⓚ 9 9 9 Ⓛ ▁ Ⓘ t e r r e Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ A n t r a i g u e s ▁ j e a n Ⓕ ▁ Ⓚ 1 0 0 Ⓛ ▁ Ⓘ t e r r e Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ i d Ⓕ ▁ Ⓚ § Ⓛ ▁ Ⓘ § Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ B e a u g é ▁ l o u i s Ⓕ ▁ Ⓚ § Ⓛ ▁ Ⓘ § Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ B e r t h e l o t ▁ C l a u d e Ⓕ ▁ Ⓚ § Ⓛ ▁ Ⓘ § Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ B e r t h e l o t ▁ E t i e n n e ▁ v i c t o r Ⓕ ▁ Ⓚ § Ⓛ ▁ Ⓘ § Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ B e r t h o d Ⓕ ▁ Ⓚ § Ⓛ ▁ Ⓘ § Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ B i l i o n t ▁ B e n o i t ▁ a i m é Ⓕ ▁ Ⓚ § Ⓛ ▁ Ⓘ § Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ B l e i n ▁ a i m é Ⓕ ▁ Ⓚ § Ⓛ ▁ Ⓘ § Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ B o n n i o n ▁ C h a r l o t t e ▁ é p o u s e ▁ C o l l i a r d Ⓕ ▁ Ⓚ § Ⓛ ▁ Ⓘ § Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ B r a r d ▁ G i l b e r t Ⓕ ▁ Ⓚ § Ⓛ ▁ Ⓘ § Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ C h e v a l i e r ▁ m a r t i n Ⓕ ▁ Ⓚ § Ⓛ ▁ Ⓘ § Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ § Ⓕ ▁ Ⓚ § Ⓛ ▁ Ⓘ § Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ § Ⓕ ▁ Ⓚ § Ⓛ ▁ Ⓘ § Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ § Ⓕ ▁ Ⓚ § Ⓛ ▁ Ⓘ § Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ § Ⓕ ▁ Ⓚ § Ⓛ ▁ Ⓘ § Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ C l é m e n c e t ▁ c h a r l o t t e ▁ a i m é e ▁ d ↑ e l l e ↓ Ⓕ ▁ Ⓚ § Ⓛ ▁ Ⓘ § Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ D a u b e r t ▁ g a s p a r d Ⓕ ▁ Ⓚ § Ⓛ ▁ Ⓘ § Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ D a v i d ▁ c h a r l e s ▁ v e u v e Ⓕ ▁ Ⓚ § Ⓛ ▁ Ⓘ § Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ D a v o i s ▁ l o u i s ▁ v e u v e Ⓕ ▁ Ⓚ § Ⓛ ▁ Ⓘ § Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ D e s n o y e r s Ⓕ ▁ Ⓚ § Ⓛ ▁ Ⓘ § Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ D o d u n ▁ d e ▁ K e r o m a n , ▁ l e ▁ c o m t e Ⓕ ▁ Ⓚ § Ⓛ ▁ Ⓘ § Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ D o d u n ▁ d e ▁ K é r o m a n , ▁ l a ▁ m a r q u i s e Ⓕ ▁ Ⓚ § Ⓛ ▁ Ⓘ § Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ D o d u n ▁ d e ▁ K é r o m a n ▁ a g a t h e ▁ v ↑ v e ↓ → M o u s s a c Ⓕ ▁ Ⓚ § Ⓛ ▁ Ⓘ § Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ G r a v e ▁ f r a n ç o i s ▁ h e n r i Ⓕ ▁ Ⓚ § Ⓛ ▁ Ⓘ § Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ i d Ⓕ ▁ Ⓚ § Ⓛ ▁ Ⓘ § Ⓙ
+Ⓖ P r a i r i e ▁ d e s ▁ P r e s l e s Ⓗ ▁ Ⓔ V i t r y ▁ f r a n ç o i s ▁ e t ▁ c o n s o r t s Ⓕ ▁ Ⓚ 1 0 Ⓛ ▁ Ⓘ T Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ L a l i g é r y ▁ E m m a n u e l ▁ d é s i r é Ⓕ ▁ Ⓚ 1 1 Ⓛ ▁ Ⓘ T Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ A n c e l e t ▁ l o u i s ▁ a u g u s t e ▁ e t ▁ R e t h e r s ▁ h e n r i Ⓕ ▁ Ⓚ 1 2 Ⓛ ▁ Ⓘ T Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ R e u z e v i l l e ▁ c h a r l e s ▁ a l e x i s Ⓕ ▁ Ⓚ 1 3 Ⓛ ▁ Ⓘ T Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ A n c e l e t ▁ c h a r l e s ▁ d o m i n i q u e Ⓕ ▁ Ⓚ 1 4 Ⓛ ▁ Ⓘ T Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ i d Ⓕ ▁ Ⓚ 1 5 Ⓛ ▁ Ⓘ T Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ L a i z i e r ▁ l o u i s ▁ a d o l p h e Ⓕ ▁ Ⓚ 1 6 Ⓛ ▁ Ⓘ T Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ L a l e g é r y ▁ d e n i s ▁ j o s e p h Ⓕ ▁ Ⓚ 1 7 Ⓛ ▁ Ⓘ T Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ T a r d i f ▁ D e l o r m e Ⓕ ▁ Ⓚ 1 8 Ⓛ ▁ Ⓘ T Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ i d Ⓕ ▁ Ⓚ 1 9 Ⓛ ▁ Ⓘ T Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ B e u z e v i l l e ▁ t h i m o t h é e ▁ f i l s Ⓕ ▁ Ⓚ 2 0 Ⓛ ▁ Ⓘ T Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ A n a s t a s i e Ⓕ ▁ Ⓚ 2 1 Ⓛ ▁ Ⓘ T . ▁ e t ▁ P e u p l i e r s Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ B a r b e r e t ▁ p i e r r e ▁ g e r m a i n Ⓕ ▁ Ⓚ 2 1 Ⓛ ▁ Ⓘ i d Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ R u v é e ▁ C o n s t a n t Ⓕ ▁ Ⓚ 2 1 Ⓛ ▁ Ⓘ § Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ C h a m i o t ▁ p r o p s e r Ⓕ ▁ Ⓚ 2 1 Ⓛ ▁ Ⓘ § Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ i d Ⓕ ▁ Ⓚ 2 1 Ⓛ ▁ Ⓘ § Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ C o c h o i s ▁ a l f r e d Ⓕ ▁ Ⓚ 2 1 Ⓛ ▁ Ⓘ § Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ C u c h e t ▁ a u g u s t e ▁ M a r i u s Ⓕ ▁ Ⓚ 2 1 Ⓛ ▁ Ⓘ § Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ i d Ⓕ ▁ Ⓚ 2 1 Ⓛ ▁ Ⓘ § Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ D e l o r m e ▁ é d o u a r d Ⓕ ▁ Ⓚ 2 1 Ⓛ ▁ Ⓘ § Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ D u m e z ▁ t h é o p h i l e Ⓕ ▁ Ⓚ 2 1 Ⓛ ▁ Ⓘ § Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ H u e ▁ a l e x a n d r e Ⓕ ▁ Ⓚ 2 1 Ⓛ ▁ Ⓘ § Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ J a r r y ▁ o n é s i m e Ⓕ ▁ Ⓚ 2 1 Ⓛ ▁ Ⓘ § Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ J e a n n i n ▁ a l p h o n s e Ⓕ ▁ Ⓚ 2 1 Ⓛ ▁ Ⓘ § Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ L e r o u x ▁ a u g u s t e ▁ m a r i e Ⓕ ▁ Ⓚ 2 1 Ⓛ ▁ Ⓘ § Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ M a c k e l s ▁ h e n r i Ⓕ ▁ Ⓚ 2 1 Ⓛ ▁ Ⓘ § Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ M i c h i n ▁ a u g u s t e Ⓕ ▁ Ⓚ 2 1 Ⓛ ▁ Ⓘ § Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ R o u s s e l l e ▁ c h a r l e s ▁ e r n e s t Ⓕ ▁ Ⓚ 2 1 Ⓛ ▁ Ⓘ § Ⓙ
+Ⓖ P l a c e ▁ S t → f r a m b o u r g Ⓗ ▁ Ⓔ G e l o n ▁ J ↑ e ↓ ▁ J u l e s ▁ p l a c e ▁ S t ▁ f r a m b o u r g Ⓕ ▁ Ⓚ 9 1 Ⓛ ▁ Ⓘ B a t Ⓙ
+Ⓖ i d Ⓗ ▁ Ⓔ A m i o t ▁ J e a n ▁ f l o r e n t i n → × G e l i n ▁ j e ▁ j u l e s ± ▁ i d Ⓕ ▁ Ⓚ 9 2 Ⓛ ▁ Ⓘ R o u t e → × B o i s ▁ d ' a g r é m e n t ± Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ A m i o t ▁ J e a n ▁ F l o r e n t i n → × F o u i l l o u x ▁ f ↑ c o i s ↓ ▁ r u e ▁ d e ▁ B e r c y ▁ 1 0 0 ± → à ▁ B e r c y Ⓕ ▁ Ⓚ 9 3 Ⓛ ▁ Ⓘ R o u t e → × B o i s ▁ d ' a g r é m e n t ± Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ f o u i l l o u x ▁ j ↑ e a n ↓ ▁ i d Ⓕ ▁ Ⓚ 9 4 Ⓛ ▁ Ⓘ J a r d i n Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ f o u i l l o u x ▁ j ↑ e a n ↓ ▁ i d Ⓕ ▁ Ⓚ 9 5 Ⓛ ▁ Ⓘ S o l ▁ e t ▁ B a t Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ f o u i l l o u x ▁ i d Ⓕ ▁ Ⓚ 9 5 Ⓛ ▁ Ⓘ m a i s o n Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ f o u i l l o u x Ⓕ ▁ Ⓚ 9 6 Ⓛ ▁ Ⓘ J a r d i n → m a r a i s Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ × f o u i l l o u x ± Ⓕ ▁ Ⓚ × 9 7 ± Ⓛ ▁ Ⓘ × B a t ▁ e t ▁ C o u r ± Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ F o u i l l o u x Ⓕ ▁ Ⓚ 9 8 Ⓛ ▁ Ⓘ a l l é e Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ F o u i l l o u x Ⓕ ▁ Ⓚ 9 9 Ⓛ ▁ Ⓘ T e r r a i n Ⓙ
+Ⓖ R u e ▁ d u → c o l o m b i e r Ⓗ ▁ Ⓔ f o u i l l o u x Ⓕ ▁ Ⓚ 1 0 0 Ⓛ ▁ Ⓘ s o l ▁ e t ▁ c o u r Ⓙ
+Ⓖ i d Ⓗ ▁ Ⓔ i d Ⓕ ▁ Ⓚ 1 0 0 Ⓛ ▁ Ⓘ m a i s o n Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ F o u i l l o u x Ⓕ ▁ Ⓚ 1 0 1 Ⓛ ▁ Ⓘ s o l ▁ e t ▁ c o u r Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ i d Ⓕ ▁ Ⓚ 1 0 1 Ⓛ ▁ Ⓘ m a i s o n Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ F o u i l l o u x Ⓕ ▁ Ⓚ 1 0 2 Ⓛ ▁ Ⓘ s o l ▁ c o u r ▁ B a t Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ i d Ⓕ ▁ Ⓚ 1 0 2 Ⓛ ▁ Ⓘ m a i s o n Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ f o u i l l o u x Ⓕ ▁ Ⓚ 1 0 3 Ⓛ ▁ Ⓘ J a r d i n Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ × f o u i l l o u x ± Ⓕ ▁ Ⓚ × 1 0 4 ± Ⓛ ▁ Ⓘ × B a t ± Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ × f o u i l l o u x ± Ⓕ ▁ Ⓚ × 1 0 5 ± Ⓛ ▁ Ⓘ × B a t ± Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ f o u i l l o u x Ⓕ ▁ Ⓚ 1 0 6 Ⓛ ▁ Ⓘ s o l ▁ e t ▁ B a t Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ i d Ⓕ ▁ Ⓚ 1 0 6 Ⓛ ▁ Ⓘ m a i s o n Ⓙ
+Ⓖ L ▁ B a r n u f l e Ⓗ ▁ Ⓔ S e g u i n ▁ f ↑ o i s ↓ ▁ J u l i e n Ⓕ ▁ Ⓚ 1 5 8 Ⓛ ▁ Ⓘ T e r r e Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ h o s p i c e s ▁ d e ▁ P a r i s Ⓕ ▁ Ⓚ 1 5 9 Ⓛ ▁ Ⓘ T e r r e Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ L e c o q ▁ g ↑ m e ↓ ▁ f ↑ o i s ↓ ▁ V ↑ e ↓ Ⓕ ▁ Ⓚ 1 6 0 Ⓛ ▁ Ⓘ T e r r e Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ L e c o q ▁ g ↑ m e ↓ ▁ f ↑ o i s ↓ ▁ V ↑ e ↓ Ⓕ ▁ Ⓚ 1 6 1 Ⓛ ▁ Ⓘ T e r r e Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ h o s p i c e s ▁ d e ▁ P a r i s Ⓕ ▁ Ⓚ 1 6 1 ↑ b i s ↓ Ⓛ ▁ Ⓘ T e r r e Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ C h a n e v a s ▁ m a r t i a l ▁ h ↑ e r s ↓ → × L e r o y ▁ s a u v e u r ▁ g a b r i e l ± Ⓕ ▁ Ⓚ 1 6 2 Ⓛ ▁ Ⓘ T e r r e Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ h o s p i c e s ▁ d e ▁ P a r i s Ⓕ ▁ Ⓚ 1 6 2 ↑ b i s ↓ Ⓛ ▁ Ⓘ T e r r e Ⓙ
+Ⓖ L e s ▁ C l o s e a u x Ⓗ ▁ Ⓔ R o g e r ▁ J ↑ n ↓ → × T h o m a s ▁ à ▁ p a r i s ± Ⓕ ▁ Ⓚ 1 6 3 Ⓛ ▁ Ⓘ T e r r e Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ R o g e r ▁ J ↑ n ↓ → T h o m a s , ▁ à ▁ p a r i s Ⓕ ▁ Ⓚ 1 6 4 Ⓛ ▁ Ⓘ T e r r e Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ M a y e u x ▁ p ↑ r e ↓ ▁ f ↑ o i s ↓ Ⓕ ▁ Ⓚ 1 6 5 Ⓛ ▁ Ⓘ T e r r e Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ C o u s t é ▁ p ↑ r e ↓ ▁ n o ë l Ⓕ ▁ Ⓚ 1 6 6 Ⓛ ▁ Ⓘ T e r r e Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ C o u s t é ▁ J o s e p h Ⓕ ▁ Ⓚ 1 6 7 Ⓛ ▁ Ⓘ T e r r e Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ R o m a n u ▁ f r é d é r i c ▁ V ↑ e ↓ Ⓕ ▁ Ⓚ 1 6 7 ↑ b i s ↓ Ⓛ ▁ Ⓘ T e r r e Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ R o m a n e s ▁ f r é d e r i c ▁ V ↑ e ↓ Ⓕ ▁ Ⓚ 1 6 8 Ⓛ ▁ Ⓘ T e r r e Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ R o m a n i l ▁ c l a u d e ▁ a l p h o n s e Ⓕ ▁ Ⓚ 1 6 8 ↑ b i s ↓ Ⓛ ▁ Ⓘ T e r r e Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ B e d o u v r e ▁ f ↑ o i s ↓ ▁ p e r e Ⓕ ▁ Ⓚ 1 6 9 Ⓛ ▁ Ⓘ T e r r e Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ M e r l i n ▁ j e a n ▁ V i n c e n t Ⓕ ▁ Ⓚ 1 7 0 Ⓛ ▁ Ⓘ T e r r e Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ D e d o u v r e ▁ f ↑ o i s ↓ ▁ p e r e Ⓕ ▁ Ⓚ 1 7 1 Ⓛ ▁ Ⓘ T e r r e Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ S e v i n ▁ j e a n ▁ a c h i l l e Ⓕ ▁ Ⓚ 1 7 2 Ⓛ ▁ Ⓘ T e r r e Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ C o u s t é ▁ p ↑ r e ↓ ▁ n o ë l Ⓕ ▁ Ⓚ 1 7 3 Ⓛ ▁ Ⓘ T e r r e Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ T r o i s ▁ v o l e t ▁ l e s ▁ m i n e u r s Ⓕ ▁ Ⓚ 1 7 3 ↑ b i s ↓ Ⓛ ▁ Ⓘ T e r r e Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ R o u a n e t ▁ f r e d e r i c ▁ V ↑ e ↓ Ⓕ ▁ Ⓚ 1 7 4 Ⓛ ▁ Ⓘ T e r r e Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ R o m a n e t ▁ f r e d e r i c ▁ V ↑ e ↓ Ⓕ ▁ Ⓚ 1 7 5 Ⓛ ▁ Ⓘ T e r r e Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ R o m a n e t ▁ f r e d e r i c ▁ V ↑ e ↓ → × M a r q u i s ▁ J ↑ n ↓ ▁ b ↑ t e ↓ ± Ⓕ ▁ Ⓚ 1 7 6 Ⓛ ▁ Ⓘ T e r r e Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ B a g o t ▁ g i l l e s Ⓕ ▁ Ⓚ 1 7 7 Ⓛ ▁ Ⓘ C a r r i è r e Ⓙ
+Ⓖ L e ▁ P o n t ▁ d e ▁ B r y e Ⓗ ▁ Ⓔ L e d u c ▁ J e a n ▁ P i e r r e Ⓕ ▁ Ⓚ 7 2 8 Ⓛ ▁ Ⓘ T Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ B e r g e r ▁ J e a n ▁ p i e r r e Ⓕ ▁ Ⓚ 7 2 9 Ⓛ ▁ Ⓘ T Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ A n d r é ▁ a l e x a n d r e ▁ E d o u a r d Ⓕ ▁ Ⓚ 7 3 0 Ⓛ ▁ Ⓘ T Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ A n c e l o t ▁ N i c o l a s ▁ J ↑ h ↓ Ⓕ ▁ Ⓚ 7 3 1 Ⓛ ▁ Ⓘ T Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ B a r i l l e t ▁ a l p h o n s e ▁ l é o n Ⓕ ▁ Ⓚ 7 3 2 Ⓛ ▁ Ⓘ T Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ B a r i l l e t ▁ l o u i s ▁ j u l e s Ⓕ ▁ Ⓚ 7 3 1 Ⓛ ▁ Ⓘ T Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ B a r i l l e t ▁ p a u l ▁ d é s i r é Ⓕ ▁ Ⓚ 7 3 1 Ⓛ ▁ Ⓘ T Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ L a m e a u ▁ J e a n ▁ S a t u r n i n Ⓕ ▁ Ⓚ 7 3 1 Ⓛ ▁ Ⓘ T Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ L a m e a u ▁ L o u i s ▁ J u l e s Ⓕ ▁ Ⓚ 7 3 1 Ⓛ ▁ Ⓘ T Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ S o u d i e u x ▁ l o u i s ▁ j o s e p h Ⓕ ▁ Ⓚ 7 3 1 Ⓛ ▁ Ⓘ T Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ H é r i o t ▁ j u s t i n Ⓕ ▁ Ⓚ 7 3 2 Ⓛ ▁ Ⓘ T Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ i d Ⓕ ▁ Ⓚ 7 3 2 Ⓛ ▁ Ⓘ T Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ i d Ⓕ ▁ Ⓚ 7 3 3 Ⓛ ▁ Ⓘ T Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ i d Ⓕ ▁ Ⓚ 7 3 4 Ⓛ ▁ Ⓘ T Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ V i t r y ▁ J o s e p h ▁ E m m a n u e l ▁ V ↑ e ↓ Ⓕ ▁ Ⓚ 7 3 5 Ⓛ ▁ Ⓘ T Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ R a m e a u ▁ L o u i s ▁ h o n o r é Ⓕ ▁ Ⓚ 7 3 6 Ⓛ ▁ Ⓘ T Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ F o n t a i n e Ⓕ ▁ Ⓚ 7 3 7 Ⓛ ▁ Ⓘ T Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ P a d e t ▁ a l f r e d Ⓕ ▁ Ⓚ 7 3 8 Ⓛ ▁ Ⓘ T Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ B a t o n ▁ m e r c i e r Ⓕ ▁ Ⓚ 7 3 9 Ⓛ ▁ Ⓘ T Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ B i d e r m a n n ▁ J e a n Ⓕ ▁ Ⓚ 7 3 9 Ⓛ ▁ Ⓘ T Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ L a u r e n t ▁ e u g è n e Ⓕ ▁ Ⓚ 7 3 9 Ⓛ ▁ Ⓘ T Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ P i c a r d ▁ E r n e s t Ⓕ ▁ Ⓚ 7 3 9 Ⓛ ▁ Ⓘ T Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ S o u d i e u x ▁ a d o l p h e ▁ l a u r e n t Ⓕ ▁ Ⓚ 7 3 9 Ⓛ ▁ Ⓘ T Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ L a u r e n t ▁ e u g è n e Ⓕ ▁ Ⓚ 7 4 0 Ⓛ ▁ Ⓘ T Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ B a r i l l e t ▁ e u g è n e ▁ a u g u s t e Ⓕ ▁ Ⓚ 7 4 1 Ⓛ ▁ Ⓘ T Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ G a s s e r ▁ a u g u s t e ▁ v i c t o r Ⓕ ▁ Ⓚ 7 4 2 Ⓛ ▁ Ⓘ T Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ M é r i l l o n ▁ s a t u r n i n ▁ v e u v e Ⓕ ▁ Ⓚ 7 4 2 Ⓛ ▁ Ⓘ T Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ M o r i n ▁ l o u i s ▁ a u g u s t e Ⓕ ▁ Ⓚ 7 4 2 Ⓛ ▁ Ⓘ T Ⓙ
+Ⓖ P o r t ▁ à ▁ l ' a n g l a i s Ⓗ ▁ Ⓔ M a r c h a n d ▁ C h a r l e s Ⓕ ▁ Ⓚ 1 0 1 Ⓛ ▁ Ⓘ t e r r e Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ M o r a n d ▁ J o s e p h ▁ F e r d i n a n d Ⓕ ▁ Ⓚ § Ⓛ ▁ Ⓘ § Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ N a c h b r o u n ▁ I g n a c e Ⓕ ▁ Ⓚ § Ⓛ ▁ Ⓘ § Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ P a t y ▁ a n t o i n e Ⓕ ▁ Ⓚ § Ⓛ ▁ Ⓘ § Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ P e t i t ▁ a d o l p h e Ⓕ ▁ Ⓚ § Ⓛ ▁ Ⓘ § Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ P o r c h e r o n ▁ C l a u d e ▁ h i l a i r e ▁ a n a t o l e Ⓕ ▁ Ⓚ § Ⓛ ▁ Ⓘ § Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ i d Ⓕ ▁ Ⓚ § Ⓛ ▁ Ⓘ § Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ i d Ⓕ ▁ Ⓚ § Ⓛ ▁ Ⓘ § Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ i d Ⓕ ▁ Ⓚ § Ⓛ ▁ Ⓘ § Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ i d Ⓕ ▁ Ⓚ § Ⓛ ▁ Ⓘ § Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ P r a d a t ▁ P a u l Ⓕ ▁ Ⓚ § Ⓛ ▁ Ⓘ § Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ S a u t h i e r ▁ J e a n ▁ p è r e Ⓕ ▁ Ⓚ § Ⓛ ▁ Ⓘ § Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ S e r v e t ▁ J e a n ▁ E t i e n n e Ⓕ ▁ Ⓚ § Ⓛ ▁ Ⓘ § Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ T o u z i n ▁ p i e r r e ▁ f i l s Ⓕ ▁ Ⓚ § Ⓛ ▁ Ⓘ § Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ T r a v a i l l e u r ▁ é m i l e Ⓕ ▁ Ⓚ § Ⓛ ▁ Ⓘ § Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ D o m i n i q u e ▁ m i c h e l Ⓕ ▁ Ⓚ 1 0 2 Ⓛ ▁ Ⓘ p â t u r e Ⓙ
+Ⓖ C a y e n n e Ⓗ ▁ Ⓔ i d Ⓕ ▁ Ⓚ 1 0 3 Ⓛ ▁ Ⓘ t e r r e Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ L o n g h é ▁ p i e r r e Ⓕ ▁ Ⓚ i d Ⓛ ▁ Ⓘ i d Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ A d a m ▁ N i c o l a s ▁ A u g u s t e Ⓕ ▁ Ⓚ 1 0 4 Ⓛ ▁ Ⓘ t e r r e Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ A l a n t i n ▁ m a t h u r i n ▁ à ▁ I v r y Ⓕ ▁ Ⓚ § Ⓛ ▁ Ⓘ § Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ A r c h a m b a u l t ▁ p a v e l ▁ n i c o l a s Ⓕ ▁ Ⓚ 2 1 Ⓛ ▁ Ⓘ 2 1 Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ A u g e a r d ▁ p a u l ▁ a l p h o n s e Ⓕ ▁ Ⓚ § Ⓛ ▁ Ⓘ § Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ i d Ⓕ ▁ Ⓚ § Ⓛ ▁ Ⓘ § Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ A u s s a u d o u ▁ c l a u d e Ⓕ ▁ Ⓚ § Ⓛ ▁ Ⓘ § Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ A u z a r e t ▁ a l b e r t ▁ a n o r é Ⓕ ▁ Ⓚ § Ⓛ ▁ Ⓘ § Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ A r i a ▁ J a c q u e s Ⓕ ▁ Ⓚ § Ⓛ ▁ Ⓘ § Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ B r a i l l e ▁ f r a n ç o i s Ⓕ ▁ Ⓚ § Ⓛ ▁ Ⓘ § Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ B a r b i e r ▁ m i c h e l Ⓕ ▁ Ⓚ § Ⓛ ▁ Ⓘ § Ⓙ
+Ⓖ C a y e n n e Ⓗ ▁ Ⓔ B a t a i l l e ▁ a l f r e d Ⓕ ▁ Ⓚ 1 0 4 ▁ 5 Ⓛ ▁ Ⓘ t e r r e Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ B e a u v a i s ▁ é d o u a r d ▁ n i c o l a s Ⓕ ▁ Ⓚ § Ⓛ ▁ Ⓘ § Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ B e r t h e l o t ▁ c l a u d e Ⓕ ▁ Ⓚ § Ⓛ ▁ Ⓘ § Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ i d Ⓕ ▁ Ⓚ § Ⓛ ▁ Ⓘ § Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ i d Ⓕ ▁ Ⓚ § Ⓛ ▁ Ⓘ § Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ i d Ⓕ ▁ Ⓚ § Ⓛ ▁ Ⓘ § Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ B l a n z a c ▁ f r a n ç o i s ▁ f é l i x Ⓕ ▁ Ⓚ § Ⓛ ▁ Ⓘ § Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ B o n n y ▁ c l a u d e Ⓕ ▁ Ⓚ § Ⓛ ▁ Ⓘ § Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ B o u y e r ▁ f r a n ç o i s ▁ s t a n i s l a s Ⓕ ▁ Ⓚ § Ⓛ ▁ Ⓘ § Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ B u c h y ▁ p i e r r e ▁ g u s t a v e Ⓕ ▁ Ⓚ § Ⓛ ▁ Ⓘ § Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ i d Ⓕ ▁ Ⓚ § Ⓛ ▁ Ⓘ § Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ C a g e t ▁ l o u i s ▁ a l f r e d Ⓕ ▁ Ⓚ § Ⓛ ▁ Ⓘ § Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ C a l u i v é ▁ ( d e ) ▁ n e s t o r ▁ j e a n ▁ m a r i e Ⓕ ▁ Ⓚ § Ⓛ ▁ Ⓘ § Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ C e l l i e r ▁ a d o l p h e ▁ e t ▁ L a b o u r ▁ a r m a n d Ⓕ ▁ Ⓚ § Ⓛ ▁ Ⓘ § Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ C h a m a r a n d e ▁ E t i e n n e Ⓕ ▁ Ⓚ § Ⓛ ▁ Ⓘ § Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ C h a m b a r a u d ▁ g a b r i e l Ⓕ ▁ Ⓚ § Ⓛ ▁ Ⓘ § Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ C h a p o t a t ▁ f r a n ç o i s ▁ v e u v e Ⓕ ▁ Ⓚ § Ⓛ ▁ Ⓘ § Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ C h a r b o n n i e r ▁ e d m e Ⓕ ▁ Ⓚ § Ⓛ ▁ Ⓘ § Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ C h a r l e u x ▁ c h a r l e s Ⓕ ▁ Ⓚ § Ⓛ ▁ Ⓘ § Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ C h a z e a u d ▁ f r a n ç o i s Ⓕ ▁ Ⓚ § Ⓛ ▁ Ⓘ § Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ C o l i n ▁ H i p p o l y t e Ⓕ ▁ Ⓚ § Ⓛ ▁ Ⓘ § Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ C o m b e a u ▁ p i e r r e ▁ f r a n ç o i s ▁ m a r c Ⓕ ▁ Ⓚ § Ⓛ ▁ Ⓘ § Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ C ô t e ▁ c l a u d e Ⓕ ▁ Ⓚ § Ⓛ ▁ Ⓘ § Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ D a b é ▁ c l a u d e Ⓕ ▁ Ⓚ § Ⓛ ▁ Ⓘ § Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ D a r d ▁ p i e r r e ▁ g u s t a v e Ⓕ ▁ Ⓚ § Ⓛ ▁ Ⓘ § Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ D a v i d ▁ C h a r l e s ▁ v e u v e Ⓕ ▁ Ⓚ § Ⓛ ▁ Ⓘ § Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ D a v i d ▁ f r a n ç o i s ▁ b e r n a r d Ⓕ ▁ Ⓚ § Ⓛ ▁ Ⓘ § Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ D a v i d ▁ v i c t o r ▁ é v a r i s t e Ⓕ ▁ Ⓚ § Ⓛ ▁ Ⓘ § Ⓙ
+Ⓖ L e ▁ P o n t ▁ d e ▁ B r y e Ⓗ ▁ Ⓔ R a m e a u ▁ a u g u s t e ▁ s a t u r n i n Ⓕ ▁ Ⓚ 4 7 3 Ⓛ ▁ Ⓘ T Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ C o i f f i e r ▁ l o u i s ▁ c h a r l e s Ⓕ ▁ Ⓚ 7 4 4 Ⓛ ▁ Ⓘ T Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ M u r i s ▁ P a u l ▁ L a u r e n t Ⓕ ▁ Ⓚ 7 4 4 Ⓛ ▁ Ⓘ T Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ B e u z e v i l l e ▁ c h a r l e s ▁ a l e x i s Ⓕ ▁ Ⓚ 4 7 5 Ⓛ ▁ Ⓘ T Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ R o z i e r s ▁ l o u i s ▁ d é s i r é Ⓕ ▁ Ⓚ 4 7 5 Ⓛ ▁ Ⓘ T Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ D e l t h i l Ⓕ ▁ Ⓚ 7 4 6 Ⓛ ▁ Ⓘ T Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ F o u n t a i n e ▁ t h o m a s ▁ t a y l o r Ⓕ ▁ Ⓚ 7 4 7 Ⓛ ▁ Ⓘ T Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ M é r i l l o n ▁ a u g u s t e ▁ v e u v e Ⓕ ▁ Ⓚ 7 4 7 Ⓛ ▁ Ⓘ T Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ S o u d i e u x ▁ c h a r l e s ▁ l o u i s Ⓕ ▁ Ⓚ 7 4 7 Ⓛ ▁ Ⓘ T Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ S o u d i e u x ▁ a d o l p h e ▁ l a u r e n t Ⓕ ▁ Ⓚ 7 4 8 Ⓛ ▁ Ⓘ T Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ i d Ⓕ ▁ Ⓚ 7 4 8 Ⓛ ▁ Ⓘ T Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ P l a i s a n t ▁ f é l i x Ⓕ ▁ Ⓚ 7 4 9 Ⓛ ▁ Ⓘ T Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ B a s s e n d i e r ▁ l o u i s ▁ g u s t a v e Ⓕ ▁ Ⓚ 7 5 0 Ⓛ ▁ Ⓘ T Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ H é r i c o u r t ▁ f r a n ç o i s ▁ m a u r i c e Ⓕ ▁ Ⓚ 7 5 0 Ⓛ ▁ Ⓘ T Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ H é r i c o u r t ▁ L o u i s ▁ G a b r i e l Ⓕ ▁ Ⓚ 7 5 0 Ⓛ ▁ Ⓘ T Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ L a m e a u ▁ P a s s i e ▁ J ↑ h ↓ ▁ a c h i l l e Ⓕ ▁ Ⓚ 7 5 1 Ⓛ ▁ Ⓘ T Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ L a m e a u ▁ l o u i s ▁ j u l e s Ⓕ ▁ Ⓚ 7 5 2 Ⓛ ▁ Ⓘ T Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ F o u n t a i n e ▁ t h o m a s ▁ t a y l o r d Ⓕ ▁ Ⓚ 7 5 3 Ⓛ ▁ Ⓘ T Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ L e c u i ▁ a u g u s t i n ▁ g u i s l a i n Ⓕ ▁ Ⓚ 7 5 3 Ⓛ ▁ Ⓘ T Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ R a m e a u ▁ l o u i s ▁ h o n o r é Ⓕ ▁ Ⓚ 7 5 3 Ⓛ ▁ Ⓘ T Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ i d Ⓕ ▁ Ⓚ 7 5 3 Ⓛ ▁ Ⓘ T Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ A n c e l e t ▁ C h a r l e s ▁ d o m i n i q u e Ⓕ ▁ Ⓚ 7 5 4 Ⓛ ▁ Ⓘ T Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ A n c e l e t ▁ f r a n ç o i s ▁ a n t o i n e Ⓕ ▁ Ⓚ 7 5 5 Ⓛ ▁ Ⓘ T Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ C o i f f i e r ▁ p i e r r e ▁ h o n o r é Ⓕ ▁ Ⓚ 7 5 5 Ⓛ ▁ Ⓘ T Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ A n c e l e t ▁ c h a r l e s ▁ d o m i n i q u e Ⓕ ▁ Ⓚ 7 5 6 Ⓛ ▁ Ⓘ T Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ A n c e l e t ▁ f r a n ç o i s ▁ a n t o i n e Ⓕ ▁ Ⓚ 7 5 6 Ⓛ ▁ Ⓘ T Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ A n c e l e t ▁ l o u i s ▁ a u g u s t e Ⓕ ▁ Ⓚ 7 5 6 Ⓛ ▁ Ⓘ T Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ C o i f f i e r ▁ p i e r r e ▁ h e r v é Ⓕ ▁ Ⓚ 7 5 6 Ⓛ ▁ Ⓘ T Ⓙ
+Ⓜ 4 1 1 Ⓝ ▁ Ⓔ R a m e a u ▁ P ↑ r e ↓ ▁ E d m e Ⓕ ▁ Ⓚ 6 6 0 Ⓛ ▁ Ⓘ T e r . Ⓙ
+Ⓜ 4 3 6 Ⓝ ▁ Ⓔ s o u d i e u x ▁ s a t ↑ i n ↓ ▁ b a l o t Ⓕ ▁ Ⓚ 6 1 Ⓛ ▁ Ⓘ i d Ⓙ
+Ⓜ 8 Ⓝ ▁ Ⓔ a n c e l e t ▁ J ↑ n ↓ ▁ l o u i s ▁ a n t ↑ e ↓ Ⓕ ▁ Ⓚ 6 2 Ⓛ ▁ Ⓘ § Ⓙ
+Ⓜ 8 4 Ⓝ ▁ Ⓔ C o i f f i e r ▁ a n d r é ▁ J e u n e Ⓕ ▁ Ⓚ 6 4 Ⓛ ▁ Ⓘ § Ⓙ
+Ⓜ 1 3 9 Ⓝ ▁ Ⓔ f o u c a u l t ▁ P ↑ r e ↓ Ⓕ ▁ Ⓚ 6 5 Ⓛ ▁ Ⓘ v i g Ⓙ
+Ⓜ 4 0 5 Ⓝ ▁ Ⓔ q u e m a i n ▁ c h ↑ e s ↓ ▁ f ↑ o i s ↓ Ⓕ ▁ Ⓚ 6 5 ↑ b i s ↓ Ⓛ ▁ Ⓘ t e r Ⓙ
+Ⓜ 2 3 1 Ⓝ ▁ Ⓔ L a m e a u ▁ V ↑ e ↓ ▁ S a t ↑ i n ↓ Ⓕ ▁ Ⓚ 6 6 Ⓛ ▁ Ⓘ i d Ⓙ
+Ⓜ 3 0 9 Ⓝ ▁ Ⓔ M e r i l l o n ▁ J ↑ n ↓ Ⓕ ▁ Ⓚ 6 7 Ⓛ ▁ Ⓘ § Ⓙ
+Ⓜ × 7 ± → 1 0 ↑ b i s ↓ Ⓝ ▁ Ⓔ a n c e l e t ▁ × V ↑ e ↓ ▁ f ↑ o i s ↓ ± ▁ C h a r l e s ▁ a l e x ↑ d r e ↓ Ⓕ ▁ Ⓚ 6 8 Ⓛ ▁ Ⓘ § Ⓙ
+Ⓜ 9 4 Ⓝ ▁ Ⓔ C o i f f i e r ▁ f ↑ o i s ↓ ▁ d i t ▁ s é r a p h i n Ⓕ ▁ Ⓚ 6 8 ↑ b i s ↓ Ⓛ ▁ Ⓘ § Ⓙ
+Ⓜ 2 2 2 Ⓝ ▁ Ⓔ L a m e a u ▁ D ↑ q u e ↓ Ⓕ ▁ Ⓚ 6 9 Ⓛ ▁ Ⓘ § Ⓙ
+Ⓜ 2 3 Ⓝ ▁ Ⓔ B a r i l l e t ▁ a n t ↑ e ↓ Ⓕ ▁ Ⓚ 6 7 0 Ⓛ ▁ Ⓘ § Ⓙ
+Ⓜ 1 3 Ⓝ ▁ Ⓔ a n c e l e t ▁ G e n e v i e v e Ⓕ ▁ Ⓚ 7 1 Ⓛ ▁ Ⓘ § Ⓙ
+Ⓜ 1 3 4 Ⓝ ▁ Ⓔ f l y ▁ à ▁ b r i e Ⓕ ▁ Ⓚ 7 2 Ⓛ ▁ Ⓘ § Ⓙ
+Ⓜ 2 2 3 Ⓝ ▁ Ⓔ L a m e a u ▁ J ↑ n ↓ Ⓕ ▁ Ⓚ 7 3 Ⓛ ▁ Ⓘ § Ⓙ
+Ⓜ 4 0 4 ↑ b i s ↓ → × 2 7 5 ± Ⓝ ▁ Ⓔ × L e p i n e ▁ v e u v e ▁ a c q u e r e u r s ± ▁ P r o v o s t Ⓕ ▁ Ⓚ 7 4 Ⓛ ▁ Ⓘ t e r Ⓙ
+Ⓜ 1 3 8 Ⓝ ▁ Ⓔ F o u c a u l t ▁ l o u i s ▁ J a c q . Ⓕ ▁ Ⓚ 7 5 Ⓛ ▁ Ⓘ § Ⓙ
+Ⓜ 4 1 6 Ⓝ ▁ Ⓔ R a m e a u ▁ f ↑ o i s ↓ ▁ J o s e p h Ⓕ ▁ Ⓚ 7 6 Ⓛ ▁ Ⓘ t e r Ⓙ
+Ⓜ 3 3 2 Ⓝ ▁ Ⓔ M o n t m a r t h e ▁ V ↑ e ↓ ▁ a n t ↑ e ↓ Ⓕ ▁ Ⓚ 7 7 Ⓛ ▁ Ⓘ § Ⓙ
+Ⓜ 3 3 2 ↑ b i s ↓ Ⓝ ▁ Ⓔ M o n t m a r t r e ▁ f ↑ ç o i s e ↓ Ⓕ ▁ Ⓚ 7 7 ↑ b i s ↓ Ⓛ ▁ Ⓘ § Ⓙ
+Ⓜ 2 1 4 Ⓝ ▁ Ⓔ J o s s e t ▁ J ↑ a ↓ ▁ v e u v e Ⓕ ▁ Ⓚ 7 8 Ⓛ ▁ Ⓘ § Ⓙ
+Ⓖ L e ▁ P o n t ▁ d e ▁ B r y e Ⓗ ▁ Ⓔ C o i f f i e r ▁ D é s i r é ▁ s é b a s t i e n Ⓕ ▁ Ⓚ 7 7 1 Ⓛ ▁ Ⓘ T Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ G e r v a i s ▁ a d o l p h e Ⓕ ▁ Ⓚ 7 7 1 Ⓛ ▁ Ⓘ T Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ P a s c a l l e t ▁ J e a n ▁ B t e ▁ C l a u d e Ⓕ ▁ Ⓚ 7 7 1 Ⓛ ▁ Ⓘ T Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ H é r i c o u r t ▁ f r a n ç o i s ▁ m a u r i c e Ⓕ ▁ Ⓚ 7 7 2 Ⓛ ▁ Ⓘ T Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ L a m c a u ▁ P i e r r e ▁ J h ▁ a c h i l l e Ⓕ ▁ Ⓚ 1 1 3 Ⓛ
+Ⓖ § Ⓗ ▁ Ⓔ S o u d i e u x ▁ l o u i s ▁ a l p h o n s e Ⓕ ▁ Ⓚ 7 7 3 Ⓛ ▁ Ⓘ T Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ v o i e ▁ p u b l i q u e Ⓕ ▁ Ⓚ 7 7 3 Ⓛ ▁ Ⓘ T Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ H u d r i r ▁ C h a r l e s ▁ C l é m e n t Ⓕ ▁ Ⓚ 7 7 4 Ⓛ ▁ Ⓘ T Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ R a m e a u ▁ P a u l ▁ C l é m e n t Ⓕ ▁ Ⓚ 7 7 4 Ⓛ ▁ Ⓘ T Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ C o i f f i e r ▁ S é b a s t i e n ▁ J o s e p h Ⓕ ▁ Ⓚ 7 7 5 Ⓛ ▁ Ⓘ T Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ S o u d i e u x ▁ L o u i s ▁ J o s e p h Ⓕ ▁ Ⓚ 7 7 6 Ⓛ ▁ Ⓘ T Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ d e ▁ B e a u f r a n c h e t ▁ f r è r e s Ⓕ ▁ Ⓚ 7 7 7 Ⓛ ▁ Ⓘ T Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ i d Ⓕ ▁ Ⓚ 7 7 7 Ⓛ ▁ Ⓘ T Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ v o i e ▁ p u b l i q u e Ⓕ ▁ Ⓚ 7 7 7 Ⓛ ▁ Ⓘ T Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ C o i f f i e r ▁ d é s i r é ▁ s é b a s t i e n Ⓕ ▁ Ⓚ 7 7 8 Ⓛ ▁ Ⓘ T Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ R a m e a u ▁ h e l v é b a i s ▁ f r a n ç o i s Ⓕ ▁ Ⓚ 7 7 8 Ⓛ ▁ Ⓘ T Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ M o u s c a d e t ▁ p i e r r e ▁ l o u i s Ⓕ ▁ Ⓚ 7 7 9 Ⓛ ▁ Ⓘ T Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ A n c e l e t ▁ n i c o l a s ▁ J ↑ h ↓ Ⓕ ▁ Ⓚ 7 8 0 Ⓛ ▁ Ⓘ T Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ M i s g a u l t ▁ J ↑ n ↓ ▁ B ↑ t e ↓ ▁ f i l s ▁ l o u i s Ⓕ ▁ Ⓚ 7 8 1 Ⓛ ▁ Ⓘ T Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ F o u n t a i n ▁ t h o m a s ▁ t a y l o r d Ⓕ ▁ Ⓚ 7 8 2 Ⓛ ▁ Ⓘ T Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ i d Ⓕ ▁ Ⓚ 7 8 3 Ⓛ ▁ Ⓘ T Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ M i s g a u l t ▁ J ↑ n ↓ ▁ B ↑ t e ↓ ▁ f i l s ▁ l o u i s Ⓕ ▁ Ⓚ 7 8 3 Ⓛ ▁ Ⓘ T Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ i d Ⓕ ▁ Ⓚ 7 8 3 Ⓛ ▁ Ⓘ T Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ F o u n t a i n ▁ t h o m a s ▁ t a y l o r d Ⓕ ▁ Ⓚ 7 8 4 Ⓛ ▁ Ⓘ T Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ i d Ⓕ ▁ Ⓚ 7 8 5 Ⓛ ▁ Ⓘ T Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ i d Ⓕ ▁ Ⓚ 7 8 6 Ⓛ ▁ Ⓘ T Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ i d Ⓕ ▁ Ⓚ 7 8 7 Ⓛ ▁ Ⓘ T Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ i d Ⓕ ▁ Ⓚ 7 8 7 Ⓛ ▁ Ⓘ T Ⓙ
+Ⓖ l e s ▁ e s s e r t e s Ⓗ ▁ Ⓜ 1 1 2 5 Ⓝ ▁ Ⓔ G o u l a s ▁ e u g è n e ▁ a r s è n e Ⓕ ▁ Ⓚ 1 1 2 5 Ⓛ ▁ Ⓘ t e r r e Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ H u r e a u ▁ a l f r e d ▁ a n a t o l e ▁ t r a n q u i l l e Ⓕ ▁ Ⓚ § Ⓛ ▁ Ⓘ § Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ I m h o f f ▁ l e o p o l d Ⓕ ▁ Ⓚ § Ⓛ ▁ Ⓘ § Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ J e a n n e r e t ▁ J e a n ▁ B a p t i s t e Ⓕ ▁ Ⓚ § Ⓛ ▁ Ⓘ § Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ L e m a s s o n ▁ h i l a i r e Ⓕ ▁ Ⓚ § Ⓛ ▁ Ⓘ § Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ L o r q u i n ▁ c a s i m i r Ⓕ ▁ Ⓚ § Ⓛ ▁ Ⓘ § Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ M a u d u i t ▁ l o u i s ▁ r o m a i n Ⓕ ▁ Ⓚ § Ⓛ ▁ Ⓘ § Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ P h i l i p p e ▁ c h a r l e s ▁ a l e x a n d r e Ⓕ ▁ Ⓚ § Ⓛ ▁ Ⓘ § Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ P o i n s o t ▁ p i e r r e Ⓕ ▁ Ⓚ § Ⓛ ▁ Ⓘ § Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ R a d i c e ▁ a n g é l o Ⓕ ▁ Ⓚ § Ⓛ ▁ Ⓘ § Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ R i g n a u l t ▁ J a c q u e s ▁ v i c t o r Ⓕ ▁ Ⓚ § Ⓛ ▁ Ⓘ § Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ R i p a u x ▁ J e a n ▁ r e n é ▁ v i c t o r Ⓕ ▁ Ⓚ § Ⓛ ▁ Ⓘ § Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ V i r o u x ▁ J u l e s ▁ J o s e p h Ⓕ ▁ Ⓚ § Ⓛ ▁ Ⓘ § Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ W a c q u a n t ▁ J e a n ▁ B ↑ t e ↓ Ⓕ ▁ Ⓚ § Ⓛ ▁ Ⓘ § Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ W i t z ▁ v i n c e n t Ⓕ ▁ Ⓚ § Ⓛ ▁ Ⓘ § Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ S a l a n s o n ▁ e t ▁ c o n s o r t s Ⓕ ▁ Ⓚ 1 1 3 Ⓛ ▁ Ⓘ t e r r e Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ i d Ⓕ ▁ Ⓚ 1 1 4 Ⓛ ▁ Ⓘ t e r r e Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ i d Ⓕ ▁ Ⓚ 1 1 5 Ⓛ ▁ Ⓘ t e r r e Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ P a i r ▁ l a z a r e Ⓕ ▁ Ⓚ 1 1 6 Ⓛ ▁ Ⓘ p r é Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ P r e t e t ▁ J e a n ▁ B ↑ t e ↓ ▁ t h é o d o r e Ⓕ ▁ Ⓚ § Ⓛ ▁ Ⓘ § Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ S a l a n s o n ▁ e t ▁ c o n s o r t s Ⓕ ▁ Ⓚ § Ⓛ ▁ Ⓘ § Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ d ↑ e ↓ ▁ v é r o n ▁ n é e ▁ L a b b é ▁ J u l i e Ⓕ ▁ Ⓚ § Ⓛ ▁ Ⓘ § Ⓙ
+Ⓖ I l e ▁ a u ▁ c o i n t r e Ⓗ ▁ Ⓔ i d Ⓕ ▁ Ⓚ 1 1 7 Ⓛ ▁ Ⓘ o s e r a i e Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ M a b i l a t ▁ s i m o n Ⓕ ▁ Ⓚ 1 1 8 Ⓛ ▁ Ⓘ p r é ▁ p l a n t é ▁ d e → s a u l e s Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ P i o t ▁ e d m e Ⓕ ▁ Ⓚ § Ⓛ ▁ Ⓘ i d Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ i d Ⓕ ▁ Ⓚ § Ⓛ ▁ Ⓘ i d Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ S è v e ▁ a n t o i n e Ⓕ ▁ Ⓚ § Ⓛ ▁ Ⓘ i d Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ d ↑ e ↓ ▁ v é r o n ▁ n é e ▁ L a b b é ▁ J u l i e Ⓕ ▁ Ⓚ § Ⓛ ▁ Ⓘ i d Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ l ' E t a t ▁ ( n o n ▁ i m p o s a b l e ) Ⓕ ▁ Ⓚ 1 1 8 Ⓛ ▁ Ⓘ B a r r a g e ▁ d u ▁ p o r t → à ▁ l ' a n g l a i s Ⓙ
+Ⓖ l e s ▁ h a u t s ▁ m a r t i n e t s Ⓗ ▁ Ⓔ S e v i n ▁ J e a n ▁ A c h i l l e → C o u s t e ▁ p ↑ r e ↓ ▁ n o ë l Ⓕ ▁ Ⓚ 1 0 0 Ⓛ ▁ Ⓘ T e r r e Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ L a v e n a n t ▁ l o u i s ▁ f ↑ o i s ↓ ▁ J ↑ n ↓ Ⓕ ▁ Ⓚ 1 0 1 Ⓛ ▁ Ⓘ T e r r e Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ D i d o u v r e ▁ p ↑ r e ↓ ▁ f ↑ o i s ↓ Ⓕ ▁ Ⓚ 1 0 2 Ⓛ ▁ Ⓘ T e r r e Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ D i d o u v r e ▁ p ↑ r e ↓ ▁ f ↑ o i s ↓ Ⓕ ▁ Ⓚ 1 0 3 Ⓛ ▁ Ⓘ C a r r i è r e Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ s a s s i n ▁ j e a n ▁ a n d r é Ⓕ ▁ Ⓚ 1 0 4 Ⓛ ▁ Ⓘ T e r r e Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ G u é z a r d ▁ n o ë l ▁ f ↑ o i s ↓ Ⓕ ▁ Ⓚ 1 0 5 Ⓛ ▁ Ⓘ T e r r e Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ G u é z a r d ▁ n o ë l ▁ f ↑ o i s ↓ Ⓕ ▁ Ⓚ 1 0 6 Ⓛ ▁ Ⓘ C a r r i è r e Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ G u é z a r d ▁ n o ë l ▁ f ↑ o i s ↓ Ⓕ ▁ Ⓚ 1 0 7 Ⓛ ▁ Ⓘ T e r r e Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ R e n a r d ▁ n ↑ a s ↓ ▁ c h ↑ e ↓ Ⓕ ▁ Ⓚ 1 0 8 Ⓛ ▁ Ⓘ T e r r e Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ M i c h a u d ▁ J ↑ n ↓ ▁ p ↑ r e ↓ Ⓕ ▁ Ⓚ 1 0 9 Ⓛ ▁ Ⓘ T e r r e Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ G o d e f r o y ▁ J ▁ F ▁ d e n i s → × M a s s o n ▁ n ↑ a s ↓ ▁ J ↑ n ↓ ± Ⓕ ▁ Ⓚ 1 1 0 Ⓛ ▁ Ⓘ T e r r e Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ M a y e u x ▁ n i c o l a s → × D e p l a n q u e ▁ C a r r i u ± Ⓕ ▁ Ⓚ 1 1 1 Ⓛ ▁ Ⓘ T e r r e Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ M a y e u x ▁ n i c o l a s Ⓕ ▁ Ⓚ 1 1 2 Ⓛ ▁ Ⓘ T e r r e Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ S a s s i n ▁ j e a n Ⓕ ▁ Ⓚ 1 1 3 Ⓛ ▁ Ⓘ T e r r e Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ C o u s t é ▁ p ↑ r e ▁ n o ë l Ⓕ ▁ Ⓚ 1 1 4 Ⓛ ▁ Ⓘ T e r r e Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ C h a t e l a i n ▁ c h ↑ e ↓ → × C o u s t é ▁ p ↑ r e ↓ ▁ n o ë l ± Ⓕ ▁ Ⓚ 1 1 5 Ⓛ ▁ Ⓘ T e r r e Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ L a v e n a n t ▁ l o u i s ▁ f ↑ o i s ↓ ▁ j ↑ n ↓ → × h o s p i c e s ▁ d e ▁ P a r i s ± Ⓕ ▁ Ⓚ 1 1 6 Ⓛ ▁ Ⓘ T e r r e Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ s u r e a u ▁ E m m a n u e l ▁ p ↑ r e ↓ → × B e n a r d ▁ g ↑ m e ↓ ▁ h ↑ n e ↓ Ⓕ ▁ Ⓚ 1 1 7 Ⓛ ▁ Ⓘ T e r r e Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ L e t r e c ▁ J e a n ▁ f ↑ o i s ↓ → × a u v r y ▁ a n t ↑ e ↓ ▁ b l a i s e ▁ j ↑ n ↓ ± Ⓕ ▁ Ⓚ 1 1 8 Ⓛ ▁ Ⓘ T e r r e Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ T h i b a u t ▁ J o s e p h ▁ g e r m a i n → × G o u v e r n e m e n t ▁ ( l e ) ± Ⓕ ▁ Ⓚ 1 1 9 Ⓛ ▁ Ⓘ T e r r e Ⓙ
+Ⓖ B u t t e ▁ d e ▁ v i l l i e r s Ⓗ ▁ Ⓔ G a i d e l i n ▁ L a m y ▁ d a m a s Ⓕ ▁ Ⓚ 1 5 5 Ⓛ ▁ Ⓘ t e r r e Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ H a t r e l ▁ e r n e s t Ⓕ ▁ Ⓚ 1 5 6 Ⓛ ▁ Ⓘ t e r r e Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ P o t e l ▁ J e a n ▁ C h r y s o s t o m e Ⓕ ▁ Ⓚ 1 5 7 Ⓛ ▁ Ⓘ t e r r e Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ F o r e s t i e r ▁ f r a n ç o i s Ⓕ ▁ Ⓚ 1 5 8 Ⓛ ▁ Ⓘ t e r r e Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ i d Ⓕ ▁ Ⓚ 1 5 9 Ⓛ ▁ Ⓘ t e r r e Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ i d Ⓕ ▁ Ⓚ 1 6 0 Ⓛ ▁ Ⓘ t e r r e Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ H a t r e l ▁ e r n e s t Ⓕ ▁ Ⓚ 1 6 1 Ⓛ ▁ Ⓘ t e r r e Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ G a u d e l i n ▁ L a m y ▁ d a m a s Ⓕ ▁ Ⓚ 1 6 2 Ⓛ ▁ Ⓘ t e r r e Ⓙ
+Ⓖ s o u s ▁ l e s ▁ m a r a i s Ⓗ ▁ Ⓔ D o d u n ▁ d e ▁ K é r o m a n , ▁ l a ▁ m a r q u i s e Ⓕ ▁ Ⓚ 1 6 3 Ⓛ ▁ Ⓘ t e r r e Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ D o d u n ▁ d e ▁ K é r o m a n ▁ a g a t h e . ▁ v e u v e → M o u s s a c Ⓕ ▁ Ⓚ i d Ⓛ ▁ Ⓘ t e r r e Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ G a i d e l i n ▁ L a m y ▁ d a m a Ⓕ ▁ Ⓚ 1 6 4 Ⓛ ▁ Ⓘ t e r r e Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ S a l a n s o n ▁ e t ▁ c o n s o r t s Ⓕ ▁ Ⓚ 1 6 5 Ⓛ ▁ Ⓘ t e r r e Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ i d Ⓕ ▁ Ⓚ 1 6 6 Ⓛ ▁ Ⓘ t e r r e Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ i d Ⓕ ▁ Ⓚ 1 6 7 Ⓛ ▁ Ⓘ t e r r e Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ A s s i s t a n c e ▁ p u b l i q u e Ⓕ ▁ Ⓚ 1 6 8 Ⓛ ▁ Ⓘ t e r r e Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ i d Ⓕ ▁ Ⓚ 1 6 8 ↑ b i s ↓ Ⓛ ▁ Ⓘ t e r r e Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ S a l a n s o n ▁ e t ▁ c o n s o r t s Ⓕ ▁ Ⓚ 1 6 9 Ⓛ ▁ Ⓘ t e r r e Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ G a i d e l i n ▁ L a m y ▁ d a m a s Ⓕ ▁ Ⓚ 1 6 9 ↑ b i s ↓ Ⓛ ▁ Ⓘ t e r r e Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ A l f o r t v i l l e ▁ l a ▁ C ↑ n e ↓ ▁ ( n o n ▁ i m p o s a b l e ) Ⓕ ▁ Ⓚ 1 7 0 Ⓛ ▁ Ⓘ c a n a l ▁ d ' i r i g a t i o n Ⓙ
+Ⓖ l e s ▁ m a r a i s Ⓗ ▁ Ⓔ C ↑ i e ↓ ▁ d u ▁ c h e m i n ▁ d e ▁ f e r ▁ d e ▁ P a r i s ▁ à ▁ L y o n Ⓕ ▁ Ⓚ 1 7 1 Ⓛ ▁ Ⓘ p r é Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ S a l a n s o n ▁ e t ▁ c o n s o r t s Ⓕ ▁ Ⓚ i d Ⓛ ▁ Ⓘ p r é Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ C ↑ i e ↓ ▁ d u ▁ c h e m i n ▁ d e ▁ f e r ▁ d e ▁ P a r i s ▁ à ▁ L y o n Ⓕ ▁ Ⓚ 1 7 2 Ⓛ ▁ Ⓘ t e r r e Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ S a l a n s o n ▁ e t ▁ c o n s o r t s Ⓕ ▁ Ⓚ i d Ⓛ ▁ Ⓘ t e r r e Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ i d Ⓕ ▁ Ⓚ 1 7 3 Ⓛ ▁ Ⓘ t e r r e Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ B o i s ▁ G u i l l a u m e Ⓕ ▁ Ⓚ 1 7 4 Ⓛ ▁ Ⓘ P r é Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ D o d u n ▁ d e ▁ K é r o m a n , ▁ l a ▁ m a r q u i s e Ⓕ ▁ Ⓚ § Ⓛ ▁ Ⓘ § Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ D o d u n ▁ d e ▁ K é o m a n ▁ a g a t h e ▁ v e u v e → M o u s s a c Ⓕ ▁ Ⓚ § Ⓛ ▁ Ⓘ § Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ H a m e l ▁ a u g u s t e ▁ g a b r i e l Ⓕ ▁ Ⓚ § Ⓛ ▁ Ⓘ § Ⓙ
+Ⓜ 8 5 Ⓝ ▁ Ⓔ D u c h a m p s → p i e r r e Ⓕ ▁ Ⓚ 4 9 6 Ⓛ ▁ Ⓘ V i g n e Ⓙ
+Ⓜ 1 4 1 Ⓝ ▁ Ⓔ M a r c h a n d → à ▁ P a r i s Ⓕ ▁ Ⓚ 4 9 7 Ⓛ ▁ Ⓘ i d Ⓙ
+Ⓜ 8 0 Ⓝ ▁ Ⓔ D u b o i s ▁ s e r r u r i e r Ⓕ ▁ Ⓚ 4 9 8 Ⓛ ▁ Ⓘ T e r r e Ⓙ
+Ⓜ 1 0 4 Ⓝ ▁ Ⓔ G a u t h i e r ▁ L o u i s Ⓕ ▁ Ⓚ 4 9 9 Ⓛ ▁ Ⓘ i d Ⓙ
+Ⓜ 1 5 3 Ⓝ ▁ Ⓔ M e r c i e r ▁ D e n i s Ⓕ ▁ Ⓚ 5 0 0 Ⓛ ▁ Ⓘ i d Ⓙ
+Ⓜ 1 6 4 Ⓝ ▁ Ⓔ F e r r i è r e Ⓕ ▁ Ⓚ 5 0 1 Ⓛ ▁ Ⓘ V i g n e Ⓙ
+Ⓜ 1 0 6 Ⓝ ▁ Ⓔ G a u t h i e r ▁ V e u v e Ⓕ ▁ Ⓚ 5 0 2 Ⓛ ▁ Ⓘ i d Ⓙ
+Ⓜ 1 4 9 Ⓝ ▁ Ⓔ M a r t i n ▁ S i m o n Ⓕ ▁ Ⓚ 5 0 3 Ⓛ ▁ Ⓘ T e r r e Ⓙ
+Ⓜ 7 3 Ⓝ ▁ Ⓔ D a u v e t ▁ D e n i s Ⓕ ▁ Ⓚ 5 0 4 Ⓛ ▁ Ⓘ i d Ⓙ
+Ⓜ 1 9 2 Ⓝ ▁ Ⓔ T h i v o t ▁ m a ç o n Ⓕ ▁ Ⓚ 5 0 5 Ⓛ ▁ Ⓘ i d Ⓙ
+Ⓜ 1 2 7 Ⓝ ▁ Ⓔ V e c o l l a n t ▁ C l a u d e → a ▁ V i l l e n e u v e Ⓕ ▁ Ⓚ 5 0 6 Ⓛ ▁ Ⓘ i d Ⓙ
+Ⓜ 1 0 5 Ⓝ ▁ Ⓔ G a u t h i e r ▁ J ↑ n ↓ ▁ P i e r r e Ⓕ ▁ Ⓚ 5 0 7 Ⓛ ▁ Ⓘ V i g n e Ⓙ
+Ⓜ 1 2 3 Ⓝ ▁ Ⓔ L a r m é e Ⓕ ▁ Ⓚ 5 0 8 Ⓛ ▁ Ⓘ i d Ⓙ
+Ⓜ 6 9 Ⓝ ▁ Ⓔ D a m e v i l l e ▁ F ↑ o i s ↓ ▁ a i n é Ⓕ ▁ Ⓚ 5 0 9 Ⓛ ▁ Ⓘ T e r r e Ⓙ
+Ⓜ 1 1 1 Ⓝ ▁ Ⓔ h e b e r t ▁ à ▁ V i l l e n e u v e Ⓕ ▁ Ⓚ 5 1 0 Ⓛ ▁ Ⓘ i d Ⓙ
+Ⓜ 4 2 Ⓝ ▁ Ⓔ C h a y o u t ▁ m i c h e l → a ▁ V i l l e n e u v e Ⓕ ▁ Ⓚ 4 8 1 Ⓛ ▁ Ⓘ V i g n e Ⓙ
+Ⓜ 1 3 0 Ⓝ ▁ Ⓔ L e c o l l a n t ▁ V e u v e ▁ P i e r r e → à ▁ L i m e i l Ⓕ ▁ Ⓚ 4 8 2 Ⓛ ▁ Ⓘ × T e r r e ± → V i g n e Ⓙ
+Ⓜ 6 5 Ⓝ ▁ Ⓔ C u i n i e r ▁ à ▁ V i l l e n e u v e Ⓕ ▁ Ⓚ 4 8 9 Ⓛ ▁ Ⓘ i d Ⓙ
+Ⓜ 6 8 Ⓝ ▁ Ⓔ D a m e v i l l e ▁ J ↑ e s ↓ Ⓕ ▁ Ⓚ 4 8 4 Ⓛ ▁ Ⓘ T e r r e → × V i g n e ± → t e r r e Ⓙ
+Ⓜ 7 3 Ⓝ ▁ Ⓔ D a u v e t ▁ d e n i s Ⓕ ▁ Ⓚ 4 8 5 Ⓛ ▁ Ⓘ T e r r e Ⓙ
+Ⓜ 2 0 5 Ⓝ ▁ Ⓔ G a u t h i e r ▁ J ↑ n ↓ ▁ P i e r r e Ⓕ ▁ Ⓚ 4 8 6 Ⓛ ▁ Ⓘ V i g n e Ⓙ
+Ⓜ 8 5 Ⓝ ▁ Ⓔ D u c h a m p s ▁ P i e r r e → à ▁ i d Ⓕ ▁ Ⓚ 4 8 7 Ⓛ ▁ Ⓘ i d Ⓙ
+Ⓜ 9 2 Ⓝ ▁ Ⓔ f e r r i è r e ▁ L o u i s Ⓕ ▁ Ⓚ 4 8 8 Ⓛ ▁ Ⓘ i d Ⓙ
+Ⓜ 1 6 9 Ⓝ ▁ Ⓔ P i e r r e ▁ P i e r r e Ⓕ ▁ Ⓚ 4 8 9 Ⓛ ▁ Ⓘ T e r r e Ⓙ
+Ⓜ 1 6 7 Ⓝ ▁ Ⓔ P i e r r e ▁ M a r g u e r i t e Ⓕ ▁ Ⓚ 4 9 0 Ⓛ ▁ Ⓘ i d Ⓙ
+Ⓜ 1 9 6 Ⓝ ▁ Ⓔ T r i c a r t ▁ V ↑ e ↓ ▁ f e m m e → d u c h e s n e Ⓕ ▁ Ⓚ 4 9 1 Ⓛ ▁ Ⓘ i d Ⓙ
+Ⓜ 7 7 Ⓝ ▁ Ⓔ D e s g r o u t s Ⓕ ▁ Ⓚ 4 9 2 Ⓛ ▁ Ⓘ V i g n e Ⓙ
+Ⓜ 6 5 Ⓝ ▁ Ⓔ C u i n i e r Ⓕ ▁ Ⓚ 4 9 3 Ⓛ ▁ Ⓘ T e r r e Ⓙ
+Ⓜ 9 Ⓝ ▁ Ⓔ B a r r e a u ▁ G u i l l a u m e Ⓕ ▁ Ⓚ 4 9 4 Ⓛ ▁ Ⓘ i d Ⓙ
+Ⓜ 1 6 4 Ⓝ ▁ Ⓔ P e r r i e r e ▁ C a b a r e t i e Ⓕ ▁ Ⓚ 4 9 5 Ⓛ ▁ Ⓘ V i g n e Ⓙ
+Ⓖ L e ▁ P o m m i e r ▁ d e ▁ l ' E g l i s e Ⓗ ▁ Ⓔ A u b e r t ▁ m a r i e Ⓕ ▁ Ⓚ 1 Ⓛ ▁ Ⓘ T Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ C a m b r a y Ⓕ ▁ Ⓚ 1 Ⓛ ▁ Ⓘ T Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ C h a r p e n t i e r ▁ c h a r l e s ▁ m i c h e l Ⓕ ▁ Ⓚ 1 Ⓛ ▁ Ⓘ T Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ C h a u v i n Ⓕ ▁ Ⓚ 1 Ⓛ ▁ Ⓘ T Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ C o l l i g n o n Ⓕ ▁ Ⓚ 1 Ⓛ ▁ Ⓘ T Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ D e l a c o u r ▁ f r a n ç o i s Ⓕ ▁ Ⓚ 1 Ⓛ ▁ Ⓘ T Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ D e l a i r ▁ a l p h o n s e ▁ a u g u s t i n Ⓕ ▁ Ⓚ 1 Ⓛ ▁ Ⓘ T Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ D e l a i r ▁ v i c t o r Ⓕ ▁ Ⓚ 1 Ⓛ ▁ Ⓘ T Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ i d Ⓕ ▁ Ⓚ 1 Ⓛ ▁ Ⓘ T Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ D u c r e u x ▁ M i c h e l ▁ a l f r e d Ⓕ ▁ Ⓚ 1 Ⓛ ▁ Ⓘ T Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ i d Ⓕ ▁ Ⓚ 1 Ⓛ ▁ Ⓘ T Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ F l o r i n Ⓕ ▁ Ⓚ 1 Ⓛ ▁ Ⓘ T Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ G i r a u d ▁ p i e r r e Ⓕ ▁ Ⓚ 1 Ⓛ ▁ Ⓘ T Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ G u i l l a i n ▁ P i e r r e ▁ f r a n ç o i s Ⓕ ▁ Ⓚ 1 Ⓛ ▁ Ⓘ T Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ H u e b e r ▁ J o s e p h Ⓕ ▁ Ⓚ 1 Ⓛ ▁ Ⓘ T Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ K r i e r ▁ c h a r l e s Ⓕ ▁ Ⓚ 1 Ⓛ ▁ Ⓘ T Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ L e g a l l o i s ▁ e u g è n e Ⓕ ▁ Ⓚ 1 Ⓛ ▁ Ⓘ T Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ M a i l l a r d ▁ l o u i s Ⓕ ▁ Ⓚ 1 Ⓛ ▁ Ⓘ T Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ M a i n g o t ▁ d a m e ▁ n é e ▁ M a i l l a r d Ⓕ ▁ Ⓚ 1 Ⓛ ▁ Ⓘ T Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ M a r m o r a ▁ B e n o i s t Ⓕ ▁ Ⓚ 1 Ⓛ ▁ Ⓘ T Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ M e r c i e r Ⓕ ▁ Ⓚ 1 Ⓛ ▁ Ⓘ T Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ R o l l i n Ⓕ ▁ Ⓚ 1 Ⓛ ▁ Ⓘ T Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ i d Ⓕ ▁ Ⓚ 1 Ⓛ ▁ Ⓘ T Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ i d Ⓕ ▁ Ⓚ 1 Ⓛ ▁ Ⓘ T Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ R o s e s Ⓕ ▁ Ⓚ 1 Ⓛ ▁ Ⓘ T Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ V a n n i e u w e n h u y s s Ⓕ ▁ Ⓚ 1 Ⓛ ▁ Ⓘ T Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ v o i e ▁ p u b l i q u e Ⓕ ▁ Ⓚ 1 Ⓛ ▁ Ⓘ T Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ L e d o u x ▁ a l e x a n d r e ▁ e u g è n e Ⓕ ▁ Ⓚ 2 Ⓛ ▁ Ⓘ T Ⓙ
+Ⓖ P e t i t s ▁ p r è s Ⓗ ▁ Ⓔ C o c h e t ▁ m i n e u r s Ⓕ ▁ Ⓚ 2 3 9 Ⓛ ▁ Ⓘ t e r r e Ⓙ
+Ⓖ i d Ⓗ ▁ Ⓔ L e r o y ▁ C l é m e n t Ⓕ ▁ Ⓚ 2 4 0 Ⓛ ▁ Ⓘ § Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ C o c h e t ▁ m i n e u r s Ⓕ ▁ Ⓚ 2 4 0 ↑ b i s ↓ Ⓛ ▁ Ⓘ § Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ L e r o y ▁ J ↑ n ↓ Ⓕ ▁ Ⓚ 2 4 1 Ⓛ ▁ Ⓘ § Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ C o c h e t ▁ G e o r g e s Ⓕ ▁ Ⓚ 2 4 2 Ⓛ ▁ Ⓘ § Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ B o u r d i l l a t Ⓕ ▁ Ⓚ 2 4 3 Ⓛ ▁ Ⓘ § Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ C o c h e t ▁ G a b r i e l Ⓕ ▁ Ⓚ 2 4 4 Ⓛ ▁ Ⓘ § Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ V ↑ v e ↓ ▁ C o l l e t Ⓕ ▁ Ⓚ 2 4 5 Ⓛ ▁ Ⓘ § Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ C r e t é ▁ h e c t o r Ⓕ ▁ Ⓚ 2 4 6 Ⓛ ▁ Ⓘ § Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ N o b l e t Ⓕ ▁ Ⓚ 2 4 7 Ⓛ ▁ Ⓘ § Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ M a y e u x Ⓕ ▁ Ⓚ 2 4 8 Ⓛ ▁ Ⓘ § Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ B o u r d i l l a t ▁ J ↑ n ↓ Ⓕ ▁ Ⓚ 2 4 9 Ⓛ ▁ Ⓘ § Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ L e r o y ▁ G i l l e s Ⓕ ▁ Ⓚ 2 5 0 Ⓛ ▁ Ⓘ § Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ R é m o u d ▁ C h a r l e s Ⓕ ▁ Ⓚ 2 5 1 Ⓛ ▁ Ⓘ § Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ C o c h e t ▁ J ↑ n ↓ Ⓕ ▁ Ⓚ 2 5 1 ↑ b i s ↓ Ⓛ ▁ Ⓘ § Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ P i g e r o n Ⓕ ▁ Ⓚ 2 5 2 Ⓛ ▁ Ⓘ § Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ L e r o y ▁ J ↑ n ↓ Ⓕ ▁ Ⓚ 2 5 3 Ⓛ ▁ Ⓘ § Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ C o l l e t ▁ m a r i e Ⓕ ▁ Ⓚ 2 5 4 Ⓛ ▁ Ⓘ § Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ B a r o n ▁ N ↑ a s ↓ Ⓕ ▁ Ⓚ 2 5 5 Ⓛ ▁ Ⓘ § Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ P i l l e t Ⓕ ▁ Ⓚ 2 5 6 Ⓛ ▁ Ⓘ § Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ M i g n i è r e ▁ C l a u d e Ⓕ ▁ Ⓚ 2 5 7 Ⓛ ▁ Ⓘ § Ⓙ
+Ⓖ E p i n e t t e → Ⓗ ▁ Ⓔ P i g e r o n Ⓕ ▁ Ⓚ 2 5 8 Ⓛ ▁ Ⓘ § Ⓙ
+Ⓖ o u → C r o i x ▁ J a r r y Ⓗ ▁ Ⓔ L e s ▁ × C o r d a y ± ▁ h o s p i c e s Ⓕ ▁ Ⓚ 2 5 9 Ⓛ ▁ Ⓘ § Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ L e r o y ▁ F ↑ o i s ↓ Ⓕ ▁ Ⓚ 2 6 0 Ⓛ ▁ Ⓘ § Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ B o u r d i l l a t Ⓕ ▁ Ⓚ 2 6 1 Ⓛ ▁ Ⓘ § Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ V ↑ e ↓ ▁ M o u t a r d Ⓕ ▁ Ⓚ 2 6 2 Ⓛ ▁ Ⓘ § Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ R e n o u l t ▁ J ↑ n ↓ ▁ B ↑ t e ↓ Ⓕ ▁ Ⓚ 2 6 3 Ⓛ ▁ Ⓘ § Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ C h o m p r é ▁ m a u r i c e Ⓕ ▁ Ⓚ 2 6 4 Ⓛ ▁ Ⓘ § Ⓙ
+Ⓖ L e s ▁ p e r r e u x Ⓗ ▁ Ⓜ 1 4 9 Ⓝ ▁ Ⓔ J a v e l o t ▁ m i c h e l Ⓕ ▁ Ⓚ 5 8 6 Ⓛ ▁ Ⓘ V i g n e Ⓙ
+Ⓖ Ø Ⓗ ▁ Ⓜ 1 1 1 Ⓝ ▁ Ⓔ G a c h e t ▁ J ↑ n ↓ ▁ C h ↑ l e s ↓ → G e n d r e ▁ l e ▁ m a i r e Ⓕ ▁ Ⓚ 5 8 7 Ⓛ ▁ Ⓘ i d Ⓙ
+Ⓖ Ø Ⓗ ▁ Ⓜ 1 9 8 Ⓝ ▁ Ⓔ h i d e l i n e ▁ L o u i s Ⓕ ▁ Ⓚ 5 8 8 Ⓛ ▁ Ⓘ i d Ⓙ
+Ⓖ Ø Ⓗ ▁ Ⓜ 1 1 5 Ⓝ ▁ Ⓔ G a c h e t ▁ à ▁ P a r i s Ⓕ ▁ Ⓚ 1 1 5 Ⓛ ▁ Ⓘ T e r r e → à ▁ v i g n e Ⓙ
+Ⓖ Ø Ⓗ ▁ Ⓜ 1 6 2 Ⓝ ▁ Ⓔ L a u r e n t ▁ V e u v e Ⓕ ▁ Ⓚ 5 9 0 Ⓛ ▁ Ⓘ V i g n e Ⓙ
+Ⓖ Ø Ⓗ ▁ Ⓜ 2 0 7 Ⓝ ▁ Ⓔ M e u n i e r ▁ C a d e t Ⓕ ▁ Ⓚ 5 9 1 Ⓛ ▁ Ⓘ i d Ⓙ
+Ⓜ 1 7 3 Ⓝ ▁ Ⓔ L e ▁ G r a i n ▁ ↑ J o s e p h ↓ ▁ l e o n a r d Ⓕ ▁ Ⓚ 5 9 2 Ⓛ ▁ Ⓘ i d Ⓙ
+Ⓜ 2 3 5 Ⓝ ▁ Ⓔ P e r r i e r ▁ P i e r r e Ⓕ ▁ Ⓚ 5 9 3 Ⓛ ▁ Ⓘ i d Ⓙ
+Ⓜ 1 9 8 Ⓝ ▁ Ⓔ M a r t i n ▁ M a r é c h a l Ⓕ ▁ Ⓚ 5 9 4 Ⓛ ▁ Ⓘ i d Ⓙ
+Ⓜ 4 Ⓝ ▁ Ⓔ A r p e n t i n i e r ▁ f ↑ o i s ↓ Ⓕ ▁ Ⓚ 5 9 5 Ⓛ ▁ Ⓘ T e r r e → a ▁ v i g n e Ⓙ
+Ⓜ 1 0 6 Ⓝ ▁ Ⓔ f o u r é ▁ f ↑ o i s ↓ Ⓕ ▁ Ⓚ 5 9 6 Ⓛ ▁ Ⓘ V i g n e Ⓙ
+Ⓜ 8 4 Ⓝ ▁ Ⓔ D a v i d ▁ P i e r r e Ⓕ ▁ Ⓚ 5 9 7 Ⓛ ▁ Ⓘ i d Ⓙ
+Ⓜ 1 1 Ⓝ ▁ Ⓔ a u b e r t ▁ J a c q u e s Ⓕ ▁ Ⓚ 5 9 8 Ⓛ ▁ Ⓘ i d Ⓙ
+Ⓜ 5 0 Ⓝ ▁ Ⓔ C a m o t ▁ × G e r v a i x ± ▁ P i e r r e Ⓕ ▁ Ⓚ 5 9 9 Ⓛ ▁ Ⓘ T e r r e → à ▁ v i g n e Ⓙ
+Ⓜ 1 1 Ⓝ ▁ Ⓔ a u b e r t ▁ J a c q u e s Ⓕ ▁ Ⓚ 6 0 0 Ⓛ ▁ Ⓘ V i g n e Ⓙ
+Ⓖ L a ▁ C r o i x ▁ d e → S e i n e Ⓗ ▁ Ⓜ 1 ↑ b i s ↓ → × 2 6 ± Ⓝ ▁ Ⓔ A n c e l l e ▁ à ▁ E v r e u x → B e n n e t ▁ V ↑ e ↓ Ⓕ ▁ Ⓚ 2 7 1 Ⓛ ▁ Ⓘ t e r r e Ⓙ
+Ⓖ § Ⓗ ▁ Ⓜ 2 3 4 Ⓝ ▁ Ⓔ P v o t a i t ▁ V . ↑ e ↓ ▁ C l a u d e Ⓕ ▁ Ⓚ 2 7 2 Ⓛ ▁ Ⓘ t e r r e Ⓙ
+Ⓖ § Ⓗ ▁ Ⓜ × 1 4 3 ± Ⓝ ▁ Ⓔ × h u t e n ± Ⓕ ▁ Ⓚ × 2 7 2 b i s ± Ⓛ ▁ Ⓘ × t e r r e ± Ⓙ
+Ⓖ § Ⓗ ▁ Ⓜ 1 9 4 Ⓝ ▁ Ⓔ M o n r o y Ⓕ ▁ Ⓚ 2 7 3 Ⓛ ▁ Ⓘ t e r r e Ⓙ
+Ⓖ § Ⓗ ▁ Ⓜ 2 3 7 Ⓝ ▁ Ⓔ R a g u e s Ⓕ ▁ Ⓚ 2 7 4 Ⓛ ▁ Ⓘ t e r r e Ⓙ
+Ⓖ § Ⓗ ▁ Ⓜ 1 4 3 Ⓝ ▁ Ⓔ h u t i n Ⓕ ▁ Ⓚ 2 7 5 Ⓛ ▁ Ⓘ t e r r e Ⓙ
+Ⓖ L a ▁ p l a i n e → b a s s e Ⓗ ▁ Ⓜ 1 4 8 Ⓝ ▁ Ⓔ 2 7 6 Ⓕ ▁ Ⓚ J a r i e l ▁ h ↑ e r ↓ Ⓛ ▁ Ⓘ t e r r e Ⓙ
+Ⓖ § Ⓗ ▁ Ⓜ 2 6 0 Ⓝ ▁ Ⓔ V e r o n ▁ V ↑ e ↓ Ⓕ ▁ Ⓚ 2 7 7 Ⓛ ▁ Ⓘ t e r r e Ⓙ
+Ⓖ § Ⓗ ▁ Ⓜ 1 0 0 Ⓝ ▁ Ⓔ D u t r a y Ⓕ ▁ Ⓚ 2 7 8 Ⓛ ▁ Ⓘ t e r r e Ⓙ
+Ⓖ § Ⓗ ▁ Ⓜ 1 5 2 Ⓝ ▁ Ⓔ J o l l y ▁ h i p p o l i t e Ⓕ ▁ Ⓚ 2 7 9 Ⓛ ▁ Ⓘ t e r r e Ⓙ
+Ⓖ § Ⓗ ▁ Ⓜ × 4 0 ± 3 7 Ⓝ ▁ Ⓔ B r a c o n y ▁ V ↑ e ↓ ▁ P i e r r e Ⓕ ▁ Ⓚ 2 8 0 Ⓛ ▁ Ⓘ t e r r e Ⓙ
+Ⓖ § Ⓗ ▁ Ⓜ 1 0 0 Ⓝ ▁ Ⓔ D u t r a y Ⓕ ▁ Ⓚ 2 8 1 Ⓛ ▁ Ⓘ t e r r e Ⓙ
+Ⓖ § Ⓗ ▁ Ⓜ 6 6 Ⓝ ▁ Ⓔ C o t t y Ⓕ ▁ Ⓚ 2 8 2 Ⓛ ▁ Ⓘ t e r r e Ⓙ
+Ⓖ § Ⓗ ▁ Ⓜ 1 2 2 Ⓝ ▁ Ⓔ G r a n g é Ⓕ ▁ Ⓚ 2 8 3 Ⓛ ▁ Ⓘ t e r r e Ⓙ
+Ⓖ § Ⓗ ▁ Ⓜ 2 7 7 ↑ b i s ↓ → × 9 3 ± Ⓝ ▁ Ⓔ V i g n e t ❌ ❌ ▁ à ▁ c h o i s y → × D e f o r g e s ± ▁ à ▁ C o r b e i l Ⓕ ▁ Ⓚ 2 8 4 Ⓛ ▁ Ⓘ t e r r e Ⓙ
+Ⓖ § Ⓗ ▁ Ⓜ 8 9 Ⓝ ▁ Ⓔ a n t o i n e → D e l a n o u e ▁ × J ↑ n ↓ ± Ⓕ ▁ Ⓚ 2 8 4 Ⓛ ▁ Ⓘ t e r r e Ⓙ
+Ⓖ § Ⓗ ▁ Ⓜ 2 5 9 ↑ b i s ↓ Ⓝ ▁ Ⓔ S a u g i n ▁ F ↑ o i s ↓ Ⓕ ▁ Ⓚ 2 8 5 Ⓛ ▁ Ⓘ t e r r e Ⓙ
+Ⓖ § Ⓗ ▁ Ⓜ 8 6 ↑ b i s ↓ Ⓝ ▁ Ⓔ D e l a n o u e ▁ t o u s s a i n t ▁ J a r d i n i e r ▁ à ▁ B r i e Ⓕ ▁ Ⓚ 2 8 5 ↑ b i s ↓ Ⓛ ▁ Ⓘ t e r r e Ⓙ
+Ⓖ § Ⓗ ▁ Ⓜ 8 4 Ⓝ ▁ Ⓔ D e l a n o u e ▁ J ↑ n ↓ ▁ b a p t ▁ à ▁ G r i n o n Ⓕ ▁ Ⓚ 2 8 5 ↑ t e r ↓ Ⓛ ▁ Ⓘ t e r r e Ⓙ
+Ⓖ R e g a r d ▁ d e ▁ l a → L o g e Ⓗ ▁ Ⓔ C h a i l l o u ▁ p i e r r e ▁ j u l i e n Ⓕ ▁ Ⓚ 2 9 4 Ⓛ ▁ Ⓘ T Ⓙ ▁ Ⓐ 7 8 9 p → e t → 7 9 0 p Ⓑ ▁ Ⓒ ☼ Ⓓ
+Ⓖ § Ⓗ ▁ Ⓔ C h a i l l o u ▁ L o u i s ▁ f r é d é r i c Ⓕ ▁ Ⓚ 2 9 5 Ⓛ ▁ Ⓘ T Ⓙ ▁ Ⓐ 7 8 9 p Ⓑ ▁ Ⓒ ☼ Ⓓ
+Ⓖ § Ⓗ ▁ Ⓔ L a n d r y Ⓕ ▁ Ⓚ 2 9 6 Ⓛ ▁ Ⓘ T Ⓙ ▁ Ⓐ 7 8 3 → 7 8 5 → 7 9 1 → 7 9 2 → 7 9 5 → 7 9 6 → 7 9 7 → 7 9 7 ↑ b i s ↓ → 7 9 8 Ⓑ ▁ Ⓒ T Ⓓ
+Ⓖ § Ⓗ ▁ Ⓔ O u t r e q u i n Ⓕ ▁ Ⓚ 2 9 7 Ⓛ ▁ Ⓘ T Ⓙ ▁ Ⓐ 7 8 7 Ⓑ ▁ Ⓒ Ø Ⓓ
+Ⓖ § Ⓗ ▁ Ⓔ M a u f r a ▁ à ▁ P a r i s Ⓕ ▁ Ⓚ 2 9 8 Ⓛ ▁ Ⓘ T Ⓙ ▁ Ⓐ 7 8 6 p Ⓑ ▁ Ⓒ Ø Ⓓ
+Ⓖ § Ⓗ ▁ Ⓔ M o z e t ▁ p a t i s s i e r Ⓕ ▁ Ⓚ 2 9 9 Ⓛ ▁ Ⓘ T Ⓙ ▁ Ⓐ 7 8 6 p Ⓑ ▁ Ⓒ Ø Ⓓ
+Ⓖ § Ⓗ ▁ Ⓜ 8 7 Ⓝ ▁ Ⓔ G o u v e r n e m e n t ▁ ( l e ) Ⓕ ▁ Ⓚ 3 0 0 Ⓛ ▁ Ⓘ R e g a r d Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ P e t i t ▁ p i e r r e ▁ F ↑ o i s ↓ Ⓕ ▁ Ⓚ 3 0 1 Ⓛ ▁ Ⓘ T Ⓙ ▁ Ⓐ 7 8 2 Ⓑ ▁ Ⓒ Ø Ⓓ
+Ⓖ § Ⓗ ▁ Ⓔ C h a i l l o u ▁ p i e r r e ▁ j u l i e n Ⓕ ▁ Ⓚ 3 0 2 Ⓛ ▁ Ⓘ T Ⓙ ▁ Ⓐ 7 8 1 Ⓑ ▁ Ⓒ ☼ Ⓓ
+Ⓖ § Ⓗ ▁ Ⓔ C h a i l l o u ▁ J ↑ q u e s ↓ ▁ J ↑ n ↓ ▁ m a r i e Ⓕ ▁ Ⓚ 3 0 3 Ⓛ ▁ Ⓘ T Ⓙ ▁ Ⓐ 7 8 0 Ⓑ ▁ Ⓒ ☼ Ⓓ
+Ⓖ § Ⓗ ▁ Ⓔ C h a i l l o u ▁ p i e r r e ▁ J u l i e n Ⓕ ▁ Ⓚ 3 0 4 Ⓛ ▁ Ⓘ T Ⓙ ▁ Ⓐ 7 7 9 Ⓑ ▁ Ⓒ T Ⓓ
+Ⓖ § Ⓗ ▁ Ⓔ B a u c h e t ▁ j e a n ▁ l o u i s Ⓕ ▁ Ⓚ 3 0 5 Ⓛ ▁ Ⓘ T Ⓙ ▁ Ⓐ 7 7 8 Ⓑ ▁ Ⓒ Ø Ⓓ
+Ⓖ § Ⓗ ▁ Ⓔ B o u l o g n e ▁ p h i l i p p e ▁ h e n r y Ⓕ ▁ Ⓚ 3 0 6 Ⓛ ▁ Ⓘ T Ⓙ ▁ Ⓐ 7 7 7 Ⓑ ▁ Ⓒ Ø Ⓓ
+Ⓖ § Ⓗ ▁ Ⓔ M e n a g e r ▁ J e a n ▁ D e n i s ▁ J o s é e Ⓕ ▁ Ⓚ 3 0 7 Ⓛ ▁ Ⓘ T Ⓙ ▁ Ⓐ 7 7 6 Ⓑ ▁ Ⓒ Ø Ⓓ
+Ⓜ 7 7 Ⓝ ▁ Ⓔ D e s g r o u e t s ▁ B . ↑ t e ↓ Ⓕ ▁ Ⓚ 4 0 6 Ⓛ ▁ Ⓘ T e r r e Ⓙ
+Ⓜ 9 3 → × 6 8 ± Ⓝ ▁ Ⓔ f e r r i e r e ▁ p i e r r e → × C o u r t o i s ▁ V e u v e ▁ L o u i s ± Ⓕ ▁ Ⓚ 4 0 7 Ⓛ ▁ Ⓘ i d Ⓙ
+Ⓜ 7 0 → × 6 2 ± Ⓝ ▁ Ⓔ P i l l e u x → × C o u r t o i s ± ▁ J u l i e n n e ▁ f i l l e Ⓕ ▁ Ⓚ 4 0 8 Ⓛ ▁ Ⓘ i d Ⓙ
+Ⓜ 1 1 7 Ⓝ ▁ Ⓔ J a r r i e r ▁ J o s e p h ▁ ­ V ↑ o n ↓ ▁ × f e r m i e r ± → à ▁ O r a v e l Ⓕ ▁ Ⓚ 4 0 9 Ⓛ ▁ Ⓘ i d Ⓙ
+Ⓜ 9 Ⓝ ▁ Ⓔ B a r r e a u ▁ G ↑ m e ↓ ▁ m a ç o n → à ▁ V a l e n t o n Ⓕ ▁ Ⓚ 4 1 0 Ⓛ ▁ Ⓘ i d Ⓙ
+Ⓜ 4 0 Ⓝ ▁ Ⓔ C h a l o p i n ▁ b a t e l i e r Ⓕ ▁ Ⓚ 4 1 1 Ⓛ ▁ Ⓘ i d Ⓙ
+Ⓜ 1 8 1 Ⓝ ▁ Ⓔ M a y é ▁ V e u v e Ⓕ ▁ Ⓚ 4 1 2 Ⓛ ▁ Ⓘ i d Ⓙ
+Ⓜ 9 Ⓝ ▁ Ⓔ B a r r e a u ▁ G ↑ m e ↓ ▁ m a ç o n Ⓕ ▁ Ⓚ 4 1 3 Ⓛ ▁ Ⓘ i d Ⓙ
+Ⓜ 1 1 7 Ⓝ ▁ Ⓔ J a r r i e r ▁ J o s e p h Ⓕ ▁ Ⓚ 4 1 4 Ⓛ ▁ Ⓘ i d Ⓙ
+Ⓜ 3 1 → × 1 9 7 ± Ⓝ ▁ Ⓔ B o u t t e n o i s → × T h u i l l i e r ▁ L o u i s ± Ⓕ ▁ Ⓚ × 4 1 5 ± Ⓛ ▁ Ⓘ i d Ⓙ
+Ⓜ 1 4 Ⓝ ▁ Ⓔ B e l i n ▁ V e u v e Ⓕ ▁ Ⓚ 4 1 6 Ⓛ ▁ Ⓘ i d Ⓙ
+Ⓜ 1 0 4 Ⓝ ▁ Ⓔ G a u t h i e r ▁ L o u i s → à ▁ V a l e n t o n Ⓕ ▁ Ⓚ 4 1 7 Ⓛ ▁ Ⓘ i d Ⓙ
+Ⓜ 1 8 6 Ⓝ ▁ Ⓔ S e b l e ▁ N i c o l a s Ⓕ ▁ Ⓚ 4 1 8 Ⓛ ▁ Ⓘ i d Ⓙ
+Ⓜ 9 Ⓝ ▁ Ⓔ B a r r e a u ▁ G ↑ m e ↓ ▁ a ▁ V a l e n t o n Ⓕ ▁ Ⓚ 4 1 9 Ⓛ ▁ Ⓘ i d Ⓙ
+Ⓜ 9 Ⓝ ▁ Ⓔ i d Ⓕ ▁ Ⓚ 4 2 0 Ⓛ ▁ Ⓘ i d Ⓙ
+Ⓖ R u e ▁ d e s ▁ C a r r i è r e s Ⓗ ▁ Ⓔ E n a u ▁ n o u r r i s s e u r Ⓕ ▁ Ⓚ 2 8 1 Ⓛ ▁ Ⓘ J a r d i n Ⓙ ▁ Ⓐ 2 0 7 Ⓑ ▁ Ⓒ J a r d i n Ⓓ
+Ⓖ § Ⓗ ▁ Ⓔ i d e m Ⓕ ▁ Ⓚ 2 8 2 Ⓛ ▁ Ⓘ J a r d i n Ⓙ ▁ Ⓐ 2 0 8 Ⓑ ▁ Ⓒ J a r d i n Ⓓ
+Ⓖ § Ⓗ ▁ Ⓔ i d e m Ⓕ ▁ Ⓚ 2 8 3 Ⓛ ▁ Ⓘ J a r d i n Ⓙ ▁ Ⓐ 2 0 8 Ⓑ ▁ Ⓒ J a r d i n Ⓓ
+Ⓖ c h e m i n ▁ d e → c o n f l a n s ▁ à ▁ c h a → r e n t o n Ⓗ ▁ Ⓔ B o u r g o i n ▁ i n s p e c t e u r → d e s ▁ p o r t e s ▁ d e ▁ l a ▁ c h a m b r e ▁ d e s → d é p u t é s Ⓕ ▁ Ⓚ 2 8 4 Ⓛ ▁ Ⓘ J a r d i n Ⓙ ▁ Ⓐ 2 0 9 Ⓑ ▁ Ⓒ J a r d i n Ⓓ
+Ⓖ § Ⓗ ▁ Ⓔ i d e m Ⓕ ▁ Ⓚ 2 8 4 Ⓛ ▁ Ⓘ J a r d i n Ⓙ ▁ Ⓐ 2 0 9 p Ⓑ ▁ Ⓒ J a r d i n Ⓓ
+Ⓖ § Ⓗ ▁ Ⓔ L ' E t a t Ⓕ ▁ Ⓚ 2 8 6 Ⓛ ▁ Ⓘ r e g a r d Ⓙ ▁ Ⓐ 2 1 0 Ⓑ ▁ Ⓒ r e g a r d ▁ n o n ▁ i m p o s a b l e Ⓓ
+Ⓖ § Ⓗ ▁ Ⓔ B o u r g o i n ▁ i n s p e c t e u r Ⓕ ▁ Ⓚ 2 8 7 Ⓛ ▁ Ⓘ m a i s o n Ⓙ ▁ Ⓐ 2 1 1 Ⓑ ▁ Ⓒ m a i s o n Ⓓ
+Ⓖ § Ⓗ ▁ Ⓔ i d e m Ⓕ ▁ Ⓚ 2 8 8 Ⓛ ▁ Ⓘ b a t i m e n t Ⓙ ▁ Ⓐ 2 1 2 Ⓑ ▁ Ⓒ b â t Ⓓ
+Ⓖ § Ⓗ ▁ Ⓔ G u i d a l ▁ p a u l Ⓕ ▁ Ⓚ 2 8 9 Ⓛ ▁ Ⓘ J a r d i n Ⓙ ▁ Ⓐ 2 1 3 → 2 1 5 → 2 1 6 → 2 1 7 → 2 1 8 Ⓑ ▁ Ⓒ J a r d i n → C o u r ▁ B ↑ t e ↓ → J a r d i n → t e r r a s s e → j a r d i n Ⓓ
+Ⓖ R u e ▁ d e s → Ⓗ ▁ Ⓔ G u i d a l ▁ p a u l Ⓕ ▁ Ⓚ 2 9 0 Ⓛ ▁ Ⓘ m a i s o n Ⓙ ▁ Ⓐ 2 1 4 Ⓑ ▁ Ⓒ p a v i l l o n Ⓓ
+Ⓖ C a r r i è r e s Ⓗ ▁ Ⓔ i d e m Ⓕ ▁ Ⓚ 2 9 1 Ⓛ ▁ Ⓘ m a i s o n Ⓙ ▁ Ⓐ 2 1 5 p Ⓑ ▁ Ⓒ c o u r ▁ e t ▁ B ↑ t e ↓ Ⓓ
+Ⓖ § Ⓗ ▁ Ⓔ i d e m Ⓕ ▁ Ⓚ 2 9 2 Ⓛ ▁ Ⓘ b â t i m e n t Ⓙ ▁ Ⓐ 2 1 8 p Ⓑ ▁ Ⓒ J a r d i n Ⓓ
+Ⓖ § Ⓗ ▁ Ⓔ S o c i é t é ▁ d e ▁ l a ▁ g a r e Ⓕ ▁ Ⓚ 2 1 3 Ⓛ ▁ Ⓘ m a i s o n ▁ b t → e t ▁ c o u r Ⓙ ▁ Ⓐ 2 1 9 Ⓑ ▁ Ⓒ c o u r ▁ e t ▁ B ↑ t e ↓ Ⓓ
+Ⓖ § Ⓗ ▁ Ⓔ i d e m Ⓕ ▁ Ⓚ 2 9 4 Ⓛ ▁ Ⓘ J a r d i n Ⓙ ▁ Ⓐ 2 1 9 p Ⓑ ▁ Ⓒ c o u r ▁ e t ▁ B ↑ t e ↓ Ⓓ
+Ⓖ R u e ▁ d e ▁ l a ▁ m o n t a g n e Ⓗ ▁ Ⓔ G a n d e t ▁ c h a r l e s ▁ a n t o i n e Ⓕ ▁ Ⓚ " Ⓛ ▁ Ⓘ m a i s o n Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ § Ⓕ ▁ Ⓚ 6 7 Ⓛ ▁ Ⓘ s o l Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ § Ⓕ ▁ Ⓚ " Ⓛ ▁ Ⓘ m a i s o n Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ § Ⓕ ▁ Ⓚ 6 8 Ⓛ ▁ Ⓘ j a r d i n Ⓙ
+Ⓖ L a ▁ c a r r i è r e ▁ e t → c o u p e ▁ d e ▁ g e n t i l l y Ⓗ ▁ Ⓔ P i c a r d ▁ J e a n - P i e r r e → × L e g r a n d ▁ g e r o m e ± Ⓕ ▁ Ⓚ 6 0 Ⓛ ▁ Ⓘ T e r r e Ⓙ
+Ⓖ i d Ⓗ ▁ Ⓔ P i c a r d ▁ J e a n ▁ P i e r r e → × L e g r a n d ± Ⓕ ▁ Ⓚ 6 1 Ⓛ ▁ Ⓘ T e r r e Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ P o l l y ▁ J e a n ▁ m a r i e × L o u i s ± Ⓕ ▁ Ⓚ 6 2 Ⓛ ▁ Ⓘ T e r r e Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ J o l l y ▁ J e a n ▁ m a r i e × L o u i s ± Ⓕ ▁ Ⓚ 6 3 Ⓛ ▁ Ⓘ T e r r a i n ▁ e t Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ J o l l y ▁ J e a n ▁ m a r i e × L o u i s ± Ⓕ ▁ Ⓚ 6 4 Ⓛ ▁ Ⓘ T e r r e Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ C o c h e t ▁ J e a n ▁ M a r c ▁ m a t h i e u → × B o u r d i l l i a t ▁ p i e r r e ▁ g i l l e s Ⓕ ▁ Ⓚ 6 5 Ⓛ ▁ Ⓘ T e r r e Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ C o c h e t ▁ J e a n ▁ m a r c ▁ m a t h i e u Ⓕ ▁ Ⓚ 6 6 Ⓛ ▁ Ⓘ T e r r e Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ N u l ▁ × B o u r d i l l a t ▁ p i e r r e ▁ g i l l e s ± Ⓕ ▁ Ⓚ × 6 7 ± Ⓛ ▁ Ⓘ × T e r r a i n ▁ d é p ô t ± Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ B o u r d i l l a t ▁ i d Ⓕ ▁ Ⓚ 6 8 Ⓛ ▁ Ⓘ T e r r e Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ B o u r d i l l a t ▁ i d Ⓕ ▁ Ⓚ 6 9 Ⓛ ▁ Ⓘ T e r r e Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ B o u r d i l l a t ▁ i d Ⓕ ▁ Ⓚ 7 0 Ⓛ ▁ Ⓘ T e r r a i n ▁ → d e ▁ c a r r i è r e Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ B o u r d i l l a t ▁ i d Ⓕ ▁ Ⓚ 7 1 Ⓛ ▁ Ⓘ T e r r e Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ M u v a r d ▁ v i c t o r Ⓕ ▁ Ⓚ 7 2 Ⓛ ▁ Ⓘ T e r r e Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ C o c h e t ▁ n i c o l a s ▁ a u g ↑ t e ↓ Ⓕ ▁ Ⓚ 7 3 Ⓛ ▁ Ⓘ T e r r e Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ C o c h e t ▁ J ↑ n ↓ ▁ m a r c ▁ m a t h i e u Ⓕ ▁ Ⓚ 7 4 Ⓛ ▁ Ⓘ T e r r e Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ C o c h e t Ⓕ ▁ Ⓚ 7 5 Ⓛ ▁ Ⓘ T e r r a i n → d e ▁ C a r r i è r e Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ T i e r e ▁ a u g ↑ t e ↓ ▁ a t h a n a s e → × L a n n e s ▁ ( L ▁ d e → m o n t e b e l l o ) ± Ⓕ ▁ Ⓚ 7 6 Ⓛ ▁ Ⓘ T e r r e Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ × T i e r e ▁ a u g ↑ t e ↓ ▁ a t h a n a s e ± → × L a n n e s ± → N u l Ⓕ ▁ Ⓚ × 7 7 ± Ⓛ ▁ Ⓘ × s o l ± Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ × S a i l l o n ▁ f a i t ▁ c o u r ± → × D u c h a m p s ▁ s e r r u r i e r ▁ a u ▁ K r e m l i n ± Ⓕ ▁ Ⓚ × 7 7 ± Ⓛ ▁ Ⓘ × B â t i m e n t → f o r g e ± Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ L a n n e s ▁ ( d e ▁ m o n t e b e l l o ) ) → T i e r e ▁ a u g ↑ t e ↓ ▁ a t h a n a s e Ⓕ ▁ Ⓚ 7 8 Ⓛ ▁ Ⓘ T e r r a i n ▁ → d e ▁ C a r r i è r e Ⓙ
+Ⓜ 1 0 3 Ⓝ ▁ Ⓔ G a u t h i e r ▁ J e a n → V ↑ o n ↓ ▁ à ▁ V a l e n t o n Ⓕ ▁ Ⓚ 9 1 Ⓛ ▁ Ⓘ M a i s o n → B ▁ e t ▁ c o u r Ⓙ
+Ⓜ 1 0 3 Ⓝ ▁ Ⓔ i d Ⓕ ▁ Ⓚ 9 2 Ⓛ ▁ Ⓘ J a r d i n Ⓙ
+Ⓜ 1 0 3 Ⓝ ▁ Ⓔ i d Ⓕ ▁ Ⓚ 9 3 Ⓛ ▁ Ⓘ × P a t u r e ± → T e r r e Ⓙ
+Ⓜ 1 0 3 Ⓝ ▁ Ⓔ i d Ⓕ ▁ Ⓚ 9 4 Ⓛ ▁ Ⓘ × M a i s ± → t e r r e Ⓙ
+Ⓜ 6 8 Ⓝ ▁ Ⓔ D a m e v i l l e ▁ J ↑ e s ↓ Ⓕ ▁ Ⓚ 9 5 Ⓛ ▁ Ⓘ J a r d i n Ⓙ
+Ⓜ 7 1 Ⓝ ▁ Ⓔ D a m e v i l l e ▁ M a r t i n Ⓕ ▁ Ⓚ 9 6 Ⓛ ▁ Ⓘ i d Ⓙ
+Ⓜ 6 9 Ⓝ ▁ Ⓔ D a m e v i l l e ▁ f ↑ o i s ↓ ▁ a i n é Ⓕ ▁ Ⓚ 9 7 Ⓛ ▁ Ⓘ i d Ⓙ
+Ⓜ 6 9 Ⓝ ▁ Ⓔ i d Ⓕ ▁ Ⓚ 9 8 Ⓛ ▁ Ⓘ N ↑ t ↓ ▁ e t ▁ C o u r Ⓙ
+Ⓜ 7 1 Ⓝ ▁ Ⓔ D a m e v i l l e ▁ M a t h i e u Ⓕ ▁ Ⓚ 9 9 Ⓛ ▁ Ⓘ M a i s o n → e t → B a t i m e n t Ⓙ
+Ⓜ 6 9 Ⓝ ▁ Ⓔ D a m e v i l l e ▁ f ↑ o i s ↓ ▁ a i n é Ⓕ ▁ Ⓚ 1 0 0 Ⓛ ▁ Ⓘ M a i s o n → i d Ⓙ
+Ⓜ 6 8 Ⓝ ▁ Ⓔ D a m e v i l l e ▁ J ↑ e s ↓ Ⓕ ▁ Ⓚ 1 0 1 Ⓛ ▁ Ⓘ M a i s o n → B a ↑ t ↓ ▁ e t ▁ C o u r Ⓙ
+Ⓜ 1 0 3 Ⓝ ▁ Ⓔ G a u t h i e r ▁ J e a n → V ↑ o n ↓ ▁ a ▁ V a l e n t o n Ⓕ ▁ Ⓚ 1 0 2 Ⓛ ▁ Ⓘ i d Ⓙ
+Ⓜ 6 8 Ⓝ ▁ Ⓔ D a m e v i l l e ▁ J ↑ e s ↓ → e t ▁ C o n s o r t s Ⓕ ▁ Ⓚ 1 0 3 Ⓛ ▁ Ⓘ C o u r ▁ C ↑ n e ↓ Ⓙ
+Ⓜ 3 2 Ⓝ ▁ Ⓔ B o u l e n o i s Ⓕ ▁ Ⓚ 1 0 4 Ⓛ ▁ Ⓘ R e g a r d Ⓙ
+Ⓜ 1 6 5 Ⓝ ▁ Ⓔ P i s q u e n a u d ▁ V ↑ e ↓ Ⓕ ▁ Ⓚ 1 0 5 Ⓛ ▁ Ⓘ J a r d i n Ⓙ
+Ⓖ L e ▁ C h a i l l o y Ⓗ ▁ Ⓜ 2 2 2 Ⓝ ▁ Ⓔ P i c a r d ▁ J n ↑ t ↓ Ⓕ ▁ Ⓚ 8 0 7 Ⓛ ▁ Ⓘ t e r r e Ⓙ
+Ⓖ § Ⓗ ▁ Ⓜ 1 4 2 Ⓝ ▁ Ⓔ H u e ▁ J a c q u e s Ⓕ ▁ Ⓚ 8 0 8 Ⓛ ▁ Ⓘ t e r r e Ⓙ
+Ⓖ § Ⓗ ▁ Ⓜ 1 5 4 Ⓝ ▁ Ⓔ L a i m é Ⓕ ▁ Ⓚ 8 0 9 Ⓛ ▁ Ⓘ v i g n e Ⓙ
+Ⓖ § Ⓗ ▁ Ⓜ 2 1 6 → × 1 8 5 ± Ⓝ ▁ Ⓔ P e r r i n ▁ f o i s → × M a r t y ▁ à ▁ P a r i s ± Ⓕ ▁ Ⓚ 8 1 0 Ⓛ ▁ Ⓘ t e r r e Ⓙ
+Ⓖ § Ⓗ ▁ Ⓜ 2 1 1 Ⓝ ▁ Ⓔ P a p a v o i n e Ⓕ ▁ Ⓚ 8 1 1 Ⓛ ▁ Ⓘ t e r r e Ⓙ
+Ⓖ § Ⓗ ▁ Ⓜ 3 9 Ⓝ ▁ Ⓔ B r a c o n y ▁ l o u i s Ⓕ ▁ Ⓚ 8 1 2 Ⓛ ▁ Ⓘ t e r r e Ⓙ
+Ⓖ § Ⓗ ▁ Ⓜ 8 2 Ⓝ ▁ Ⓔ D e l a n o u e ▁ J ↑ n ↓ ▁ F ↑ o i s ↓ Ⓕ ▁ Ⓚ 8 1 3 Ⓛ ▁ Ⓘ t e r r e Ⓙ
+Ⓖ § Ⓗ ▁ Ⓜ 2 1 1 Ⓝ ▁ Ⓔ P a p a v o i n e Ⓕ ▁ Ⓚ 8 1 4 Ⓛ ▁ Ⓘ t e r r e Ⓙ
+Ⓖ § Ⓗ ▁ Ⓜ 1 7 0 Ⓝ ▁ Ⓔ L i é b o ▁ V ↑ e ↓ Ⓕ ▁ Ⓚ 8 1 5 Ⓛ ▁ Ⓘ t e r r e Ⓙ
+Ⓖ § Ⓗ ▁ Ⓜ 2 2 1 → × 2 3 7 ± Ⓝ ▁ Ⓔ ↑ R a g u e t ↓ P i c a r é → J ↑ n ↓ ▁ L . ↑ i s ↓ Ⓕ ▁ Ⓚ 8 1 6 Ⓛ ▁ Ⓘ t e r r e Ⓙ
+Ⓖ § Ⓗ ▁ Ⓜ 1 1 Ⓝ ▁ Ⓔ B a s s e t ▁ G e r m a i n Ⓕ ▁ Ⓚ 8 1 7 Ⓛ ▁ Ⓘ t e r r e Ⓙ
+Ⓖ § Ⓗ ▁ Ⓜ 6 Ⓝ ▁ Ⓔ B a l u ▁ P i e r r e Ⓕ ▁ Ⓚ 8 1 8 Ⓛ ▁ Ⓘ t e r r e Ⓙ
+Ⓖ § Ⓗ ▁ Ⓜ 1 7 0 Ⓝ ▁ Ⓔ L i e b o ▁ V ↑ e ↓ Ⓕ ▁ Ⓚ 8 1 9 Ⓛ ▁ Ⓘ t e r r e Ⓙ
+Ⓖ § Ⓗ ▁ Ⓜ 3 7 Ⓝ ▁ Ⓔ B e r t r a n d ▁ l o u i s Ⓕ ▁ Ⓚ 8 2 0 Ⓛ ▁ Ⓘ t e r r e Ⓙ
+Ⓖ § Ⓗ ▁ Ⓜ 3 7 Ⓝ ▁ Ⓔ B r a c o n y ▁ V ↑ e ↓ ▁ P i e r r e Ⓕ ▁ Ⓚ t e r r e Ⓛ
+Ⓖ L a ▁ C h e v r u e Ⓗ ▁ Ⓔ C o c h e t , ▁ N ↑ a s ↓ ▁ f i l s Ⓕ ▁ Ⓚ 5 9 1 Ⓛ ▁ Ⓘ T e r r e Ⓙ ▁ Ⓐ 4 1 3 → 4 1 4 Ⓑ ▁ Ⓒ T → T Ⓓ
+Ⓖ Ø Ⓗ ▁ Ⓔ C r e t t é ▁ h e c t o r Ⓕ ▁ Ⓚ 5 9 2 Ⓛ ▁ Ⓘ T e r r e Ⓙ ▁ Ⓐ 4 1 2 Ⓑ ▁ Ⓒ T Ⓓ
+Ⓖ Ø Ⓗ ▁ Ⓔ B o u r d i l l i a t ▁ J ↑ n ↓ ▁ G u y Ⓕ ▁ Ⓚ 5 9 3 Ⓛ ▁ Ⓘ V i g n e Ⓙ ▁ Ⓐ 4 0 9 → 4 1 0 Ⓑ ▁ Ⓒ T → T Ⓓ
+Ⓖ Ø Ⓗ ▁ Ⓔ L e m a i t r e , ▁ v e u v e Ⓕ ▁ Ⓚ 5 9 4 Ⓛ ▁ Ⓘ T e r r e Ⓙ ▁ Ⓐ 4 1 1 Ⓑ ▁ Ⓒ T Ⓓ
+Ⓖ Ø Ⓗ ▁ Ⓔ G i l l e t ▁ D u e ▁ C l a u d e Ⓕ ▁ Ⓚ 5 9 5 Ⓛ ▁ Ⓘ T e r r e Ⓙ
+Ⓖ Ø Ⓗ ▁ Ⓔ L e r o y ▁ J e a n ▁ G i l l e s Ⓕ ▁ Ⓚ 5 9 6 Ⓛ ▁ Ⓘ V i g n e Ⓙ ▁ Ⓐ 4 0 7 Ⓑ ▁ Ⓒ T Ⓓ
+Ⓖ Ø Ⓗ ▁ Ⓔ S c h i l d ▁ P i e r r e Ⓕ ▁ Ⓚ 5 9 7 Ⓛ ▁ Ⓘ T e r r e Ⓙ ▁ Ⓐ 4 0 6 Ⓑ ▁ Ⓒ T Ⓓ
+Ⓖ Ø Ⓗ ▁ Ⓔ L a b o r e a u , ▁ m a r t i n → v e u v e Ⓕ ▁ Ⓚ 5 9 8 Ⓛ ▁ Ⓘ V i g n e Ⓙ ▁ Ⓐ 4 0 4 → 4 0 5 Ⓑ ▁ Ⓒ T → T Ⓓ
+Ⓖ Ø Ⓗ ▁ Ⓔ M o r t i e r , ▁ F ↑ o i s ↓ ▁ P i e r r e Ⓕ ▁ Ⓚ 5 9 9 Ⓛ ▁ Ⓘ V i g n e Ⓙ ▁ Ⓐ 4 0 3 Ⓑ ▁ Ⓒ T Ⓓ
+Ⓖ Ø Ⓗ ▁ Ⓔ C o c h e t , ▁ N ↑ a s ↓ ▁ f i l s Ⓕ ▁ Ⓚ 6 0 0 Ⓛ ▁ Ⓘ T e r r e Ⓙ ▁ Ⓐ 4 0 2 Ⓑ ▁ Ⓒ V i g Ⓓ
+Ⓖ Ø Ⓗ ▁ Ⓔ C l é r e , ▁ J e a n ▁ J a s p e r Ⓕ ▁ Ⓚ 6 0 1 Ⓛ ▁ Ⓘ V i g n e Ⓙ ▁ Ⓐ 4 0 1 Ⓑ ▁ Ⓒ T Ⓓ
+Ⓖ Ø Ⓗ ▁ Ⓔ P i l l e t , ▁ J e a n ▁ M ↑ i e ↓ ▁ f i l s Ⓕ ▁ Ⓚ 6 0 2 Ⓛ ▁ Ⓘ T e r r e Ⓙ ▁ Ⓐ 4 0 0 Ⓑ ▁ Ⓒ T Ⓓ
+Ⓖ Ø Ⓗ ▁ Ⓔ C o c h e t ▁ N ↑ a s ↓ ▁ A u g ↑ t e ↓ Ⓕ ▁ Ⓚ 6 0 3 Ⓛ ▁ Ⓘ T e r r e Ⓙ ▁ Ⓐ 3 9 9 Ⓑ ▁ Ⓒ T Ⓓ
+Ⓖ Ø Ⓗ ▁ Ⓔ C o l l e t , ▁ N ↑ a s ↓ Ⓕ ▁ Ⓚ 6 0 4 Ⓛ ▁ Ⓘ T e r r e Ⓙ ▁ Ⓐ 3 9 8 Ⓑ ▁ Ⓒ v i g Ⓓ
+Ⓖ L a ▁ m a r e ▁ d ' H e r s e Ⓗ ▁ Ⓜ 4 Ⓝ ▁ Ⓔ a n g e l i q u e ▁ J . ▁ F ↑ o i s ↓ → B e l l a n g i s ▁ à ▁ P a r i s → a n c i e n ▁ m a g i s t r a t Ⓕ ▁ Ⓚ 1 0 6 Ⓛ ▁ Ⓘ t e r r e Ⓙ
+Ⓖ § Ⓗ ▁ Ⓜ 6 7 Ⓝ ▁ Ⓔ G a u t i e r ▁ G a s p a r d → P é r i g n y Ⓕ ▁ Ⓚ 1 0 7 Ⓛ ▁ Ⓘ t e r r e Ⓙ
+Ⓖ § Ⓗ ▁ Ⓜ 8 2 Ⓝ ▁ Ⓔ G a u t i e r ▁ C h a r l e s ▁ a i m é ▁ à → P é r i g n y Ⓕ ▁ Ⓚ 1 0 8 Ⓛ ▁ Ⓘ t e r r e Ⓙ
+Ⓖ § Ⓗ ▁ Ⓜ 1 5 7 Ⓝ ▁ Ⓔ M a r c h a n d ▁ A u b e r g i s t e → B r i e - C o m t e - R o b e r t Ⓕ ▁ Ⓚ 1 0 9 Ⓛ ▁ Ⓘ t e r r e Ⓙ
+Ⓖ § Ⓗ ▁ Ⓜ 1 5 7 Ⓝ ▁ Ⓔ i d Ⓕ ▁ Ⓚ 1 1 0 Ⓛ ▁ Ⓘ t e r r e Ⓙ
+Ⓖ § Ⓗ ▁ Ⓜ 1 5 7 Ⓝ ▁ Ⓔ i d Ⓕ ▁ Ⓚ 1 1 1 Ⓛ ▁ Ⓘ t e r r e Ⓙ
+Ⓖ § Ⓗ ▁ Ⓜ 1 2 2 Ⓝ ▁ Ⓔ 1 1 2 Ⓕ ▁ Ⓚ h o t e l - d i e u ▁ d u ▁ B r i e Ⓛ ▁ Ⓘ t e r r e Ⓙ
+Ⓖ § Ⓗ ▁ Ⓜ 1 2 2 Ⓝ ▁ Ⓔ i d Ⓕ ▁ Ⓚ 1 1 3 Ⓛ ▁ Ⓘ t e r r e Ⓙ
+Ⓖ § Ⓗ ▁ Ⓜ 1 2 4 Ⓝ ▁ Ⓔ B u r é ▁ J ↑ n ↓ ▁ B ↑ t e ↓ ▁ P é r i g n y Ⓕ ▁ Ⓚ 1 1 4 Ⓛ ▁ Ⓘ t e r r e Ⓙ
+Ⓖ § Ⓗ ▁ Ⓜ 1 2 6 Ⓝ ▁ Ⓔ B u r é ▁ J - B ↑ t e ↓ ▁ T h i b a u t ▁ c u l t i ▁ p é r i g n y Ⓕ ▁ Ⓚ 1 1 5 Ⓛ ▁ Ⓘ t e r r e Ⓙ
+Ⓖ § Ⓗ ▁ Ⓜ 1 3 5 Ⓝ ▁ Ⓔ J a v o n ▁ J . B ↑ t e ↓ ▁ h o m m e ▁ d e ▁ l o i ▁ à ▁ P a r i s Ⓕ ▁ Ⓚ 1 1 6 Ⓛ ▁ Ⓘ t e r r e Ⓙ
+Ⓖ § Ⓗ ▁ Ⓜ 4 Ⓝ ▁ Ⓔ t h o m a s → B o n f i l s ▁ V ↑ e ↑ ▁ B o u r g ▁ à ▁ B r i e Ⓕ ▁ Ⓚ 1 1 7 Ⓛ ▁ Ⓘ t e r r e Ⓙ
+Ⓖ § Ⓗ ▁ Ⓜ 1 2 2 Ⓝ ▁ Ⓔ h ô t e l ▁ D i e u ▁ d e ▁ B r i e Ⓕ ▁ Ⓚ 1 1 8 Ⓛ ▁ Ⓘ t e r r e Ⓙ
+Ⓖ § Ⓗ ▁ Ⓜ 1 5 9 Ⓝ ▁ Ⓔ P è r e ▁ c h a r o n → M i l l i a r y ▁ × b o u r g o i s ± ▁ B r i e Ⓕ ▁ Ⓚ 1 1 9 Ⓛ ▁ Ⓘ t e r r e Ⓙ
+Ⓖ L ' o r m e ▁ d ' h e r s e Ⓗ ▁ Ⓜ 2 2 7 Ⓝ ▁ Ⓔ V e i n a i v e ▁ ↑ p r e ▁ n o ë l ↓ ▁ p è r e ▁ M a n d r e Ⓕ ▁ Ⓚ 1 2 0 Ⓛ ▁ Ⓘ t e r r e Ⓙ
+Ⓜ 2 0 1 Ⓝ ▁ Ⓔ P i c h a r d ▁ E s t h e r ▁ a u b D . ▁ L a ▁ r e i n e Ⓕ ▁ Ⓚ 5 9 6 Ⓛ ▁ Ⓘ T e r r e Ⓙ
+Ⓜ 1 2 1 Ⓝ ▁ Ⓔ g o d e t r o y Ⓕ ▁ Ⓚ 5 9 7 Ⓛ ▁ Ⓘ § Ⓙ
+Ⓜ 1 6 5 Ⓝ ▁ Ⓔ M a r t i n Ⓕ ▁ Ⓚ 5 9 8 Ⓛ ▁ Ⓘ § Ⓙ
+Ⓜ 1 6 4 Ⓝ ▁ Ⓔ M ↑ e ↓ ▁ M a g n é ▁ à ▁ é v r e u x Ⓕ ▁ Ⓚ 5 9 9 Ⓛ ▁ Ⓘ § Ⓙ
+Ⓜ 1 6 1 Ⓝ ▁ Ⓔ L e r o y ▁ d e ▁ l a ▁ b i e r e Ⓕ ▁ Ⓚ 6 0 0 Ⓛ ▁ Ⓘ § Ⓙ
+Ⓜ 1 1 2 Ⓝ ▁ Ⓔ d ↑ e ↓ ▁ f a u c o n ▁ à ▁ C h a t i l l o n Ⓕ ▁ Ⓚ 6 0 1 Ⓛ ▁ Ⓘ § Ⓙ
+Ⓜ 2 7 Ⓝ ▁ Ⓔ B e r g e r ▁ J ↑ n ↓ ▁ B ↑ t e ↓ Ⓕ ▁ Ⓚ 6 0 2 Ⓛ ▁ Ⓘ § Ⓙ
+Ⓜ 1 2 1 Ⓝ ▁ Ⓔ g o d e f r o y Ⓕ ▁ Ⓚ 6 0 3 Ⓛ ▁ Ⓘ § Ⓙ
+Ⓜ 1 1 8 Ⓝ ▁ Ⓔ g a u d o i l Ⓕ ▁ Ⓚ 6 0 4 Ⓛ ▁ Ⓘ § Ⓙ
+Ⓜ 7 7 Ⓝ ▁ Ⓔ D e l a n o u e ▁ g ↑ a i n ↓ Ⓕ ▁ Ⓚ 6 6 5 Ⓛ ▁ Ⓘ § Ⓙ
+Ⓜ 2 0 2 Ⓝ ▁ Ⓔ P i g e r o n Ⓕ ▁ Ⓚ 6 0 6 Ⓛ ▁ Ⓘ § Ⓙ
+Ⓜ 1 5 6 Ⓝ ▁ Ⓔ L e ▁ z o u g r e ▁ i w ë l ▁ I s i d o r e Ⓕ ▁ Ⓚ 6 0 7 Ⓛ ▁ Ⓘ § Ⓙ
+Ⓜ 1 7 7 Ⓝ ▁ Ⓔ M o r e a u ▁ p ↑ r e ↓ ▁ p a u l Ⓕ ▁ Ⓚ 6 0 8 Ⓛ ▁ Ⓘ § Ⓙ
+Ⓜ 2 2 3 Ⓝ ▁ Ⓔ V ↑ e ↓ ▁ s a u r i n ▁ j ↑ q u e s ↓ Ⓕ ▁ Ⓚ 6 0 9 Ⓛ ▁ Ⓘ § Ⓙ
+Ⓜ 1 5 4 Ⓝ ▁ Ⓔ L e ▁ z o u g r e ▁ M ↑ r i e ↓ ▁ l o u i s e Ⓕ ▁ Ⓚ 6 1 0 Ⓛ ▁ Ⓘ § Ⓙ
+Ⓜ 7 1 Ⓝ ▁ Ⓔ D e g r a i n ▁ J ↑ n ↓ ▁ L o u i s Ⓕ ▁ Ⓚ 6 1 0 ↑ b i s ↓ Ⓛ ▁ Ⓘ § Ⓙ
+Ⓜ 1 2 7 Ⓝ ▁ Ⓔ h a l l é ▁ f ▁ n ↑ a s ↓ ▁ j ↑ n ↓ Ⓕ ▁ Ⓚ 6 1 1 Ⓛ ▁ Ⓘ § Ⓙ
+Ⓜ 2 1 2 Ⓝ ▁ Ⓔ V ↑ e ↓ ▁ R e n a r d ▁ E t i e n n e Ⓕ ▁ Ⓚ 6 1 2 Ⓛ ▁ Ⓘ § Ⓙ
+Ⓜ 1 1 8 Ⓝ ▁ Ⓔ g e a u d o i l Ⓕ ▁ Ⓚ 6 1 4 Ⓛ ▁ Ⓘ § Ⓙ
+Ⓜ 2 1 Ⓝ ▁ Ⓔ B a z i n ▁ P h ↑ e ↓ Ⓕ ▁ Ⓚ 6 1 5 Ⓛ ▁ Ⓘ § Ⓙ
+Ⓖ L e s ▁ B o n → M o n v r a i n e s Ⓗ ▁ Ⓜ 1 4 1 Ⓝ ▁ Ⓔ G u i n e g a g n e ▁ d e n i s ▁ E m m a n u e l Ⓕ ▁ Ⓚ 1 4 4 3 Ⓛ ▁ Ⓘ V i g n e Ⓙ
+Ⓖ Ø Ⓗ ▁ Ⓜ 7 2 Ⓝ ▁ Ⓔ C o r n i l l a r d ▁ C r i s t o p h e Ⓕ ▁ Ⓚ 1 2 2 4 Ⓛ ▁ Ⓘ i d Ⓙ
+Ⓖ Ø Ⓗ ▁ Ⓜ 2 3 6 Ⓝ ▁ Ⓔ P e t i t ▁ S p i r e Ⓕ ▁ Ⓚ 1 2 2 5 Ⓛ ▁ Ⓘ T e r r e ▁ à → v i g n e Ⓙ
+Ⓖ Ø Ⓗ ▁ Ⓜ 2 1 3 Ⓝ ▁ Ⓔ 1 2 2 6 Ⓕ ▁ Ⓚ P e t i t ▁ V ↑ e ↓ ▁ J e a n ▁ a g n a n t Ⓛ ▁ Ⓘ i d Ⓙ
+Ⓖ Ø Ⓗ ▁ Ⓜ 8 6 Ⓝ ▁ Ⓔ D e s t e r n e ▁ V ↑ e ↓ ▁ E t ↑ n e ↓ Ⓕ ▁ Ⓚ 1 2 2 7 Ⓛ ▁ Ⓘ v i g n e Ⓙ
+Ⓖ Ø Ⓗ ▁ Ⓜ 5 Ⓝ ▁ Ⓔ A u b r y ▁ m i c h e l Ⓕ ▁ Ⓚ 1 2 2 8 Ⓛ ▁ Ⓘ T e r r e → à ▁ v i g n e Ⓙ
+Ⓖ Ø Ⓗ ▁ Ⓜ 2 6 2 Ⓝ ▁ Ⓔ V i d r o n ▁ P i e r r e Ⓕ ▁ Ⓚ 1 2 2 9 Ⓛ ▁ Ⓘ i d Ⓙ
+Ⓖ Ø Ⓗ ▁ Ⓜ 1 0 8 Ⓝ ▁ Ⓔ G a l l e s ▁ J ↑ n ↓ ▁ f ↑ o i s ↓ Ⓕ ▁ Ⓚ 1 2 3 0 Ⓛ ▁ Ⓘ v i g n e Ⓙ
+Ⓖ Ø Ⓗ ▁ Ⓜ 3 0 2 Ⓝ ▁ Ⓔ f a u g u e r ▁ × l e s ▁ h é r i t i e r s ± → f ↑ o i s ↓ ▁ × j o s e p h ± Ⓕ ▁ Ⓚ 1 2 3 1 Ⓛ ▁ Ⓘ i d Ⓙ
+Ⓖ Ø Ⓗ ▁ Ⓜ 1 6 0 Ⓝ ▁ Ⓔ L i v e r n e t ▁ E t i e n n e Ⓕ ▁ Ⓚ 1 2 3 2 Ⓛ ▁ Ⓘ i d Ⓙ
+Ⓖ Ø Ⓗ ▁ Ⓜ 2 6 1 Ⓝ ▁ Ⓔ V i a l ▁ G u i l l a u m e Ⓕ ▁ Ⓚ 1 2 3 3 Ⓛ ▁ Ⓘ T e r r e → a ▁ v i g n e Ⓙ
+Ⓖ Ø Ⓗ ▁ Ⓜ 1 6 7 Ⓝ ▁ Ⓔ M a l l e ▁ f ↑ o i s ↓ ▁ P è r e Ⓕ ▁ Ⓚ 1 2 3 4 Ⓛ ▁ Ⓘ i d Ⓙ
+Ⓖ Ø Ⓗ ▁ Ⓜ 1 8 9 Ⓝ ▁ Ⓔ M e u n i e r ▁ J e a n ▁ C l a u d e Ⓕ ▁ Ⓚ 1 2 3 5 Ⓛ ▁ Ⓘ i d Ⓙ
+Ⓖ Ø Ⓗ ▁ Ⓜ 2 1 8 Ⓝ ▁ Ⓔ P e t i t ▁ L o u i s ▁ J o s e p h Ⓕ ▁ Ⓚ 1 2 3 6 Ⓛ ▁ Ⓘ i d Ⓙ
+Ⓖ Ø Ⓗ ▁ Ⓜ 1 3 5 Ⓝ ▁ Ⓔ G u é r i n ▁ j e a n ▁ d e n i s → l e ▁ J e u n e Ⓕ ▁ Ⓚ 1 2 3 7 Ⓛ ▁ Ⓘ i d Ⓙ
+Ⓜ 7 Ⓝ ▁ Ⓔ C h a b e r t ▁ C h a r l e s Ⓕ ▁ Ⓚ 1 0 6 Ⓛ ▁ Ⓘ M a i s o n Ⓙ
+Ⓜ 2 2 6 Ⓝ ▁ Ⓔ M o r e t ▁ e t ▁ c o n s o r s Ⓕ ▁ Ⓚ 1 0 7 Ⓛ ▁ Ⓘ C o u r ▁ c o m m u n e Ⓙ
+Ⓜ 5 2 Ⓝ ▁ Ⓔ C a p r o n ▁ H ↑ e r s ↓ Ⓕ ▁ Ⓚ 1 0 8 Ⓛ ▁ Ⓘ M ↑ o n ↓ ▁ e t ▁ C o u r Ⓙ
+Ⓜ 2 7 3 Ⓝ ▁ Ⓔ V i l a i n ▁ L o u i s → v i g Ⓕ ▁ Ⓚ 1 0 9 Ⓛ ▁ Ⓘ I d Ⓙ
+Ⓜ 1 2 Ⓝ ▁ Ⓔ A u b e r t ▁ F ↑ o i s ↓ ▁ n o e l Ⓕ ▁ Ⓚ 1 1 0 Ⓛ ▁ Ⓘ m . ▁ b ↑ t ↓ ▁ e t ▁ c o u r Ⓙ
+Ⓜ 1 6 8 Ⓝ ▁ Ⓔ L e d u c ▁ c l e m e n t Ⓕ ▁ Ⓚ 1 1 1 Ⓛ ▁ Ⓘ J a r d i n Ⓙ
+Ⓖ \ Ⓗ ▁ Ⓜ 1 6 8 Ⓝ ▁ Ⓔ I d Ⓕ ▁ Ⓚ 1 1 2 Ⓛ ▁ Ⓘ m ↑ o n ↓ ▁ e t ▁ c o u r Ⓙ
+Ⓜ 8 0 Ⓝ ▁ Ⓔ D a n c o u r t Ⓕ ▁ Ⓚ 1 1 3 Ⓛ ▁ Ⓘ J a r d . ▁ d ' a g r é m Ⓙ
+Ⓖ \ Ⓗ ▁ Ⓜ 8 0 Ⓝ ▁ Ⓔ i d Ⓕ ▁ Ⓚ 1 1 4 Ⓛ ▁ Ⓘ m ↑ o n ↓ ▁ M ❌ ❌ ❌ Ⓙ
+Ⓜ 1 3 6 Ⓝ ▁ Ⓔ G u i l b e r t ▁ n o t a i r e Ⓕ ▁ Ⓚ 1 1 5 Ⓛ ▁ Ⓘ J a r d i n Ⓙ
+Ⓖ \ Ⓗ ▁ Ⓜ 1 9 6 Ⓝ ▁ Ⓔ i d Ⓕ ▁ Ⓚ 1 1 6 Ⓛ ▁ Ⓘ M ↑ o n ▁ e t ▁ C o u r Ⓙ
+Ⓜ 4 3 Ⓝ ▁ Ⓔ B r e t o n ▁ J e a n ▁ P ↑ r e ↓ ▁ v i t r i e r Ⓕ ▁ Ⓚ 1 1 7 Ⓛ ▁ Ⓘ M ↑ o n ↓ ▁ e t ▁ C o u r Ⓙ
+Ⓖ \ Ⓗ ▁ Ⓜ 2 1 5 Ⓝ ▁ Ⓔ M o l o y ▁ J ↑ e s ↓ ▁ J a r d i n i e r → à ▁ S u c y Ⓕ ▁ Ⓚ 1 1 8 Ⓛ ▁ Ⓘ i d Ⓙ
+Ⓖ \ Ⓗ ▁ Ⓜ 1 6 2 ↑ b i s ↓ Ⓝ ▁ Ⓔ L a u r e n t ▁ E t i e n n e ▁ R e n é Ⓕ ▁ Ⓚ 1 1 9 Ⓛ ▁ Ⓘ J a r d i n Ⓙ
+Ⓖ \ Ⓗ ▁ Ⓜ 1 6 2 Ⓝ ▁ Ⓔ i d Ⓕ ▁ Ⓚ 1 2 0 Ⓛ ▁ Ⓘ M ↑ o n ↓ ▁ e t ▁ c o u r Ⓙ
+Ⓜ 3 6 Ⓝ ▁ Ⓔ C h a u m e t Ⓕ ▁ Ⓚ 1 3 6 Ⓛ ▁ Ⓘ V i g n e Ⓙ
+Ⓜ 2 4 2 Ⓝ ▁ Ⓔ R e n a r d ▁ p i e r r e Ⓕ ▁ Ⓚ 1 3 7 Ⓛ ▁ Ⓘ i d Ⓙ
+Ⓜ 2 0 8 Ⓝ ▁ Ⓔ P e n a i n ▁ j u l i e n Ⓕ ▁ Ⓚ 1 3 8 Ⓛ ▁ Ⓘ i d Ⓙ
+Ⓜ 2 0 8 Ⓝ ▁ Ⓔ i d Ⓕ ▁ Ⓚ 1 3 9 Ⓛ ▁ Ⓘ T e r r e Ⓙ
+Ⓜ 2 0 Ⓝ ▁ Ⓔ B o i r e a u ▁ a n t o i n e Ⓕ ▁ Ⓚ 1 4 0 Ⓛ ▁ Ⓘ i d Ⓙ
+Ⓜ 2 0 → × 8 5 ± Ⓝ ▁ Ⓔ i d e m → × G a u l o i s ▁ V e u v e → L a u r e n t ▁ à ▁ a b l o n ± Ⓕ ▁ Ⓚ 1 4 1 Ⓛ ▁ Ⓘ i d Ⓙ
+Ⓜ 1 3 2 Ⓝ ▁ Ⓔ J a n t o n ▁ f ↑ o i s ↓ → m a ç o n ▁ à ▁ V i l l e c r e s n e Ⓕ ▁ Ⓚ 1 4 2 Ⓛ ▁ Ⓘ i d Ⓙ
+Ⓜ 3 6 Ⓝ ▁ Ⓔ C h a u m e t ▁ p i e r r e Ⓕ ▁ Ⓚ 1 4 3 Ⓛ ▁ Ⓘ i d Ⓙ
+Ⓜ 1 3 Ⓝ ▁ Ⓔ B e n o i s t ▁ V e u v e → J e a n Ⓕ ▁ Ⓚ 1 4 4 Ⓛ ▁ Ⓘ i d Ⓙ
+Ⓜ 1 2 Ⓝ ▁ Ⓔ B e n o i s t ▁ f r a n ç o i s Ⓕ ▁ Ⓚ 1 4 5 Ⓛ ▁ Ⓘ i d Ⓙ
+Ⓜ 2 3 Ⓝ ▁ Ⓔ B o i r e a u ▁ f ↑ o i s ↓ Ⓕ ▁ Ⓚ 1 4 6 Ⓛ ▁ Ⓘ i d Ⓙ
+Ⓜ 1 7 6 Ⓝ ▁ Ⓔ M i c h a u l t → f r a n ç o i s Ⓕ ▁ Ⓚ 1 4 7 Ⓛ ▁ Ⓘ i d Ⓙ
+Ⓜ 1 4 6 Ⓝ ▁ Ⓔ L e ▁ C o c q ▁ V ↑ e ↓ ▁ a n t o i n e Ⓕ ▁ Ⓚ 1 4 8 Ⓛ ▁ Ⓘ i d Ⓙ
+Ⓜ 1 4 7 Ⓝ ▁ Ⓔ L e ▁ C o c q ▁ J a c q u e s Ⓕ ▁ Ⓚ 1 4 9 Ⓛ ▁ Ⓘ i d Ⓙ
+Ⓜ 1 4 0 Ⓝ ▁ Ⓔ L a n d r i n ▁ J a c q u e s Ⓕ ▁ Ⓚ 1 5 0 Ⓛ ▁ Ⓘ i d Ⓙ
+Ⓖ l e s ▁ g r a n d e s ▁ v i g n e s Ⓗ ▁ Ⓜ 1 4 1 Ⓝ ▁ Ⓔ F o n t a i n e ▁ h e n r y ▁ V i g ▁ V N Ⓕ ▁ Ⓚ 1 0 6 4 Ⓛ ▁ Ⓘ V i g n e Ⓙ
+Ⓖ § Ⓗ ▁ Ⓜ 1 5 4 Ⓝ ▁ Ⓔ g a u t i e r ▁ ❌ E t ↑ n e ↓ ▁ v i g ▁ V N Ⓕ ▁ Ⓚ 1 0 6 5 Ⓛ ▁ Ⓘ V i g n e Ⓙ
+Ⓖ § Ⓗ ▁ Ⓜ 2 3 0 Ⓝ ▁ Ⓔ M a r t i n ▁ J o s e p h ▁ V i g ▁ V N Ⓕ ▁ Ⓚ 1 0 6 6 Ⓛ ▁ Ⓘ V i g n e Ⓙ
+Ⓖ § Ⓗ ▁ Ⓜ 3 0 7 Ⓝ ▁ Ⓔ V e n t u l e ❌ ▁ C h ↑ l e s ↓ ▁ B o u r g . ▁ V n Ⓕ ▁ Ⓚ 1 0 6 7 Ⓛ ▁ Ⓘ V i g n e Ⓙ
+Ⓖ § Ⓗ ▁ Ⓜ 2 4 9 Ⓝ ▁ Ⓔ × G u i g n o t ▁ H ↑ r s ↓ ▁ V N → M a t a o ▁ v ❌ t ❌ ❌ ▁ h o n o r é ▁ a ▁ v n Ⓕ ▁ Ⓚ 1 0 6 8 Ⓛ ▁ Ⓘ V i g n e Ⓙ
+Ⓖ § Ⓗ ▁ Ⓜ 1 0 8 Ⓝ ▁ Ⓔ D e g o y ▁ g e o r g e s ▁ V i g ↑ o n ↓ ▁ V N Ⓕ ▁ Ⓚ 1 0 6 9 Ⓛ ▁ Ⓘ V i g n e Ⓙ
+Ⓖ § Ⓗ ▁ Ⓜ 1 3 Ⓝ ▁ Ⓔ B a c l i n ▁ C h ↑ l e s ↓ ▁ V i g ↑ o n ↓ ▁ V N Ⓕ ▁ Ⓚ 1 0 7 0 Ⓛ ▁ Ⓘ V i g n e Ⓙ
+Ⓖ § Ⓗ ▁ Ⓜ 1 4 1 Ⓝ ▁ Ⓔ F o n t a i n e ▁ h e n r y ▁ V i g ↑ o n ↓ ▁ V N Ⓕ ▁ Ⓚ 1 0 7 1 Ⓛ ▁ Ⓘ V i g n e Ⓙ
+Ⓖ § Ⓗ ▁ Ⓜ 2 7 5 Ⓝ ▁ Ⓔ P i o n ▁ d e n i s ▁ V i g ↑ o n ↓ ▁ V N Ⓕ ▁ Ⓚ 1 0 7 2 Ⓛ ▁ Ⓘ V i g n e Ⓙ
+Ⓖ § Ⓗ ▁ Ⓜ 5 4 Ⓝ ▁ Ⓔ C h a i l l o u x ▁ m a r i a n n e ▁ × V N ± → f e m m e ▁ d ' E t i e n n e ▁ G a u g o i s ▁ à ▁ R o u v r e Ⓕ ▁ Ⓚ 1 0 7 3 Ⓛ ▁ Ⓘ V i g n e Ⓙ
+Ⓖ § Ⓗ ▁ Ⓜ 2 7 5 Ⓝ ▁ Ⓔ P i o n ▁ d e n i s ▁ V i g ↑ o n ↓ ▁ V N Ⓕ ▁ Ⓚ 1 0 7 4 Ⓛ ▁ Ⓘ V i g n e Ⓙ
+Ⓖ § Ⓗ ▁ Ⓜ 1 3 3 Ⓝ ▁ Ⓔ D u c h è n e ▁ ❌ ↑ a n ↓ ▁ V i g . ▁ V a l e n t o n Ⓕ ▁ Ⓚ 1 0 7 5 Ⓛ ▁ Ⓘ V i g n e Ⓙ
+Ⓖ § Ⓗ ▁ Ⓜ 2 2 9 Ⓝ ▁ Ⓔ M a r t i n ▁ N ↑ a s ↓ ▁ V i g ↑ o n ↓ ▁ V N Ⓕ ▁ Ⓚ 1 0 7 6 Ⓛ ▁ Ⓘ V i g n e Ⓙ
+Ⓖ § Ⓗ ▁ Ⓜ 2 8 1 Ⓝ ▁ Ⓔ P o u i t t e t ▁ ❌ ↑ a n ↓ ▁ m i c h e l ▁ V N → r a f f i n e u r Ⓕ ▁ Ⓚ 1 0 7 7 Ⓛ ▁ Ⓘ V i g n e Ⓙ
+Ⓖ § Ⓗ ▁ Ⓜ 6 0 Ⓝ ▁ Ⓔ C h a t e a u ▁ J ↑ a n ↓ ▁ A n t ↑ e ↓ ▁ m a ç o n ▁ V N Ⓕ ▁ Ⓚ 1 0 7 8 Ⓛ ▁ Ⓘ V i g n e Ⓙ
+Ⓖ A j o u s Ⓗ ▁ Ⓔ L a ▁ F o l l e v i l l e Ⓕ ▁ Ⓚ 3 4 1 Ⓛ ▁ Ⓘ t e r r e Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ V ↑ e ↓ ▁ D u d o u i t Ⓕ ▁ Ⓚ 3 4 1 ↑ b i s ↓ Ⓛ ▁ Ⓘ § Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ h ↑ r e ↓ ▁ R a d o t ▁ h ↑ r e ↓ Ⓕ ▁ Ⓚ 3 4 2 Ⓛ ▁ Ⓘ § Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ B a c o t Ⓕ ▁ Ⓚ 3 4 2 ↑ b i s ↓ Ⓛ ▁ Ⓘ § Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ T r i o s o t Ⓕ ▁ Ⓚ 3 4 3 Ⓛ ▁ Ⓘ § Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ L e v é Ⓕ ▁ Ⓚ 3 4 3 ↑ b i s ↓ Ⓛ ▁ Ⓘ § Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ T i e r e Ⓕ ▁ Ⓚ 3 4 4 Ⓛ ▁ Ⓘ § Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ B a c o t Ⓕ ▁ Ⓚ 3 4 4 ↑ b i s ↓ Ⓛ ▁ Ⓘ § Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ R u b i g n y Ⓕ ▁ Ⓚ 3 4 5 Ⓛ ▁ Ⓘ § Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ L e v é Ⓕ ▁ Ⓚ 3 4 5 ↑ b i s ↓ Ⓛ ▁ Ⓘ § Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ T r i o s o t Ⓕ ▁ Ⓚ 3 4 6 Ⓛ ▁ Ⓘ § Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ i d Ⓕ ▁ Ⓚ 3 4 7 Ⓛ ▁ Ⓘ § Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ D e m o n t Ⓕ ▁ Ⓚ 3 4 8 Ⓛ ▁ Ⓘ § Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ R a g o n d é ▁ P a u l Ⓕ ▁ Ⓚ 3 4 8 ↑ b i s ↓ Ⓛ ▁ Ⓘ § Ⓙ
+Ⓖ 2 1 Ⓗ ▁ Ⓔ h ↑ r s ↓ ▁ R a d o t Ⓕ ▁ Ⓚ 3 4 9 Ⓛ ▁ Ⓘ § Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ S e r v a t r i e r Ⓕ ▁ Ⓚ 3 5 0 Ⓛ ▁ Ⓘ § Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ T h i e r s Ⓕ ▁ Ⓚ 3 5 1 Ⓛ ▁ Ⓘ § Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ h o s p i c e s Ⓕ ▁ Ⓚ 3 5 2 Ⓛ ▁ Ⓘ § Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ × T i e r s ± ▁ h ô t e l ▁ D i e u → × L e s ▁ T i e r s ▁ h o s p i c e s ± Ⓕ ▁ Ⓚ 3 5 3 Ⓛ ▁ Ⓘ § Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ i d Ⓕ ▁ Ⓚ 3 5 4 Ⓛ ▁ Ⓘ § Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ i d Ⓕ ▁ Ⓚ 3 5 5 Ⓛ ▁ Ⓘ § Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ L e r o y ▁ J ↑ n ↓ Ⓕ ▁ Ⓚ 3 5 6 Ⓛ ▁ Ⓘ § Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ R e n o u l t Ⓕ ▁ Ⓚ 3 5 7 Ⓛ ▁ Ⓘ § Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ L a f o l l e v i l l e Ⓕ ▁ Ⓚ 3 5 8 Ⓛ ▁ Ⓘ 2 1 Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ R a g o n d é ▁ P a u l Ⓕ ▁ Ⓚ 3 5 8 ↑ b i s ↓ Ⓛ ▁ Ⓘ § Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ " Ⓕ ▁ Ⓚ 3 5 9 Ⓛ ▁ Ⓘ § Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ B a c o t Ⓕ ▁ Ⓚ 3 6 0 Ⓛ ▁ Ⓘ § Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ L e s ▁ h o s p i c e s Ⓕ ▁ Ⓚ 3 6 0 ▁ b i s Ⓛ ▁ Ⓘ § Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ R a g o n d é Ⓕ ▁ Ⓚ 3 6 1 Ⓛ ▁ Ⓘ § Ⓙ
+Ⓖ h a u t e s ▁ f o r m e s Ⓗ ▁ Ⓔ V ↑ e ↓ ▁ C o r d e y Ⓕ ▁ Ⓚ 1 4 6 ↑ b i s ↓ Ⓛ ▁ Ⓘ t e r r e Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ P o n ç a r t Ⓕ ▁ Ⓚ 1 4 7 Ⓛ ▁ Ⓘ t e r r e ▁ e t ▁ m a i s o n Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ R e n o u l t Ⓕ ▁ Ⓚ 1 4 8 Ⓛ ▁ Ⓘ t e r r e Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ M e r r o t Ⓕ ▁ Ⓚ 1 4 9 Ⓛ ▁ Ⓘ § Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ L e r o y ▁ a n t o i n e Ⓕ ▁ Ⓚ 1 5 0 Ⓛ ▁ Ⓘ § Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ V ↑ e ↓ ▁ D u m o n d Ⓕ ▁ Ⓚ 1 5 1 Ⓛ ▁ Ⓘ § Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ B a c o t Ⓕ ▁ Ⓚ 1 5 1 ↑ b i s ↓ Ⓛ ▁ Ⓘ § Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ V ↑ e ↓ ▁ G o d e f r o i d Ⓕ ▁ Ⓚ 1 5 2 Ⓛ ▁ Ⓘ § Ⓙ
+Ⓖ G r a n g o r Ⓗ ▁ Ⓔ C o i g n e t ▁ f ↑ o i s ↓ Ⓕ ▁ Ⓚ 1 5 2 Ⓛ ▁ Ⓘ § Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ B o n g e n t Ⓕ ▁ Ⓚ 1 5 4 Ⓛ ▁ Ⓘ § Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ L e r o y ▁ J ↑ n ↓ Ⓕ ▁ Ⓚ 1 5 5 Ⓛ ▁ Ⓘ v i g n e Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ L e c a m u s , ▁ V ↑ e ↓ ▁ D e l o r m e Ⓕ ▁ Ⓚ 1 5 6 Ⓛ ▁ Ⓘ t e r r e Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ V ↑ e ↓ ▁ C a l l y Ⓕ ▁ Ⓚ 1 5 7 Ⓛ ▁ Ⓘ v i g n e Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ V ↑ e ↓ ▁ B a d e t ▁ m i c h e l Ⓕ ▁ Ⓚ 1 5 8 Ⓛ ▁ Ⓘ i d Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ L e r o y ▁ n i c o l a s Ⓕ ▁ Ⓚ 1 5 9 Ⓛ ▁ Ⓘ t e r r e Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ P i l l e t ▁ J e a n Ⓕ ▁ Ⓚ 1 6 0 Ⓛ ▁ Ⓘ § Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ h ↑ r s ↓ ▁ A u b e r t Ⓕ ▁ Ⓚ 1 6 1 Ⓛ ▁ Ⓘ § Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ i d Ⓕ ▁ Ⓚ 1 6 2 Ⓛ ▁ Ⓘ § Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ J o l l y Ⓕ ▁ Ⓚ 1 6 3 Ⓛ ▁ Ⓘ § Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ C o c h e t ▁ n i c o l a s Ⓕ ▁ Ⓚ 1 6 4 Ⓛ ▁ Ⓘ v i g n e Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ L e r o y ▁ A n t o i n e Ⓕ ▁ Ⓚ 1 6 5 Ⓛ ▁ Ⓘ t e r r e Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ L e r o y ▁ J e a n Ⓕ ▁ Ⓚ 1 6 6 Ⓛ ▁ Ⓘ i d Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ L e r o y ▁ G e o r g e s Ⓕ ▁ Ⓚ 1 6 7 Ⓛ ▁ Ⓘ v i g n e Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ L e f o r t Ⓕ ▁ Ⓚ 1 6 8 Ⓛ ▁ Ⓘ t e r r e Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ C h a n e v a s ▁ à ▁ a r c u e i l Ⓕ ▁ Ⓚ 1 6 9 Ⓛ ▁ Ⓘ § Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ M o r t i e r ▁ c l a u d e Ⓕ ▁ Ⓚ 1 7 0 Ⓛ ▁ Ⓘ § Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ N o b l e t ▁ J ↑ n ↓ Ⓕ ▁ Ⓚ 1 7 1 Ⓛ ▁ Ⓘ v i g n e Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ B o u r d i l l a t Ⓕ ▁ Ⓚ 1 7 2 Ⓛ ▁ Ⓘ t e r r e Ⓙ
+Ⓖ h a m e a u → Ⓗ ▁ Ⓔ × G i l b e r t ± ▁ L u p i e n ▁ c h a r p e n t i e r Ⓕ ▁ Ⓚ 1 6 6 1 Ⓛ ▁ Ⓘ T e r r e Ⓙ
+Ⓖ d ' a u s t e r l i t z Ⓗ ▁ Ⓔ × C h a r p e n t i e r ± ▁ i d Ⓕ ▁ Ⓚ 1 6 6 2 Ⓛ ▁ Ⓘ B a t i m e n Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ G i l b e r t Ⓕ ▁ Ⓚ 1 6 6 3 Ⓛ ▁ Ⓘ i d Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ i d Ⓕ ▁ Ⓚ 1 6 6 4 Ⓛ ▁ Ⓘ × i d ± ▁ j a r d i n Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ i d Ⓕ ▁ Ⓚ 1 6 6 5 Ⓛ ▁ Ⓘ m a i s o n Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ B a c o t Ⓕ ▁ Ⓚ 1 6 6 6 Ⓛ ▁ Ⓘ t e r r e Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ L o u i s Ⓕ ▁ Ⓚ 1 6 6 7 Ⓛ ▁ Ⓘ B a t i m e n t Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ V i l l a g i e r Ⓕ ▁ Ⓚ 1 6 6 8 Ⓛ ▁ Ⓘ i d Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ G a u l t r a n Ⓕ ▁ Ⓚ 1 6 6 9 Ⓛ ▁ Ⓘ i d ▁ + ▁ T e r r a i n Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ M o n g i n Ⓕ ▁ Ⓚ 1 6 7 0 Ⓛ ▁ Ⓘ i d Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ i d Ⓕ ▁ Ⓚ 1 6 7 1 Ⓛ ▁ Ⓘ i d Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ B a c h e l i e r Ⓕ ▁ Ⓚ 1 6 7 2 Ⓛ ▁ Ⓘ B a t i m e n t Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ i d Ⓕ ▁ Ⓚ 1 6 7 3 Ⓛ ▁ Ⓘ J a r d i n Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ T i e r s Ⓕ ▁ Ⓚ 1 6 7 4 Ⓛ ▁ Ⓘ t e r r e Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ B a c o t Ⓕ ▁ Ⓚ 1 6 7 5 Ⓛ ▁ Ⓘ i d Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ D u d o u i t Ⓕ ▁ Ⓚ 1 6 7 6 Ⓛ ▁ Ⓘ i d Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ L e s i e u r Ⓕ ▁ Ⓚ 1 6 7 7 Ⓛ ▁ Ⓘ M a i s o n Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ P o t i e r Ⓕ ▁ Ⓚ 1 6 7 8 Ⓛ ▁ Ⓘ J a r d i n Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ i d Ⓕ ▁ Ⓚ 1 6 7 9 Ⓛ ▁ Ⓘ M a i s o n Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ i d Ⓕ ▁ Ⓚ 1 6 8 0 Ⓛ ▁ Ⓘ i d Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ L e s ▁ h o s p i c e s ▁ ( d a n s ▁ P a r i s ) Ⓕ ▁ Ⓚ 1 6 8 1 Ⓛ ▁ Ⓘ t e r r e Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ i d ▁ i d ▁ i d Ⓕ ▁ Ⓚ 1 6 8 2 Ⓛ ▁ Ⓘ § Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ L a ▁ F o l l e v i l l e Ⓕ ▁ Ⓚ 1 6 8 3 Ⓛ ▁ Ⓘ § Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ L e s ▁ h o s p i c e s ▁ d a n s ▁ P a r i s Ⓕ ▁ Ⓚ 1 6 8 4 Ⓛ ▁ Ⓘ § Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ i d ▁ i d Ⓕ ▁ Ⓚ 1 6 8 5 Ⓛ ▁ Ⓘ § Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ V ↑ e ↓ ▁ h é l i n Ⓕ ▁ Ⓚ 1 6 8 6 Ⓛ ▁ Ⓘ J a r d i n Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ i d Ⓕ ▁ Ⓚ 1 6 8 7 Ⓛ ▁ Ⓘ m a i s o n Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ i d Ⓕ ▁ Ⓚ 1 6 8 8 Ⓛ ▁ Ⓘ J a r d i n Ⓙ
+Ⓖ L e s → C l a m a r d s Ⓗ ▁ Ⓔ A l l y ▁ J o s e p h ▁ M a r i e Ⓕ ▁ Ⓚ 6 4 5 Ⓛ ▁ Ⓘ T Ⓙ ▁ Ⓐ 3 7 2 0 Ⓑ ▁ Ⓒ V i g Ⓓ
+Ⓖ § Ⓗ ▁ Ⓔ H é r i c o u r t ▁ P i e r r e ▁ S a t u r n i n Ⓕ ▁ Ⓚ 6 4 6 Ⓛ ▁ Ⓘ T Ⓙ ▁ Ⓐ 3 7 2 1 → P ↑ t e ↓ 3 7 2 2 → c h e m i n Ⓑ ▁ Ⓒ T → T → " Ⓓ
+Ⓖ § Ⓗ ▁ Ⓔ H é r i c o u r t ▁ L o u i s ▁ V i c t o r Ⓕ ▁ Ⓚ 6 4 7 Ⓛ ▁ Ⓘ T Ⓙ ▁ Ⓐ P t i e ▁ 3 7 2 2 → c h e m i n Ⓑ ▁ Ⓒ T → " Ⓓ
+Ⓖ § Ⓗ ▁ Ⓔ R a m e a u ▁ P i e r r e ▁ C ô m e Ⓕ ▁ Ⓚ 6 4 8 Ⓛ ▁ Ⓘ V i g n e Ⓙ ▁ Ⓐ 3 7 2 6 → 3 7 2 4 Ⓑ ▁ Ⓒ V i g → T Ⓓ
+Ⓖ § Ⓗ ▁ Ⓔ M é r i l l o n ▁ J e a n ▁ D e n i s , ▁ V ↑ v e ↓ Ⓕ ▁ Ⓚ 6 4 9 Ⓛ ▁ Ⓘ T Ⓙ ▁ Ⓐ 3 7 2 5 Ⓑ ▁ Ⓒ T Ⓓ
+Ⓖ § Ⓗ ▁ Ⓔ B e r g e r ▁ A m b r o i s e ▁ m a g l o i r e Ⓕ ▁ Ⓚ 6 5 0 Ⓛ ▁ Ⓘ T Ⓙ ▁ Ⓐ 3 7 2 6 Ⓑ ▁ Ⓒ T Ⓓ
+Ⓖ § Ⓗ ▁ Ⓔ V e r n e a u ▁ J e a n , ▁ d i t ▁ l e → D o g u e Ⓕ ▁ Ⓚ 6 5 1 Ⓛ ▁ Ⓘ V i g n e Ⓙ ▁ Ⓐ p t i e ▁ 3 7 2 7 Ⓑ ▁ Ⓒ V i g Ⓓ
+Ⓖ § Ⓗ ▁ Ⓔ B e r g e r ▁ B a p t i s t e Ⓕ ▁ Ⓚ 6 5 2 Ⓛ ▁ Ⓘ T Ⓙ ▁ Ⓐ P ↑ t i e ↓ ▁ 3 7 2 7 → 3 7 2 8 Ⓑ ▁ Ⓒ V i g → T Ⓓ
+Ⓖ § Ⓗ ▁ Ⓔ A n c e l o t ▁ n i c o l a s , ▁ d i t ▁ a n c e l o n → V e u v e Ⓕ ▁ Ⓚ 6 5 9 Ⓛ ▁ Ⓘ T Ⓙ ▁ Ⓐ P ↑ t i e ↓ ▁ 3 7 2 9 Ⓑ ▁ Ⓒ T Ⓓ
+Ⓖ § Ⓗ ▁ Ⓔ M o u s c a d e t ▁ P i e r r e ▁ G r é g o i r e → à ▁ F o n t e n a y Ⓕ ▁ Ⓚ 6 5 4 Ⓛ ▁ Ⓘ T Ⓙ ▁ Ⓐ P ↑ t i e ↓ ▁ 3 7 2 9 Ⓑ ▁ Ⓒ T Ⓓ
+Ⓖ § Ⓗ ▁ Ⓔ B e u z e v i l l e ▁ c h a r l e s , ▁ d i t → M i c h o n Ⓕ ▁ Ⓚ 6 5 5 Ⓛ ▁ Ⓘ T Ⓙ ▁ Ⓐ 3 7 3 2 Ⓑ ▁ Ⓒ V i g Ⓓ
+Ⓖ § Ⓗ ▁ Ⓔ H é r i c o u r d ▁ L o u i s ▁ G a b r i e l Ⓕ ▁ Ⓚ 6 5 6 Ⓛ ▁ Ⓘ T Ⓙ ▁ Ⓐ 3 7 3 1 Ⓑ ▁ Ⓒ T Ⓓ
+Ⓖ § Ⓗ ▁ Ⓔ A n c e l o t ▁ P i e r r e ▁ S a t u r n i n , ▁ d i t ▁ C a r a b i n Ⓕ ▁ Ⓚ 6 5 7 Ⓛ ▁ Ⓘ T Ⓙ ▁ Ⓐ 3 7 3 0 Ⓑ ▁ Ⓒ T Ⓓ
+Ⓖ § Ⓗ ▁ Ⓔ A n c e l o t ▁ N i c o l a s ▁ J o s e p h Ⓕ ▁ Ⓚ 6 5 8 Ⓛ ▁ Ⓘ T Ⓙ ▁ Ⓐ P ↑ t i e ↓ ▁ 3 7 3 3 Ⓑ ▁ Ⓒ T Ⓓ
+Ⓜ 1 0 1 Ⓝ ▁ Ⓔ L a r m é e ▁ J ▁ D Ⓕ ▁ Ⓚ 4 9 6 Ⓛ ▁ Ⓘ v i g n e Ⓙ
+Ⓜ 8 1 Ⓝ ▁ Ⓔ G a u t h i e r ▁ P ↑ r e ↓ ▁ f ↑ o i s ↓ Ⓕ ▁ Ⓚ 4 9 7 Ⓛ ▁ Ⓘ i d Ⓙ
+Ⓜ 1 5 9 Ⓝ ▁ Ⓔ R i c h a r d ▁ t a i l l e u r → d e ▁ p i e r r e Ⓕ ▁ Ⓚ 4 9 8 Ⓛ ▁ Ⓘ t e r r e Ⓙ
+Ⓜ 1 0 1 Ⓝ ▁ Ⓔ L a r m é e ▁ J ↑ n ↓ ▁ B ↑ t e ↓ Ⓕ ▁ Ⓚ 4 9 9 Ⓛ ▁ Ⓘ i d Ⓙ
+Ⓜ 1 8 2 Ⓝ ▁ Ⓔ T h i v o t ▁ b a p t . Ⓕ ▁ Ⓚ 5 0 0 Ⓛ ▁ Ⓘ v i g n e Ⓙ
+Ⓜ 1 8 3 Ⓝ ▁ Ⓔ V ↑ e ↓ ▁ T h i v o t ▁ à ▁ c r e s n e Ⓕ ▁ Ⓚ 5 0 1 Ⓛ ▁ Ⓘ t e r r e Ⓙ
+Ⓜ 8 1 Ⓝ ▁ Ⓔ G a u t h i e r ▁ P ↑ r e ↓ ▁ f ↑ o i s ↓ Ⓕ ▁ Ⓚ 5 0 2 Ⓛ ▁ Ⓘ v i g n e Ⓙ
+Ⓜ 1 0 1 Ⓝ ▁ Ⓔ L a r m é e Ⓕ ▁ Ⓚ 5 0 9 Ⓛ ▁ Ⓘ i d Ⓙ
+Ⓜ 2 3 Ⓝ ▁ Ⓔ B o u c h e r ▁ m i c h e l Ⓕ ▁ Ⓚ 5 0 4 Ⓛ ▁ Ⓘ i d Ⓙ
+Ⓜ 7 3 Ⓝ ▁ Ⓔ F e r r y ▁ J ↑ n ↓ ▁ l o u i s Ⓕ ▁ Ⓚ 5 0 5 Ⓛ ▁ Ⓘ i d Ⓙ
+Ⓜ 1 8 2 Ⓝ ▁ Ⓔ T h i v o t ▁ b a p t Ⓕ ▁ Ⓚ 5 0 6 Ⓛ ▁ Ⓘ i d Ⓙ
+Ⓜ 1 0 1 Ⓝ ▁ Ⓔ L a r m é e ▁ J ↑ n ↓ Ⓕ ▁ Ⓚ 5 0 7 Ⓛ ▁ Ⓘ i d Ⓙ
+Ⓜ 6 Ⓝ ▁ Ⓔ A u g r o t ▁ f o n t a i n i e r Ⓕ ▁ Ⓚ 5 0 8 Ⓛ ▁ Ⓘ J a r d i n → × v e r g e r ± Ⓙ
+Ⓜ 6 Ⓝ ▁ Ⓔ i d Ⓕ ▁ Ⓚ 5 0 9 Ⓛ ▁ Ⓘ × b â t i m e n t ± → M a i s o n Ⓙ
+Ⓜ 6 Ⓝ ▁ Ⓔ i d Ⓕ ▁ Ⓚ 5 1 0 Ⓛ ▁ Ⓘ v i g n e Ⓙ
+Ⓖ R u e ▁ d e s ▁ C a r r i è r e s Ⓗ ▁ Ⓔ S o c i é t é ▁ d e ▁ l a ▁ G a r e Ⓕ ▁ Ⓚ 2 9 5 Ⓛ ▁ Ⓘ J a r d i n Ⓙ ▁ Ⓐ 2 2 0 ▁ p o r t i o n → 2 2 2 → 2 2 3 → 2 2 4 → 2 2 5 → 2 2 6 Ⓑ ▁ Ⓒ J a r d i n → r é s e r v o i r → f o u r → m a i s o n → b â t → b â t Ⓓ
+Ⓖ R u e ▁ d e → Ⓗ ▁ Ⓔ L e m o n n i e r ▁ J ↑ n ↓ ▁ F o i s Ⓕ ▁ Ⓚ 2 9 6 Ⓛ ▁ Ⓘ J a r d i n Ⓙ ▁ Ⓐ 2 2 0 p Ⓑ ▁ Ⓒ J a r d i n Ⓓ
+Ⓖ P a r i s Ⓗ ▁ Ⓔ I d e m Ⓕ ▁ Ⓚ 2 9 7 Ⓛ ▁ Ⓘ J a r d i n Ⓙ ▁ Ⓐ 2 2 0 p Ⓑ ▁ Ⓒ J a r d i n Ⓓ
+Ⓖ § Ⓗ ▁ Ⓔ D e s t o u c h e s ▁ a u g u s t e Ⓕ ▁ Ⓚ 2 9 8 Ⓛ ▁ Ⓘ m a i s o n ▁ b t → e t ▁ c o u r → n ° 6 3 Ⓙ ▁ Ⓐ 2 2 0 p → 2 2 1 Ⓑ ▁ Ⓒ J a r d i n → M a i s o n Ⓓ
+Ⓖ § Ⓗ ▁ Ⓔ B e r t a u t ▁ a n t o i n e → v e u v e Ⓕ ▁ Ⓚ 2 9 9 Ⓛ ▁ Ⓘ m a i s o n → × e t ± ▁ c o u r → n ° 6 1 Ⓙ ▁ Ⓐ 2 2 0 p Ⓑ ▁ Ⓒ J a r d i n Ⓓ
+Ⓖ § Ⓗ ▁ Ⓔ L e m o n n i e r ▁ J n ▁ F r Ⓕ ▁ Ⓚ 3 0 0 Ⓛ ▁ Ⓘ m a i s o n → n ° 5 9 Ⓙ ▁ Ⓐ 2 2 0 p Ⓑ ▁ Ⓒ Ø Ⓓ
+Ⓖ § Ⓗ ▁ Ⓔ i d e m Ⓕ ▁ Ⓚ 3 0 1 Ⓛ ▁ Ⓘ m a i s o n ▁ b a t → e t ▁ c o u r Ⓙ ▁ Ⓐ 2 2 0 p Ⓑ ▁ Ⓒ Ø Ⓓ
+Ⓖ § Ⓗ ▁ Ⓔ M a s s o n Ⓕ ▁ Ⓚ 3 0 2 Ⓛ ▁ Ⓘ J a r d i n Ⓙ ▁ Ⓐ 2 2 0 p Ⓑ ▁ Ⓒ Ø Ⓓ
+Ⓖ § Ⓗ ▁ Ⓔ i d e m Ⓕ ▁ Ⓚ 3 0 3 Ⓛ ▁ Ⓘ n ° 5 5 → m a i s o n ▁ b ↑ t ↓ → e t ▁ c o u r Ⓙ ▁ Ⓐ 2 2 0 p Ⓑ ▁ Ⓒ Ø Ⓓ
+Ⓖ § Ⓗ ▁ Ⓔ T h e v e n e z ▁ E t ↑ e ↓ ▁ a n t ↑ e ↓ Ⓕ ▁ Ⓚ 3 0 3 ↑ b i s ↓ Ⓛ ▁ Ⓘ m ↑ o n ↓ ▁ B ↑ t ↓ → c o u r → n ° 5 7 Ⓙ ▁ Ⓐ Ø Ⓑ ▁ Ⓒ Ø Ⓓ
+Ⓖ § Ⓗ ▁ Ⓜ 3 7 9 Ⓝ ▁ Ⓔ P h i l l i p p e t z ▁ F r é d é r i c Ⓕ ▁ Ⓚ 3 0 4 Ⓛ ▁ Ⓘ M a i s o n ▁ b t ▁ e t ▁ c o u r Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ P e t z e l Ⓕ ▁ Ⓚ 3 0 5 Ⓛ ▁ Ⓘ J a r d i n Ⓙ ▁ Ⓐ 2 2 0 p Ⓑ ▁ Ⓒ Ø Ⓓ
+Ⓖ § Ⓗ ▁ Ⓔ S u l i a n ▁ ( D e s a n u t ) → p i e r r e ▁ R a y m o n d Ⓕ ▁ Ⓚ 3 0 6 Ⓛ ▁ Ⓘ J a r d i n Ⓙ ▁ Ⓐ 2 2 0 p Ⓑ ▁ Ⓒ Ø Ⓓ
+Ⓖ § Ⓗ ▁ Ⓔ i d e m Ⓕ ▁ Ⓚ 3 0 7 Ⓛ ▁ Ⓘ m a i s o n ▁ b ↑ t ↓ → e t ▁ c o u r Ⓙ ▁ Ⓐ 2 2 0 p Ⓑ ▁ Ⓒ Ø Ⓓ
+Ⓖ § Ⓗ ▁ Ⓔ i d e m Ⓕ ▁ Ⓚ 3 0 8 Ⓛ ▁ Ⓘ m a i s o n Ⓙ ▁ Ⓐ 2 2 0 p Ⓑ ▁ Ⓒ Ø Ⓓ
+Ⓖ L e s ▁ F l o u v i e r s Ⓗ ▁ Ⓔ C a s s e n ▁ d e ▁ C i a b l i c e ▁ a u g u s t i n ▁ m a r i e ▁ s y l v a i n → P a r i s Ⓕ ▁ Ⓚ 8 0 7 Ⓛ ▁ Ⓘ T Ⓙ ▁ Ⓐ 3 6 3 Ⓑ ▁ Ⓒ T Ⓓ
+Ⓖ i d Ⓗ ▁ Ⓔ D e l a n o u e ▁ m a r i e ▁ g e n e v i è v e ▁ ( d ↑ e l l e ↓ ) ▁ P a r i s Ⓕ ▁ Ⓚ 8 0 8 Ⓛ ▁ Ⓘ T Ⓙ ▁ Ⓐ 3 6 3 ↑ 2 ↓ Ⓑ ▁ Ⓒ T Ⓓ
+Ⓖ § Ⓗ ▁ Ⓔ B o u t t é ▁ C h a r l e s ▁ J o s e p h ▁ d e n i s , ▁ P a r i s → ( V e u v e ) Ⓕ ▁ Ⓚ 8 0 9 Ⓛ ▁ Ⓘ T Ⓙ ▁ Ⓐ 3 6 4 Ⓑ ▁ Ⓒ T Ⓓ
+Ⓖ § Ⓗ ▁ Ⓔ L e l e u ▁ h u b e r t ▁ N o ë l , ▁ P a r i s Ⓕ ▁ Ⓚ 8 1 0 Ⓛ ▁ Ⓘ T Ⓙ ▁ Ⓐ 3 6 4 ↑ 2 ↓ Ⓑ ▁ Ⓒ T Ⓓ
+Ⓖ § Ⓗ ▁ Ⓔ P i o r s ▁ a u g u s t i n , ▁ V ↑ e ↓ Ⓕ ▁ Ⓚ 8 1 1 Ⓛ ▁ Ⓘ T Ⓙ ▁ Ⓐ 3 6 4 ↑ 3 ↓ Ⓑ ▁ Ⓒ T Ⓓ
+Ⓖ § Ⓗ ▁ Ⓔ L e l e u ▁ h u b e r t ▁ N o ë l , ▁ P a r i s Ⓕ ▁ Ⓚ 8 1 2 Ⓛ ▁ Ⓘ T Ⓙ ▁ Ⓐ 3 6 8 Ⓑ ▁ Ⓒ T Ⓓ
+Ⓖ § Ⓗ ▁ Ⓔ D u r a n d ▁ J e a n ▁ E t i e n n e , ▁ l e s ▁ h ↑ e r s ↓ , ▁ à ▁ b i c è t r e Ⓕ ▁ Ⓚ 8 1 3 Ⓛ ▁ Ⓘ T Ⓙ ▁ Ⓐ 3 6 9 Ⓑ ▁ Ⓒ T Ⓓ
+Ⓖ § Ⓗ ▁ Ⓔ D e l a n o u e ▁ T o u s s a i n t , ▁ O r l y Ⓕ ▁ Ⓚ 8 1 4 Ⓛ ▁ Ⓘ T Ⓙ
+Ⓖ § Ⓗ ▁ Ⓔ P i g e r o n , ▁ P a r i s Ⓕ ▁ Ⓚ 8 1 5 Ⓛ ▁ Ⓘ T Ⓙ ▁ Ⓐ 3 6 6 → 3 6 7 Ⓑ ▁ Ⓒ T → T Ⓓ
+Ⓖ § Ⓗ ▁ Ⓔ C o u t é ▁ J e a n ▁ J a c q u e s Ⓕ ▁ Ⓚ 8 1 6 Ⓛ ▁ Ⓘ T Ⓙ ▁ Ⓐ 3 6 5 Ⓑ ▁ Ⓒ T Ⓓ
+Ⓖ L e ▁ T r a v y Ⓗ ▁ Ⓔ h é b e r t ▁ L o u i s ▁ V ↑ e ↓ , ▁ O r l y Ⓕ ▁ Ⓚ 8 1 7 Ⓛ ▁ Ⓘ T Ⓙ ▁ Ⓐ 4 5 6 Ⓑ ▁ Ⓒ T Ⓓ
+Ⓖ d Ⓗ ▁ Ⓔ M m ↑ e ↓ ▁ L é r a u l t ▁ V ↑ e ↓ , ▁ n é e ▁ V é r o n , ▁ P a r i s Ⓕ ▁ Ⓚ 8 1 8 Ⓛ ▁ Ⓘ T Ⓙ ▁ Ⓐ 4 5 7 Ⓑ ▁ Ⓒ T Ⓓ
+Ⓖ § Ⓗ ▁ Ⓔ L e r o y ▁ d e ▁ l a ▁ B r i è r e ▁ F u r c y ▁ m a r i e ▁ n i c o l a s , ▁ O r l y Ⓕ ▁ Ⓚ 8 1 9 Ⓛ ▁ Ⓘ T Ⓙ ▁ Ⓐ 4 5 8 Ⓑ ▁ Ⓒ T Ⓓ
+Ⓖ § Ⓗ ▁ Ⓔ B a s s e t ▁ P h i l i p p e , ▁ V ↑ e ↓ , ▁ y è r e s Ⓕ ▁ Ⓚ 8 2 0 Ⓛ ▁ Ⓘ T Ⓙ ▁ Ⓐ 4 5 9 Ⓑ ▁ Ⓒ T Ⓓ
