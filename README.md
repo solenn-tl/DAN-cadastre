@@ -1,13 +1,17 @@
 # DAN
 
 ## Documentation
-* [Documentation](https://atr.pages.teklia.com/dan/)
-* [Dépôt DAN Teklia (privé)](https://gitlab.teklia.com/atr/dan)
+* [Dépôt DAN Teklia](https://gitlab.teklia.com/atr/dan)
+* [Documentation DAN](https://atr.pages.teklia.com/dan/)
+* [Dépôt Nerval Teklia](https://gitlab.teklia.com/ner/nerval)
 
 ## Installation
-0. Créer un environnement virtuel (activer avec ```source .venv/bin/activate```)
-1. Installer Nerval : ```pip install nerval-master.tar.gz```
-2. Installer DAN : ```pip install dan-main.zip```
+1. Créer un environnement virtuel
+** ```python3 -m venv .venv_dan```
+** ```source .venv_dan/bin/activate``` OR . ```.venv_dan/bin/activate```
+2. Exécuter ```setup.sh``` pour installer Nerval et DAN :
+    * ```chmod +x setup.sh```
+    * ```./setup.sh```
 
 ## Pré-requis
 * Python >= 3.10
@@ -28,7 +32,10 @@
 
 ## Aide
 * Lancer tensorboard ```tensorboard --logdir output --bind_all``` dans le dossier où sont contenus les résultats du modèle (ex: ```outputs/train_110324```)
-TEST
+
 ## Questions
 - Lignes ou pages pour la création dataset : https://doc.callico.eu/campaigns/export/arkindex/#also-export-entities-on-a-parent-extra-field-for-entity-form-campaigns
 - Taille du vocabulaire 
+
+## Attention
+* Le token spécial § est utilisé dans mes annotations mais est aussi utilisé dans NERVAL comme séparateur.
