@@ -6,10 +6,14 @@
 * [Dépôt Nerval Teklia](https://gitlab.teklia.com/ner/nerval)
 
 ## Installation
-1. Créer un environnement virtuel
-** ```python3 -m venv .venv_dan```
-** ```source .venv_dan/bin/activate``` OR . ```.venv_dan/bin/activate```
-2. Exécuter ```setup.sh``` pour installer Nerval et DAN :
+1. Créer un environnement virtuel : 
+```python3 -m venv .venv_dan```
+
+2. Activer l'environnement : 
+    * ```source .venv_dan/bin/activate```
+    * ```.venv_dan/bin/activate```
+
+3. Exécuter ```setup.sh``` pour installer Nerval et DAN :
     * ```chmod +x setup.sh```
     * ```./setup.sh```
 
