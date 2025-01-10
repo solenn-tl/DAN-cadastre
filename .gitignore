@@ -2,7 +2,7 @@ dan-main/
 data/
 outputs/
 dataset/
-dataset-cartes/
 inference/
 otherimages/
-scripts_cartes/
+arkindex/doc/
+.venv_dan/
