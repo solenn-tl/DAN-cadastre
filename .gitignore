@@ -1,8 +1,14 @@
+.ipynb_checkpoints/
 dan-main/
 data/
 outputs/
 dataset/
+dataset2/
 inference/
 otherimages/
 arkindex/doc/
 .venv_dan/
+scripts/Clustering/taxpayers_backup.json
+fonts/
+models/
+LinLibertine_It-4.0_.3_.ttf

@@ -1,0 +1,1718 @@
+[
+    {
+        "element_uuid": "16683751-9455-4200-a317-47e94f6fed4b",
+        "transcription": "Coudray auguste→andré Vig↑on↓",
+        "entities_json": {
+            "taxpayers": [
+                {
+                    "name": "Coudray",
+                    "firstnames": "auguste→andré",
+                    "activity": ["Vig↑on↓"],
+                    "address": [],
+                    "title": [],
+                    "familystatus": [],
+                    "birthname": ""
+                }
+            ]
+        }
+    },
+    {
+        "element_uuid": "143cc725-88b1-4442-86ab-7fc5e577e32c",
+        "transcription": "×Vauguyon± Le Prince→ de neufchâtel",
+        "entities_json": {
+            "taxpayers": [
+                {
+                    "name": "Vauguyon",
+                    "firstnames": "",
+                    "activity": [],
+                    "address": [],
+                    "title": [],
+                    "familystatus": [],
+                    "birthname": ""
+                },
+                {
+                    "name": "Le Prince→ de neufchâtel",
+                    "firstnames": "",
+                    "activity": [],
+                    "address": [],
+                    "title": [],
+                    "familystatus": [],
+                    "birthname": ""
+                }
+            ]
+        }
+    },
+    {
+        "element_uuid": "f56a9839-f76d-42a4-9e09-38a15f687b17",
+        "transcription": "Guerin Joseph pere",
+        "entities_json": {
+            "taxpayers": [
+                {
+                    "name": "Guerin",
+                    "firstnames": "Joseph",
+                    "activity": [],
+                    "address": [],
+                    "title": [
+                        "pere"
+                    ],
+                    "familystatus": [],
+                    "birthname": ""
+                }
+            ]
+        }
+    },
+    {
+        "element_uuid": "478963f9-71f7-4015-914d-1f9a5d514bb3",
+        "transcription": "Tourneur Barthélémy",
+        "entities_json": {
+            "taxpayers": [
+                {
+                    "name": "Tourneur",
+                    "firstnames": "Barthélémy",
+                    "activity": [],
+                    "address": [],
+                    "title": [],
+                    "familystatus": [],
+                    "birthname": ""
+                }
+            ]
+        }
+    },
+    {
+        "element_uuid": "f95d7b32-7e6f-4e7a-8832-7e49bc7570f1",
+        "transcription": "Bordier pierre",
+        "entities_json": {
+            "taxpayers": [
+                {
+                    "name": "Bordier",
+                    "firstnames": "pierre",
+                    "activity": [],
+                    "address": [],
+                    "title": [],
+                    "familystatus": [],
+                    "birthname": ""
+                }
+            ]
+        }
+    },
+    {
+        "element_uuid": "746ef6f8-d3b3-46d6-9c15-d6d104fce45c",
+        "transcription": "Bonne hercule→serrurier",
+        "entities_json": {
+            "taxpayers": [
+                {
+                    "name": "Bonne",
+                    "firstnames": "hercule",
+                    "activity": [
+                        "serrurier"
+                    ],
+                    "address": [],
+                    "title": [],
+                    "familystatus": [],
+                    "birthname": ""
+                }
+            ]
+        }
+    },
+    {
+        "element_uuid": "8af7922a-0380-4de8-b733-c632afb3a62e",
+        "transcription": "Guerin Joseph pere",
+        "entities_json": {
+            "taxpayers": [
+                {
+                    "name": "Guerin",
+                    "firstnames": "Joseph",
+                    "activity": [],
+                    "address": [],
+                    "title": [
+                        "pere"
+                    ],
+                    "familystatus": [],
+                    "birthname": ""
+                }
+            ]
+        }
+    },
+    {
+        "element_uuid": "2fe31334-be5d-439d-8001-3c205f7a5644",
+        "transcription": "Tourneur Barthelemy",
+        "entities_json": {
+            "taxpayers": [
+                {
+                    "name": "Tourneur",
+                    "firstnames": "Barthelemy",
+                    "activity": [],
+                    "address": [],
+                    "title": [],
+                    "familystatus": [],
+                    "birthname": ""
+                }
+            ]
+        }
+    },
+    {
+        "element_uuid": "d0dc21b4-0ccb-43f8-ad17-3681444f5b9c",
+        "transcription": "Mazareau pierre→Cabaretier",
+        "entities_json": {
+            "taxpayers": [
+                {
+                    "name": "Mazareau",
+                    "firstnames": "pierre",
+                    "activity": [
+                        "Cabaretier"
+                    ],
+                    "address": [],
+                    "title": [],
+                    "familystatus": [],
+                    "birthname": ""
+                }
+            ]
+        }
+    },
+    {
+        "element_uuid": "a56f7362-d97f-44b9-8db7-72e21a5bb492",
+        "transcription": "Tourneur Barthelemy",
+        "entities_json": {
+            "taxpayers": [
+                {
+                    "name": "Tourneur",
+                    "firstnames": "Barthelemy",
+                    "activity": [],
+                    "address": [],
+                    "title": [],
+                    "familystatus": [],
+                    "birthname": ""
+                }
+            ]
+        }
+    },
+    {
+        "element_uuid": "f3cf34d8-05e5-4c53-9b12-e3f89ab31e95",
+        "transcription": "Galland pierre→a paris",
+        "entities_json": {
+            "taxpayers": [
+                {
+                    "name": "Galland",
+                    "firstnames": "pierre",
+                    "activity": [],
+                    "address": [
+                        "paris"
+                    ],
+                    "title": [],
+                    "familystatus": [],
+                    "birthname": ""
+                }
+            ]
+        }
+    },
+    {
+        "element_uuid": "e14b2ca5-a67f-4eeb-b85a-679fb6ecd9a9",
+        "transcription": "Galland Louis Nicolas",
+        "entities_json": {
+            "taxpayers": [
+                {
+                    "name": "Galland",
+                    "firstnames": "Louis Nicolas",
+                    "activity": [],
+                    "address": [],
+                    "title": [],
+                    "familystatus": [],
+                    "birthname": ""
+                }
+            ]
+        }
+    },
+    {
+        "element_uuid": "97a6da46-bd5e-4435-8ddb-6ed277d8b1d3",
+        "transcription": "Galland Julien",
+        "entities_json": {
+            "taxpayers": [
+                {
+                    "name": "Galland",
+                    "firstnames": "Julien",
+                    "activity": [],
+                    "address": [],
+                    "title": [],
+                    "familystatus": [],
+                    "birthname": ""
+                }
+            ]
+        }
+    },
+    {
+        "element_uuid": "4498c333-81db-4387-8324-830c24a675a3",
+        "transcription": "Guerin Joseph pere",
+        "entities_json": {
+            "taxpayers": [
+                {
+                    "name": "Guerin",
+                    "firstnames": "Joseph",
+                    "activity": [],
+                    "address": [],
+                    "title": [
+                        "pere"
+                    ],
+                    "familystatus": [],
+                    "birthname": ""
+                }
+            ]
+        }
+    },
+    {
+        "element_uuid": "9f498b05-6d8c-4556-b22c-da7b2eccaf08",
+        "transcription": "Lefevre Jacques",
+        "entities_json": {
+            "taxpayers": [
+                {
+                    "name": "Lefevre",
+                    "firstnames": "Jacques",
+                    "activity": [],
+                    "address": [],
+                    "title": [],
+                    "familystatus": [],
+                    "birthname": ""
+                }
+            ]
+        }
+    },
+    {
+        "element_uuid": "9ce08413-06ec-49b7-a769-4ec7971355be",
+        "transcription": "Gaston Jules édouard",
+        "entities_json": {
+            "taxpayers": [
+                {
+                    "name": "Gaston",
+                    "firstnames": "Jules édouard",
+                    "activity": [],
+                    "address": [],
+                    "title": [],
+                    "familystatus": [],
+                    "birthname": ""
+                }
+            ]
+        }
+    },
+    {
+        "element_uuid": "87c34288-4f28-466a-9b15-52bcf99cd387",
+        "transcription": "Andouillé alexandre flavien",
+        "entities_json": {
+            "taxpayers": [
+                {
+                    "name": "Andouillé",
+                    "firstnames": "alexandre flavien",
+                    "activity": [],
+                    "address": [],
+                    "title": [],
+                    "familystatus": [],
+                    "birthname": ""
+                }
+            ]
+        }
+    },
+    {
+        "element_uuid": "238519ef-b849-4cbf-918a-e91559bcc62b",
+        "transcription": "Chatelain jean pierre",
+        "entities_json": {
+            "taxpayers": [
+                {
+                    "name": "Chatelain",
+                    "firstnames": "jean pierre",
+                    "activity": [],
+                    "address": [],
+                    "title": [],
+                    "familystatus": [],
+                    "birthname": ""
+                }
+            ]
+        }
+    },
+    {
+        "element_uuid": "88c832db-32db-4c06-844f-5ca7cae85a44",
+        "transcription": "Brunat marie madeleine",
+        "entities_json": {
+            "taxpayers": [
+                {
+                    "name": "Brunat",
+                    "firstnames": "marie madeleine",
+                    "activity": [],
+                    "address": [],
+                    "title": [],
+                    "familystatus": [],
+                    "birthname": ""
+                }
+            ]
+        }
+    },
+    {
+        "element_uuid": "a25b1de6-e876-43e0-a067-e514a8d68555",
+        "transcription": "Colas jean veuve",
+        "entities_json": {
+            "taxpayers": [
+                {
+                    "name": "Colas",
+                    "firstnames": "jean",
+                    "activity": [],
+                    "address": [],
+                    "title": [],
+                    "familystatus": ["veuve"],
+                    "birthname": ""
+                }
+            ]
+        }
+    },
+    {
+        "element_uuid": "7eaf6cf1-c8d2-4726-a0c7-b0b44447afe0",
+        "transcription": "Dominique michel",
+        "entities_json": {
+            "taxpayers": [
+                {
+                    "name": "Dominique",
+                    "firstnames": "michel",
+                    "activity": [],
+                    "address": [],
+                    "title": [],
+                    "familystatus": [],
+                    "birthname": ""
+                }
+            ]
+        }
+    },
+    {
+        "element_uuid": "c6e64c03-c526-45e8-8348-af4100287e91",
+        "transcription": "Doublet veuve née angot",
+        "entities_json": {
+            "taxpayers": [
+                {
+                    "name": "Doublet",
+                    "firstnames": "angot",
+                    "activity": [],
+                    "address": [],
+                    "title": [
+                        "veuve"
+                    ],
+                    "familystatus": [],
+                    "birthname": ""
+                }
+            ]
+        }
+    },
+    {
+        "element_uuid": "db49735a-6476-452f-a4f3-6a000762ba2f",
+        "transcription": "Porthier Sylvain",
+        "entities_json": {
+            "taxpayers": [
+                {
+                    "name": "Porthier",
+                    "firstnames": "Sylvain",
+                    "activity": [],
+                    "address": [],
+                    "title": [],
+                    "familystatus": [],
+                    "birthname": ""
+                }
+            ]
+        }
+    },
+    {
+        "element_uuid": "e37c5e20-12a2-4877-81f6-3d54e2950c7a",
+        "transcription": "Archambaut Remy",
+        "entities_json": {
+            "taxpayers": [
+                {
+                    "name": "Archambaut",
+                    "firstnames": "Remy",
+                    "activity": [],
+                    "address": [],
+                    "title": [],
+                    "familystatus": [],
+                    "birthname": ""
+                }
+            ]
+        }
+    },
+    {
+        "element_uuid": "e7f9ca07-bec2-4698-a03f-d17dd3384afd",
+        "transcription": "Huet Casimir",
+        "entities_json": {
+            "taxpayers": [
+                {
+                    "name": "Huet",
+                    "firstnames": "Casimir",
+                    "activity": [],
+                    "address": [],
+                    "title": [],
+                    "familystatus": [],
+                    "birthname": ""
+                }
+            ]
+        }
+    },
+    {
+        "element_uuid": "2d20b049-3302-43ff-a57d-a9eedab894c9",
+        "transcription": "Crispin désiré augustin",
+        "entities_json": {
+            "taxpayers": [
+                {
+                    "name": "Crispin",
+                    "firstnames": "désiré augustin",
+                    "activity": [],
+                    "address": [],
+                    "title": [],
+                    "familystatus": [],
+                    "birthname": ""
+                }
+            ]
+        }
+    },
+    {
+        "element_uuid": "ca44cf45-657b-41a2-ae90-7d65e38cc44c",
+        "transcription": "Collignon Eugène",
+        "entities_json": {
+            "taxpayers": [
+                {
+                    "name": "Collignon",
+                    "firstnames": "Eugène",
+                    "activity": [],
+                    "address": [],
+                    "title": [],
+                    "familystatus": [],
+                    "birthname": ""
+                }
+            ]
+        }
+    },
+    {
+        "element_uuid": "4aad737d-9cb8-4769-af91-c2e6c3492187",
+        "transcription": "Hablot Bernard",
+        "entities_json": {
+            "taxpayers": [
+                {
+                    "name": "Hablot",
+                    "firstnames": "Bernard",
+                    "activity": [],
+                    "address": [],
+                    "title": [],
+                    "familystatus": [],
+                    "birthname": ""
+                }
+            ]
+        }
+    },
+    {
+        "element_uuid": "84acdec3-e611-40d9-bbd6-4175345b94f5",
+        "transcription": "Convers edme ernest",
+        "entities_json": {
+            "taxpayers": [
+                {
+                    "name": "Convers",
+                    "firstnames": "edme ernest",
+                    "activity": [],
+                    "address": [],
+                    "title": [],
+                    "familystatus": [],
+                    "birthname": ""
+                }
+            ]
+        }
+    },
+    {
+        "element_uuid": "f7faa29f-c7e2-49b1-b21b-36b20c273aa0",
+        "transcription": "Jury Jean",
+        "entities_json": {
+            "taxpayers": [
+                {
+                    "name": "Jury",
+                    "firstnames": "Jean",
+                    "activity": [],
+                    "address": [],
+                    "title": [],
+                    "familystatus": [],
+                    "birthname": ""
+                }
+            ]
+        }
+    },
+    {
+        "element_uuid": "a80f5287-d199-4720-b4d9-ddf0adb15b28",
+        "transcription": "Joussard Jean louis",
+        "entities_json": {
+            "taxpayers": [
+                {
+                    "name": "Joussard",
+                    "firstnames": "Jean louis",
+                    "activity": [],
+                    "address": [],
+                    "title": [],
+                    "familystatus": [],
+                    "birthname": ""
+                }
+            ]
+        }
+    },
+    {
+        "element_uuid": "80a88e25-8753-4cf7-ab4f-4b9b166e4409",
+        "transcription": "Franco césar Charles",
+        "entities_json": {
+            "taxpayers": [
+                {
+                    "name": "Franco",
+                    "firstnames": "césar Charles",
+                    "activity": [],
+                    "address": [],
+                    "title": [],
+                    "familystatus": [],
+                    "birthname": ""
+                }
+            ]
+        }
+    },
+    {
+        "element_uuid": "24733d32-e339-46e9-b451-157d3c475fcd",
+        "transcription": "Prevost narcisse fme séparée",
+        "entities_json": {
+            "taxpayers": [
+                {
+                    "name": "Prevost",
+                    "firstnames": "narcisse",
+                    "activity": [],
+                    "address": [],
+                    "title": [],
+                    "familystatus": [
+                        "fme séparée"
+                    ],
+                    "birthname": ""
+                }
+            ]
+        }
+    },
+    {
+        "element_uuid": "0b838b2b-d34b-4f96-bd31-400f58c016af",
+        "transcription": "Paloque Jean",
+        "entities_json": {
+            "taxpayers": [
+                {
+                    "name": "Paloque",
+                    "firstnames": "Jean",
+                    "activity": [],
+                    "address": [],
+                    "title": [],
+                    "familystatus": [],
+                    "birthname": ""
+                }
+            ]
+        }
+    },
+    {
+        "element_uuid": "ad4d9737-0532-4b44-9424-287249f31bb3",
+        "transcription": "Janart Louis Joseph",
+        "entities_json": {
+            "taxpayers": [
+                {
+                    "name": "Janart",
+                    "firstnames": "Louis Joseph",
+                    "activity": [],
+                    "address": [],
+                    "title": [],
+                    "familystatus": [],
+                    "birthname": ""
+                }
+            ]
+        }
+    },
+    {
+        "element_uuid": "cd1930b8-01be-453b-a340-b63e69b59917",
+        "transcription": "Blocus henri",
+        "entities_json": {
+            "taxpayers": [
+                {
+                    "name":"Blocus",
+                    "firstnames": "henri",
+                    "activity": [],
+                    "address": [],
+                    "title": [],
+                    "familystatus": [],
+                    "birthname": ""
+                }
+            ]
+        }
+    },
+    {
+        "element_uuid": "c0f50832-d34b-467a-b1c8-ee5d787759b3",
+        "transcription": "Perrot francois",
+        "entities_json": {
+            "taxpayers": [
+                {
+                    "name": "Perrot",
+                    "firstnames": "francois",
+                    "activity": [],
+                    "address": [],
+                    "title": [],
+                    "familystatus": [],
+                    "birthname": ""
+                }
+            ]
+        }
+    },
+    {
+        "element_uuid": "2404678a-bd23-4109-b46e-1788498ecc3a",
+        "transcription": "Fraysse Joseph",
+        "entities_json": {
+            "taxpayers": [
+                {
+                    "name": "Fraysse",
+                    "firstnames": "Joseph",
+                    "activity": [],
+                    "address": [],
+                    "title": [],
+                    "familystatus": [],
+                    "birthname": ""
+                }
+            ]
+        }
+    },
+    {
+        "element_uuid": "4f34209a-7549-4bac-be21-a82217236d95",
+        "transcription": "Besval Jean francois antoine",
+        "entities_json": {
+            "taxpayers": [
+                {
+                    "name": "Besval",
+                    "firstnames": "Jean francois antoine",
+                    "activity": [],
+                    "address": [],
+                    "title": [],
+                    "familystatus": [],
+                    "birthname": ""
+                }
+            ]
+        }
+    },
+    {
+        "element_uuid": "90b6f757-42f0-43c2-82af-5370ccc09f5d",
+        "transcription": "Manginot louis françois",
+        "entities_json": {
+            "taxpayers": [
+                {
+                    "name": "Manginot",
+                    "firstnames": "louis françois",
+                    "activity": [],
+                    "address": [],
+                    "title": [],
+                    "familystatus": [],
+                    "birthname": ""
+                }
+            ]
+        }
+    },
+    {
+        "element_uuid": "e65944be-06f4-4429-9c42-97c00ced42bf",
+        "transcription": "Gevaudan",
+        "entities_json": {
+            "taxpayers": [
+                {
+                    "name": "Gevaudan",
+                    "firstnames": "",
+                    "activity": [],
+                    "address": [],
+                    "title": [],
+                    "familystatus": [],
+                    "birthname": ""
+                }
+            ]
+        }
+    },
+    {
+        "element_uuid": "117823cc-6a06-4d56-b9c6-cdcc735f9d51",
+        "transcription": "dame De Chavagnac",
+        "entities_json": {
+            "taxpayers": [
+                {
+                    "name": "dame De Chavagnac",
+                    "firstnames": "",
+                    "activity": [],
+                    "address": [],
+                    "title": [],
+                    "familystatus": [],
+                    "birthname": ""
+                }
+            ]
+        }
+    },
+    {
+        "element_uuid": "908bf548-1de7-4e6b-a64c-54d6b1d99062",
+        "transcription": "Baloche bruneau",
+        "entities_json": {
+            "taxpayers": [
+                {
+                    "name": "Baloche",
+                    "firstnames": "bruneau",
+                    "activity": [],
+                    "address": [],
+                    "title": [],
+                    "familystatus": [],
+                    "birthname": ""
+                }
+            ]
+        }
+    },
+    {
+        "element_uuid": "0f795788-24d6-4b0b-ad4d-fd3a514cbd47",
+        "transcription": "Cheveh J↑n↓",
+        "entities_json": {
+            "taxpayers": [
+                {
+                    "name": "Cheveh",
+                    "firstnames": "J↑n↓",
+                    "activity": [],
+                    "address": [],
+                    "title": [],
+                    "familystatus": [],
+                    "birthname": ""
+                }
+            ]
+        }
+    },
+    {
+        "element_uuid": "ea49745a-8d08-4f2b-b7da-df3183bc8ba4",
+        "transcription": "Petit Ch↑es↓",
+        "entities_json": {
+            "taxpayers": [
+                {
+                    "name": "Petit ",
+                    "firstnames": "Ch↑es↓",
+                    "activity": [],
+                    "address": [],
+                    "title": [],
+                    "familystatus": [],
+                    "birthname": ""
+                }
+            ]
+        }
+    },
+    {
+        "element_uuid": "64590ef6-80bb-48d5-8b48-67bbad319ddc",
+        "transcription": "Carré marcel",
+        "entities_json": {
+            "taxpayers": [
+                {
+                    "name": "Carré",
+                    "firstnames": "marcel",
+                    "activity": [],
+                    "address": [],
+                    "title": [],
+                    "familystatus": [],
+                    "birthname": ""
+                }
+            ]
+        }
+    },
+    {
+        "element_uuid": "903057d2-0f76-4aa5-8f8a-6223b9884c0c",
+        "transcription": "Auboin",
+        "entities_json": {
+            "taxpayers": [
+                {
+                    "name": "Auboin",
+                    "firstnames": "",
+                    "activity": [],
+                    "address": [],
+                    "title": [],
+                    "familystatus": [],
+                    "birthname": ""
+                }
+            ]
+        }
+    },
+    {
+        "element_uuid": "127b7cee-25b6-4edc-95e7-b7050817095d",
+        "transcription": "dame de Chavagnac",
+        "entities_json": {
+            "taxpayers": [
+                {
+                    "name": "dame de Chavagnac",
+                    "firstnames": "",
+                    "activity": [],
+                    "address": [],
+                    "title": [],
+                    "familystatus": [],
+                    "birthname": ""
+                }
+            ]
+        }
+    },
+    {
+        "element_uuid": "e9bf3215-dc9a-431a-af3d-586c3cdecb16",
+        "transcription": "Diache Philippe à Thiais",
+        "entities_json": {
+            "taxpayers": [
+                {
+                    "name": "Diache",
+                    "firstnames": "Philippe",
+                    "activity": [],
+                    "address": [
+                        "Thiais"
+                    ],
+                    "title": [],
+                    "familystatus": [],
+                    "birthname": ""
+                }
+            ]
+        }
+    },
+    {
+        "element_uuid": "1baa886f-fca0-4005-bdac-2b618dd38001",
+        "transcription": "Doublié Veuve",
+        "entities_json": {
+            "taxpayers": [
+                {
+                    "name": "Doublié",
+                    "firstnames": "",
+                    "activity": [],
+                    "address": [],
+                    "title": [],
+                    "familystatus": [
+                        "Veuve"
+                    ],
+                    "birthname": ""
+                }
+            ]
+        }
+    },
+    {
+        "element_uuid": "6c66edf3-8bd0-4143-988a-a33bb7b5ddc2",
+        "transcription": "Louisser J↑n↓ J↑ques↓",
+        "entities_json": {
+            "taxpayers": [
+                {
+                    "name": "Louissier",
+                    "firstnames": "J↑n↓ J↑ques↓",
+                    "activity": [],
+                    "address": [],
+                    "title": [],
+                    "familystatus": [],
+                    "birthname": ""
+                }
+            ]
+        }
+    },
+    {
+        "element_uuid": "4ad45e6e-674e-438f-b35a-a2bdb22664a7",
+        "transcription": "Chasseloup",
+        "entities_json": {
+            "taxpayers": [
+                {
+                    "name": "Chasseloup",
+                    "firstnames": "",
+                    "activity": [],
+                    "address": [],
+                    "title": [],
+                    "familystatus": [],
+                    "birthname": ""
+                }
+            ]
+        }
+    },
+    {
+        "element_uuid": "744f3625-f7eb-42ba-8a0d-098fc69d9865",
+        "transcription": "Darblay à Villejuif",
+        "entities_json": {
+            "taxpayers": [
+                {
+                    "name": "Darblay",
+                    "firstnames": "",
+                    "activity": [],
+                    "address": [
+                        "Villejuif"
+                    ],
+                    "title": [],
+                    "familystatus": [],
+                    "birthname": ""
+                }
+            ]
+        }
+    },
+    {
+        "element_uuid": "dcafe204-2c31-4139-b127-7c5b1db88133",
+        "transcription": "Moisi à Paris",
+        "entities_json": {
+            "taxpayers": [
+                {
+                    "name": "Moisi",
+                    "firstnames": "",
+                    "activity": [],
+                    "address": [
+                        "Paris"
+                    ],
+                    "title": [],
+                    "familystatus": [],
+                    "birthname": ""
+                }
+            ]
+        }
+    },
+    {
+        "element_uuid": "48e52c34-3177-409e-9966-8b28638cf330",
+        "transcription": "Chasseloup",
+        "entities_json": {
+            "taxpayers": [
+                {
+                    "name": "Chasseloup",
+                    "firstnames": "",
+                    "activity": [],
+                    "address": [],
+                    "title": [],
+                    "familystatus": [],
+                    "birthname": ""
+                }
+            ]
+        }
+    },
+    {
+        "element_uuid": "692d6f47-0ad1-4d54-bbcc-0007cd8040b1",
+        "transcription": "Demaisons",
+        "entities_json": {
+            "taxpayers": [
+                {
+                    "name": "Demaisons",
+                    "firstnames": "",
+                    "activity": [],
+                    "address": [],
+                    "title": [],
+                    "familystatus": [],
+                    "birthname": ""
+                }
+            ]
+        }
+    },
+    {
+        "element_uuid": "e567637f-2b76-4afa-a613-cc8dd939c951",
+        "transcription": "Delanoue Louis",
+        "entities_json": {
+            "taxpayers": [
+                {
+                    "name": "Delanoue",
+                    "firstnames": "Louis",
+                    "activity": [],
+                    "address": [],
+                    "title": [],
+                    "familystatus": [],
+                    "birthname": ""
+                }
+            ]
+        }
+    },
+    {
+        "element_uuid": "f6aa453b-8f7a-47c0-bd8c-dd878e05c637",
+        "transcription": "Gevaudan",
+        "entities_json": {
+            "taxpayers": [
+                {
+                    "name": "Gevaudan",
+                    "firstnames": "",
+                    "activity": [],
+                    "address": [],
+                    "title": [],
+                    "familystatus": [],
+                    "birthname": ""
+                }
+            ]
+        }
+    },
+    {
+        "element_uuid": "231df9af-1698-4d8a-9405-9345f7640f45",
+        "transcription": "Nolo Louis",
+        "entities_json": {
+            "taxpayers": [
+                {
+                    "name": "Nolo",
+                    "firstnames": "Louis",
+                    "activity": [],
+                    "address": [],
+                    "title": [],
+                    "familystatus": [],
+                    "birthname": ""
+                }
+            ]
+        }
+    },
+    {
+        "element_uuid": "d8e390a7-55ee-4da6-a06b-d1f18a8e730b",
+        "transcription": "L❌❌tat Jean Jacques",
+        "entities_json": {
+            "taxpayers": [
+                {
+                    "name": "L❌❌tat",
+                    "firstnames": "Jean Jacques",
+                    "activity": [],
+                    "address": [],
+                    "title": [],
+                    "familystatus": [],
+                    "birthname": ""
+                }
+            ]
+        }
+    },
+    {
+        "element_uuid": "c816fa4f-9838-4075-ad9a-e3f916fec5f7",
+        "transcription": "Dame de Chavagnac",
+        "entities_json": {
+            "taxpayers": [
+                {
+                    "name": "Dame de Chavagnac",
+                    "firstnames": "",
+                    "activity": [],
+                    "address": [],
+                    "title": [],
+                    "familystatus": [],
+                    "birthname": ""
+                }
+            ]
+        }
+    },
+    {
+        "element_uuid": "035b6ee7-56b2-4140-9e85-cf96e286c2d4",
+        "transcription": "Sevin françois loc→de la veuve Ravingnes",
+        "entities_json": {
+            "taxpayers": [
+                {
+                    "name": "Sevin",
+                    "firstnames": "françois",
+                    "activity": [],
+                    "address": [],
+                    "title": [],
+                    "familystatus": [],
+                    "birthname": ""
+                },
+                {
+                    "name": "Ravingnes",
+                    "firstnames": "veuve",
+                    "activity": [],
+                    "address": [],
+                    "title": ["loc"],
+                    "familystatus": [],
+                    "birthname": ""
+                }
+            ]
+        }
+    },
+    {
+        "element_uuid": "b48a39a5-ce92-414d-b377-c2cd4c6ecd2f",
+        "transcription": "Nolo Louis",
+        "entities_json": {
+            "taxpayers": [
+                {
+                    "name": "Nolo",
+                    "firstnames": "Louis",
+                    "activity": [],
+                    "address": [],
+                    "title": [],
+                    "familystatus": [],
+                    "birthname": ""
+                }
+            ]
+        }
+    },
+    {
+        "element_uuid": "affcb659-a657-4988-b6fb-fa3a70b83b5a",
+        "transcription": "Dame de Chavagnac",
+        "entities_json": {
+            "taxpayers": [
+                {
+                    "name": "Dame de Chavagnac",
+                    "firstnames": "",
+                    "activity": [],
+                    "address": [],
+                    "title": [],
+                    "familystatus": [],
+                    "birthname": ""
+                }
+            ]
+        }
+    },
+    {
+        "element_uuid": "bac0de2c-d63c-48d0-a3b5-920c14db9695",
+        "transcription": "Marmoutel Veuve (Beaupre→loc à Paret)",
+        "entities_json": {
+            "taxpayers": [
+                {
+                    "name": "Marmoutel",
+                    "firstnames": "",
+                    "activity": [],
+                    "address": [],
+                    "title": [],
+                    "familystatus": [
+                        "Veuve"
+                    ],
+                    "birthname": ""
+                },
+                {
+                    "name": "Beaupre",
+                    "firstnames": "",
+                    "activity": [],
+                    "address": ["Paret"],
+                    "title": [],
+                    "familystatus": [
+                        "loc"
+                    ],
+                    "birthname": ""
+                }
+            ]
+        }
+    },
+    {
+        "element_uuid": "d61d7f26-0e5c-4d56-ba43-cbff9d84370a",
+        "transcription": "Dame de Chavagnac",
+        "entities_json": {
+            "taxpayers": [
+                {
+                    "name": "Dame de Chavagnac",
+                    "firstnames": "",
+                    "activity": [],
+                    "address": [],
+                    "title": [],
+                    "familystatus": [],
+                    "birthname": ""
+                }
+            ]
+        }
+    },
+    {
+        "element_uuid": "065618e6-2adf-4ba5-afab-efb99d684c63",
+        "transcription": "Chapeloup",
+        "entities_json": {
+            "taxpayers": [
+                {
+                    "name": "Chapeloup",
+                    "firstnames": "",
+                    "activity": [],
+                    "address": [],
+                    "title": [],
+                    "familystatus": [],
+                    "birthname": ""
+                }
+            ]
+        }
+    },
+    {
+        "element_uuid": "6f4e14b8-e934-4065-ae72-1693a47b492f",
+        "transcription": "Sevin François, loc de→la Veuve Ravignes",
+        "entities_json": {
+            "taxpayers": [
+                {
+                    "name": "Sevin",
+                    "firstnames": "François",
+                    "activity": [],
+                    "address": [],
+                    "title": [],
+                    "familystatus": [
+                        "loc"
+                    ],
+                    "birthname": ""
+                },
+                {
+                    "name": "Ravignes",
+                    "firstnames": "",
+                    "activity": [],
+                    "address": [],
+                    "title": [],
+                    "familystatus": [
+                        "Veuve"
+                    ],
+                    "birthname": ""
+                }
+            ]
+        }
+    },
+    {
+        "element_uuid": "7deb5b36-2f23-43a2-9f4c-f8c8a2f6c908",
+        "transcription": "dame de Chavagnac",
+        "entities_json": {
+            "taxpayers": [
+                {
+                    "name": "dame de Chavagnac",
+                    "firstnames": "",
+                    "activity": [],
+                    "address": [],
+                    "title": [],
+                    "familystatus": [],
+                    "birthname": ""
+                }
+            ]
+        }
+    },
+    {
+        "element_uuid": "759a3dfa-334b-4d4a-8c9d-5ebcead22a9a",
+        "transcription": "Dame de Chavagnac",
+        "entities_json": {
+            "taxpayers": [
+                {
+                    "name": "Dame de Chavagnac",
+                    "firstnames": "",
+                    "activity": [],
+                    "address": [],
+                    "title": [],
+                    "familystatus": [],
+                    "birthname": ""
+                }
+            ]
+        }
+    },
+    {
+        "element_uuid": "165faf90-79a7-4537-a8e2-0ba33f07a5c8",
+        "transcription": "Diache Philippe",
+        "entities_json": {
+            "taxpayers": [
+                {
+                    "name": "Diache",
+                    "firstnames": "Philippe",
+                    "activity": [],
+                    "address": [],
+                    "title": [],
+                    "familystatus": [],
+                    "birthname": ""
+                }
+            ]
+        }
+    },
+    {
+        "element_uuid": "9b6d56d5-7c31-4b64-ab0c-1f0b789e0539",
+        "transcription": "Delanoue loc là Wufan",
+        "entities_json": {
+            "taxpayers": [
+                {
+                    "name": "Delanoue",
+                    "firstnames": "",
+                    "activity": [],
+                    "address": [],
+                    "title": [],
+                    "familystatus": [],
+                    "birthname": ""
+                }
+            ]
+        }
+    },
+    {
+        "element_uuid": "2d60f810-e32c-4218-8d57-a9fed99abfa4",
+        "transcription": "Petit Charles",
+        "entities_json": {
+            "taxpayers": [
+                {
+                    "name": "Petit",
+                    "firstnames": "Charles",
+                    "activity": [],
+                    "address": [],
+                    "title": [],
+                    "familystatus": [],
+                    "birthname": ""
+                }
+            ]
+        }
+    },
+    {
+        "element_uuid": "6221aab8-fddd-4868-aafa-a8c0e4db2755",
+        "transcription": "Carré",
+        "entities_json": {
+            "taxpayers": [
+                {
+                    "name": "Carré",
+                    "firstnames": "",
+                    "activity": [],
+                    "address": [],
+                    "title": [],
+                    "familystatus": [],
+                    "birthname": ""
+                }
+            ]
+        }
+    },
+    {
+        "element_uuid": "c2403711-525f-405a-b18d-49935f126bfc",
+        "transcription": "Nolo Spire",
+        "entities_json": {
+            "taxpayers": [
+                {
+                    "name": "Nolo",
+                    "firstnames": "Spire",
+                    "activity": [],
+                    "address": [],
+                    "title": [],
+                    "familystatus": [],
+                    "birthname": ""
+                }
+            ]
+        }
+    },
+    {
+        "element_uuid": "0b910fa5-2db1-4d5e-9746-b46572046d70",
+        "transcription": "Petit Denis",
+        "entities_json": {
+            "taxpayers": [
+                {
+                    "name": "Petit",
+                    "firstnames": "Denis",
+                    "activity": [],
+                    "address": [],
+                    "title": [],
+                    "familystatus": [],
+                    "birthname": ""
+                }
+            ]
+        }
+    },
+    {
+        "element_uuid": "3dd0621f-6fee-4197-be58-a5cbe462b45f",
+        "transcription": "Nolo Louis",
+        "entities_json": {
+            "taxpayers": [
+                {
+                    "name": "Nolo",
+                    "firstnames": "Louis",
+                    "activity": [],
+                    "address": [],
+                    "title": [],
+                    "familystatus": [],
+                    "birthname": ""
+                }
+            ]
+        }
+    },
+    {
+        "element_uuid": "89c8cf54-6d37-40f2-819d-bca235a37d11",
+        "transcription": "Lion J↑n↓-Michel",
+        "entities_json": {
+            "taxpayers": [
+                {
+                    "name": "Lion",
+                    "firstnames": "J↑n↓-Michel",
+                    "activity": [],
+                    "address": [],
+                    "title": [],
+                    "familystatus": [],
+                    "birthname": ""
+                }
+            ]
+        }
+    },
+    {
+        "element_uuid": "87301e6e-cc51-45cb-81db-f44645e90b58",
+        "transcription": "Rague V↑ve↓ toujaud",
+        "entities_json": {
+            "taxpayers": [
+                {
+                    "name": "Rague",
+                    "firstnames": "",
+                    "activity": [],
+                    "address": [],
+                    "title": [],
+                    "familystatus": [
+                        "V↑ve↓"
+                    ],
+                    "birthname": ""
+                }
+            ]
+        }
+    },
+    {
+        "element_uuid": "8d098edd-bf17-4259-abe8-88134194e6b6",
+        "transcription": "andré louis→Rivière→×pierre±→et Emile victor",
+        "entities_json": {
+            "taxpayers": [
+                {
+                    "name": "Rivière",
+                    "firstnames": "andré louis",
+                    "activity": [],
+                    "address": [],
+                    "title": [],
+                    "familystatus": [],
+                    "birthname": ""
+                },
+                {
+                    "name": "Emile",
+                    "firstnames": "victor",
+                    "activity": [],
+                    "address": [],
+                    "title": [],
+                    "familystatus": [],
+                    "birthname": ""
+                }
+            ]
+        }
+    },
+    {
+        "element_uuid": "f10d8829-2092-4801-b478-25701cf65e0f",
+        "transcription": "Leclerc Claude félix",
+        "entities_json": {
+            "taxpayers": [
+                {
+                    "name": "Leclerc",
+                    "firstnames": "Claude félix",
+                    "activity": [],
+                    "address": [],
+                    "title": [],
+                    "familystatus": [],
+                    "birthname": ""
+                }
+            ]
+        }
+    },
+    {
+        "element_uuid": "e1e1ea95-c73e-4aab-8f76-91192834de34",
+        "transcription": "Chevalier louis Et↑ne↓",
+        "entities_json": {
+            "taxpayers": [
+                {
+                    "name": "Chevalier",
+                    "firstnames": "louis Et↑ne↓",
+                    "activity": [],
+                    "address": [],
+                    "title": [],
+                    "familystatus": [],
+                    "birthname": ""
+                }
+            ]
+        }
+    },
+    {
+        "element_uuid": "b23c6f7b-0c3e-4295-bb4c-f879ff69c4ea",
+        "transcription": "Pregnault fils",
+        "entities_json": {
+            "taxpayers": [
+                {
+                    "name": "Pregnault",
+                    "firstnames": "",
+                    "activity": [],
+                    "address": [],
+                    "title": [],
+                    "familystatus": [
+                        "fils"
+                    ],
+                    "birthname": ""
+                }
+            ]
+        }
+    },
+    {
+        "element_uuid": "9c2f1fde-4a44-4bdf-8983-f008008d4da9",
+        "transcription": "huard Joseph",
+        "entities_json": {
+            "taxpayers": [
+                {
+                    "name": "huard",
+                    "firstnames": "Joseph",
+                    "activity": [],
+                    "address": [],
+                    "title": [],
+                    "familystatus": [],
+                    "birthname": ""
+                }
+            ]
+        }
+    },
+    {
+        "element_uuid": "9304a680-77ad-430b-bc3c-d2ade30ab49c",
+        "transcription": "Huard marie V↑ve↓ Crotier",
+        "entities_json": {
+            "taxpayers": [
+                {
+                    "name": "Crotier",
+                    "firstnames": "marie",
+                    "activity": [],
+                    "address": [],
+                    "title": [],
+                    "familystatus": ["V↑ve↓"],
+                    "birthname": "Huard"
+                }
+            ]
+        }
+    },
+    {
+        "element_uuid": "def1de91-39d1-4bab-9b58-09bce6ff2596",
+        "transcription": "Durube alexandre",
+        "entities_json": {
+            "taxpayers": [
+                {
+                    "name": "Durube",
+                    "firstnames": "alexandre",
+                    "activity": [],
+                    "address": [],
+                    "title": [],
+                    "familystatus": [],
+                    "birthname": ""
+                }
+            ]
+        }
+    },
+    {
+        "element_uuid": "c42c146f-d15a-43c3-8e55-8d16c3b2d235",
+        "transcription": "picard georges",
+        "entities_json": {
+            "taxpayers": [
+                {
+                    "name": "picard",
+                    "firstnames": "georges",
+                    "activity": [],
+                    "address": [],
+                    "title": [],
+                    "familystatus": [],
+                    "birthname": ""
+                }
+            ]
+        }
+    },
+    {
+        "element_uuid": "4703e6e0-7fdc-4e55-aa48-428989d9d670",
+        "transcription": "Boulogne antoine",
+        "entities_json": {
+            "taxpayers": [
+                {
+                    "name": "Boulogne",
+                    "firstnames": "antoine",
+                    "activity": [],
+                    "address": [],
+                    "title": [],
+                    "familystatus": [],
+                    "birthname": ""
+                }
+            ]
+        }
+    },
+    {
+        "element_uuid": "ff06569a-cede-483a-a5e4-0501179e8f8f",
+        "transcription": "Berrois Jn b↑te↓",
+        "entities_json": {
+            "taxpayers": [
+                {
+                    "name": "Berrois",
+                    "firstnames": "Jn b↑te↓",
+                    "activity": [],
+                    "address": [],
+                    "title": [],
+                    "familystatus": [],
+                    "birthname": ""
+                }
+            ]
+        }
+    },
+    {
+        "element_uuid": "3512c693-3249-4e18-a5be-43a7628c28a8",
+        "transcription": "Charlier jean louis v↑ve↓",
+        "entities_json": {
+            "taxpayers": [
+                {
+                    "name": "Charlier",
+                    "firstnames": "jean louis",
+                    "activity": [],
+                    "address": [],
+                    "title": [],
+                    "familystatus": [
+                        "v↑ve↓"
+                    ],
+                    "birthname": ""
+                }
+            ]
+        }
+    },
+    {
+        "element_uuid": "81d28252-c1ae-4a94-af7d-e90df1ef4b8e",
+        "transcription": "Chandenier p↑re↓",
+        "entities_json": {
+            "taxpayers": [
+                {
+                    "name": "Chandenier",
+                    "firstnames": "p↑re↓",
+                    "activity": [],
+                    "address": [],
+                    "title": [],
+                    "familystatus": [],
+                    "birthname": ""
+                }
+            ]
+        }
+    },
+    {
+        "element_uuid": "e7191cc1-0a66-4d0d-855c-abbf91ed7d30",
+        "transcription": "Rivière andre louis→et emile victor",
+        "entities_json": {
+            "taxpayers": [
+                {
+                    "name": "Rivière",
+                    "firstnames": "andre louis",
+                    "activity": [],
+                    "address": [],
+                    "title": [],
+                    "familystatus": [],
+                    "birthname": ""
+                },
+                {
+                    "name": "Rivière",
+                    "firstnames": "emile victor",
+                    "activity": [],
+                    "address": [],
+                    "title": [],
+                    "familystatus": [],
+                    "birthname": ""
+                }
+            ]
+        }
+    },
+    {
+        "element_uuid": "36ca77ea-1006-4be6-8591-c997ea0cb123",
+        "transcription": "Varlet J↑ques↓",
+        "entities_json": {
+            "taxpayers": [
+                {
+                    "name": "Varlet",
+                    "firstnames": "J↑ques↓ ",
+                    "activity": [],
+                    "address": [],
+                    "title": [],
+                    "familystatus": [],
+                    "birthname": ""
+                }
+            ]
+        }
+    },
+    {
+        "element_uuid": "2946bca3-a76b-494a-9ca3-a2397c73c38c",
+        "transcription": "×Gaucher rené p↑re↓ la Veuve±→Rousseau",
+        "entities_json": {
+            "taxpayers": [
+                {
+                    "name": "Gaucher",
+                    "firstnames": "rené p↑re↓",
+                    "activity": [],
+                    "address": [],
+                    "title": [],
+                    "familystatus": ["la Veuve"],
+                    "birthname": ""
+                },
+                {
+                    "name": "Rousseau",
+                    "firstnames": "",
+                    "activity": [],
+                    "address": [],
+                    "title": [],
+                    "familystatus": [],
+                    "birthname": ""
+                }
+            ]
+        }
+    },
+    {
+        "element_uuid": "8b81fd3b-595e-44ba-8a2d-c4e9058ed00f",
+        "transcription": "Metivier Louis P↑re↓",
+        "entities_json": {
+            "taxpayers": [
+                {
+                    "name": "Metivier",
+                    "firstnames": "Louis P↑re↓",
+                    "activity": [],
+                    "address": [],
+                    "title": [],
+                    "familystatus": [],
+                    "birthname": ""
+                }
+            ]
+        }
+    }
+]

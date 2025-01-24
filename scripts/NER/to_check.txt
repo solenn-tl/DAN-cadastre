@@ -1,0 +1,33 @@
+element_uuid
+70077028-5522-4f46-abb4-6b50bd98d1e7
+393182d2-3a33-489e-99f6-a756c8b9aeab
+4b741aad-2694-45b9-afb8-ff3ef39d99b4
+7330bd9e-1820-4826-a070-6f1fc6168d99
+0b5b8658-fedf-4cd7-a1c5-9f1a4de33b53
+4caedc9d-8f61-4aef-b21d-68fdcea8d431
+85271dbc-9226-4d2f-8a42-d98eb0a425b6
+c4beb8fa-db04-4bf2-9c98-b541deee253d
+d4208d4c-1c0b-4e8c-ba13-8c91a2d549a4
+5d4b24b2-7c6c-4d1b-bbcc-6cafe2578523
+5dc769f1-e7f8-4f42-9f2e-92a0820b4f6b
+4f10a982-e357-415b-95c2-654e4595df94 => plusieurs prénoms
+
+Propriétaires spéicaux
+- voie publique
+- néant
+- nul
+- et consorts
+- en indivis
+- commune de 
+- l'état
+- Domaine de la→Couronne
+- Assistance publique
+- les hospices (lesquels)
+
+Beaucoup de relations entre les entités dans les descriptions de propriétaires
+
+Doubles spans
+0debb555-b32d-449d-8251-12aba45541d4
+f9d138d5-fc5a-4508-bc03-74e2d3441079
+
+Ligne 24430

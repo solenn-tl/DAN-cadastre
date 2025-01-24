@@ -1,0 +1,10 @@
+config
+datasets
+evaluate
+spacy
+transformers
+transformers[torch]
+sentence-transformers
+seqeval
+rdflib
+ollama

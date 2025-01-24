@@ -46,7 +46,7 @@
 * Lancer tensorboard ```tensorboard --logdir output --bind_all``` dans le dossier où sont contenus les résultats du modèle (ex: ```outputs/train_110324```)
 
 ## Questions
-- Lignes ou pages pour la création dataset : https://doc.callico.eu/campaigns/export/arkindex/#also-export-entities-on-a-parent-extra-field-for-entity-form-campaigns
+- Lignes ou pages pour la création dataset : ```https://doc.callico.eu/campaigns/export/arkindex/#also-export-entities-on-a-parent-extra-field-for-entity-form-campaigns```
 - Taille du vocabulaire 
 
 ## Attention
